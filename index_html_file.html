@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boston.com Speed Read</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .header h1 {
+            color: #2c3e50;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .header p {
+            color: #7f8c8d;
+            font-size: 1.1em;
+        }
+
+        .last-updated {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+            padding: 10px;
+            background: rgba(127, 140, 141, 0.1);
+            border-radius: 10px;
+        }
+
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .news-item {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            border-left: 5px solid #3498db;
+        }
+
+        .news-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+        }
+
+        .news-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+
+        .news-summary {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .news-summary ul {
+            padding-left: 20px;
+            margin: 10px 0;
+        }
+
+        .news-summary li {
+            margin-bottom: 8px;
+            position: relative;
+        }
+
+        .news-summary li::marker {
+            color: #3498db;
+        }
+
+        .news-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .news-date {
+            font-size: 0.9em;
+            color: #7f8c8d;
+            background: #ecf0f1;
+            padding: 4px 12px;
+            border-radius: 15px;
+        }
+
+        .read-more {
+            background: linear-gradient(45deg, #e74c3c, #c0392b);
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            display: inline-block;
+            box-shadow: 0 4px 15px rgba(231, 76, 60, 0.3);
+        }
+
+        .read-more:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+            text-decoration: none;
+            color: white;
+        }
+
+        .error {
+            background: #e74c3c;
+            color: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .info-box {
+            background: #e8f4fd;
+            border: 1px solid #bee5eb;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+            color: #0c5460;
+        }
+
+        .info-box h3 {
+            margin-bottom: 10px;
+            color: #0c5460;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+            font-size: 1.1em;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .container {
+                padding: 20px;
+                margin: 10px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>⚡ Boston.com Speed Read</h1>
+            <p>AI-powered quick summaries of the latest Boston news</p>
+        </div>
+        
+        <div class="last-updated" id="lastUpdated">
+            🕒 Loading news summaries...
+        </div>
+        
+        <div id="content">
+            <div class="loading">
+                <div class="spinner"></div>
+                Loading AI-generated news summaries...
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadNews() {
+            try {
+                const response = await fetch('./news-data.json');
+                if (!response.ok) {
+                    throw new Error('Failed to fetch news data');
+                }
+                
+                const data = await response.json();
+                displayNews(data);
+                
+            } catch (error) {
+                document.getElementById('content').innerHTML = `
+                    <div class="error">
+                        ⚠️ Error loading news: ${error.message}
+                        <br><br>
+                        The GitHub Action may still be running to generate fresh summaries.
+                        Try refreshing in a few minutes.
+                    </div>
+                `;
+            }
+        }
+
+        function displayNews(data) {
+            const { articles, lastUpdated } = data;
+            
+            // Update last updated timestamp
+            const lastUpdatedEl = document.getElementById('lastUpdated');
+            lastUpdatedEl.innerHTML = `🕒 Last updated: ${new Date(lastUpdated).toLocaleString()}`;
+            
+            // Display articles
+            const newsHtml = articles.map(article => `
+                <div class="news-item">
+                    <h2 class="news-title">${article.title}</h2>
+                    <div class="news-meta">
+                        <span class="news-date">📅 ${formatDate(article.pubDate)}</span>
+                    </div>
+                    <div class="news-summary">
+                        <ul>
+                            ${article.summary.map(point => `<li>${point}</li>`).join('')}
+                        </ul>
+                    </div>
+                    <a href="${article.link}" target="_blank" class="read-more">
+                        📖 Read Full Story
+                    </a>
+                </div>
+            `).join('');
+
+            document.getElementById('content').innerHTML = `<div class="news-grid">${newsHtml}</div>`;
+        }
+
+        function formatDate(dateString) {
+            if (!dateString) return 'Recently';
+            
+            try {
+                const date = new Date(dateString);
+                const now = new Date();
+                const diffHours = Math.floor((now - date) / (1000 * 60 * 60));
+                
+                if (diffHours < 1) return 'Just now';
+                if (diffHours < 24) return `${diffHours}h ago`;
+                if (diffHours < 48) return 'Yesterday';
+                
+                return date.toLocaleDateString('en-US', { 
+                    month: 'short', 
+                    day: 'numeric',
+                    year: date.getFullYear() !== now.getFullYear() ? 'numeric' : undefined
+                });
+            } catch (e) {
+                return 'Recently';
+            }
+        }
+
+        // Load news when page loads
+        document.addEventListener('DOMContentLoaded', loadNews);
+        
+        // Auto-refresh every 5 minutes to check for updates
+        setInterval(loadNews, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
