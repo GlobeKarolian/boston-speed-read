@@ -141,14 +141,21 @@ Return ONLY a JSON array of 3 strings."""
     title = article['title'][:70]
     desc_sentences = article['description'].split('. ')
     
+    # More varied fallback third bullets
+    varied_curiosity = [
+        f"Local officials haven't explained the timing of this decision",
+        f"The connection to last year's similar incident remains unclear",
+        f"This marks the third such event in Boston this month",
+        f"City councilors are divided on what happens next",
+        f"The financial impact could reach millions according to early estimates",
+        f"Residents noticed something different about this particular case",
+        f"The decision contradicts earlier statements from city officials"
+    ]
+    
     summary = [
         f"Breaking: {title}",
         desc_sentences[0][:80] if desc_sentences else "Story developing with new details",
-        random.choice([
-            "The surprising reason behind this story will shock Boston residents",
-            "What happens next could change everything for the community",
-            "Unexpected details emerge that nobody saw coming"
-        ])
+        random.choice(varied_curiosity)
     ]
     
     return summary
