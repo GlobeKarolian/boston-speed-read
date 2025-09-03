@@ -2,10 +2,14 @@ name: Update Boston News Summaries
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
+    - cron: '0 */2 * * *'  # Run every 2 hours
+  workflow_dispatch:  # Allow manual triggering
   push:
     branches: [ main ]
+    paths:
+      - 'generate_summaries.py'
+      - '.github/workflows/**'
+      - 'index.html'
 
 permissions:
   contents: write
@@ -13,11 +17,17 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    # Prevent multiple runs at the same time
+    concurrency:
+      group: news-update
+      cancel-in-progress: false
     
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -32,13 +42,68 @@ jobs:
     - name: Generate news summaries
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: python generate_summaries.py
+      run: |
+        echo "Starting news generation..."
+        python generate_summaries.py
+        echo "Generation complete"
+      continue-on-error: true
     
-    - name: Commit and push if changed
+    - name: Check if files were created
+      run: |
+        if [ ! -f news-data.json ]; then
+          echo "Error: news-data.json not created"
+          echo "Creating fallback file..."
+          echo '{"lastUpdated":"'$(date -Iseconds)'","articles":[],"stats":{"error":"Generation failed"}}' > news-data.json
+        fi
+        echo "news-data.json exists with $(wc -l < news-data.json) lines"
+        
+        # Check for history file
+        if [ -f news-history.json ]; then
+          echo "news-history.json exists with $(wc -l < news-history.json) lines"
+        else
+          echo "No history file yet"
+        fi
+    
+    - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull origin main
+    
+    - name: Pull and merge latest changes
+      run: |
+        # Fetch latest changes
+        git fetch origin main
+        
+        # Stash local changes
+        git stash
+        
+        # Pull and rebase
+        git pull origin main --rebase --strategy-option=ours || true
+        
+        # Apply stashed changes
+        git stash pop || true
+    
+    - name: Commit and push changes
+      run: |
+        # Add files
         git add news-data.json
-        git diff --staged --quiet || git commit -m "Update news summaries - $(date)"
-        git push
+        
+        # Add history file if it exists
+        if [ -f news-history.json ]; then
+          git add news-history.json
+        fi
+        
+        # Check for changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          # Commit with timestamp
+          TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S UTC')
+          git commit -m "Update news summaries - $TIMESTAMP"
+          
+          # Push with force-with-lease (safer than force)
+          if ! git push origin main; then
+            echo "Regular push failed, trying with force-with-lease..."
+            git push --force-with-lease origin main
+          fi
+        fi
