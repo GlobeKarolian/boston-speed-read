@@ -189,6 +189,8 @@ DO NOT use generic curiosity gaps. Make them specific to the actual article cont
 
 def generate_fallback_summary(article: Dict) -> List[str]:
     """Generate better fallback summaries with curiosity gap when AI fails"""
+    import random  # Import at function level if not imported globally
+    
     title = article['title']
     content = article['content'] if article['content'] else article['description']
     
@@ -219,7 +221,6 @@ def generate_fallback_summary(article: Dict) -> List[str]:
         "Local officials reveal the one thing nobody saw coming",
         "The real story involves a twist that even surprised investigators"
     ]
-    import random
     summary.append(random.choice(curiosity_gaps))
     
     return summary
