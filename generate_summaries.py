@@ -5,12 +5,12 @@ import time
 import re
 from datetime import datetime
 import feedparser
-import openai
+from openai import OpenAI
 import requests
 from typing import List, Dict
 
-# Initialize OpenAI client
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Initialize OpenAI client with the new v1+ syntax
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 def fetch_rss_feed(url: str) -> List[Dict]:
     """Fetch and parse RSS feed"""
@@ -55,7 +55,7 @@ Instructions:
 - Do not include any markdown or HTML formatting"""
 
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "user", "content": prompt}
