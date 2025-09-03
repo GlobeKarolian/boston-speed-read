@@ -1,14 +1,15 @@
 {
-  "lastUpdated": "2025-09-03T07:01:53.662722",
+  "lastUpdated": "2025-09-03T07:05:12.845808",
   "articles": [
     {
       "title": "On a night described as a ‘gut punch,’ resilient Red Sox keep on fighting",
       "link": "https://www.boston.com/sports/boston-red-sox/2025/09/02/on-a-night-described-as-a-gut-punch-resilient-red-sox-keep-on-fighting/",
       "pubDate": "Tue, 02 Sep 2025 23:41:46 -0400",
       "summary": [
-        "Unable to generate AI summary for this article",
-        "Please click 'Read Full Story' for complete details",
-        "Summary generation will be retried on next update"
+        "Boston news story: On a night described as a ‘gut punch,’ resilient Red Sox kee...",
+        "AI summary generation temporarily unavailable due to connectivity issues",
+        "Click 'Read Full Story' below for complete article details",
+        "Summary generation will be retried on next scheduled update"
       ]
     },
     {
@@ -16,9 +17,10 @@
       "link": "https://www.boston.com/news/local-news/2025/09/02/cannabis-commission-head-was-wrongly-terminated-judge-says/",
       "pubDate": "Tue, 02 Sep 2025 23:06:03 -0400",
       "summary": [
-        "Unable to generate AI summary for this article",
-        "Please click 'Read Full Story' for complete details",
-        "Summary generation will be retried on next update"
+        "Boston news story: Cannabis Commission head was wrongly terminated, judge says",
+        "AI summary generation temporarily unavailable due to connectivity issues",
+        "Click 'Read Full Story' below for complete article details",
+        "Summary generation will be retried on next scheduled update"
       ]
     },
     {
@@ -26,9 +28,10 @@
       "link": "https://www.boston.com/sports/boston-red-sox/2025/09/02/garrett-crochet-red-sox-mlb-cleveland-guardians-home-runs-baseball/",
       "pubDate": "Tue, 02 Sep 2025 22:56:50 -0400",
       "summary": [
-        "Unable to generate AI summary for this article",
-        "Please click 'Read Full Story' for complete details",
-        "Summary generation will be retried on next update"
+        "Boston news story: What Red Sox ace Garrett Crochet said after a disastrous out...",
+        "AI summary generation temporarily unavailable due to connectivity issues",
+        "Click 'Read Full Story' below for complete article details",
+        "Summary generation will be retried on next scheduled update"
       ]
     },
     {
@@ -36,9 +39,10 @@
       "link": "https://www.boston.com/sports/boston-celtics/2025/09/02/boston-celtics-depth-roster-kristaps-porzingis-calls-out-neemias-queta/",
       "pubDate": "Tue, 02 Sep 2025 22:36:05 -0400",
       "summary": [
-        "Unable to generate AI summary for this article",
-        "Please click 'Read Full Story' for complete details",
-        "Summary generation will be retried on next update"
+        "Boston news story: Kristaps Porzingis doesn’t mince words about Celtics’ poor c...",
+        "AI summary generation temporarily unavailable due to connectivity issues",
+        "Click 'Read Full Story' below for complete article details",
+        "Summary generation will be retried on next scheduled update"
       ]
     },
     {
@@ -46,9 +50,10 @@
       "link": "https://www.boston.com/news/business/2025/09/02/these-are-the-claires-stores-closing-in-mass/",
       "pubDate": "Tue, 02 Sep 2025 22:27:00 -0400",
       "summary": [
-        "Unable to generate AI summary for this article",
-        "Please click 'Read Full Story' for complete details",
-        "Summary generation will be retried on next update"
+        "Boston news story: These are the Claire&#8217;s stores closing in Mass.",
+        "AI summary generation temporarily unavailable due to connectivity issues",
+        "Click 'Read Full Story' below for complete article details",
+        "Summary generation will be retried on next scheduled update"
       ]
     },
     {
@@ -56,10 +61,16 @@
       "link": "https://www.boston.com/news/local-news/2025/09/02/succession-actor-nicholas-braun-arrested-charged-with-dui-in-new-hampshire/",
       "pubDate": "Tue, 02 Sep 2025 20:46:10 -0400",
       "summary": [
-        "Unable to generate AI summary for this article",
-        "Please click 'Read Full Story' for complete details",
-        "Summary generation will be retried on next update"
+        "Boston news story: ‘Succession’ actor Nicholas Braun arrested, charged with DUI...",
+        "AI summary generation temporarily unavailable due to connectivity issues",
+        "Click 'Read Full Story' below for complete article details",
+        "Summary generation will be retried on next scheduled update"
       ]
     }
-  ]
+  ],
+  "stats": {
+    "total_articles": 6,
+    "successful_summaries": 0,
+    "generation_time": "2025-09-03T07:05:12.845820"
+  }
 }
