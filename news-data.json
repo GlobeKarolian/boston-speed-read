@@ -1,24 +1,44 @@
 {
-  "lastUpdated": "2025-09-03T14:38:31.180389",
+  "lastUpdated": "2025-09-03T15:50:07.272855",
   "articles": [
+    {
+      "title": "Rafael Devers home run led to benches-clearing brawl between Giants and Rockies",
+      "link": "https://www.boston.com/sports/morning-sports-update/2025/09/03/rafael-devers-home-run-led-to-benches-clearing-brawl-between-giants-and-rockies/",
+      "pubDate": "Wed, 03 Sep 2025 11:20:23 -0400",
+      "summary": [
+        "Rafael Devers' home run sparks benches-clearing brawl between Giants and Rockies, drawing attention to sportsmanship in MLB",
+        "Devers hits .464 with 5 recent home runs, igniting Rockies pitcher Kyle Freeland's anger during Tuesday's game",
+        "Incident highlights tensions in MLB, emphasizing the importance of respect and etiquette in professional sports"
+      ]
+    },
+    {
+      "title": "Review &#038; setlist: Young crowd was head over heels for stunt-filled Benson Boone show at TD Garden",
+      "link": "https://www.boston.com/culture/concert-reviews/2025/09/03/review-setlist-benson-boone-at-td-garden-boston-sept-2-2025/",
+      "pubDate": "Wed, 03 Sep 2025 10:28:58 -0400",
+      "summary": [
+        "Benson Boone's high-energy show at TD Garden wows young Boston crowd, showcasing his viral fame and stunt-filled performance",
+        "Boone's American Heart Tour for sophomore album sold out in 9 seconds, with electrified fans and 7 backflips during the night",
+        "Boston's youth captivated by Boone's performance, likely paving the way for more Gen Alpha heartthrobs to grace the city's stages"
+      ]
+    },
     {
       "title": "5 new cast members join &#8216;SNL&#8217; after high-profile departures",
       "link": "https://www.boston.com/culture/tv/2025/09/03/snl-new-cast-members/",
       "pubDate": "Wed, 03 Sep 2025 10:18:09 -0400",
       "summary": [
-        "5 new cast members join 'SNL' after high-profile departures",
-        "Ben Marshall transitions from 'SNL' writer to featured player",
-        "Newcomers Tommy Brennan, Jeremy Culhane, Kam Patterson, and Veronika Slowikowska also join the cast"
+        "5 new cast members join 'SNL' amid high-profile exits, injecting fresh talent into the upcoming season",
+        "Ben Marshall transitions from writer to featured player, joined by Tommy Brennan, Jeremy Culhane, Kam Patterson, and Veronika Slowikowska",
+        "Boston viewers can anticipate a revamped 'SNL' season with new faces and potential changes in the iconic show's dynamics"
       ]
     },
     {
-      "title": "\u2018Star Trek\u2019-inspired Connecticut home is listed\u00a0for $1.4 million",
+      "title": "‘Star Trek’-inspired Connecticut home is listed for $1.4 million",
       "link": "https://www.boston.com/real-estate/home-buying/2025/09/03/star-trek-home-listed/",
       "pubDate": "Wed, 03 Sep 2025 09:03:36 -0400",
       "summary": [
-        "Star Trek-themed Connecticut home listed for $1.4 million",
-        "Listing agent mentions need for a special buyer",
-        "Featured on Boston.com"
+        "Connecticut 'Star Trek' home, Starcastle, listed for $1.4 million, offers unique futuristic design and history for real estate enthusiasts in New Fairfield",
+        "Built in 1985 by owner Ed Roman and architect Roy Mason, the 5,036 sq ft home features spaceship-like domes and a starburst front door",
+        "Potential trend in unique home designs may inspire Boston residents to explore unconventional real estate options in the region"
       ]
     },
     {
@@ -26,14 +46,26 @@
       "link": "https://www.boston.com/real-estate/real-estate-news/2025/09/03/recent-homes-sales-in-greater-boston-sept-3/",
       "pubDate": "Wed, 03 Sep 2025 05:00:00 -0400",
       "summary": [
-        "ABINGTON: One-family Colonial home at 332 Hancock St. sold for $416,000.",
-        "ABINGTON: Another One-family Colonial home at 332 Hancock St. sold for $340,000.",
-        "ACTON: Information on home sales in Acton is missing from the provided summary."
+        "Greater Boston sees varied home sales in September, with Acton properties averaging over $1M, impacting local real estate market",
+        "Key sales include 6 Candida Lane Colonial for $1,175,000 and 4 Wadsworth St. Colonial in Allston for $1,130,000",
+        "High prices in Acton reflect demand for larger homes, while Allston's sales show interest in historic properties despite smaller lot sizes"
+      ]
+    },
+    {
+      "title": "On a night described as a ‘gut punch,’ resilient Red Sox keep on fighting",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/02/on-a-night-described-as-a-gut-punch-resilient-red-sox-keep-on-fighting/",
+      "pubDate": "Tue, 02 Sep 2025 23:41:46 -0400",
+      "summary": [
+        "Red Sox pull off a dramatic 11-7 win despite setbacks, including a key player's potential injury, keeping their winning streak alive",
+        "Rookie Roman Anthony may face injured list after oblique injury; ace Garrett Crochet falters in the sixth inning with 3 home runs",
+        "Boston fans await updates on Roman Anthony's condition and hope for a quick recovery, while the team adjusts to potential lineup changes"
       ]
     }
   ],
   "stats": {
-    "total": 3,
-    "api_working": true
+    "total_articles": 6,
+    "ai_summaries": 6,
+    "fallback_summaries": 0,
+    "success_rate": "100.0%"
   }
 }
