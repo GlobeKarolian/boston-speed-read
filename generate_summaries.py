@@ -7,96 +7,111 @@ from datetime import datetime
 import feedparser
 from openai import OpenAI
 import requests
-from typing import List, Dict, Optional
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from typing import List, Dict
 
-def validate_api_key():
-    """Validate that the OpenAI API key is set and appears valid"""
+def test_connectivity():
+    """Test basic internet connectivity"""
+    print("\nTesting connectivity...")
+    
+    # Test 1: Can we reach common sites?
+    test_urls = [
+        ("Google", "https://www.google.com"),
+        ("OpenAI", "https://api.openai.com"),
+        ("Boston.com", "https://www.boston.com")
+    ]
+    
+    for name, url in test_urls:
+        try:
+            response = requests.get(url, timeout=5)
+            print(f"✓ {name}: Reachable (Status: {response.status_code})")
+        except Exception as e:
+            print(f"✗ {name}: Failed - {str(e)[:50]}")
+    
+    # Test 2: Check API key
     api_key = os.getenv('OPENAI_API_KEY')
-    
     if not api_key:
-        print("ERROR: OPENAI_API_KEY environment variable not set")
-        print("Please set your OpenAI API key in GitHub Secrets")
-        return None
-    
-    if not api_key.startswith('sk-'):
-        print("WARNING: API key doesn't start with 'sk-', it might be invalid")
-    
-    print(f"API key found: sk-...{api_key[-4:]}")
-    return api_key
+        print("✗ API Key: NOT FOUND in environment")
+        return False
+    else:
+        # Mask the key for security
+        masked = f"{api_key[:7]}...{api_key[-4:]}" if len(api_key) > 11 else "INVALID"
+        print(f"✓ API Key: Found ({masked})")
+        
+        # Check format
+        if not api_key.startswith('sk-'):
+            print("  ⚠ Warning: Key doesn't start with 'sk-'")
+        
+        return True
 
-def test_openai_connection(client):
-    """Test if we can connect to OpenAI API"""
-    print("\nTesting OpenAI API connection...")
+def test_openai_api():
+    """Test OpenAI API with minimal request"""
+    print("\nTesting OpenAI API...")
+    
+    api_key = os.getenv('OPENAI_API_KEY')
+    if not api_key:
+        print("✗ Cannot test - no API key")
+        return False
+    
     try:
+        # Test with a simple completion
+        client = OpenAI(api_key=api_key, timeout=10.0)
+        
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": "Say 'test successful'"}],
-            max_tokens=10,
-            timeout=10
+            messages=[{"role": "user", "content": "Reply with just 'OK'"}],
+            max_tokens=5
         )
-        print("✓ OpenAI API connection successful")
+        
+        print(f"✓ OpenAI API working! Response: {response.choices[0].message.content}")
         return True
+        
     except Exception as e:
-        print(f"✗ OpenAI API connection failed: {str(e)}")
-        if "401" in str(e):
-            print("  → Authentication failed. Check your API key.")
-        elif "429" in str(e):
-            print("  → Rate limit exceeded. Wait a moment and try again.")
-        elif "timeout" in str(e):
-            print("  → Connection timeout. OpenAI might be experiencing issues.")
+        error_str = str(e)
+        print(f"✗ OpenAI API failed: {error_str[:200]}")
+        
+        # Provide specific guidance based on error
+        if "401" in error_str or "Incorrect API key" in error_str:
+            print("\n  → Fix: Your API key is invalid. Please check:")
+            print("     1. The key is correctly copied (no extra spaces)")
+            print("     2. The key hasn't been revoked")
+            print("     3. Generate a new key at https://platform.openai.com/api-keys")
+        elif "429" in error_str:
+            print("\n  → Fix: Rate limit exceeded. Wait a few minutes or check your OpenAI usage.")
+        elif "Connection" in error_str or "timeout" in error_str:
+            print("\n  → Fix: Network issue. OpenAI might be down or GitHub Actions might be blocked.")
+            print("     Consider using a different approach or proxy.")
+        elif "insufficient_quota" in error_str:
+            print("\n  → Fix: Your OpenAI account has no credits. Add billing at https://platform.openai.com/account/billing")
+        
         return False
 
-def create_session_with_retries():
-    """Create a requests session with retry logic"""
-    session = requests.Session()
-    retry_strategy = Retry(
-        total=3,
-        backoff_factor=1,
-        status_forcelist=[429, 500, 502, 503, 504],
-    )
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
-    return session
-
 def fetch_rss_feed(url: str) -> List[Dict]:
-    """Fetch and parse RSS feed with retry logic"""
+    """Fetch and parse RSS feed"""
     print(f"\nFetching RSS feed from {url}")
     
-    session = create_session_with_retries()
-    
-    for attempt in range(3):
+    try:
+        # Try direct request first
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        feed = feedparser.parse(response.text)
+    except Exception as e:
+        print(f"  Direct fetch failed: {e}, trying feedparser...")
         try:
-            response = session.get(url, timeout=30)
-            response.raise_for_status()
-            feed = feedparser.parse(response.text)
-            break
-        except Exception as e:
-            print(f"  Attempt {attempt + 1}/3 failed to fetch RSS: {e}")
-            if attempt == 2:
-                # Fallback to feedparser direct parsing
-                try:
-                    feed = feedparser.parse(url)
-                except Exception as fe:
-                    print(f"  Direct feedparser also failed: {fe}")
-                    return []
-            else:
-                time.sleep(2 ** attempt)
+            feed = feedparser.parse(url)
+        except Exception as e2:
+            print(f"  Feedparser also failed: {e2}")
+            return []
     
     articles = []
-    for entry in feed.entries[:6]:  # Get top 6 articles
-        # Clean description text
+    for entry in feed.entries[:3]:  # Just get 3 for testing
         description = entry.get('description', entry.get('summary', ''))
-        # Remove HTML tags more thoroughly
         clean_description = re.sub(r'<[^>]+>', '', description)
         clean_description = re.sub(r'\s+', ' ', clean_description).strip()
         
         article = {
             'title': entry.get('title', 'No title'),
             'link': entry.get('link', ''),
-            'description': clean_description[:1000],  # Limit description length
+            'description': clean_description[:500],
             'pubDate': entry.get('published', entry.get('pubDate', '')),
         }
         articles.append(article)
@@ -104,229 +119,122 @@ def fetch_rss_feed(url: str) -> List[Dict]:
     print(f"✓ Found {len(articles)} articles")
     return articles
 
-def generate_summary(client: OpenAI, article: Dict, attempt_num: int = 1) -> List[str]:
-    """Generate AI summary for an article with retry logic"""
-    print(f"\n→ Generating summary for: {article['title'][:60]}...")
+def generate_summary_with_fallback(client: OpenAI, article: Dict) -> List[str]:
+    """Try to generate summary with detailed error reporting"""
+    print(f"\nGenerating summary for: {article['title'][:60]}...")
     
-    # More concise prompt for better results
-    prompt = f"""Create 3-4 bullet point summary of this Boston news:
-
-Title: {article['title']}
-Content: {article['description'][:600]}
-
-Return ONLY a JSON array of 3-4 bullet point strings, each under 25 words.
-Example: ["First key point here", "Second key point here", "Third key point here"]"""
-
-    # Try up to 3 times with exponential backoff
-    max_attempts = 3
-    for attempt in range(max_attempts):
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "Create 3 bullet points, return as JSON array."},
+                {"role": "user", "content": f"Summarize: {article['title']}. {article['description'][:300]}"}
+            ],
+            max_tokens=150,
+            temperature=0.7,
+            timeout=15
+        )
+        
+        content = response.choices[0].message.content
+        print(f"  Got response: {content[:100]}...")
+        
+        # Try to parse JSON
         try:
-            print(f"  API call attempt {attempt + 1}/{max_attempts}")
+            points = json.loads(content)
+            if isinstance(points, list):
+                return points[:3]
+        except:
+            pass
+        
+        # Extract any bullet points
+        lines = [l.strip() for l in content.split('\n') if l.strip()]
+        if lines:
+            return lines[:3]
             
-            response = client.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": "You are a news summarizer. Return only valid JSON arrays."},
-                    {"role": "user", "content": prompt}
-                ],
-                max_tokens=250,
-                temperature=0.5,  # Lower temperature for more consistent output
-                timeout=20
-            )
-            
-            summary_text = response.choices[0].message.content.strip()
-            
-            # Clean up common JSON formatting issues
-            summary_text = summary_text.replace('```json', '').replace('```', '').strip()
-            
-            # Try to parse as JSON
-            try:
-                summary_points = json.loads(summary_text)
-                if isinstance(summary_points, list) and len(summary_points) >= 2:
-                    print(f"  ✓ Generated {len(summary_points)} bullet points")
-                    return summary_points[:4]  # Max 4 points
-            except json.JSONDecodeError as je:
-                print(f"  JSON parse error: {je}")
-                # Try to extract bullet points from text
-                lines = re.findall(r'"([^"]+)"', summary_text)
-                if lines and len(lines) >= 2:
-                    print(f"  ✓ Extracted {len(lines)} points from malformed JSON")
-                    return lines[:4]
-            
-            # If we got here, the response wasn't usable
-            print(f"  Invalid response format: {summary_text[:100]}...")
-            
-        except Exception as e:
-            print(f"  ✗ Attempt {attempt + 1}/{max_attempts} failed: {str(e)[:100]}")
-            if "rate_limit" in str(e).lower():
-                sleep_time = 10 * (attempt + 1)  # Longer wait for rate limits
-                print(f"  Rate limited, waiting {sleep_time} seconds...")
-                time.sleep(sleep_time)
-            elif attempt < max_attempts - 1:
-                sleep_time = 2 ** attempt
-                print(f"  Waiting {sleep_time} seconds before retry...")
-                time.sleep(sleep_time)
+    except Exception as e:
+        print(f"  Error: {str(e)[:100]}")
     
-    # Fallback summary with more information
-    print("  ⚠ Using fallback summary")
-    title_preview = article['title'][:60]
-    if len(article['title']) > 60:
-        title_preview += "..."
-    
+    # Fallback
     return [
-        f"Breaking: {title_preview}",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
+        f"Latest: {article['title'][:70]}",
+        "Summary pending - check back soon",
+        "Read full story below"
     ]
 
 def main():
     print("=" * 60)
-    print("Boston News Summarizer - Starting")
+    print("Boston News Summarizer - DEBUG MODE")
     print("=" * 60)
     
-    # Validate API key
-    api_key = validate_api_key()
-    if not api_key:
-        # Create minimal output file so the website still works
-        fallback_data = {
+    # Run connectivity tests
+    if not test_connectivity():
+        print("\n❌ Connectivity issues detected!")
+    
+    # Test OpenAI specifically
+    api_works = test_openai_api()
+    
+    if not api_works:
+        print("\n❌ OpenAI API is not working. Creating fallback content...")
+        
+    # Fetch articles regardless
+    articles = fetch_rss_feed("https://www.boston.com/feed/bdc-msn-rss")
+    
+    if not articles:
+        print("\n❌ No articles fetched")
+        output = {
             'lastUpdated': datetime.now().isoformat(),
             'articles': [],
-            'stats': {
-                'total_articles': 0,
-                'successful_summaries': 0,
-                'generation_time': datetime.now().isoformat(),
-                'error': 'API key not configured'
-            }
+            'stats': {'error': 'No articles fetched'}
         }
-        with open('news-data.json', 'w', encoding='utf-8') as f:
-            json.dump(fallback_data, f, indent=2)
-        print("\nCreated fallback news-data.json file")
-        exit(1)
-    
-    # Initialize OpenAI client
-    try:
-        client = OpenAI(
-            api_key=api_key,
-            timeout=30.0
-        )
-    except Exception as e:
-        print(f"ERROR: Failed to initialize OpenAI client: {e}")
-        exit(1)
-    
-    # Test API connection
-    if not test_openai_connection(client):
-        print("\n⚠ WARNING: OpenAI API test failed, but continuing anyway...")
-    
-    # RSS feed URL
-    rss_url = "https://www.boston.com/feed/bdc-msn-rss"
-    
-    try:
-        # Fetch articles
-        articles = fetch_rss_feed(rss_url)
+    else:
+        # Process articles
+        processed = []
         
-        if not articles:
-            print("\nERROR: No articles found in RSS feed")
-            # Create output with error message
-            output_data = {
-                'lastUpdated': datetime.now().isoformat(),
-                'articles': [],
-                'stats': {
-                    'total_articles': 0,
-                    'successful_summaries': 0,
-                    'generation_time': datetime.now().isoformat(),
-                    'error': 'No articles in RSS feed'
-                }
-            }
-            with open('news-data.json', 'w', encoding='utf-8') as f:
-                json.dump(output_data, f, indent=2)
-            exit(1)
+        if api_works:
+            # Only try API if it's working
+            client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'), timeout=15.0)
+            
+            for article in articles:
+                summary = generate_summary_with_fallback(client, article)
+                processed.append({
+                    'title': article['title'],
+                    'link': article['link'],
+                    'pubDate': article['pubDate'],
+                    'summary': summary
+                })
+                time.sleep(1)  # Rate limiting
+        else:
+            # Use fallbacks for all
+            for article in articles:
+                processed.append({
+                    'title': article['title'],
+                    'link': article['link'],
+                    'pubDate': article['pubDate'],
+                    'summary': [
+                        f"Breaking: {article['title'][:70]}",
+                        "AI summaries temporarily unavailable",
+                        "Click for full story from Boston.com"
+                    ]
+                })
         
-        # Generate summaries
-        print(f"\n{'=' * 60}")
-        print(f"Processing {len(articles)} articles...")
-        print(f"{'=' * 60}")
-        
-        processed_articles = []
-        successful_summaries = 0
-        failed_summaries = 0
-        
-        for i, article in enumerate(articles):
-            print(f"\n[Article {i+1}/{len(articles)}]")
-            
-            summary = generate_summary(client, article, i + 1)
-            
-            # Check if this was a successful AI-generated summary
-            if not any("being processed" in point or "temporarily unavailable" in point for point in summary):
-                successful_summaries += 1
-            else:
-                failed_summaries += 1
-            
-            processed_article = {
-                'title': article['title'],
-                'link': article['link'],
-                'pubDate': article['pubDate'],
-                'summary': summary
-            }
-            
-            processed_articles.append(processed_article)
-            
-            # Rate limiting - wait between API calls
-            if i < len(articles) - 1 and successful_summaries > 0:
-                wait_time = 1.5  # Reduced wait time if things are working
-                print(f"  Waiting {wait_time}s before next article...")
-                time.sleep(wait_time)
-        
-        # Create output data
-        output_data = {
+        output = {
             'lastUpdated': datetime.now().isoformat(),
-            'articles': processed_articles,
+            'articles': processed,
             'stats': {
-                'total_articles': len(processed_articles),
-                'successful_summaries': successful_summaries,
-                'failed_summaries': failed_summaries,
-                'generation_time': datetime.now().isoformat(),
-                'success_rate': f"{(successful_summaries/len(processed_articles)*100):.1f}%" if processed_articles else "0%"
+                'total': len(processed),
+                'api_working': api_works
             }
         }
-        
-        # Write to JSON file
-        with open('news-data.json', 'w', encoding='utf-8') as f:
-            json.dump(output_data, f, indent=2, ensure_ascii=False)
-        
-        print(f"\n{'=' * 60}")
-        print(f"SUMMARY GENERATION COMPLETE")
-        print(f"{'=' * 60}")
-        print(f"✓ Total articles processed: {len(processed_articles)}")
-        print(f"✓ Successful AI summaries: {successful_summaries}")
-        print(f"✗ Fallback summaries: {failed_summaries}")
-        print(f"→ Success rate: {output_data['stats']['success_rate']}")
-        print(f"→ Output saved to: news-data.json")
-        print(f"{'=' * 60}\n")
-        
-        # Exit with error if all summaries failed (helps debug in GitHub Actions)
-        if successful_summaries == 0 and len(processed_articles) > 0:
-            print("WARNING: All AI summaries failed! Check your API key and quota.")
-            print("The website will still work with fallback summaries.")
-        
-    except Exception as e:
-        print(f"\nCRITICAL ERROR: {e}")
-        import traceback
-        traceback.print_exc()
-        
-        # Create minimal output so website doesn't break
-        emergency_data = {
-            'lastUpdated': datetime.now().isoformat(),
-            'articles': [],
-            'stats': {
-                'total_articles': 0,
-                'successful_summaries': 0,
-                'generation_time': datetime.now().isoformat(),
-                'error': str(e)
-            }
-        }
-        with open('news-data.json', 'w', encoding='utf-8') as f:
-            json.dump(emergency_data, f, indent=2)
-        exit(1)
+    
+    # Save output
+    with open('news-data.json', 'w') as f:
+        json.dump(output, f, indent=2)
+    
+    print(f"\n{'=' * 60}")
+    print(f"Output saved to news-data.json")
+    print(f"API Status: {'✓ Working' if api_works else '✗ Failed'}")
+    print(f"Articles: {len(output.get('articles', []))}")
+    print(f"{'=' * 60}")
 
 if __name__ == "__main__":
     main()
