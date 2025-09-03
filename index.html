@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boston.com Speed Read</title>
+    <title>Boston.com Speed Read - AI News Summaries</title>
     <style>
         * {
             margin: 0;
@@ -24,6 +24,9 @@
             padding: 20px 0;
             text-align: center;
             border-bottom: 3px solid #b91c1c;
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
 
         .header h1 {
@@ -55,14 +58,36 @@
             font-family: Arial, sans-serif;
         }
 
+        .stats {
+            text-align: center;
+            padding: 15px;
+            background: #fef3c7;
+            border-bottom: 2px solid #fbbf24;
+            font-family: Arial, sans-serif;
+            font-size: 0.9em;
+        }
+
         .news-list {
             background: white;
+            min-height: 100vh;
         }
 
         .news-item {
             border-bottom: 1px solid #e5e7eb;
             padding: 30px 0;
             transition: background-color 0.2s ease;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .news-item:hover {
@@ -126,7 +151,7 @@
         .news-summary li {
             margin-bottom: 8px;
             position: relative;
-            padding-left: 0;
+            padding-left: 20px;
         }
 
         .news-summary li:before {
@@ -134,7 +159,12 @@
             color: #dc2626;
             font-weight: bold;
             position: absolute;
-            left: -15px;
+            left: 0;
+        }
+
+        .news-summary li:last-child {
+            font-style: italic;
+            color: #666;
         }
 
         .read-more {
@@ -175,6 +205,12 @@
             font-family: Arial, sans-serif;
         }
 
+        .loading-more {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
         .spinner {
             border: 3px solid #f3f3f3;
             border-top: 3px solid #dc2626;
@@ -190,19 +226,60 @@
             100% { transform: rotate(360deg); }
         }
 
-        .news-excerpt {
-            color: #666;
-            font-size: 0.95em;
-            margin-bottom: 12px;
-            font-style: italic;
-            display: none;
-        }
-
         .category-sports { background: #1e40af; }
         .category-politics { background: #7c2d12; }
         .category-health { background: #059669; }
         .category-business { background: #dc2626; }
         .category-weather { background: #0891b2; }
+        .category-entertainment { background: #7c3aed; }
+        .category-tech { background: #ea580c; }
+
+        .date-separator {
+            background: #f3f4f6;
+            padding: 10px;
+            margin: 20px 0;
+            text-align: center;
+            font-weight: bold;
+            color: #4b5563;
+            font-family: Arial, sans-serif;
+            border-radius: 4px;
+        }
+
+        .scroll-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #dc2626;
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            opacity: 0;
+            transition: opacity 0.3s;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .scroll-to-top.visible {
+            opacity: 1;
+        }
+
+        .scroll-to-top:hover {
+            background: #b91c1c;
+        }
+
+        .end-message {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-style: italic;
+            background: #f9fafb;
+            margin-top: 20px;
+        }
 
         @media (max-width: 768px) {
             .container {
@@ -210,15 +287,15 @@
             }
             
             .header h1 {
-                font-size: 2em;
+                font-size: 1.8em;
             }
             
             .news-title {
-                font-size: 1.4em;
+                font-size: 1.3em;
             }
             
             .news-item {
-                padding: 25px 0;
+                padding: 20px 0;
             }
             
             .news-meta {
@@ -261,6 +338,12 @@
         Loading news summaries...
     </div>
     
+    <div class="stats" id="stats" style="display: none;">
+        <strong id="articleCount">0</strong> articles loaded | 
+        <strong id="aiCount">0</strong> AI summaries | 
+        Scroll for more
+    </div>
+    
     <div class="container">
         <div id="content">
             <div class="loading">
@@ -268,6 +351,19 @@
                 Loading AI-generated news summaries...
             </div>
         </div>
+        
+        <div id="loadingMore" class="loading-more" style="display: none;">
+            <div class="spinner"></div>
+            Loading more articles...
+        </div>
+        
+        <div id="endMessage" class="end-message" style="display: none;">
+            You've reached the end! Check back later for new stories.
+        </div>
+    </div>
+
+    <div class="scroll-to-top" id="scrollToTop" onclick="scrollToTop()">
+        ↑
     </div>
 
     <div class="footer">
@@ -279,15 +375,43 @@
     </div>
 
     <script>
+        let allArticles = [];
+        let displayedArticles = 0;
+        const articlesPerLoad = 10;
+        let isLoading = false;
+        let hasMoreArticles = true;
+        let lastDateSeparator = null;
+
         async function loadNews() {
             try {
+                // Load current news data
                 const response = await fetch('./news-data.json');
                 if (!response.ok) {
                     throw new Error('Failed to fetch news data');
                 }
                 
                 const data = await response.json();
-                displayNews(data);
+                
+                // Also try to load historical data if it exists
+                try {
+                    const histResponse = await fetch('./news-history.json');
+                    if (histResponse.ok) {
+                        const histData = await histResponse.json();
+                        // Merge articles, removing duplicates based on title
+                        const titles = new Set(data.articles.map(a => a.title));
+                        const uniqueHistorical = histData.articles.filter(a => !titles.has(a.title));
+                        data.articles = [...data.articles, ...uniqueHistorical];
+                    }
+                } catch (e) {
+                    console.log('No historical data found, using current data only');
+                }
+                
+                allArticles = data.articles;
+                displayInitialNews(data);
+                
+                // Update stats
+                document.getElementById('stats').style.display = 'block';
+                updateStats();
                 
             } catch (error) {
                 document.getElementById('content').innerHTML = `
@@ -301,48 +425,124 @@
             }
         }
 
-        function displayNews(data) {
-            const { articles, lastUpdated } = data;
+        function displayInitialNews(data) {
+            const { lastUpdated } = data;
             
             const lastUpdatedEl = document.getElementById('lastUpdated');
             lastUpdatedEl.innerHTML = `Last updated: ${new Date(lastUpdated).toLocaleString()}`;
             
-            const newsHtml = articles.map((article, index) => `
-                <div class="news-item">
-                    <div class="news-meta">
-                        <span class="news-category">${getCategoryFromTitle(article.title)}</span>
-                        <span class="news-date">${formatDate(article.pubDate)}</span>
-                    </div>
-                    <h2 class="news-title">${article.title}</h2>
-                    <div class="news-summary">
-                        <ul>
-                            ${article.summary.map(point => `<li>${point}</li>`).join('')}
-                        </ul>
-                    </div>
-                    <a href="${article.link}" target="_blank" class="read-more">
-                        Read Full Story
-                    </a>
-                </div>
-            `).join('');
+            // Clear loading message
+            document.getElementById('content').innerHTML = '<div class="news-list" id="newsList"></div>';
+            
+            // Display first batch of articles
+            loadMoreArticles();
+        }
 
-            document.getElementById('content').innerHTML = `<div class="news-list">${newsHtml}</div>`;
+        function loadMoreArticles() {
+            if (isLoading || !hasMoreArticles) return;
+            
+            isLoading = true;
+            document.getElementById('loadingMore').style.display = 'block';
+            
+            setTimeout(() => {
+                const newsList = document.getElementById('newsList');
+                const endIndex = Math.min(displayedArticles + articlesPerLoad, allArticles.length);
+                
+                for (let i = displayedArticles; i < endIndex; i++) {
+                    const article = allArticles[i];
+                    
+                    // Add date separator if needed
+                    const articleDate = new Date(article.pubDate || Date.now());
+                    const dateStr = articleDate.toLocaleDateString('en-US', { 
+                        weekday: 'long', 
+                        year: 'numeric', 
+                        month: 'long', 
+                        day: 'numeric' 
+                    });
+                    
+                    if (dateStr !== lastDateSeparator) {
+                        const separator = document.createElement('div');
+                        separator.className = 'date-separator';
+                        separator.textContent = dateStr;
+                        newsList.appendChild(separator);
+                        lastDateSeparator = dateStr;
+                    }
+                    
+                    // Create article element
+                    const articleEl = document.createElement('div');
+                    articleEl.className = 'news-item';
+                    articleEl.innerHTML = `
+                        <div class="news-meta">
+                            <span class="news-category category-${getCategoryClass(article.title)}">${getCategoryFromTitle(article.title)}</span>
+                            <span class="news-date">${formatDate(article.pubDate)}</span>
+                        </div>
+                        <h2 class="news-title">${article.title}</h2>
+                        <div class="news-summary">
+                            <ul>
+                                ${article.summary.map(point => `<li>${point}</li>`).join('')}
+                            </ul>
+                        </div>
+                        <a href="${article.link}" target="_blank" class="read-more">
+                            Read Full Story →
+                        </a>
+                    `;
+                    newsList.appendChild(articleEl);
+                }
+                
+                displayedArticles = endIndex;
+                
+                if (displayedArticles >= allArticles.length) {
+                    hasMoreArticles = false;
+                    document.getElementById('endMessage').style.display = 'block';
+                }
+                
+                document.getElementById('loadingMore').style.display = 'none';
+                isLoading = false;
+                
+                updateStats();
+                
+            }, 500); // Small delay for smooth loading
+        }
+
+        function updateStats() {
+            document.getElementById('articleCount').textContent = displayedArticles;
+            
+            // Count AI summaries (those without fallback text)
+            const aiCount = allArticles.slice(0, displayedArticles).filter(article => {
+                return !article.summary.some(point => 
+                    point.includes('temporarily unavailable') || 
+                    point.includes('Story developing') ||
+                    point.includes('Click below to discover')
+                );
+            }).length;
+            
+            document.getElementById('aiCount').textContent = aiCount;
         }
 
         function getCategoryFromTitle(title) {
             const lower = title.toLowerCase();
             if (lower.includes('red sox') || lower.includes('celtics') || lower.includes('patriots') || lower.includes('bruins') || lower.includes('sport')) {
                 return 'Sports';
-            } else if (lower.includes('health') || lower.includes('virus') || lower.includes('covid')) {
+            } else if (lower.includes('health') || lower.includes('virus') || lower.includes('covid') || lower.includes('hospital')) {
                 return 'Health';
-            } else if (lower.includes('weather') || lower.includes('storm') || lower.includes('rain')) {
+            } else if (lower.includes('weather') || lower.includes('storm') || lower.includes('rain') || lower.includes('snow')) {
                 return 'Weather';
-            } else if (lower.includes('business') || lower.includes('economy') || lower.includes('market')) {
+            } else if (lower.includes('business') || lower.includes('economy') || lower.includes('market') || lower.includes('store')) {
                 return 'Business';
-            } else if (lower.includes('politics') || lower.includes('mayor') || lower.includes('governor')) {
+            } else if (lower.includes('politics') || lower.includes('mayor') || lower.includes('governor') || lower.includes('election')) {
                 return 'Politics';
+            } else if (lower.includes('entertainment') || lower.includes('movie') || lower.includes('music') || lower.includes('actor')) {
+                return 'Entertainment';
+            } else if (lower.includes('tech') || lower.includes('ai') || lower.includes('robot') || lower.includes('computer')) {
+                return 'Tech';
             } else {
                 return 'News';
             }
+        }
+
+        function getCategoryClass(title) {
+            const category = getCategoryFromTitle(title).toLowerCase();
+            return category.replace(/\s+/g, '-');
         }
 
         function formatDate(dateString) {
@@ -351,11 +551,15 @@
             try {
                 const date = new Date(dateString);
                 const now = new Date();
-                const diffHours = Math.floor((now - date) / (1000 * 60 * 60));
+                const diffMs = now - date;
+                const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                const diffDays = Math.floor(diffHours / 24);
                 
                 if (diffHours < 1) return 'Just now';
                 if (diffHours < 24) return `${diffHours}h ago`;
-                if (diffHours < 48) return 'Yesterday';
+                if (diffDays === 1) return 'Yesterday';
+                if (diffDays < 7) return `${diffDays} days ago`;
+                if (diffDays < 30) return `${Math.floor(diffDays / 7)} week${Math.floor(diffDays / 7) > 1 ? 's' : ''} ago`;
                 
                 return date.toLocaleDateString('en-US', { 
                     month: 'short', 
@@ -367,8 +571,54 @@
             }
         }
 
+        // Infinite scroll implementation
+        window.addEventListener('scroll', () => {
+            // Show/hide scroll to top button
+            const scrollBtn = document.getElementById('scrollToTop');
+            if (window.pageYOffset > 300) {
+                scrollBtn.classList.add('visible');
+            } else {
+                scrollBtn.classList.remove('visible');
+            }
+            
+            // Load more articles when near bottom
+            if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000) {
+                loadMoreArticles();
+            }
+        });
+
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+
+        // Load news on page load
         document.addEventListener('DOMContentLoaded', loadNews);
-        setInterval(loadNews, 5 * 60 * 1000);
+        
+        // Auto-refresh every 5 minutes for new articles
+        setInterval(() => {
+            // Only reload the data, not the whole page
+            fetch('./news-data.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Check for new articles
+                    const currentTitles = new Set(allArticles.map(a => a.title));
+                    const newArticles = data.articles.filter(a => !currentTitles.has(a.title));
+                    
+                    if (newArticles.length > 0) {
+                        // Prepend new articles
+                        allArticles = [...newArticles, ...allArticles];
+                        
+                        // Update last updated time
+                        document.getElementById('lastUpdated').innerHTML = 
+                            `Last updated: ${new Date(data.lastUpdated).toLocaleString()} ` +
+                            `<span style="color: #dc2626; font-weight: bold;">(${newArticles.length} new)</span>`;
+                    }
+                })
+                .catch(console.error);
+        }, 5 * 60 * 1000);
     </script>
 </body>
 </html>
