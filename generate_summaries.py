@@ -137,10 +137,9 @@ Instructions:
     # If all attempts failed, return fallback summary
     print("  All attempts failed, using fallback summary")
     return [
-        f"Boston news story: {article['title'][:60]}{'...' if len(article['title']) > 60 else ''}",
+        f"Latest Boston news on {article['title'][:50]}{'...' if len(article['title']) > 50 else ''}",
         "AI summary generation temporarily unavailable due to connectivity issues",
-        "Click 'Read Full Story' below for complete article details",
-        "Summary generation will be retried on next scheduled update"
+        "Click below to discover what happened and why it matters"
     ]
 
 def main():
