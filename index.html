@@ -12,173 +12,175 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 20px;
-            padding: 30px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            backdrop-filter: blur(10px);
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: #ffffff;
+            line-height: 1.5;
+            color: #333;
         }
 
         .header {
+            background: #dc2626;
+            color: white;
+            padding: 20px 0;
             text-align: center;
-            margin-bottom: 30px;
-            padding-bottom: 20px;
-            border-bottom: 2px solid #e0e0e0;
+            border-bottom: 3px solid #b91c1c;
         }
 
         .header h1 {
-            color: #2c3e50;
             font-size: 2.5em;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+            font-weight: bold;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
         }
 
         .header p {
-            color: #7f8c8d;
-            font-size: 1.1em;
+            font-size: 1em;
+            opacity: 0.95;
+            font-style: italic;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
         }
 
         .last-updated {
             text-align: center;
-            color: #7f8c8d;
-            font-size: 0.9em;
-            margin-bottom: 20px;
-            padding: 10px;
-            background: rgba(127, 140, 141, 0.1);
-            border-radius: 10px;
+            color: #666;
+            font-size: 0.85em;
+            padding: 15px 0;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e5e7eb;
+            font-family: Arial, sans-serif;
         }
 
-        .news-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-            gap: 25px;
-            margin-top: 20px;
+        .news-list {
+            background: white;
         }
 
         .news-item {
-            background: white;
-            border-radius: 15px;
-            padding: 25px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease;
-            border-left: 5px solid #3498db;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 30px 0;
+            transition: background-color 0.2s ease;
         }
 
         .news-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+            background: #fafafa;
+        }
+
+        .news-item:last-child {
+            border-bottom: none;
+        }
+
+        .news-meta {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 12px;
+        }
+
+        .news-category {
+            background: #dc2626;
+            color: white;
+            padding: 4px 10px;
+            font-size: 0.75em;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-family: Arial, sans-serif;
+        }
+
+        .news-date {
+            font-size: 0.85em;
+            color: #666;
+            font-family: Arial, sans-serif;
         }
 
         .news-title {
-            font-size: 1.3em;
+            font-size: 1.6em;
             font-weight: bold;
-            color: #2c3e50;
+            color: #1a1a1a;
             margin-bottom: 15px;
-            line-height: 1.4;
+            line-height: 1.3;
+            font-family: Georgia, serif;
+        }
+
+        .news-title:hover {
+            color: #dc2626;
         }
 
         .news-summary {
-            color: #555;
+            color: #444;
+            font-size: 1em;
             line-height: 1.6;
             margin-bottom: 20px;
+            font-family: Georgia, serif;
         }
 
         .news-summary ul {
-            padding-left: 20px;
-            margin: 10px 0;
+            list-style: none;
+            padding: 0;
         }
 
         .news-summary li {
             margin-bottom: 8px;
             position: relative;
+            padding-left: 0;
         }
 
-        .news-summary li::marker {
-            color: #3498db;
-        }
-
-        .news-meta {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-bottom: 15px;
-        }
-
-        .news-date {
-            font-size: 0.9em;
-            color: #7f8c8d;
-            background: #ecf0f1;
-            padding: 4px 12px;
-            border-radius: 15px;
+        .news-summary li:before {
+            content: "•";
+            color: #dc2626;
+            font-weight: bold;
+            position: absolute;
+            left: -15px;
         }
 
         .read-more {
-            background: linear-gradient(45deg, #e74c3c, #c0392b);
-            color: white;
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 20px;
-            font-weight: bold;
-            transition: all 0.3s ease;
             display: inline-block;
-            box-shadow: 0 4px 15px rgba(231, 76, 60, 0.3);
+            color: #dc2626;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-family: Arial, sans-serif;
+            border: 2px solid #dc2626;
+            padding: 8px 16px;
+            transition: all 0.2s ease;
         }
 
         .read-more:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
-            text-decoration: none;
+            background: #dc2626;
             color: white;
+            text-decoration: none;
         }
 
         .error {
-            background: #e74c3c;
-            color: white;
-            padding: 15px;
-            border-radius: 10px;
+            background: #fee2e2;
+            border: 1px solid #fecaca;
+            color: #dc2626;
+            padding: 20px;
             margin: 20px 0;
             text-align: center;
-        }
-
-        .info-box {
-            background: #e8f4fd;
-            border: 1px solid #bee5eb;
-            border-radius: 10px;
-            padding: 15px;
-            margin-bottom: 20px;
-            font-size: 0.95em;
-            color: #0c5460;
-        }
-
-        .info-box h3 {
-            margin-bottom: 10px;
-            color: #0c5460;
+            font-family: Arial, sans-serif;
         }
 
         .loading {
             text-align: center;
-            padding: 40px;
-            color: #7f8c8d;
+            padding: 60px 20px;
+            color: #666;
             font-size: 1.1em;
+            font-family: Arial, sans-serif;
         }
 
         .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #3498db;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #dc2626;
             border-radius: 50%;
-            width: 40px;
-            height: 40px;
+            width: 30px;
+            height: 30px;
             animation: spin 1s linear infinite;
             margin: 20px auto;
         }
@@ -188,38 +190,91 @@
             100% { transform: rotate(360deg); }
         }
 
+        .news-excerpt {
+            color: #666;
+            font-size: 0.95em;
+            margin-bottom: 12px;
+            font-style: italic;
+            display: none;
+        }
+
+        .category-sports { background: #1e40af; }
+        .category-politics { background: #7c2d12; }
+        .category-health { background: #059669; }
+        .category-business { background: #dc2626; }
+        .category-weather { background: #0891b2; }
+
         @media (max-width: 768px) {
-            .news-grid {
-                grid-template-columns: 1fr;
-            }
-            
             .container {
-                padding: 20px;
-                margin: 10px;
+                padding: 0 15px;
             }
             
             .header h1 {
                 font-size: 2em;
             }
+            
+            .news-title {
+                font-size: 1.4em;
+            }
+            
+            .news-item {
+                padding: 25px 0;
+            }
+            
+            .news-meta {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+        }
+
+        .footer {
+            background: #f8f9fa;
+            border-top: 1px solid #e5e7eb;
+            padding: 20px 0;
+            margin-top: 40px;
+            text-align: center;
+            color: #666;
+            font-size: 0.85em;
+            font-family: Arial, sans-serif;
+        }
+
+        .footer a {
+            color: #dc2626;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>⚡ Boston.com Speed Read</h1>
+    <div class="header">
+        <div class="container">
+            <h1>Boston.com Speed Read</h1>
             <p>AI-powered quick summaries of the latest Boston news</p>
         </div>
-        
-        <div class="last-updated" id="lastUpdated">
-            🕒 Loading news summaries...
-        </div>
-        
+    </div>
+    
+    <div class="last-updated" id="lastUpdated">
+        Loading news summaries...
+    </div>
+    
+    <div class="container">
         <div id="content">
             <div class="loading">
                 <div class="spinner"></div>
                 Loading AI-generated news summaries...
             </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="container">
+            Powered by <a href="https://boston.com" target="_blank">Boston.com</a> RSS feed and OpenAI • 
+            Updates every 2 hours • 
+            <a href="https://github.com" target="_blank">View on GitHub</a>
         </div>
     </div>
 
@@ -237,7 +292,7 @@
             } catch (error) {
                 document.getElementById('content').innerHTML = `
                     <div class="error">
-                        ⚠️ Error loading news: ${error.message}
+                        Error loading news: ${error.message}
                         <br><br>
                         The GitHub Action may still be running to generate fresh summaries.
                         Try refreshing in a few minutes.
@@ -249,29 +304,45 @@
         function displayNews(data) {
             const { articles, lastUpdated } = data;
             
-            // Update last updated timestamp
             const lastUpdatedEl = document.getElementById('lastUpdated');
-            lastUpdatedEl.innerHTML = `🕒 Last updated: ${new Date(lastUpdated).toLocaleString()}`;
+            lastUpdatedEl.innerHTML = `Last updated: ${new Date(lastUpdated).toLocaleString()}`;
             
-            // Display articles
-            const newsHtml = articles.map(article => `
+            const newsHtml = articles.map((article, index) => `
                 <div class="news-item">
-                    <h2 class="news-title">${article.title}</h2>
                     <div class="news-meta">
-                        <span class="news-date">📅 ${formatDate(article.pubDate)}</span>
+                        <span class="news-category">${getCategoryFromTitle(article.title)}</span>
+                        <span class="news-date">${formatDate(article.pubDate)}</span>
                     </div>
+                    <h2 class="news-title">${article.title}</h2>
                     <div class="news-summary">
                         <ul>
                             ${article.summary.map(point => `<li>${point}</li>`).join('')}
                         </ul>
                     </div>
                     <a href="${article.link}" target="_blank" class="read-more">
-                        📖 Read Full Story
+                        Read Full Story
                     </a>
                 </div>
             `).join('');
 
-            document.getElementById('content').innerHTML = `<div class="news-grid">${newsHtml}</div>`;
+            document.getElementById('content').innerHTML = `<div class="news-list">${newsHtml}</div>`;
+        }
+
+        function getCategoryFromTitle(title) {
+            const lower = title.toLowerCase();
+            if (lower.includes('red sox') || lower.includes('celtics') || lower.includes('patriots') || lower.includes('bruins') || lower.includes('sport')) {
+                return 'Sports';
+            } else if (lower.includes('health') || lower.includes('virus') || lower.includes('covid')) {
+                return 'Health';
+            } else if (lower.includes('weather') || lower.includes('storm') || lower.includes('rain')) {
+                return 'Weather';
+            } else if (lower.includes('business') || lower.includes('economy') || lower.includes('market')) {
+                return 'Business';
+            } else if (lower.includes('politics') || lower.includes('mayor') || lower.includes('governor')) {
+                return 'Politics';
+            } else {
+                return 'News';
+            }
         }
 
         function formatDate(dateString) {
@@ -296,10 +367,7 @@
             }
         }
 
-        // Load news when page loads
         document.addEventListener('DOMContentLoaded', loadNews);
-        
-        // Auto-refresh every 5 minutes to check for updates
         setInterval(loadNews, 5 * 60 * 1000);
     </script>
 </body>
