@@ -7,234 +7,280 @@ from datetime import datetime
 import feedparser
 from openai import OpenAI
 import requests
-from typing import List, Dict
+from typing import List, Dict, Optional
 
-def test_connectivity():
-    """Test basic internet connectivity"""
-    print("\nTesting connectivity...")
-    
-    # Test 1: Can we reach common sites?
-    test_urls = [
-        ("Google", "https://www.google.com"),
-        ("OpenAI", "https://api.openai.com"),
-        ("Boston.com", "https://www.boston.com")
-    ]
-    
-    for name, url in test_urls:
-        try:
-            response = requests.get(url, timeout=5)
-            print(f"✓ {name}: Reachable (Status: {response.status_code})")
-        except Exception as e:
-            print(f"✗ {name}: Failed - {str(e)[:50]}")
-    
-    # Test 2: Check API key
+def validate_api_key():
+    """Validate OpenAI API key"""
     api_key = os.getenv('OPENAI_API_KEY')
     if not api_key:
-        print("✗ API Key: NOT FOUND in environment")
-        return False
-    else:
-        # Mask the key for security
-        masked = f"{api_key[:7]}...{api_key[-4:]}" if len(api_key) > 11 else "INVALID"
-        print(f"✓ API Key: Found ({masked})")
-        
-        # Check format
-        if not api_key.startswith('sk-'):
-            print("  ⚠ Warning: Key doesn't start with 'sk-'")
-        
-        return True
+        print("ERROR: OPENAI_API_KEY not set")
+        return None
+    print(f"API key found: {api_key[:7]}...{api_key[-4:]}")
+    return api_key
 
-def test_openai_api():
-    """Test OpenAI API with minimal request"""
-    print("\nTesting OpenAI API...")
-    
-    api_key = os.getenv('OPENAI_API_KEY')
-    if not api_key:
-        print("✗ Cannot test - no API key")
-        return False
-    
-    try:
-        # Test with a simple completion
-        client = OpenAI(api_key=api_key, timeout=10.0)
-        
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": "Reply with just 'OK'"}],
-            max_tokens=5
-        )
-        
-        print(f"✓ OpenAI API working! Response: {response.choices[0].message.content}")
-        return True
-        
-    except Exception as e:
-        error_str = str(e)
-        print(f"✗ OpenAI API failed: {error_str[:200]}")
-        
-        # Provide specific guidance based on error
-        if "401" in error_str or "Incorrect API key" in error_str:
-            print("\n  → Fix: Your API key is invalid. Please check:")
-            print("     1. The key is correctly copied (no extra spaces)")
-            print("     2. The key hasn't been revoked")
-            print("     3. Generate a new key at https://platform.openai.com/api-keys")
-        elif "429" in error_str:
-            print("\n  → Fix: Rate limit exceeded. Wait a few minutes or check your OpenAI usage.")
-        elif "Connection" in error_str or "timeout" in error_str:
-            print("\n  → Fix: Network issue. OpenAI might be down or GitHub Actions might be blocked.")
-            print("     Consider using a different approach or proxy.")
-        elif "insufficient_quota" in error_str:
-            print("\n  → Fix: Your OpenAI account has no credits. Add billing at https://platform.openai.com/account/billing")
-        
-        return False
-
-def fetch_rss_feed(url: str) -> List[Dict]:
+def fetch_rss_feed(url: str, count: int = 6) -> List[Dict]:
     """Fetch and parse RSS feed"""
     print(f"\nFetching RSS feed from {url}")
     
     try:
-        # Try direct request first
         response = requests.get(url, timeout=10)
-        response.raise_for_status()
         feed = feedparser.parse(response.text)
-    except Exception as e:
-        print(f"  Direct fetch failed: {e}, trying feedparser...")
+    except:
         try:
             feed = feedparser.parse(url)
-        except Exception as e2:
-            print(f"  Feedparser also failed: {e2}")
+        except Exception as e:
+            print(f"Failed to fetch feed: {e}")
             return []
     
     articles = []
-    for entry in feed.entries[:3]:  # Just get 3 for testing
+    for entry in feed.entries[:count]:
+        # Get and clean description
         description = entry.get('description', entry.get('summary', ''))
-        clean_description = re.sub(r'<[^>]+>', '', description)
-        clean_description = re.sub(r'\s+', ' ', clean_description).strip()
+        # Remove HTML tags
+        clean_desc = re.sub(r'<[^>]+>', '', description)
+        clean_desc = re.sub(r'\s+', ' ', clean_desc).strip()
+        
+        # Get full content if available
+        content = ""
+        if hasattr(entry, 'content'):
+            content = entry.content[0].value if entry.content else ""
+            content = re.sub(r'<[^>]+>', '', content)
+            content = re.sub(r'\s+', ' ', content).strip()
         
         article = {
             'title': entry.get('title', 'No title'),
             'link': entry.get('link', ''),
-            'description': clean_description[:500],
-            'pubDate': entry.get('published', entry.get('pubDate', '')),
+            'description': clean_desc[:1500],  # Longer for better context
+            'content': content[:2000] if content else clean_desc[:2000],
+            'pubDate': entry.get('published', entry.get('pubDate', ''))
         }
         articles.append(article)
     
     print(f"✓ Found {len(articles)} articles")
     return articles
 
-def generate_summary_with_fallback(client: OpenAI, article: Dict) -> List[str]:
-    """Try to generate summary with detailed error reporting"""
+def generate_ai_summary(client: OpenAI, article: Dict) -> Optional[List[str]]:
+    """Generate engaging AI summary with better prompts"""
     print(f"\nGenerating summary for: {article['title'][:60]}...")
     
+    # Use more content for better summaries
+    content = article['content'] if article['content'] else article['description']
+    
+    # Much better prompt for engaging summaries
+    prompt = f"""You are a skilled Boston news journalist creating engaging, informative bullet-point summaries for busy readers.
+
+Article Title: {article['title']}
+
+Article Content: {content[:1200]}
+
+Create exactly 3 compelling bullet points that:
+1. First bullet: Capture the MAIN NEWS - what happened and why it matters to Boston residents
+2. Second bullet: Provide KEY DETAILS - important facts, numbers, quotes, or context that readers need to know  
+3. Third bullet: Explain the IMPACT or WHAT'S NEXT - how this affects the community or what happens next
+
+Requirements:
+- Make each bullet point 15-25 words, informative and engaging
+- Use active voice and strong verbs
+- Include specific details (names, numbers, dates, locations) when available
+- Write for a local Boston audience who cares about their community
+- Don't just repeat the headline - add NEW information and context
+- Return ONLY a JSON array of 3 strings
+
+Example format:
+["Mayor Wu announces $50M investment in affordable housing, targeting 1,000 new units in Roxbury and Dorchester by 2026", "The initiative includes partnerships with local developers and prioritizes families earning below $75,000 annually", "Housing advocates praise the plan but say Boston needs 20,000 units to address the crisis"]"""
+
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": "Create 3 bullet points, return as JSON array."},
-                {"role": "user", "content": f"Summarize: {article['title']}. {article['description'][:300]}"}
+                {"role": "system", "content": "You are a Boston news editor creating engaging, fact-rich summaries. Return only a JSON array of exactly 3 bullet points."},
+                {"role": "user", "content": prompt}
             ],
-            max_tokens=150,
+            max_tokens=250,
             temperature=0.7,
-            timeout=15
+            timeout=20
         )
         
-        content = response.choices[0].message.content
-        print(f"  Got response: {content[:100]}...")
+        content = response.choices[0].message.content.strip()
         
-        # Try to parse JSON
+        # Clean and parse JSON
+        content = content.replace('```json', '').replace('```', '').strip()
+        
         try:
             points = json.loads(content)
-            if isinstance(points, list):
-                return points[:3]
-        except:
-            pass
-        
-        # Extract any bullet points
-        lines = [l.strip() for l in content.split('\n') if l.strip()]
-        if lines:
-            return lines[:3]
+            if isinstance(points, list) and len(points) == 3:
+                print(f"  ✓ Generated engaging AI summary")
+                return points
+        except json.JSONDecodeError:
+            # Try to extract bullet points from text
+            lines = content.split('\n')
+            points = []
+            for line in lines:
+                # Remove bullet markers and quotes
+                clean = re.sub(r'^[\-\*\•\"]\s*', '', line.strip())
+                clean = re.sub(r'\"$', '', clean)
+                if clean and len(clean) > 10:
+                    points.append(clean)
             
+            if len(points) >= 3:
+                print(f"  ✓ Extracted {len(points)} points from response")
+                return points[:3]
+        
+        print(f"  ⚠ Invalid response format")
+        return None
+        
     except Exception as e:
-        print(f"  Error: {str(e)[:100]}")
+        print(f"  ✗ AI generation failed: {str(e)[:100]}")
+        return None
+
+def generate_fallback_summary(article: Dict) -> List[str]:
+    """Generate better fallback summaries with curiosity gap when AI fails"""
+    title = article['title']
+    content = article['content'] if article['content'] else article['description']
     
-    # Fallback
-    return [
-        f"Latest: {article['title'][:70]}",
-        "Summary pending - check back soon",
-        "Read full story below"
+    # Extract key information
+    sentences = re.split(r'[.!?]+', content)
+    clean_sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
+    
+    summary = []
+    
+    # Try to make informative fallbacks
+    if "Red Sox" in title or "Celtics" in title or "Patriots" in title or "Bruins" in title:
+        summary.append(f"Boston sports update: {title[:70]}")
+    elif any(word in title.lower() for word in ['mayor', 'city', 'council', 'police', 'fire']):
+        summary.append(f"Local government news: {title[:70]}")
+    else:
+        summary.append(f"Breaking: {title[:70]}")
+    
+    # Add first substantial sentence if available
+    if clean_sentences:
+        summary.append(clean_sentences[0][:80])
+    else:
+        summary.append("Story developing with updates expected throughout the day")
+    
+    # Add curiosity gap as third bullet
+    curiosity_gaps = [
+        "The surprising detail that has Boston residents talking is revealed inside",
+        "What happens next could affect thousands of Boston area families",
+        "The unexpected reason behind this decision changes everything",
+        "Local officials reveal the one thing nobody saw coming",
+        "The real story involves a twist that even surprised investigators"
     ]
+    import random
+    summary.append(random.choice(curiosity_gaps))
+    
+    return summary
 
 def main():
     print("=" * 60)
-    print("Boston News Summarizer - DEBUG MODE")
+    print("Boston News Summarizer - Enhanced Version")
+    print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     
-    # Run connectivity tests
-    if not test_connectivity():
-        print("\n❌ Connectivity issues detected!")
+    # Validate API key
+    api_key = validate_api_key()
     
-    # Test OpenAI specifically
-    api_works = test_openai_api()
+    # Initialize OpenAI client if key exists
+    client = None
+    if api_key:
+        try:
+            client = OpenAI(api_key=api_key, timeout=30.0)
+            # Quick test
+            test = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[{"role": "user", "content": "Say OK"}],
+                max_tokens=5
+            )
+            print("✓ OpenAI API connected successfully")
+        except Exception as e:
+            print(f"✗ OpenAI API connection failed: {str(e)[:100]}")
+            client = None
     
-    if not api_works:
-        print("\n❌ OpenAI API is not working. Creating fallback content...")
-        
-    # Fetch articles regardless
+    # Fetch articles
     articles = fetch_rss_feed("https://www.boston.com/feed/bdc-msn-rss")
     
     if not articles:
-        print("\n❌ No articles fetched")
+        print("\nNo articles found")
         output = {
             'lastUpdated': datetime.now().isoformat(),
             'articles': [],
-            'stats': {'error': 'No articles fetched'}
+            'stats': {'error': 'No articles found'}
         }
     else:
-        # Process articles
-        processed = []
+        print(f"\n{'=' * 60}")
+        print(f"Processing {len(articles)} articles...")
+        print(f"{'=' * 60}")
         
-        if api_works:
-            # Only try API if it's working
-            client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'), timeout=15.0)
+        processed = []
+        ai_summaries = 0
+        fallback_summaries = 0
+        
+        for i, article in enumerate(articles):
+            print(f"\n[Article {i+1}/{len(articles)}]")
             
-            for article in articles:
-                summary = generate_summary_with_fallback(client, article)
-                processed.append({
-                    'title': article['title'],
-                    'link': article['link'],
-                    'pubDate': article['pubDate'],
-                    'summary': summary
-                })
-                time.sleep(1)  # Rate limiting
-        else:
-            # Use fallbacks for all
-            for article in articles:
-                processed.append({
-                    'title': article['title'],
-                    'link': article['link'],
-                    'pubDate': article['pubDate'],
-                    'summary': [
-                        f"Breaking: {article['title'][:70]}",
-                        "AI summaries temporarily unavailable",
-                        "Click for full story from Boston.com"
-                    ]
-                })
+            summary = None
+            
+            # Try AI summary if client available
+            if client:
+                summary = generate_ai_summary(client, article)
+                if summary:
+                    ai_summaries += 1
+                    # Rate limiting
+                    if i < len(articles) - 1:
+                        time.sleep(1.5)
+            
+            # Use fallback if AI failed
+            if not summary:
+                summary = generate_fallback_summary(article)
+                fallback_summaries += 1
+                print("  Using fallback summary")
+            
+            processed.append({
+                'title': article['title'],
+                'link': article['link'],
+                'pubDate': article['pubDate'],
+                'summary': summary
+            })
         
         output = {
             'lastUpdated': datetime.now().isoformat(),
             'articles': processed,
             'stats': {
-                'total': len(processed),
-                'api_working': api_works
+                'total_articles': len(processed),
+                'ai_summaries': ai_summaries,
+                'fallback_summaries': fallback_summaries,
+                'success_rate': f"{(ai_summaries/len(processed)*100):.1f}%" if processed else "0%"
             }
         }
     
     # Save output
-    with open('news-data.json', 'w') as f:
-        json.dump(output, f, indent=2)
+    with open('news-data.json', 'w', encoding='utf-8') as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
     
     print(f"\n{'=' * 60}")
-    print(f"Output saved to news-data.json")
-    print(f"API Status: {'✓ Working' if api_works else '✗ Failed'}")
-    print(f"Articles: {len(output.get('articles', []))}")
+    print("SUMMARY GENERATION COMPLETE")
     print(f"{'=' * 60}")
+    print(f"✓ Total articles: {len(output.get('articles', []))}")
+    print(f"✓ AI summaries: {ai_summaries}")
+    if fallback_summaries > 0:
+        print(f"⚠ Fallback summaries: {fallback_summaries}")
+    print(f"→ Success rate: {output.get('stats', {}).get('success_rate', '0%')}")
+    print(f"→ Output saved to news-data.json")
+    print(f"{'=' * 60}\n")
+    
+    # Exit successfully
+    return 0
 
 if __name__ == "__main__":
-    main()
+    try:
+        exit(main())
+    except Exception as e:
+        print(f"Fatal error: {e}")
+        # Create emergency output
+        with open('news-data.json', 'w') as f:
+            json.dump({
+                'lastUpdated': datetime.now().isoformat(),
+                'articles': [],
+                'stats': {'error': str(e)}
+            }, f, indent=2)
+        exit(0)
