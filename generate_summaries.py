@@ -3,11 +3,62 @@ import json
 import os
 import time
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 import feedparser
 from openai import OpenAI
 import requests
 from typing import List, Dict, Optional
+
+def load_historical_articles():
+    """Load existing historical articles"""
+    try:
+        with open('news-history.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data.get('articles', [])
+    except FileNotFoundError:
+        return []
+    except Exception as e:
+        print(f"Error loading history: {e}")
+        return []
+
+def save_historical_articles(articles):
+    """Save articles to history file"""
+    try:
+        # Load existing history
+        existing = load_historical_articles()
+        
+        # Create a set of existing article identifiers (title + date)
+        existing_ids = set()
+        for article in existing:
+            article_id = f"{article['title']}_{article.get('pubDate', '')}"
+            existing_ids.add(article_id)
+        
+        # Add new articles that don't exist
+        new_count = 0
+        for article in articles:
+            article_id = f"{article['title']}_{article.get('pubDate', '')}"
+            if article_id not in existing_ids:
+                existing.append(article)
+                new_count += 1
+        
+        # Sort by date (newest first)
+        existing.sort(key=lambda x: x.get('pubDate', ''), reverse=True)
+        
+        # Keep only last 500 articles to prevent file from getting too large
+        existing = existing[:500]
+        
+        # Save to history file
+        with open('news-history.json', 'w', encoding='utf-8') as f:
+            json.dump({
+                'lastUpdated': datetime.now().isoformat(),
+                'articles': existing,
+                'totalArticles': len(existing)
+            }, f, indent=2, ensure_ascii=False)
+        
+        print(f"✓ Added {new_count} new articles to history (total: {len(existing)})")
+        
+    except Exception as e:
+        print(f"Error saving history: {e}")
 
 def validate_api_key():
     """Validate OpenAI API key"""
@@ -18,8 +69,8 @@ def validate_api_key():
     print(f"API key found: {api_key[:7]}...{api_key[-4:]}")
     return api_key
 
-def fetch_rss_feed(url: str, count: int = 6) -> List[Dict]:
-    """Fetch and parse RSS feed"""
+def fetch_rss_feed(url: str, count: int = 12) -> List[Dict]:
+    """Fetch and parse RSS feed - increased to 12 for more content"""
     print(f"\nFetching RSS feed from {url}")
     
     try:
@@ -50,7 +101,7 @@ def fetch_rss_feed(url: str, count: int = 6) -> List[Dict]:
         article = {
             'title': entry.get('title', 'No title'),
             'link': entry.get('link', ''),
-            'description': clean_desc[:1500],  # Longer for better context
+            'description': clean_desc[:1500],
             'content': content[:2000] if content else clean_desc[:2000],
             'pubDate': entry.get('published', entry.get('pubDate', ''))
         }
@@ -60,13 +111,11 @@ def fetch_rss_feed(url: str, count: int = 6) -> List[Dict]:
     return articles
 
 def generate_ai_summary(client: OpenAI, article: Dict) -> Optional[List[str]]:
-    """Generate engaging AI summary with better prompts"""
+    """Generate engaging AI summary with curiosity gap"""
     print(f"\nGenerating summary for: {article['title'][:60]}...")
     
-    # Use more content for better summaries
     content = article['content'] if article['content'] else article['description']
     
-    # Much better prompt for engaging summaries
     prompt = f"""You are a skilled Boston news journalist creating engaging, informative bullet-point summaries for busy readers.
 
 Article Title: {article['title']}
@@ -76,18 +125,27 @@ Article Content: {content[:1200]}
 Create exactly 3 compelling bullet points that:
 1. First bullet: Capture the MAIN NEWS - what happened and why it matters to Boston residents
 2. Second bullet: Provide KEY DETAILS - important facts, numbers, quotes, or context that readers need to know  
-3. Third bullet: Explain the IMPACT or WHAT'S NEXT - how this affects the community or what happens next
+3. Third bullet: Create a CURIOSITY GAP - tease something surprising, controversial, or unexpected from the article that makes readers want to click
 
 Requirements:
-- Make each bullet point 15-25 words, informative and engaging
+- Make each bullet point 15-25 words
 - Use active voice and strong verbs
 - Include specific details (names, numbers, dates, locations) when available
-- Write for a local Boston audience who cares about their community
+- The third bullet should create intrigue without giving away the answer
+- Use phrases like "reveals why", "unexpected reason", "surprising connection", "what happened next", "the real reason"
 - Don't just repeat the headline - add NEW information and context
 - Return ONLY a JSON array of 3 strings
 
 Example format:
-["Mayor Wu announces $50M investment in affordable housing, targeting 1,000 new units in Roxbury and Dorchester by 2026", "The initiative includes partnerships with local developers and prioritizes families earning below $75,000 annually", "Housing advocates praise the plan but say Boston needs 20,000 units to address the crisis"]"""
+["Mayor Wu announces $50M investment in affordable housing, targeting 1,000 new units in Roxbury and Dorchester by 2026", "The initiative includes partnerships with local developers and prioritizes families earning below $75,000 annually", "But one Boston neighborhood surprisingly rejected the plan - and their reason has city officials scrambling"]
+
+More curiosity gap examples for bullet 3:
+- "The unexpected company behind the deal has ties to a controversial 2019 Boston development"
+- "What the victim's family said in court left even the prosecutor visibly shaken"  
+- "The Red Sox's unusual strategy actually worked before - but only once in MLB history"
+- "City councilors discovered a loophole that could change everything about Boston's housing crisis"
+
+DO NOT use generic curiosity gaps. Make them specific to the actual article content."""
 
     try:
         response = client.chat.completions.create(
@@ -102,8 +160,6 @@ Example format:
         )
         
         content = response.choices[0].message.content.strip()
-        
-        # Clean and parse JSON
         content = content.replace('```json', '').replace('```', '').strip()
         
         try:
@@ -112,11 +168,9 @@ Example format:
                 print(f"  ✓ Generated engaging AI summary")
                 return points
         except json.JSONDecodeError:
-            # Try to extract bullet points from text
             lines = content.split('\n')
             points = []
             for line in lines:
-                # Remove bullet markers and quotes
                 clean = re.sub(r'^[\-\*\•\"]\s*', '', line.strip())
                 clean = re.sub(r'\"$', '', clean)
                 if clean and len(clean) > 10:
@@ -138,13 +192,12 @@ def generate_fallback_summary(article: Dict) -> List[str]:
     title = article['title']
     content = article['content'] if article['content'] else article['description']
     
-    # Extract key information
     sentences = re.split(r'[.!?]+', content)
     clean_sentences = [s.strip() for s in sentences if len(s.strip()) > 20]
     
     summary = []
     
-    # Try to make informative fallbacks
+    # First bullet - main news
     if "Red Sox" in title or "Celtics" in title or "Patriots" in title or "Bruins" in title:
         summary.append(f"Boston sports update: {title[:70]}")
     elif any(word in title.lower() for word in ['mayor', 'city', 'council', 'police', 'fire']):
@@ -152,13 +205,13 @@ def generate_fallback_summary(article: Dict) -> List[str]:
     else:
         summary.append(f"Breaking: {title[:70]}")
     
-    # Add first substantial sentence if available
+    # Second bullet - key detail
     if clean_sentences:
         summary.append(clean_sentences[0][:80])
     else:
         summary.append("Story developing with updates expected throughout the day")
     
-    # Add curiosity gap as third bullet
+    # Third bullet - curiosity gap
     curiosity_gaps = [
         "The surprising detail that has Boston residents talking is revealed inside",
         "What happens next could affect thousands of Boston area families",
@@ -173,7 +226,7 @@ def generate_fallback_summary(article: Dict) -> List[str]:
 
 def main():
     print("=" * 60)
-    print("Boston News Summarizer - Enhanced Version")
+    print("Boston News Summarizer - With History Accumulation")
     print(f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     
@@ -185,7 +238,6 @@ def main():
     if api_key:
         try:
             client = OpenAI(api_key=api_key, timeout=30.0)
-            # Quick test
             test = client.chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=[{"role": "user", "content": "Say OK"}],
@@ -197,7 +249,7 @@ def main():
             client = None
     
     # Fetch articles
-    articles = fetch_rss_feed("https://www.boston.com/feed/bdc-msn-rss")
+    articles = fetch_rss_feed("https://www.boston.com/feed/bdc-msn-rss", count=12)
     
     if not articles:
         print("\nNo articles found")
@@ -225,7 +277,6 @@ def main():
                 summary = generate_ai_summary(client, article)
                 if summary:
                     ai_summaries += 1
-                    # Rate limiting
                     if i < len(articles) - 1:
                         time.sleep(1.5)
             
@@ -242,6 +293,9 @@ def main():
                 'summary': summary
             })
         
+        # Save to history
+        save_historical_articles(processed)
+        
         output = {
             'lastUpdated': datetime.now().isoformat(),
             'articles': processed,
@@ -253,7 +307,7 @@ def main():
             }
         }
     
-    # Save output
+    # Save current batch
     with open('news-data.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     
@@ -265,10 +319,14 @@ def main():
     if fallback_summaries > 0:
         print(f"⚠ Fallback summaries: {fallback_summaries}")
     print(f"→ Success rate: {output.get('stats', {}).get('success_rate', '0%')}")
-    print(f"→ Output saved to news-data.json")
+    print(f"→ Current batch saved to news-data.json")
+    print(f"→ History saved to news-history.json")
+    
+    # Show total articles in history
+    history = load_historical_articles()
+    print(f"→ Total articles in history: {len(history)}")
     print(f"{'=' * 60}\n")
     
-    # Exit successfully
     return 0
 
 if __name__ == "__main__":
@@ -276,7 +334,6 @@ if __name__ == "__main__":
         exit(main())
     except Exception as e:
         print(f"Fatal error: {e}")
-        # Create emergency output
         with open('news-data.json', 'w') as f:
             json.dump({
                 'lastUpdated': datetime.now().isoformat(),
