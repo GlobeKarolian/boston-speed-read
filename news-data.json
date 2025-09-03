@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2025-09-03T07:19:30.399790",
+  "lastUpdated": "2025-09-03T07:22:05.782658",
   "articles": [
     {
-      "title": "On a night described as a ‘gut punch,’ resilient Red Sox keep on fighting",
+      "title": "On a night described as a \u2018gut punch,\u2019 resilient Red Sox keep on fighting",
       "link": "https://www.boston.com/sports/boston-red-sox/2025/09/02/on-a-night-described-as-a-gut-punch-resilient-red-sox-keep-on-fighting/",
       "pubDate": "Tue, 02 Sep 2025 23:41:46 -0400",
       "summary": [
-        "Breaking: On a night described as a ‘gut punch,’ resilient Red Sox kee...",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
+        "Resilient Red Sox continue to fight despite setbacks",
+        "Emphasis on winning in meaningful September games",
+        "Article highlights Red Sox's determination and perseverance"
       ]
     },
     {
@@ -16,9 +16,9 @@
       "link": "https://www.boston.com/news/local-news/2025/09/02/cannabis-commission-head-was-wrongly-terminated-judge-says/",
       "pubDate": "Tue, 02 Sep 2025 23:06:03 -0400",
       "summary": [
-        "Breaking: Cannabis Commission head was wrongly terminated, judge says",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
+        "Cannabis Commission head Shannon O'Brien was wrongly terminated, judge ruled",
+        "Former state treasurer Shannon O'Brien should be reinstated and awarded back pay",
+        "Ruling reported on Boston.com"
       ]
     },
     {
@@ -26,47 +26,14 @@
       "link": "https://www.boston.com/sports/boston-red-sox/2025/09/02/garrett-crochet-red-sox-mlb-cleveland-guardians-home-runs-baseball/",
       "pubDate": "Tue, 02 Sep 2025 22:56:50 -0400",
       "summary": [
-        "Breaking: What Red Sox ace Garrett Crochet said after a disastrous out...",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
-      ]
-    },
-    {
-      "title": "Kristaps Porzingis doesn’t mince words about Celtics’ poor center depth",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/09/02/boston-celtics-depth-roster-kristaps-porzingis-calls-out-neemias-queta/",
-      "pubDate": "Tue, 02 Sep 2025 22:36:05 -0400",
-      "summary": [
-        "Breaking: Kristaps Porzingis doesn’t mince words about Celtics’ poor c...",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
-      ]
-    },
-    {
-      "title": "These are the Claire&#8217;s stores closing in Mass.",
-      "link": "https://www.boston.com/news/business/2025/09/02/these-are-the-claires-stores-closing-in-mass/",
-      "pubDate": "Tue, 02 Sep 2025 22:27:00 -0400",
-      "summary": [
-        "Breaking: These are the Claire&#8217;s stores closing in Mass.",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
-      ]
-    },
-    {
-      "title": "‘Succession’ actor Nicholas Braun arrested, charged with DUI in New Hampshire",
-      "link": "https://www.boston.com/news/local-news/2025/09/02/succession-actor-nicholas-braun-arrested-charged-with-dui-in-new-hampshire/",
-      "pubDate": "Tue, 02 Sep 2025 20:46:10 -0400",
-      "summary": [
-        "Breaking: ‘Succession’ actor Nicholas Braun arrested, charged with DUI...",
-        "Story details are being processed - check back soon for AI summary",
-        "Click below for the full story from Boston.com"
+        "Garrett Crochet expressed disappointment in not receiving support after giving up a run.",
+        "The outing against Cleveland was described as disastrous.",
+        "The statement was reported by Boston.com."
       ]
     }
   ],
   "stats": {
-    "total_articles": 6,
-    "successful_summaries": 0,
-    "failed_summaries": 6,
-    "generation_time": "2025-09-03T07:19:30.399801",
-    "success_rate": "0.0%"
+    "total": 3,
+    "api_working": true
   }
 }
