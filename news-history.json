@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-04T18:48:16.295381+00:00",
+  "lastUpdated": "2025-09-04T20:33:04.081341+00:00",
   "articles": [
+    {
+      "title": "Filipa Pat\u00e3o shared her thoughts on becoming the inaugural head coach of Boston Legacy FC",
+      "link": "https://www.boston.com/sports/sports-news/2025/09/04/filipa-patao-boston-legacy-fc-head-coach/",
+      "pubDate": "Thu, 04 Sep 2025 19:21:29 +0000",
+      "description": "<p>Pat\u00e3o joins Boston from Portuguese powerhouse Benfica. Acclimating to the area has meant \"trying new things,\" including lobster rolls.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2025/09/04/filipa-patao-boston-legacy-fc-head-coach/\">Filipa Pat\u00e3o shared her thoughts on becoming the inaugural head coach of Boston Legacy FC</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5a6ac42b60b53be0824592654f6a3777",
+      "summary": [
+        "Filipa Pat\u00e3o becomes inaugural head coach of Boston Legacy FC, enhancing local women's soccer.",
+        "Pat\u00e3o joins from Benfica, bringing international experience to Boston's sports community.",
+        "Her adaptation includes trying local cuisine, fostering community engagement among residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jeremy Swayman feels like a \u2018completely different human being\u2019 a year removed from contract dispute",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/09/04/jeremy-swayman-boston-bruins-goalie-contract-training-camp-nhl-hockey/",
+      "pubDate": "Thu, 04 Sep 2025 19:13:44 +0000",
+      "description": "<p>\"If I didn't have that experience, I probably wouldn't understand the importance of it.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/09/04/jeremy-swayman-boston-bruins-goalie-contract-training-camp-nhl-hockey/\">Jeremy Swayman feels like a \u2018completely different human being\u2019 a year removed from contract dispute</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ad38f7d4691f44bbabedd5978af3c8ab",
+      "summary": [
+        "Jeremy Swayman reflects on personal growth after last year's contract dispute with the Bruins.",
+        "Swayman emphasizes the importance of the experience for his development as a player.",
+        "Boston residents can expect a more focused and resilient Swayman in the upcoming NHL season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "What Josh McDaniels said about facing the Raiders",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/09/04/josh-mcdaniels-patriots-raiders-comments-quotes/",
@@ -375,5 +401,5 @@
       ]
     }
   ],
-  "totalArticles": 31
+  "totalArticles": 33
 }
