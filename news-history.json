@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-09-04T14:56:34.416736+00:00",
+  "lastUpdated": "2025-09-04T16:46:03.591929+00:00",
   "articles": [
+    {
+      "title": "Juvenile with \u2018airsoft replica weapon\u2019 determined to have caused UMass Lowell lockdown",
+      "link": "https://www.boston.com/news/local-news/2025/09/04/umass-lowell-lockdown-update/",
+      "pubDate": "Thu, 04 Sep 2025 15:49:53 +0000",
+      "description": "<p>A large law enforcement response descended on the university's campus Wednesday after reports of a person with a gun.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/04/umass-lowell-lockdown-update/\">Juvenile with &#8216;airsoft replica weapon&#8217; determined to have caused UMass Lowell lockdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "87357eb0b9cad6398561d03ad3133144",
+      "summary": [
+        "UMass Lowell experienced a lockdown on September 4 due to a report of a gun.",
+        "Law enforcement responded to the scene after a juvenile was found with an airsoft replica weapon.",
+        "The incident raised safety concerns among students and faculty on campus."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "A new BBJ report rejiggers the list of state\u2019s wealthiest zip codes. Here\u2019s who\u2019s on top now.",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/09/04/new-bbj-report-massachusetts-wealthiest-zip-codes/",
+      "pubDate": "Thu, 04 Sep 2025 15:43:17 +0000",
+      "description": "<p>The top 10 wealthiest zip codes are all reportedly within 10 miles of Boston. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/09/04/new-bbj-report-massachusetts-wealthiest-zip-codes/\">A new BBJ report rejiggers the list of state&#8217;s wealthiest zip codes. Here&#8217;s who&#8217;s on top now.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "31d4c5dc0ff0fc7ae7b6322dac5d7e3c",
+      "summary": [
+        "New BBJ report ranks the wealthiest zip codes in Massachusetts, all near Boston.",
+        "Top 10 wealthiest zip codes are within 10 miles of Boston, highlighting local affluence.",
+        "Increased property values may affect housing affordability for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Wu admin. to send nearly 100 recent police academy grads to Mass. and Cass",
+      "link": "https://www.boston.com/news/local-news/2025/09/04/wu-admin-to-send-nearly-100-recent-police-academy-grads-to-mass-and-cass/",
+      "pubDate": "Thu, 04 Sep 2025 15:25:04 +0000",
+      "description": "<p>To crack down on outdoor substance use and crime, Boston officials are beefing up the police presence at Mass. and Cass and taking other steps. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/04/wu-admin-to-send-nearly-100-recent-police-academy-grads-to-mass-and-cass/\">Wu admin. to send nearly 100 recent police academy grads to Mass. and Cass</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "11488176e38018053d6fd9aabcb8e8f1",
+      "summary": [
+        "Boston officials are increasing police presence at Mass. and Cass to address outdoor substance use.",
+        "Nearly 100 recent police academy graduates will be deployed to the area for enforcement.",
+        "This initiative aims to reduce crime and improve safety for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Could cocoa help delay high blood pressure? Here\u2019s what Brigham and Women\u2019s researchers found.",
       "link": "https://www.boston.com/news/health/2025/09/04/cocoa-hypertension-high-blood-pressure/",
@@ -232,5 +271,5 @@
       ]
     }
   ],
-  "totalArticles": 20
+  "totalArticles": 23
 }
