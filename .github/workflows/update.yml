@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 */2 * * *'  # Every 2 hours
   workflow_dispatch:  # Manual trigger
+  push:
+    branches: [ main ]
+    paths:
+      - 'generate_summaries.py'
+      - '.github/workflows/update.yml'
 
 permissions:
   contents: write
@@ -22,35 +27,93 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.9'
+        cache: 'pip'
     
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests openai feedparser
+        pip install requests openai feedparser beautifulsoup4
     
     - name: Generate news summaries
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: python generate_summaries.py
-      continue-on-error: true
-    
-    - name: Commit and push
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        echo "Starting news summary generation..."
+        python generate_summaries.py || {
+          echo "Script failed, creating fallback data..."
+          cat > news-data.json << 'EOF'
+        {
+          "lastUpdated": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+          "articles": [],
+          "stats": {
+            "error": "Script execution failed - check logs",
+            "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          }
+        }
+        EOF
+        }
+    
+    - name: Verify files exist
+      run: |
+        if [ ! -f news-data.json ]; then
+          echo "Creating placeholder news-data.json"
+          echo '{"lastUpdated":"'$(date -u +%Y-%m-%dT%H:%M:%SZ)'","articles":[],"stats":{}}' > news-data.json
+        fi
         
-        git pull origin main || true
+        if [ ! -f news-history.json ]; then
+          echo "Creating placeholder news-history.json"
+          echo '{"lastUpdated":"'$(date -u +%Y-%m-%dT%H:%M:%SZ)'","articles":[],"totalArticles":0}' > news-history.json
+        fi
         
-        git add news-data.json news-history.json 2>/dev/null || git add news-data.json
+        echo "Files present:"
+        ls -la *.json
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         
+        # Pull latest changes
+        git pull origin main --rebase || true
+        
+        # Add files
+        git add news-data.json news-history.json || true
+        
+        # Check if there are changes
         if ! git diff --staged --quiet; then
-          git commit -m "Update news summaries - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push || (git pull --rebase && git push)
+          echo "Changes detected, committing..."
+          git commit -m "🗞️ Update news summaries - $(date '+%Y-%m-%d %H:%M:%S UTC')"
+          
+          # Push with retry
+          for i in 1 2 3; do
+            if git push; then
+              echo "✅ Successfully pushed changes"
+              break
+            else
+              echo "Push attempt $i failed, retrying..."
+              git pull --rebase origin main
+              sleep 2
+            fi
+          done
         else
           echo "No changes to commit"
         fi
+    
+    - name: Summary
+      if: always()
+      run: |
+        echo "=== Workflow Summary ==="
+        echo "Time: $(date)"
+        if [ -f news-data.json ]; then
+          echo "Articles in news-data.json: $(jq '.articles | length' news-data.json 2>/dev/null || echo 'parse error')"
+        fi
+        if [ -f news-history.json ]; then
+          echo "Articles in history: $(jq '.totalArticles' news-history.json 2>/dev/null || echo 'parse error')"
+        fi
+        echo "======================="
