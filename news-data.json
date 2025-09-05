@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-05T08:44:28.189154+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-05T10:39:28.698520+00:00",
+  "articles": [
+    {
+      "title": "10 burning questions about the 2025 Patriots ahead of their season opener",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/05/patriots-burning-questions-2025-drake-maye-will-campbell-analysis/",
+      "pubDate": "Fri, 05 Sep 2025 09:00:00 +0000",
+      "description": "<p>The Patriots have a lot of questions to answer. Here are a few to think about. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/05/patriots-burning-questions-2025-drake-maye-will-campbell-analysis/\">10 burning questions about the 2025 Patriots ahead of their season opener</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "91f7bf1b5d2b8de80c530d16fbdd11e0",
+      "summary": [
+        "Patriots face critical decisions ahead of their season opener on September 10, 2025.",
+        "Questions arise about rookie quarterback Drake Maye's readiness and team dynamics.",
+        "Local fans are eager for clarity on team performance impacting game attendance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/09/05/acela-benson-boone-allston-christmas/",
+      "pubDate": "Fri, 05 Sep 2025 09:00:00 +0000",
+      "description": "<p>A zippy train, a peppy pop star, and a moving move-in day are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/09/05/acela-benson-boone-allston-christmas/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d7b825297311d66f486c3e610906a3e7",
+      "summary": [
+        "Acela train service continues to enhance travel options for Boston commuters.",
+        "Pop star Benson Boone performed in Allston on September 5, attracting local fans.",
+        "Move-in day for Boston students impacts local housing and community dynamics."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-05T08:44:28.189163+00:00"
+    "timestamp": "2025-09-05T10:39:28.698538+00:00"
   }
 }
