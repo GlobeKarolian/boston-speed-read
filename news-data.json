@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-09-05T13:18:24.200445+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-05T14:37:01.698029+00:00",
+  "articles": [
+    {
+      "title": "Woman who ran over pedestrian at South Bay Mall had 15 used needles in handbag, authorities say",
+      "link": "https://www.boston.com/news/crime/2025/09/05/woman-who-ran-over-pedestrian-at-south-bay-mall-had-15-used-needles-in-handbag-authorities-say/",
+      "pubDate": "Fri, 05 Sep 2025 14:26:33 +0000",
+      "description": "<p>The woman, who is facing multiple charges, reportedly blamed the crash on her sister who is autistic.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/05/woman-who-ran-over-pedestrian-at-south-bay-mall-had-15-used-needles-in-handbag-authorities-say/\">Woman who ran over pedestrian at South Bay Mall had 15 used needles in handbag, authorities say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ead029406e2ce83110815d7b6b4921bc",
+      "summary": [
+        "A woman ran over a pedestrian at South Bay Mall, facing multiple charges.",
+        "Authorities found 15 used needles in her handbag during the investigation.",
+        "The incident raises concerns about safety and drug use in Boston public areas."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Should we hope that Mike Vrabel\u2019s debut as Patriots coach goes as well as Jerod Mayo\u2019s did? Actually, yes.",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/05/patriots-raiders-preview-prediction/",
+      "pubDate": "Fri, 05 Sep 2025 14:16:35 +0000",
+      "description": "<p>It feels like a decade ago with everything that has happened since, but the Patriots opened the 2024 season with a stirring 16-10 victory over the Bengals to begin the Mayo era.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/05/patriots-raiders-preview-prediction/\">Should we hope that Mike Vrabel\u2019s debut as Patriots coach goes as well as Jerod Mayo\u2019s did? Actually, yes.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "eadd44381a8d287f937c67d4a0d6b91c",
+      "summary": [
+        "Patriots won 16-10 against the Bengals, marking Jerod Mayo's successful coaching debut.",
+        "Mike Vrabel's upcoming debut as coach is highly anticipated by Boston fans.",
+        "Victory boosts local morale and sets positive expectations for the Patriots' 2024 season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "A Mass. historical home tour just ranked the best in the U.S.",
+      "link": "https://www.boston.com/travel/travel/2025/09/05/a-mass-historical-home-tour-just-ranked-the-best-in-the-u-s/",
+      "pubDate": "Fri, 05 Sep 2025 13:50:31 +0000",
+      "description": "<p>The mansion inspired Nathaniel Hawthorne's 1851 classic novel. </p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/09/05/a-mass-historical-home-tour-just-ranked-the-best-in-the-u-s/\">A Mass. historical home tour just ranked the best in the U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "77a252a36c0b82647536dfc348a8bf64",
+      "summary": [
+        "Massachusetts historical home tour ranked best in the U.S. for 2023.",
+        "The mansion inspired Nathaniel Hawthorne's 1851 novel, attracting literary enthusiasts.",
+        "Increased tourism expected to benefit local businesses and cultural sites in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-05T13:18:24.200453+00:00"
+    "timestamp": "2025-09-05T14:37:01.698049+00:00"
   }
 }
