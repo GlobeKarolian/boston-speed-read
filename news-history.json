@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-09-05T03:09:27.777908+00:00",
+  "lastUpdated": "2025-09-05T04:40:15.543976+00:00",
   "articles": [
+    {
+      "title": "Red Sox reportedly place reliever Jordan Hicks on IL after latest implosion",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/04/red-sox-jordan-hicks-il-injured-list-injury-struggles-bullpen/",
+      "pubDate": "Fri, 05 Sep 2025 03:18:15 +0000",
+      "description": "<p>Jordan Hicks is sporting an 8.20 ERA so far with the Red Sox. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/04/red-sox-jordan-hicks-il-injured-list-injury-struggles-bullpen/\">Red Sox reportedly place reliever Jordan Hicks on IL after latest implosion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0dc657cc15c73ec6ff01cb64cf06b64a",
+      "summary": [
+        "Red Sox place reliever Jordan Hicks on the injured list due to performance issues.",
+        "Hicks has an 8.20 ERA this season, raising concerns for the bullpen.",
+        "His absence may affect the team's late-game strategy and overall performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Derrick White gets candid about \u2018different\u2019 season that awaits Celtics",
       "link": "https://www.boston.com/sports/boston-celtics/2025/09/04/boston-celtics-derrick-white-offseason-tatum-porzingis-pritchard/",
@@ -596,5 +609,5 @@
       ]
     }
   ],
-  "totalArticles": 48
+  "totalArticles": 49
 }
