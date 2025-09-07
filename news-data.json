@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-09-07T10:19:23.592712+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-07T12:39:10.410418+00:00",
+  "articles": [
+    {
+      "title": "3 takeaways from the Revolution\u2019s 3-2 loss vs. the Chicago Fire",
+      "link": "https://www.boston.com/sports/new-england-revolution/2025/09/07/3-takeaways-from-the-revolutions-3-2-loss-vs-the-chicago-fire/",
+      "pubDate": "Sun, 07 Sep 2025 12:21:52 +0000",
+      "description": "<p>New England's playoff hopes all but ended on a disappointing night in Chicago.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2025/09/07/3-takeaways-from-the-revolutions-3-2-loss-vs-the-chicago-fire/\">3 takeaways from the Revolution&#8217;s 3-2 loss vs. the Chicago Fire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e483679ea466edec790569f10ceb491",
+      "summary": [
+        "New England Revolution lost 3-2 to Chicago Fire on September 7, 2025.",
+        "This defeat significantly diminishes the team's playoff chances for the season.",
+        "Local fans express disappointment as hopes for a successful season fade."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston\u2019s preliminary election is almost here. Here\u2019s who will be on the ballot",
+      "link": "https://www.boston.com/news/local-news/2025/09/07/bostons-preliminary-election-is-almost-here-heres-who-will-be-on-the-ballot/",
+      "pubDate": "Sun, 07 Sep 2025 12:06:04 +0000",
+      "description": "<p>A wide field of mayoral and City Council candidates will be narrowed down through the preliminary election on Sept. 9. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/07/bostons-preliminary-election-is-almost-here-heres-who-will-be-on-the-ballot/\">Boston&#8217;s preliminary election is almost here. Here&#8217;s who will be on the ballot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4e6b05e185bd6574ed85ef2c33958a6b",
+      "summary": [
+        "Boston's preliminary election will take place on September 9, 2025.",
+        "Numerous mayoral and City Council candidates will compete for voter support.",
+        "Election results will significantly shape Boston's political landscape and future policies."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Maren Morris brings her divorce album to Leader Bank Pavilion",
+      "link": "https://www.boston.com/culture/concert-reviews/2025/09/07/maren-morris-brings-her-divorce-album-to-leader-bank-pavilion/",
+      "pubDate": "Sun, 07 Sep 2025 11:46:16 +0000",
+      "description": "<p>It sent the message that Morris was prepared to share exactly where she is now and wasn't much interested in looking back.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/09/07/maren-morris-brings-her-divorce-album-to-leader-bank-pavilion/\">Maren Morris brings her divorce album to Leader Bank Pavilion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "192a359ff695b8e9f9dcdbad549c2bf9",
+      "summary": [
+        "Maren Morris performed her divorce album at Leader Bank Pavilion on September 7, 2025.",
+        "The concert highlighted Morris's emotional journey, resonating with local fans experiencing similar struggles.",
+        "Boston residents engaged with the performance, fostering community connection through shared experiences of heartbreak."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-07T10:19:23.592719+00:00"
+    "timestamp": "2025-09-07T12:39:10.410439+00:00"
   }
 }
