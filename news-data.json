@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-09-07T20:20:50.889174+00:00",
+  "lastUpdated": "2025-09-07T22:18:38.792023+00:00",
   "articles": [
     {
-      "title": "Review & setlist: Dropkick Murphys come on strong, avert disaster at soggy Suffolk Downs",
-      "link": "https://www.boston.com/culture/concert-reviews/2025/09/07/review-setlist-dropkick-murphys-at-suffolk-downs-boston-september-6-2025/",
-      "pubDate": "Sun, 07 Sep 2025 19:27:57 +0000",
-      "description": "<p>The diehards who hung out through the rain delay were rewarded with an intense turn by Ken Casey and the boys.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/09/07/review-setlist-dropkick-murphys-at-suffolk-downs-boston-september-6-2025/\">Review &amp; setlist: Dropkick Murphys come on strong, avert disaster at soggy Suffolk Downs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "beefc3fb632e389847c99125a05f8632",
+      "title": "Lynn police officer on leave after becoming \u2018suddenly incapacitated\u2019 while on duty",
+      "link": "https://www.boston.com/news/local-news/2025/09/07/lynn-police-officer-on-leave-after-becoming-suddenly-incapacitated-while-on-duty/",
+      "pubDate": "Sun, 07 Sep 2025 21:30:09 +0000",
+      "description": "<p>Video posted on social media shows the Lynn police officer not responding to questions, blinking slowly, and struggling to stand. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/07/lynn-police-officer-on-leave-after-becoming-suddenly-incapacitated-while-on-duty/\">Lynn police officer on leave after becoming &#8216;suddenly incapacitated&#8217; while on duty</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fac23f85d42315527428c815bea1f81c",
       "summary": [
-        "Dropkick Murphys performed at Suffolk Downs on September 6, 2025, despite heavy rain.",
-        "Ken Casey led an intense performance that energized dedicated fans during the rain delay.",
-        "The concert's success highlights Boston's vibrant music scene and community resilience."
+        "Lynn police officer became incapacitated while on duty, as shown in social media video.",
+        "Officer is currently on leave pending investigation into the incident.",
+        "Local residents concerned about police officer's health and safety protocols."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots stock watch: Here\u2019s who stood out and struggled against the Raiders",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/07/patriots-stock-watch-drake-maye-will-campbell-harold-landry-analysis/",
+      "pubDate": "Sun, 07 Sep 2025 21:23:40 +0000",
+      "description": "<p>Harold Landry brought lots of pressure, but the Patriots folded in the home opener. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/07/patriots-stock-watch-drake-maye-will-campbell-harold-landry-analysis/\">Patriots stock watch: Here&#8217;s who stood out and struggled against the Raiders</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7d0affc2652edbdcba0c3de62af9b137",
+      "summary": [
+        "Patriots lost their home opener against the Raiders on September 7, 2025.",
+        "Harold Landry applied significant pressure, highlighting defensive struggles.",
+        "Local fans express disappointment as team fails to capitalize on home advantage."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "ICE has begun immigration crackdown in Massachusetts",
+      "link": "https://www.boston.com/news/politics/2025/09/07/ice-has-begun-immigration-crackdown-in-massachusetts/",
+      "pubDate": "Sun, 07 Sep 2025 20:26:39 +0000",
+      "description": "<p>The operation includes Boston, whose mayor has drawn the administration\u2019s ire for speaking out against the growing scale of its immigration actions.            </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/07/ice-has-begun-immigration-crackdown-in-massachusetts/\">ICE has begun immigration crackdown in Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cfbb4ed571fd59e256771c63ac65c9a9",
+      "summary": [
+        "ICE has initiated an immigration crackdown across Massachusetts, including Boston.",
+        "Boston Mayor Michelle Wu has criticized the federal administration's immigration actions.",
+        "Local immigrant communities may face increased fear and uncertainty due to these operations."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-07T20:20:50.889195+00:00"
+    "timestamp": "2025-09-07T22:18:38.792035+00:00"
   }
 }
