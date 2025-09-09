@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-09T08:29:44.007469+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-09T10:24:08.541157+00:00",
+  "articles": [
+    {
+      "title": "Best food events around Boston and New England for fall 2025",
+      "link": "https://www.boston.com/food/food/2025/09/09/best-fall-events-boston-new-england/",
+      "pubDate": "Tue, 09 Sep 2025 09:00:00 +0000",
+      "description": "<p>Fall isn't just the season for leaf peeping in New England. From Vermont to the Cape, there are multiple foodie events to eat pumpkin, apples, and more. </p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/09/09/best-fall-events-boston-new-england/\">Best food events around Boston and New England for fall 2025</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4bfe78231e9b831a1bfb3acafbbe2148",
+      "summary": [
+        "Explore local fall food events across Boston and New England starting September 2025.",
+        "Enjoy seasonal flavors like pumpkin and apples at various regional festivals.",
+        "Support local businesses and farmers by attending these community-focused culinary events."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Emmy nominee Jeff Hiller joins the latest episode of the Love Letters podcast",
+      "link": "https://www.boston.com/love-letters/love-letters/2025/09/09/jeff-hiller-somebody-somewhere/",
+      "pubDate": "Tue, 09 Sep 2025 09:00:00 +0000",
+      "description": "<p>The \u201cSomebody Somewhere\u201d star tells Meredith Goldstein a story about a breakup.</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2025/09/09/jeff-hiller-somebody-somewhere/\">Emmy nominee Jeff Hiller joins the latest episode of the Love Letters podcast</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7b82451e0aaad0bd817c820f9394633d",
+      "summary": [
+        "Emmy nominee Jeff Hiller shares a personal breakup story on Love Letters podcast.",
+        "Hiller stars in HBO's 'Somebody Somewhere', enhancing Boston's cultural scene.",
+        "Podcast episode offers local listeners relatable insights into relationships and personal growth."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-09T08:29:44.007477+00:00"
+    "timestamp": "2025-09-09T10:24:08.541180+00:00"
   }
 }
