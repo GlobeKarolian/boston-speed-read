@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-09-09T16:28:04.897425+00:00",
+  "lastUpdated": "2025-09-09T18:28:18.575256+00:00",
   "articles": [
+    {
+      "title": "Mass. has one of the best nude beaches in the U.S., according to CNN",
+      "link": "https://www.boston.com/travel/travel/2025/09/09/mass-has-one-of-the-best-nude-beaches-cnn/",
+      "pubDate": "Tue, 09 Sep 2025 18:05:26 +0000",
+      "description": "<p>You'll find it on Martha's Vineyard.</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/09/09/mass-has-one-of-the-best-nude-beaches-cnn/\">Mass. has one of the best nude beaches in the U.S., according to CNN</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b334fe25e6540f14075b7a7043b3a395",
+      "summary": [
+        "CNN ranks Martha's Vineyard as one of the best nude beaches in the U.S.",
+        "The beach offers a unique experience for locals and tourists seeking clothing-optional options.",
+        "Boston residents can access this popular destination for summer relaxation and recreation."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Return-to-office has settled. Is this as good as it gets for downtown?",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/09/09/return-to-office-has-settled-is-this-as-good-as-it-gets-for-downtown/",
+      "pubDate": "Tue, 09 Sep 2025 18:02:20 +0000",
+      "description": "<p>Commuter rail growth has flattened, and no major new work shifts have been announced for September.</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/09/09/return-to-office-has-settled-is-this-as-good-as-it-gets-for-downtown/\">Return-to-office has settled. Is this as good as it gets for downtown?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "81440fb088fcbbcf251b1c4dec1bc6d9",
+      "summary": [
+        "Commuter rail usage in Boston has plateaued, indicating a shift in work patterns.",
+        "No significant changes in office work schedules are expected for September 2023.",
+        "Downtown Boston's economic recovery may stall without new job growth initiatives."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018It\u2019s not weird\u2019: The people who love to stare at airplane flight maps",
+      "link": "https://www.boston.com/travel/flights/2025/09/09/its-not-weird-the-people-who-love-to-stare-at-airplane-flight-maps/",
+      "pubDate": "Tue, 09 Sep 2025 17:19:29 +0000",
+      "description": "<p>According to FlightPath3D, an in-flight map provider for more than 90 airlines, about 68 percent of passengers open the map on seat-back screens and 20 percent view only the map. </p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2025/09/09/its-not-weird-the-people-who-love-to-stare-at-airplane-flight-maps/\">\u2018It\u2019s not weird\u2019: The people who love to stare at airplane flight maps</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4cad674c430e4fd9d6e794c1b79e40ce",
+      "summary": [
+        "FlightPath3D reports 68% of passengers use in-flight maps on seat-back screens.",
+        "20% of passengers exclusively view the flight map during their journey.",
+        "Increased interest in flight maps may enhance travel experience for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Driving school manager gets prison time for passing unqualified drivers in State Police license fraud scheme",
+      "link": "https://www.boston.com/news/crime/2025/09/09/driving-school-manager-sentenced-state-police-license-fraud-scheme/",
+      "pubDate": "Tue, 09 Sep 2025 16:56:28 +0000",
+      "description": "<p>Scott Camara, 44, pleaded guilty in April to charges of perjury and conspiracy to falsify records.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/09/driving-school-manager-sentenced-state-police-license-fraud-scheme/\">Driving school manager gets prison time for passing unqualified drivers in State Police license fraud scheme</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "52e2d3f26d8effc6e6d4dcf5cebb0add",
+      "summary": [
+        "Scott Camara, 44, sentenced for passing unqualified drivers in a fraud scheme.",
+        "Camara pleaded guilty to perjury and conspiracy charges in April 2025.",
+        "The scheme jeopardized public safety by allowing unqualified drivers on Boston roads."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox reportedly calling up pitching prospect for MLB debut, sending Dustin May to IL",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/09/sox-prospect-connelly-early/",
+      "pubDate": "Tue, 09 Sep 2025 16:41:07 +0000",
+      "description": "<p>Connelly Early is set to make his first career start.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/09/sox-prospect-connelly-early/\">Red Sox reportedly calling up pitching prospect for MLB debut, sending Dustin May to IL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9e2899fa67850c412ab9f31ac99da7b9",
+      "summary": [
+        "Red Sox call up pitching prospect Connelly Early for MLB debut.",
+        "Dustin May placed on the injured list, impacting team rotation.",
+        "Local fans anticipate Early's performance in upcoming games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Mass. teen facing assault with dangerous weapon charges in road rage incident near high school",
       "link": "https://www.boston.com/news/crime/2025/09/09/mass-teen-facing-assault-with-dangerous-weapon-charges-in-road-rage-incident-near-high-school/",
@@ -583,71 +648,6 @@
         "Boston.com seeks reader input on favorite apple orchards for updated guide.",
         "The article encourages community engagement for the 2025 apple picking season.",
         "Local residents can discover popular orchards, enhancing fall activities in the area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Another New Hampshire man gets a pig kidney as transplant trials are poised to start",
-      "link": "https://www.boston.com/news/health/2025/09/08/another-new-hampshire-man-gets-a-pig-kidney-as-transplant-trials-are-poised-to-start/",
-      "pubDate": "Mon, 08 Sep 2025 13:56:51 +0000",
-      "description": "<p>Based on lessons from the New Hampshire men and a handful of other one-off attempts, the Food and Drug Administration approved pig producer eGenesis to begin a rigorous study of kidney xenotransplants.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/09/08/another-new-hampshire-man-gets-a-pig-kidney-as-transplant-trials-are-poised-to-start/\">Another New Hampshire man gets a pig kidney as transplant trials are poised to start</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2c12633b2a88678e106425cec9553903",
-      "summary": [
-        "FDA approved eGenesis to start kidney xenotransplant trials, impacting local transplant options.",
-        "New Hampshire man receives a pig kidney, part of a broader study involving multiple patients.",
-        "Boston residents may benefit from increased organ availability and innovative transplant solutions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018An unfathomable tragedy.\u2019 Lloyd Young, Globe photo editor and avid athlete, dies at 57.",
-      "link": "https://www.boston.com/news/the-boston-globe/2025/09/08/an-unfathomable-tragedy-lloyd-young-globe-photo-editor-and-avid-athlete-dies-at-57/",
-      "pubDate": "Mon, 08 Sep 2025 13:56:39 +0000",
-      "description": "<p>Each day Lloyd Young examined thousands of images as the photo editor for the front page of The Boston Globe, playing a key role in choosing the first pictures readers see in print and online. He had begun his career shooting photos for his high school yearbook and college newspaper, though, and always remembered what [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/09/08/an-unfathomable-tragedy-lloyd-young-globe-photo-editor-and-avid-athlete-dies-at-57/\">\u2018An unfathomable tragedy.\u2019 Lloyd Young, Globe photo editor and avid athlete, dies at 57.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d90c130bb607112320fac656b0afe620",
-      "summary": [
-        "Lloyd Young, 57, Boston Globe photo editor, passed away, impacting local journalism.",
-        "Young curated thousands of images daily, shaping the visual narrative for Boston residents.",
-        "His death leaves a significant void in the local media community and among athletes."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Photos: Highlights from Day 2 at Seisi\u00fan Irish music festival in Boston",
-      "link": "https://www.boston.com/culture/concerts/2025/09/08/photos-highlights-from-day-2-at-seisiun-irish-music-festival-in-boston/",
-      "pubDate": "Mon, 08 Sep 2025 13:40:32 +0000",
-      "description": "<p>The venue remained wet, but the crowds and bands were undeterred at Suffolk Downs Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concerts/2025/09/08/photos-highlights-from-day-2-at-seisiun-irish-music-festival-in-boston/\">Photos: Highlights from Day 2 at Seisi\u00fan Irish music festival in Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "af6e718c5b57423c17b3c0bd209236e7",
-      "summary": [
-        "Suffolk Downs hosted Day 2 of the Seisi\u00fan Irish music festival on September 8.",
-        "Crowds enjoyed performances despite wet conditions, showcasing local resilience and community spirit.",
-        "The festival supports local artists and boosts Boston's cultural scene, attracting visitors."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Powerball\u2019s $1.8 billion jackpot: 2 winning tickets sold",
-      "link": "https://www.boston.com/news/national-news/2025/09/08/powerballs-1-8-billion-jackpot-2-winning-tickets-sold/",
-      "pubDate": "Mon, 08 Sep 2025 13:39:54 +0000",
-      "description": "<p>Each ticket holder will have the choice between an annuitized prize of $893.5 million or a lump sum payment of $410.3 million.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/09/08/powerballs-1-8-billion-jackpot-2-winning-tickets-sold/\">Powerball&#8217;s $1.8 billion jackpot: 2 winning tickets sold</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7ed60fecc96f86ad4db8d750963d78ae",
-      "summary": [
-        "Two winning Powerball tickets sold, each worth $1.8 billion jackpot.",
-        "Winners can choose between $893.5 million annuity or $410.3 million lump sum.",
-        "Local businesses may see increased spending from winners in Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Mike Vrabel on Drake Maye, Will Campbell, and Bill Belichick\u2019s comments about banning Patriots scouts",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/08/mike-vrabel-patriots-bill-belichick-comments-will-campbell-drake-maye/",
-      "pubDate": "Mon, 08 Sep 2025 13:36:24 +0000",
-      "description": "<p>Vrabel said he appreciated Patriots' fan support even in tough times: \"I want to be able to thank them when they're loud on third down.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/08/mike-vrabel-patriots-bill-belichick-comments-will-campbell-drake-maye/\">Mike Vrabel on Drake Maye, Will Campbell, and Bill Belichick&#8217;s comments about banning Patriots scouts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "045e2c3406ebbe2296c4e53d83e90e04",
-      "summary": [
-        "Mike Vrabel acknowledged Patriots fans' support during tough games, emphasizing community connection.",
-        "Vrabel expressed gratitude for fan noise during critical moments, like third downs.",
-        "Bill Belichick's comments on banning scouts may affect future scouting strategies in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
