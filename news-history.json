@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-09-09T12:48:07.470887+00:00",
+  "lastUpdated": "2025-09-09T14:20:39.962893+00:00",
   "articles": [
+    {
+      "title": "Mass. actually had 4 tornadoes Saturday, says National Weather Service",
+      "link": "https://www.boston.com/news/weather/2025/09/09/massachusetts-4-tornadoes-saturday-national-weather-service/",
+      "pubDate": "Tue, 09 Sep 2025 14:00:52 +0000",
+      "description": "<p>NWS Boston said the twisters were associated with a severe thunderstorm that tore through the area.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2025/09/09/massachusetts-4-tornadoes-saturday-national-weather-service/\">Mass. actually had 4 tornadoes Saturday, says National Weather Service</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6033cfddb1411092838b08a33a0167c6",
+      "summary": [
+        "National Weather Service confirmed four tornadoes hit Massachusetts on Saturday.",
+        "The tornadoes were linked to a severe thunderstorm affecting the Boston area.",
+        "Residents should prepare for potential severe weather alerts in the future."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "New on Netflix and more: Top streaming picks in September",
+      "link": "https://www.boston.com/culture/the-queue/2025/09/09/top-streaming-picks-september-2025/",
+      "pubDate": "Tue, 09 Sep 2025 13:12:40 +0000",
+      "description": "<p>A mix of older movies and new shows streaming now.</p>\n<p>The post <a href=\"https://www.boston.com/culture/the-queue/2025/09/09/top-streaming-picks-september-2025/\">New on Netflix and more: Top streaming picks in September</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "882307b024ccbbdb33ad10023b3225c7",
+      "summary": [
+        "Discover new streaming options on Netflix for Boston residents this September.",
+        "Watch popular shows like 'The Crown' and movies like 'The Social Network' now available.",
+        "Enjoy diverse entertainment choices that cater to various interests in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "On the hunt for sharks in Boston Harbor",
+      "link": "https://www.boston.com/news/local-news/2025/09/09/boston-harbor-sharks/",
+      "pubDate": "Tue, 09 Sep 2025 13:12:07 +0000",
+      "description": "<p>Researchers are working to tag and study young sand tiger sharks that come to Massachusetts waters year after year.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/09/boston-harbor-sharks/\">On the hunt for sharks in Boston Harbor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a2e4c67f280690397cc52e33b9d4e8cd",
+      "summary": [
+        "Researchers are tagging young sand tiger sharks in Boston Harbor for study.",
+        "Massachusetts waters attract these sharks annually, indicating a healthy marine ecosystem.",
+        "Local fishermen and residents may benefit from increased shark population awareness."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Police seek help finding alleged shooter who escaped on scooter",
+      "link": "https://www.boston.com/news/crime/2025/09/09/police-seek-help-finding-alleged-shooter-who-escaped-on-scooter/",
+      "pubDate": "Tue, 09 Sep 2025 13:01:26 +0000",
+      "description": "<p>The victim sustained serious injuries in the Aug. 16 Dorchester shooting. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/09/police-seek-help-finding-alleged-shooter-who-escaped-on-scooter/\">Police seek help finding alleged shooter who escaped on scooter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "03cbece88b02b74c6de7811b05086006",
+      "summary": [
+        "Police are searching for a shooter involved in an Aug. 16 incident in Dorchester.",
+        "The victim suffered serious injuries from the shooting, raising community safety concerns.",
+        "Residents are urged to provide information to aid in the investigation."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Garrett Crochet, Trevor Story power Red Sox to a 7-0 win over the Athletics",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/09/garrett-crochet-athletics-game/",
+      "pubDate": "Tue, 09 Sep 2025 04:37:48 +0000",
+      "description": "<p>Crochet did not walk a batter for the third straight game.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/09/garrett-crochet-athletics-game/\">Garrett Crochet, Trevor Story power Red Sox to a 7-0 win over the Athletics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0ab94dca4e9526679c9a0338849630e",
+      "summary": [
+        "Red Sox defeated the Athletics 7-0 on September 9, 2025.",
+        "Garrett Crochet achieved his third consecutive game without a walk.",
+        "Trevor Story's performance boosts team morale ahead of upcoming games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Charlotte leaders criticized over killing of Ukrainian woman as Trump, MAGA target another Dem city",
       "link": "https://www.boston.com/news/crime/2025/09/09/charlotte-leaders-killing-ukrainian-woman-trump-maga-dem-city/",
@@ -583,71 +648,6 @@
         "Lynn police officer became incapacitated while on duty, as shown in social media video.",
         "Officer is currently on leave pending investigation into the incident.",
         "Local residents concerned about police officer's health and safety protocols."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots stock watch: Here\u2019s who stood out and struggled against the Raiders",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/07/patriots-stock-watch-drake-maye-will-campbell-harold-landry-analysis/",
-      "pubDate": "Sun, 07 Sep 2025 21:23:40 +0000",
-      "description": "<p>Harold Landry brought lots of pressure, but the Patriots folded in the home opener. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/07/patriots-stock-watch-drake-maye-will-campbell-harold-landry-analysis/\">Patriots stock watch: Here&#8217;s who stood out and struggled against the Raiders</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7d0affc2652edbdcba0c3de62af9b137",
-      "summary": [
-        "Patriots lost their home opener against the Raiders on September 7, 2025.",
-        "Harold Landry applied significant pressure, highlighting defensive struggles.",
-        "Local fans express disappointment as team fails to capitalize on home advantage."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "ICE has begun immigration crackdown in Massachusetts",
-      "link": "https://www.boston.com/news/politics/2025/09/07/ice-has-begun-immigration-crackdown-in-massachusetts/",
-      "pubDate": "Sun, 07 Sep 2025 20:26:39 +0000",
-      "description": "<p>The operation includes Boston, whose mayor has drawn the administration\u2019s ire for speaking out against the growing scale of its immigration actions.            </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/07/ice-has-begun-immigration-crackdown-in-massachusetts/\">ICE has begun immigration crackdown in Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cfbb4ed571fd59e256771c63ac65c9a9",
-      "summary": [
-        "ICE has initiated an immigration crackdown across Massachusetts, including Boston.",
-        "Boston Mayor Michelle Wu has criticized the federal administration's immigration actions.",
-        "Local immigrant communities may face increased fear and uncertainty due to these operations."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Review & setlist: Dropkick Murphys come on strong, avert disaster at soggy Suffolk Downs",
-      "link": "https://www.boston.com/culture/concert-reviews/2025/09/07/review-setlist-dropkick-murphys-at-suffolk-downs-boston-september-6-2025/",
-      "pubDate": "Sun, 07 Sep 2025 19:27:57 +0000",
-      "description": "<p>The diehards who hung out through the rain delay were rewarded with an intense turn by Ken Casey and the boys.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/09/07/review-setlist-dropkick-murphys-at-suffolk-downs-boston-september-6-2025/\">Review &amp; setlist: Dropkick Murphys come on strong, avert disaster at soggy Suffolk Downs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "beefc3fb632e389847c99125a05f8632",
-      "summary": [
-        "Dropkick Murphys performed at Suffolk Downs on September 6, 2025, despite heavy rain.",
-        "Ken Casey led an intense performance that energized dedicated fans during the rain delay.",
-        "The concert's success highlights Boston's vibrant music scene and community resilience."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bill Belichick explains \u2018simple\u2019 reason why he decided to ban Patriots scout at UNC",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/07/bill-belichick-banned-ban-scout-patriots-unc-north-carolina-football/",
-      "pubDate": "Sun, 07 Sep 2025 17:03:10 +0000",
-      "description": "<p>\u201cIt\u2019s clear that I\u2019m not welcome there around their facility, so they're not welcome at ours.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/07/bill-belichick-banned-ban-scout-patriots-unc-north-carolina-football/\">Bill Belichick explains \u2018simple\u2019 reason why he decided to ban Patriots scout at UNC</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "85f192174acde1aba9fe74482ce67848",
-      "summary": [
-        "Bill Belichick banned a Patriots scout from UNC due to mutual unwelcomeness.",
-        "Belichick stated, 'I\u2019m not welcome there around their facility,' indicating ongoing tensions.",
-        "This decision may affect future scouting opportunities for the Patriots in North Carolina."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots vs. Raiders live updates: Will New England start Mike Vrabel era with a win?",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/07/patriots-raiders-live-updates-score-blog-liveblog-drake-maye-mike-vrabel/",
-      "pubDate": "Sun, 07 Sep 2025 15:53:02 +0000",
-      "description": "<p>Drake Maye and the Patriots are set to open a new season on Sunday at a rainy Gillette Stadium. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/07/patriots-raiders-live-updates-score-blog-liveblog-drake-maye-mike-vrabel/\">Patriots vs. Raiders live updates: Will New England start Mike Vrabel era with a win?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f9c376ae81d671466c87ca3aa9a5e5f4",
-      "summary": [
-        "Patriots open season against Raiders on September 10 at Gillette Stadium.",
-        "Drake Maye will debut as starting quarterback for New England.",
-        "Fans expect a new era under coach Mike Vrabel amid rainy conditions."
       ],
       "hookType": "LOCAL_IMPACT"
     }
