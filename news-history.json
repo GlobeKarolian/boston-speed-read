@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-10T20:23:41.916185+00:00",
+  "lastUpdated": "2025-09-10T22:19:24.584327+00:00",
   "articles": [
+    {
+      "title": "17-year-old stabbed inside Roxbury high school, no arrests, police say",
+      "link": "https://www.boston.com/news/local-news/2025/09/10/17-year-old-stabbed-inside-roxbury-high-school-no-arrests-police-say/",
+      "pubDate": "Wed, 10 Sep 2025 21:38:56 +0000",
+      "description": "<p>Officers responded to Madison Park High School on Malcolm X Boulevard in Roxbury around noon Wednesday, the Boston Police Department said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/10/17-year-old-stabbed-inside-roxbury-high-school-no-arrests-police-say/\">17-year-old stabbed inside Roxbury high school, no arrests, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a79bd3e516b55509c0a1eb1b46a4c560",
+      "summary": [
+        "A 17-year-old was stabbed at Madison Park High School in Roxbury on Wednesday.",
+        "Police responded to the incident around noon, but no arrests have been made.",
+        "The stabbing raises concerns about safety in Boston schools for students and parents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Report: Ex-Patriots QB Mac Jones is \u2018in line\u2019 to start for 49ers on Sunday",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/10/mac-jones-49ers-start-brock-purdy-injury-comments/",
+      "pubDate": "Wed, 10 Sep 2025 21:31:13 +0000",
+      "description": "<p>San Francisco starter Brock Purdy could be out \"multiple weeks\", 49ers coach Kyle Shanahan said. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/10/mac-jones-49ers-start-brock-purdy-injury-comments/\">Report: Ex-Patriots QB Mac Jones is &#8216;in line&#8217; to start for 49ers on Sunday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1a8c0e8d81fe7543dc42e7628293b207",
+      "summary": [
+        "Ex-Patriots QB Mac Jones is set to start for the 49ers on Sunday.",
+        "49ers starter Brock Purdy is expected to be out for multiple weeks.",
+        "Jones' performance could influence local fans' opinions on his time in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Conservative activist Charlie Kirk in critical condition after being shot at Utah college event",
       "link": "https://www.boston.com/news/national-news/2025/09/10/charlie-kirk-shot/",
@@ -622,32 +648,6 @@
         "Scott Camara, 44, sentenced for passing unqualified drivers in a fraud scheme.",
         "Camara pleaded guilty to perjury and conspiracy charges in April 2025.",
         "The scheme jeopardized public safety by allowing unqualified drivers on Boston roads."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Red Sox reportedly calling up pitching prospect for MLB debut, sending Dustin May to IL",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/09/sox-prospect-connelly-early/",
-      "pubDate": "Tue, 09 Sep 2025 16:41:07 +0000",
-      "description": "<p>Connelly Early is set to make his first career start.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/09/sox-prospect-connelly-early/\">Red Sox reportedly calling up pitching prospect for MLB debut, sending Dustin May to IL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9e2899fa67850c412ab9f31ac99da7b9",
-      "summary": [
-        "Red Sox call up pitching prospect Connelly Early for MLB debut.",
-        "Dustin May placed on the injured list, impacting team rotation.",
-        "Local fans anticipate Early's performance in upcoming games."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Mass. teen facing assault with dangerous weapon charges in road rage incident near high school",
-      "link": "https://www.boston.com/news/crime/2025/09/09/mass-teen-facing-assault-with-dangerous-weapon-charges-in-road-rage-incident-near-high-school/",
-      "pubDate": "Tue, 09 Sep 2025 16:22:34 +0000",
-      "description": "<p>The incident occurred near the high school but was unrelated to it, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/09/mass-teen-facing-assault-with-dangerous-weapon-charges-in-road-rage-incident-near-high-school/\">Mass. teen facing assault with dangerous weapon charges in road rage incident near high school</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "29f4516502a4cceca74df0de317f6b9f",
-      "summary": [
-        "Massachusetts teen charged with assault with a dangerous weapon in road rage incident.",
-        "Incident occurred near a high school but was not related to school activities.",
-        "Local residents concerned about safety following recent road rage incidents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
