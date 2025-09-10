@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-09-10T10:21:55.632369+00:00",
+  "lastUpdated": "2025-09-10T12:43:11.370810+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (Sept. 10)",
-      "link": "https://www.boston.com/real-estate/real-estate-news/2025/09/10/recent-homes-sales-in-greater-boston-sept-10/",
-      "pubDate": "Wed, 10 Sep 2025 09:00:00 +0000",
-      "description": "<p>ABINGTON 27 Camp St. One-family Cape Cod, built in 1983, 2,265 square feet, 7 rooms, 4 bedrooms, 2 baths, on 26,988-square-foot lot. $710,000 165 Oak St. One-family Colonial, built in 1986, 2,090 square feet, 9 rooms, 4 bedrooms, 4 baths, on 14,792-square-foot lot. $622,500 71 Groveland St. One-family conventional, built in 1933, 1,524 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/09/10/recent-homes-sales-in-greater-boston-sept-10/\">Recent homes sales in Greater Boston (Sept. 10)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7fd64f3d8150ee74476c122f874b3813",
+      "title": "Market Basket board votes to remove Arthur T. Demoulas",
+      "link": "https://www.boston.com/news/business/2025/09/10/market-basket-board-votes-to-remove-arthur-t-demoulas/",
+      "pubDate": "Wed, 10 Sep 2025 12:23:40 +0000",
+      "description": "<p>Tuesday\u2019s vote followed months of escalating corporate tensions and two failed mediation sessions. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/09/10/market-basket-board-votes-to-remove-arthur-t-demoulas/\">Market Basket board votes to remove Arthur T. Demoulas</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "69c32b008b249a92eb6e9206d9215f4b",
       "summary": [
-        "Recent home sales in Greater Boston show varied prices and sizes, impacting local housing market dynamics.",
-        "Abington's 27 Camp St. sold for $710,000, highlighting demand for family homes.",
-        "Increased sales activity may affect housing availability and prices for Boston residents."
+        "Market Basket board voted to remove Arthur T. Demoulas on September 10, 2025.",
+        "Vote followed months of corporate tensions and two failed mediation sessions.",
+        "Removal may affect employee morale and customer loyalty in Boston stores."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Connelly Early strikes out 11, tying Red Sox record for debut, as Boston tops A\u2019s 6-0",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/10/connelly-early-debut/",
+      "pubDate": "Wed, 10 Sep 2025 07:08:34 +0000",
+      "description": "<p>A 23-year-old left-hander selected in the fifth round of the 2023 amateur draft, Early earned his first MLB win.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/10/connelly-early-debut/\">Connelly Early strikes out 11, tying Red Sox record for debut, as Boston tops A&#8217;s 6-0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5161611baf5efaf8057fbf65b2077318",
+      "summary": [
+        "Connelly Early struck out 11 batters in his MLB debut for the Red Sox.",
+        "The 23-year-old left-hander earned his first win on September 10, 2025.",
+        "Early's performance ties a Red Sox record, boosting local team morale."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-10T10:21:55.632389+00:00"
+    "timestamp": "2025-09-10T12:43:11.370831+00:00"
   }
 }
