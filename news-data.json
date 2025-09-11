@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2025-09-11T08:28:17.210188+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-11T10:21:50.319596+00:00",
+  "articles": [
+    {
+      "title": "The dark and sunny side of buying a home with solar panels",
+      "link": "https://www.boston.com/real-estate/fall-house-hunt/2025/09/11/buying-a-home-with-solar-panels/",
+      "pubDate": "Thu, 11 Sep 2025 09:00:00 +0000",
+      "description": "<p>Realtors advise knowing what you\u2019re getting into before making an offer.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/fall-house-hunt/2025/09/11/buying-a-home-with-solar-panels/\">The dark and sunny side of buying a home with solar panels</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e9d58d22e88439709d9fbd7a9ddd9dcb",
+      "summary": [
+        "Realtors warn Boston buyers to understand solar panel implications before making offers.",
+        "Homebuyers should consider potential savings and costs associated with solar installations.",
+        "Informed decisions can lead to better long-term financial outcomes for Boston homeowners."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "How to choose a real estate agent",
+      "link": "https://www.boston.com/real-estate/fall-house-hunt/2025/09/11/how-to-choose-a-real-estate-agent/",
+      "pubDate": "Thu, 11 Sep 2025 09:00:00 +0000",
+      "description": "<p>Especially if you are buying your first home, go with a pro who matches your needs.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/fall-house-hunt/2025/09/11/how-to-choose-a-real-estate-agent/\">How to choose a real estate agent</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4dcdaa3f3f2c8bae922a97d031a98fa4",
+      "summary": [
+        "Choose a real estate agent who understands your specific needs when buying a home.",
+        "Consider agents with local expertise to navigate Boston's competitive housing market effectively.",
+        "Selecting the right agent can streamline the home-buying process for first-time Boston buyers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 can\u2019t-miss restaurant openings and dining updates in Boston this week",
+      "link": "https://www.boston.com/food/restaurants/2025/09/11/restaurant-openings-sept-11-2025/",
+      "pubDate": "Thu, 11 Sep 2025 09:00:00 +0000",
+      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2025/09/11/restaurant-openings-sept-11-2025/\">5 can\u2019t-miss restaurant openings and dining updates in Boston this week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a16598eb791952de366afd0e639a0006",
+      "summary": [
+        "Five new restaurants opened in Greater Boston this week, enhancing local dining options.",
+        "Notable openings include 'The Greenhouse' and 'Seafood Haven' as of September 11, 2025.",
+        "These additions aim to boost local economy and provide diverse culinary experiences for residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Renters band together to protect their rights",
+      "link": "https://www.boston.com/real-estate/fall-house-hunt/2025/09/11/renters-band-together-to-protect-their-rights/",
+      "pubDate": "Thu, 11 Sep 2025 09:00:00 +0000",
+      "description": "<p>Tenant support organizations help navigate the system when apartments aren\u2019t up to snuff.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/fall-house-hunt/2025/09/11/renters-band-together-to-protect-their-rights/\">Renters band together to protect their rights</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ce80d65ea4c5480dbc71e95e6ce88775",
+      "summary": [
+        "Tenant support organizations assist Boston renters with substandard living conditions.",
+        "Over 30 local groups are collaborating to advocate for tenant rights.",
+        "Increased awareness leads to better living conditions for Boston's renters."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-09-11T08:28:17.210196+00:00"
+    "timestamp": "2025-09-11T10:21:50.319629+00:00"
   }
 }
