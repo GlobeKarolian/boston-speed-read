@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-09-13T12:38:39.256178+00:00",
+  "lastUpdated": "2025-09-13T14:16:09.499173+00:00",
   "articles": [
     {
-      "title": "Ego Nwodim leaves \u2018Saturday Night Live,\u2019 which adds 5 new cast members",
-      "link": "https://www.boston.com/news/entertainment/2025/09/13/ego-nwodim-leaves-saturday-night-live-which-adds-5-new-cast-members/",
-      "pubDate": "Sat, 13 Sep 2025 12:01:49 +0000",
-      "description": "<p>Devon Walker, Emil Wakim and Michael Longfellow confirmed last month on their social media accounts that they are leaving the show.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2025/09/13/ego-nwodim-leaves-saturday-night-live-which-adds-5-new-cast-members/\">Ego Nwodim leaves &#8216;Saturday Night Live,&#8217; which adds 5 new cast members</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7233537eab9e291ef781e3dc5095fe2b",
+      "title": "Here are the Mass. residents who made the new Forbes list of 400 richest Americans",
+      "link": "https://www.boston.com/news/business/2025/09/13/here-are-the-mass-residents-who-made-the-new-forbes-list-of-400-richest-americans/",
+      "pubDate": "Sat, 13 Sep 2025 13:21:08 +0000",
+      "description": "<p>These nine Bay Staters found spots amongst the wealthiest Americans.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/09/13/here-are-the-mass-residents-who-made-the-new-forbes-list-of-400-richest-americans/\">Here are the Mass. residents who made the new Forbes list of 400 richest Americans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1ddf50990a162691270995861db03e69",
       "summary": [
-        "Ego Nwodim departs from 'Saturday Night Live' after the recent season.",
-        "Devon Walker, Emil Wakim, and Michael Longfellow also confirmed their exits last month.",
-        "Five new cast members will join SNL, impacting Boston's entertainment scene."
+        "Nine Massachusetts residents are listed among the 400 richest Americans by Forbes.",
+        "Notable names include Abigail Johnson and Robert Kraft, showcasing local wealth.",
+        "The presence of wealthy individuals may influence Boston's economy and philanthropy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Wall Street coasts to the finish of its best week in the last 5",
+      "link": "https://www.boston.com/news/business/2025/09/13/wall-street-coasts-to-the-finish-of-its-best-week-in-the-last-5/",
+      "pubDate": "Sat, 13 Sep 2025 13:03:53 +0000",
+      "description": "<p>Stocks have rallied with expectations that the Federal Reserve will cut its main interest rate for the first time this year at its meeting next week. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/09/13/wall-street-coasts-to-the-finish-of-its-best-week-in-the-last-5/\">Wall Street coasts to the finish of its best week in the last 5</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e8abc9d089dc091d524b7f66b1c0abad",
+      "summary": [
+        "Stocks rallied this week amid expectations of a Federal Reserve interest rate cut.",
+        "This marks Wall Street's best week in five weeks, boosting investor confidence.",
+        "Potential rate cuts could lower borrowing costs for Boston residents and businesses."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-13T12:38:39.256198+00:00"
+    "timestamp": "2025-09-13T14:16:09.499192+00:00"
   }
 }
