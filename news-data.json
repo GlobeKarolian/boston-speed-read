@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-09-13T14:16:09.499173+00:00",
+  "lastUpdated": "2025-09-13T16:22:33.269707+00:00",
   "articles": [
     {
-      "title": "Here are the Mass. residents who made the new Forbes list of 400 richest Americans",
-      "link": "https://www.boston.com/news/business/2025/09/13/here-are-the-mass-residents-who-made-the-new-forbes-list-of-400-richest-americans/",
-      "pubDate": "Sat, 13 Sep 2025 13:21:08 +0000",
-      "description": "<p>These nine Bay Staters found spots amongst the wealthiest Americans.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/09/13/here-are-the-mass-residents-who-made-the-new-forbes-list-of-400-richest-americans/\">Here are the Mass. residents who made the new Forbes list of 400 richest Americans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1ddf50990a162691270995861db03e69",
+      "title": "5 things to know about Dolphins before Patriots take them on in Week 2",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/13/patriots-dolphins-nfl-week-2-preview/",
+      "pubDate": "Sat, 13 Sep 2025 16:08:02 +0000",
+      "description": "<p>The Patriots are looking to snap their five-game losing streak to the Dolphins in Miami. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/13/patriots-dolphins-nfl-week-2-preview/\">5 things to know about Dolphins before Patriots take them on in Week 2</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6b896440d46c75cc23828730c8ef7776",
       "summary": [
-        "Nine Massachusetts residents are listed among the 400 richest Americans by Forbes.",
-        "Notable names include Abigail Johnson and Robert Kraft, showcasing local wealth.",
-        "The presence of wealthy individuals may influence Boston's economy and philanthropy."
+        "Patriots aim to end five-game losing streak against Dolphins on September 17.",
+        "Dolphins have a strong home advantage, impacting Patriots' chances in Miami.",
+        "Local fans anticipate a competitive game that could shift team momentum."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Wall Street coasts to the finish of its best week in the last 5",
-      "link": "https://www.boston.com/news/business/2025/09/13/wall-street-coasts-to-the-finish-of-its-best-week-in-the-last-5/",
-      "pubDate": "Sat, 13 Sep 2025 13:03:53 +0000",
-      "description": "<p>Stocks have rallied with expectations that the Federal Reserve will cut its main interest rate for the first time this year at its meeting next week. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/09/13/wall-street-coasts-to-the-finish-of-its-best-week-in-the-last-5/\">Wall Street coasts to the finish of its best week in the last 5</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e8abc9d089dc091d524b7f66b1c0abad",
+      "title": "Review & setlist: Ethel Cain haunts Roadrunner with Southern Gothic epic",
+      "link": "https://www.boston.com/culture/concert-reviews/2025/09/13/review-setlist-ethel-cain-haunts-roadrunner-with-southern-gothic-epic/",
+      "pubDate": "Sat, 13 Sep 2025 15:46:06 +0000",
+      "description": "<p>\"Willoughby Tucker, I\u2019ll Always Love You\" takes center stage in a night of haunting beauty and raw emotion.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/09/13/review-setlist-ethel-cain-haunts-roadrunner-with-southern-gothic-epic/\">Review &amp; setlist: Ethel Cain haunts Roadrunner with Southern Gothic epic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2a14b36f389900a9bde5167e2e255076",
       "summary": [
-        "Stocks rallied this week amid expectations of a Federal Reserve interest rate cut.",
-        "This marks Wall Street's best week in five weeks, boosting investor confidence.",
-        "Potential rate cuts could lower borrowing costs for Boston residents and businesses."
+        "Ethel Cain performed at Roadrunner on September 13, captivating Boston audiences with her Southern Gothic style.",
+        "The setlist featured the emotional centerpiece 'Willoughby Tucker, I\u2019ll Always Love You'.",
+        "Local residents experienced a night of haunting beauty and raw emotion, enhancing Boston's cultural scene."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "45 years later, Andover High\u2019s Chiklis returns to gridiron for \u2018The Senior\u2019",
+      "link": "https://www.boston.com/news/entertainment/2025/09/13/45-years-later-andover-highs-chiklis-returns-to-gridiron-for-the-senior/",
+      "pubDate": "Sat, 13 Sep 2025 14:37:07 +0000",
+      "description": "<p>Ahead of a Boston screening Sunday, the Lowell Native talks Tom Brady, Boston University \u2014 and getting pummeled on the field.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2025/09/13/45-years-later-andover-highs-chiklis-returns-to-gridiron-for-the-senior/\">45 years later, Andover High&#8217;s Chiklis returns to gridiron for &#8216;The Senior&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fefed529aabe3119b7f47aff8297830a",
+      "summary": [
+        "Actor Michael Chiklis returns to football for 'The Senior' screening in Boston on Sunday.",
+        "Chiklis, a Lowell native, reflects on his high school football days and Tom Brady.",
+        "The event highlights local talent and connects Boston residents to their sports heritage."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-13T14:16:09.499192+00:00"
+    "timestamp": "2025-09-13T16:22:33.269727+00:00"
   }
 }
