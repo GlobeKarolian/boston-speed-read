@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-09-13T10:19:22.586511+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-13T12:38:39.256178+00:00",
+  "articles": [
+    {
+      "title": "Ego Nwodim leaves \u2018Saturday Night Live,\u2019 which adds 5 new cast members",
+      "link": "https://www.boston.com/news/entertainment/2025/09/13/ego-nwodim-leaves-saturday-night-live-which-adds-5-new-cast-members/",
+      "pubDate": "Sat, 13 Sep 2025 12:01:49 +0000",
+      "description": "<p>Devon Walker, Emil Wakim and Michael Longfellow confirmed last month on their social media accounts that they are leaving the show.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2025/09/13/ego-nwodim-leaves-saturday-night-live-which-adds-5-new-cast-members/\">Ego Nwodim leaves &#8216;Saturday Night Live,&#8217; which adds 5 new cast members</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7233537eab9e291ef781e3dc5095fe2b",
+      "summary": [
+        "Ego Nwodim departs from 'Saturday Night Live' after the recent season.",
+        "Devon Walker, Emil Wakim, and Michael Longfellow also confirmed their exits last month.",
+        "Five new cast members will join SNL, impacting Boston's entertainment scene."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-09-13T10:19:22.586520+00:00"
+    "timestamp": "2025-09-13T12:38:39.256198+00:00"
   }
 }
