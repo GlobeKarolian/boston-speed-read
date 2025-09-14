@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-09-14T10:18:45.305517+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-14T12:38:12.961940+00:00",
+  "articles": [
+    {
+      "title": "Patel faces congressional hearings after missteps in Kirk assassination probe",
+      "link": "https://www.boston.com/news/politics/2025/09/14/patel-faces-congressional-hearings-after-missteps-in-kirk-assassination-probe/",
+      "pubDate": "Sun, 14 Sep 2025 12:33:31 +0000",
+      "description": "<p>Patel is also facing broader doubts about whether he can stabilize a federal law enforcement agency fragmented by political fights and internal upheaval.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/14/patel-faces-congressional-hearings-after-missteps-in-kirk-assassination-probe/\">Patel faces congressional hearings after missteps in Kirk assassination probe</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7096fc5fba07b903d7432f98f6a0bc83",
+      "summary": [
+        "Patel faces congressional hearings due to missteps in the Kirk assassination investigation.",
+        "Concerns grow over Patel's ability to stabilize a fragmented federal law enforcement agency.",
+        "Boston residents may experience increased scrutiny and changes in federal law enforcement practices."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-09-14T10:18:45.305527+00:00"
+    "timestamp": "2025-09-14T12:38:12.961960+00:00"
   }
 }
