@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-09-14T03:03:50.465268+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-14T04:24:38.223726+00:00",
+  "articles": [
+    {
+      "title": "Alex Bregman shares his advice for younger Red Sox teammates down the stretch",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/13/red-sox-alex-bregman-playoffs/",
+      "pubDate": "Sun, 14 Sep 2025 03:45:36 +0000",
+      "description": "<p>\"You could start swinging harder, trying to do more ... Sometimes less is more.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/13/red-sox-alex-bregman-playoffs/\">Alex Bregman shares his advice for younger Red Sox teammates down the stretch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d22d0bb09748f82789e406b4972762e3",
+      "summary": [
+        "Alex Bregman advises younger Red Sox players to focus on consistency over effort.",
+        "Bregman emphasizes that 'less is more' as the team approaches the playoffs.",
+        "This guidance aims to enhance team performance for Boston residents' playoff hopes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "3 takeaways from the Revolution\u2019s 1-1 draw vs. Toronto FC",
+      "link": "https://www.boston.com/sports/new-england-revolution/2025/09/13/3-takeaways-from-the-revolutions-1-1-draw-vs-toronto-fc/",
+      "pubDate": "Sun, 14 Sep 2025 03:28:14 +0000",
+      "description": "<p>\"There have been too many of those games this year where we're right there to win \u2014 especially at home \u2014 we've got to go and win it.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2025/09/13/3-takeaways-from-the-revolutions-1-1-draw-vs-toronto-fc/\">3 takeaways from the Revolution&#8217;s 1-1 draw vs. Toronto FC</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "77c78796e7118e7f751edc6b8be59de7",
+      "summary": [
+        "Revolution secured a 1-1 draw against Toronto FC on September 13, 2025.",
+        "This marks another missed opportunity for the Revolution to win at home.",
+        "Fans express frustration over the team's inability to convert close matches into victories."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Max Fried helps the Yankees beat the Red Sox 5-3 to strengthen playoff position",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/13/mlb-red-sox-yankees-recap/",
+      "pubDate": "Sat, 13 Sep 2025 23:40:23 +0000",
+      "description": "<p>Fried pitched 5 1/3 innings and Jazz Chisholm Jr. recorded three RBIs for the Yankees.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/13/mlb-red-sox-yankees-recap/\">Max Fried helps the Yankees beat the Red Sox 5-3 to strengthen playoff position</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b5e76a9ef7a52739079d3ed5e81e85f6",
+      "summary": [
+        "Yankees defeated Red Sox 5-3 on September 13, impacting Boston's playoff chances.",
+        "Max Fried pitched 5 1/3 innings, contributing to the Yankees' victory.",
+        "Jazz Chisholm Jr. recorded three RBIs, highlighting the Yankees' offensive strength."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-14T03:03:50.465282+00:00"
+    "timestamp": "2025-09-14T04:24:38.223741+00:00"
   }
 }
