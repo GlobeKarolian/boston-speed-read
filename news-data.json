@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2025-09-14T20:20:26.908852+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-14T22:18:29.336364+00:00",
+  "articles": [
+    {
+      "title": "DA: Teen arrested after threatening to \u2018shoot up\u2019 Cape Cod school",
+      "link": "https://www.boston.com/news/crime/2025/09/14/da-teen-arrested-after-threatening-to-shoot-up-cape-cod-school/",
+      "pubDate": "Sun, 14 Sep 2025 22:06:34 +0000",
+      "description": "<p>When police searched his residence, the man had a 3D printer capable of making weapons, according to prosecutors.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/14/da-teen-arrested-after-threatening-to-shoot-up-cape-cod-school/\">DA: Teen arrested after threatening to &#8216;shoot up&#8217; Cape Cod school</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "84d82df048c17c318bffa25ba20edc6e",
+      "summary": [
+        "Update: DA: Teen arrested after threatening to \u2018shoot up\u2019 ",
+        "Details: <p>When police searched his residence, the man had",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Fox News\u2019 Brian Kilmeade apologizes for saying mentally ill homeless people should be executed",
+      "link": "https://www.boston.com/news/politics/2025/09/14/fox-news-brian-kilmeade-apologizes-for-saying-mentally-ill-homeless-people-should-be-executed/",
+      "pubDate": "Sun, 14 Sep 2025 21:18:48 +0000",
+      "description": "<p>\u201cI wrongly said they should get lethal injection. I apologize for that extremely callous remark.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/14/fox-news-brian-kilmeade-apologizes-for-saying-mentally-ill-homeless-people-should-be-executed/\">Fox News&#8217; Brian Kilmeade apologizes for saying mentally ill homeless people should be executed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "427028cd241f5d68a1e6efdb0666a4cf",
+      "summary": [
+        "Update: Fox News\u2019 Brian Kilmeade apologizes for saying men",
+        "Details: <p>\u201cI wrongly said they should get lethal injectio",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots stock watch: Who stood out and struggled in a wild win against Miami",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/14/patriots-stock-watch-drake-maye-miami-dolphins-analysis/",
+      "pubDate": "Sun, 14 Sep 2025 20:46:02 +0000",
+      "description": "<p>Drake Maye's stock is up after an efficient performance leads to a close divisional win. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/14/patriots-stock-watch-drake-maye-miami-dolphins-analysis/\">Patriots stock watch: Who stood out and struggled in a wild win against Miami</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7f796b54e0d94489f7a8e14ad1d6533f",
+      "summary": [
+        "Update: Patriots stock watch: Who stood out and struggled ",
+        "Details: <p>Drake Maye's stock is up after an efficient per",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Tornadoes destroy several homes in southeastern Utah",
+      "link": "https://www.boston.com/news/national-news/2025/09/14/tornadoes-destroy-several-homes-in-southeastern-utah/",
+      "pubDate": "Sun, 14 Sep 2025 20:45:34 +0000",
+      "description": "<p>Three homes in the area were demolished in the storm, Navajo Nation President Buu Nygren said in a social media post. </p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/09/14/tornadoes-destroy-several-homes-in-southeastern-utah/\">Tornadoes destroy several homes in southeastern Utah</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bddd985d0e85dd5009c4f16c887c47e4",
+      "summary": [
+        "Update: Tornadoes destroy several homes in southeastern Ut",
+        "Details: <p>Three homes in the area were demolished in the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Utah governor says the motive in Kirk shooting is not yet certain but the suspect was on the left",
+      "link": "https://www.boston.com/news/crime/2025/09/14/utah-governor-says-the-motive-in-kirk-shooting-is-not-yet-certain-but-the-suspect-was-on-the-left/",
+      "pubDate": "Sun, 14 Sep 2025 20:24:40 +0000",
+      "description": "<p>\u201cThere clearly was a leftist ideology,\u201d Gov. Spencer Cox said on NBC\u2019s \u201cMeet the Press,\u201d citing interviews with Robinson\u2019s relatives and acquaintances.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/14/utah-governor-says-the-motive-in-kirk-shooting-is-not-yet-certain-but-the-suspect-was-on-the-left/\">Utah governor says the motive in Kirk shooting is not yet certain but the suspect was on the left</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3a095b8778e4dfef96b8f4015bf8b2e7",
+      "summary": [
+        "Update: Utah governor says the motive in Kirk shooting is ",
+        "Details: <p>\u201cThere clearly was a leftist ideology,\u201d Gov. Sp",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2025-09-14T20:20:26.908861+00:00"
+    "timestamp": "2025-09-14T22:18:29.336383+00:00"
   }
 }
