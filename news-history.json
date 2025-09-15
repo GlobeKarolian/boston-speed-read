@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-09-15T03:09:37.506948+00:00",
+  "lastUpdated": "2025-09-15T04:26:45.687823+00:00",
   "articles": [
+    {
+      "title": "3 arrested at Burlington ICE office trying to deliver supplies to detainees",
+      "link": "https://www.boston.com/news/local-news/2025/09/14/3-arrested-at-burlington-ice-office-trying-to-deliver-supplies-to-detainees/",
+      "pubDate": "Mon, 15 Sep 2025 03:45:50 +0000",
+      "description": "<p>The ICE Boston Field Office is an office building now doubling as a detention center with multiple allegations of poor conditions.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/14/3-arrested-at-burlington-ice-office-trying-to-deliver-supplies-to-detainees/\">3 arrested at Burlington ICE office trying to deliver supplies to detainees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b868530f915c8ef6b018d56022b43d33",
+      "summary": [
+        "Update: 3 arrested at Burlington ICE office trying to deli",
+        "Details: <p>The ICE Boston Field Office is an office buildi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox deliver early knockout punch with 6-run inning to salvage series with Yankees",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/14/red-sox-six-runs-inning-first-yankees-fenway-park-mlb-baseball/",
+      "pubDate": "Mon, 15 Sep 2025 03:22:22 +0000",
+      "description": "<p>\u201cPut up six-spot \u2014 feels like a million with Crochet going.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/14/red-sox-six-runs-inning-first-yankees-fenway-park-mlb-baseball/\">Red Sox deliver early knockout punch with 6-run inning to salvage series with Yankees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d956f7b1b01fa7a0224b5f232d8a4322",
+      "summary": [
+        "Update: Red Sox deliver early knockout punch with 6-run in",
+        "Details: <p>\u201cPut up six-spot \u2014 feels like a million with Cr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Mike Vrabel defends Patriots kicker Andy Borregales after another shaky outing vs. Dolphins",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/09/14/mike-vrabel-andy-borregales-kicker-miss-patriots-new-england-nfl-football-extra-point/",
@@ -622,32 +648,6 @@
         "Inside linebackers coach Zak Kuhr will call defensive plays for the Patriots against the Dolphins.",
         "Defensive coordinator Terrell Williams is unavailable for the game on September 17, 2023.",
         "This change may affect the Patriots' defensive strategy and performance in a crucial matchup."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston activist Monica Cannon-Grant to plead guilty in federal fraud case",
-      "link": "https://www.boston.com/news/crime/2025/09/12/boston-activist-monica-cannon-grant-plead-guilty-federal-fraud-case/",
-      "pubDate": "Fri, 12 Sep 2025 20:09:09 +0000",
-      "description": "<p>Cannon-Grant was expected to stand trial next month.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/12/boston-activist-monica-cannon-grant-plead-guilty-federal-fraud-case/\">Boston activist Monica Cannon-Grant to plead guilty in federal fraud case</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9e5ad88a136bf397c4d2042b34efcd0f",
-      "summary": [
-        "Monica Cannon-Grant will plead guilty in a federal fraud case next month.",
-        "Cannon-Grant, a prominent Boston activist, faces charges related to misuse of funds.",
-        "Her guilty plea may affect local community programs she previously supported."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s what we know about Tyler Robinson, Charlie Kirk\u2019s alleged assassin",
-      "link": "https://www.boston.com/news/national-news/2025/09/12/tyler-robinson/",
-      "pubDate": "Fri, 12 Sep 2025 19:42:04 +0000",
-      "description": "<p>Robinson is currently enrolled as a third-year student in the electrical apprenticeship program at Dixie Technical College in St. George, Utah.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/09/12/tyler-robinson/\">Here&#8217;s what we know about Tyler Robinson, Charlie Kirk&#8217;s alleged assassin</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "16cc19b3bfd39c4959614d6c58c4b712",
-      "summary": [
-        "Tyler Robinson, a third-year student, is linked to Charlie Kirk's alleged assassination attempt.",
-        "Robinson is enrolled in an electrical apprenticeship program at Dixie Technical College in Utah.",
-        "Boston residents may be concerned about the implications of political violence affecting local safety."
       ],
       "hookType": "LOCAL_IMPACT"
     }
