@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-09-17T12:45:02.501329+00:00",
+  "lastUpdated": "2025-09-17T14:20:27.542302+00:00",
   "articles": [
     {
-      "title": "Golden retriever puppies with potentially deadly virus found abandoned in Boston",
-      "link": "https://www.boston.com/news/local-news/2025/09/17/puppies-virus-found-abandoned/",
-      "pubDate": "Wed, 17 Sep 2025 12:40:40 +0000",
-      "description": "<p>One of the dogs, named Big Red, will be up for adoption once the virus and gastrointestinal parasites clear his system.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/17/puppies-virus-found-abandoned/\">Golden retriever puppies with potentially deadly virus found abandoned in Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "54163b09086e03640c8004de6ef58a55",
+      "title": "The new Mass. pay transparency law starts in October. Here\u2019s what to know.",
+      "link": "https://www.boston.com/news/local-news/2025/09/17/massachusetts-pay-transparency-law/",
+      "pubDate": "Wed, 17 Sep 2025 14:05:14 +0000",
+      "description": "<p>The new law requires many Massachusetts employers to list salary ranges in job postings.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/17/massachusetts-pay-transparency-law/\">The new Mass. pay transparency law starts in October. Here&#8217;s what to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f00aea9ac9a3b6f6d729ef8c2131f8b9",
       "summary": [
-        "Update: Golden retriever puppies with potentially deadly v",
-        "Details: <p>One of the dogs, named Big Red, will be up for ",
+        "Update: The new Mass. pay transparency law starts in Octob",
+        "Details: <p>The new law requires many Massachusetts employe",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Jerry quits Ben & Jerry\u2019s, saying its independence on social issues has been stifled",
-      "link": "https://www.boston.com/news/business/2025/09/17/ben-and-jerrys-greenfield-leaving-social-justice-unilever/",
-      "pubDate": "Wed, 17 Sep 2025 11:54:45 +0000",
-      "description": "<p>Ben &amp; Jerry's has been at odds with\u00a0Unilever\u00a0for a while. In March Ben &amp; Jerry\u2019s said that its CEO was unlawfully removed by Unilever in retaliation for the ice cream maker\u2019s\u00a0social and political activism.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/09/17/ben-and-jerrys-greenfield-leaving-social-justice-unilever/\">Jerry quits Ben &amp; Jerry&#8217;s, saying its independence on social issues has been stifled</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1f77e833318f3790bf6059616284b70e",
+      "title": "Social media has us in its grip and won\u2019t let go. The Charlie Kirk killing is a case study.",
+      "link": "https://www.boston.com/news/technology/2025/09/17/social-media-has-us-in-its-grip-and-wont-let-go-the-charlie-kirk-killing-is-a-case-study/",
+      "pubDate": "Wed, 17 Sep 2025 13:39:38 +0000",
+      "description": "<p>\u201cI do think we\u2019re in a moment here,\u201d said Laura Edelson, a Northeastern University professor and expert on social media algorithms. \u201cOur country is being digitally mediated.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2025/09/17/social-media-has-us-in-its-grip-and-wont-let-go-the-charlie-kirk-killing-is-a-case-study/\">Social media has us in its grip and won&#8217;t let go. The Charlie Kirk killing is a case study.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f980a185de87195f86186f52a61ddfe2",
       "summary": [
-        "Update: Jerry quits Ben & Jerry\u2019s, saying its independence",
-        "Details: <p>Ben &amp; Jerry's has been at odds with\u00a0Unileve",
+        "Update: Social media has us in its grip and won\u2019t let go. ",
+        "Details: <p>\u201cI do think we\u2019re in a moment here,\u201d said Laura",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "7 from Mass. charged in alleged kidnapping and torture plot",
+      "link": "https://www.boston.com/news/crime/2025/09/17/alleged-kidnapping-and-torture-plot/",
+      "pubDate": "Wed, 17 Sep 2025 12:47:27 +0000",
+      "description": "<p>Five of the alleged kidnappers are in custody, and two remain at large.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/17/alleged-kidnapping-and-torture-plot/\">7 from Mass. charged in alleged kidnapping and torture plot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "598635c2e2a40a99e3571e78ebf0cb03",
+      "summary": [
+        "Update: 7 from Mass. charged in alleged kidnapping and tor",
+        "Details: <p>Five of the alleged kidnappers are in custody, ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-17T12:45:02.501352+00:00"
+    "timestamp": "2025-09-17T14:20:27.542322+00:00"
   }
 }
