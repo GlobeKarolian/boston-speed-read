@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-09-17T08:28:54.886421+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-17T10:22:15.121425+00:00",
+  "articles": [
+    {
+      "title": "Red Sox rookie Connelly Early looks like a difference maker on the mound",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/17/red-sox-connelly-early-mlb-baseball-pitcher-rookie-as/",
+      "pubDate": "Wed, 17 Sep 2025 10:19:36 +0000",
+      "description": "<p>\"I\u2019m trying to go out there and attack guys \u2014 and let the chips fall where they are.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/17/red-sox-connelly-early-mlb-baseball-pitcher-rookie-as/\">Red Sox rookie Connelly Early looks like a difference maker on the mound</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1d66a3aa82d575d89c63717458f3985d",
+      "summary": [
+        "Update: Red Sox rookie Connelly Early looks like a differe",
+        "Details: <p>\"I\u2019m trying to go out there and attack guys \u2014 a",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Recent homes sales in Greater Boston (Sept. 17)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/09/17/recent-homes-sales-in-greater-boston-sept-17/",
+      "pubDate": "Wed, 17 Sep 2025 09:00:00 +0000",
+      "description": "<p>ABINGTON 111 Constitution Ave. One-family ranch, built in 1969, 2,912 square feet, 5 rooms, 3 bedrooms, 2 baths, on 21,326-square-foot lot. $865,000 292 Plymouth St. One-family conventional, built in 1901, 3,068 square feet, 8 rooms, 4 bedrooms, 3 baths, on 24,810-square-foot lot. $800,000 434 Lincoln St. One-family raised ranch, built in 1972, 1,637 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/09/17/recent-homes-sales-in-greater-boston-sept-17/\">Recent homes sales in Greater Boston (Sept. 17)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "94fa21429907413b9504e517f73be710",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Sept. 17)",
+        "Details: <p>ABINGTON 111 Constitution Ave. One-family ranch",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The Lynn waterfront was a dump. Literally. But what if it became a park?",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/09/17/the-lynn-waterfront-was-a-dump-literally-but-what-if-it-became-a-park/",
+      "pubDate": "Wed, 17 Sep 2025 09:00:00 +0000",
+      "description": "<p>The opening of a new oceanfront park on the site of a former landfill is the anchor for a new way of thinking about Lynn.</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/09/17/the-lynn-waterfront-was-a-dump-literally-but-what-if-it-became-a-park/\">The Lynn waterfront was a dump. Literally. But what if it became a park?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "74d13a2e6e31a4805f2b8534e16222b1",
+      "summary": [
+        "Update: The Lynn waterfront was a dump. Literally. But wha",
+        "Details: <p>The opening of a new oceanfront park on the sit",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-17T08:28:54.886429+00:00"
+    "timestamp": "2025-09-17T10:22:15.121445+00:00"
   }
 }
