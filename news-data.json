@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-09-18T12:43:44.637614+00:00",
+  "lastUpdated": "2025-09-18T14:21:13.486376+00:00",
   "articles": [
     {
-      "title": "As playoff race tightens, Red Sox desperately need Alex Bregman\u2019s bat to wake up",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/18/alex-bregman-red-sox-slump-mlb-baseball-as-alex-cora/",
-      "pubDate": "Thu, 18 Sep 2025 10:21:58 +0000",
-      "description": "<p>\"There's nothing that can kind of prepare you for playing in this type of environment this late in the season, for what's at stake.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/18/alex-bregman-red-sox-slump-mlb-baseball-as-alex-cora/\">As playoff race tightens, Red Sox desperately need Alex Bregman\u2019s bat to wake up</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7953231e7c4859445179ecb2a2317e83",
+      "title": "Detained Milford teen\u2019s parents ordered to wear ankle monitors",
+      "link": "https://www.boston.com/news/local-news/2025/09/18/detained-milford-teens-parents-ordered-to-wear-ankle-monitors/",
+      "pubDate": "Thu, 18 Sep 2025 14:06:20 +0000",
+      "description": "<p> The 16-year-old was briefly detained by ICE last week.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/18/detained-milford-teens-parents-ordered-to-wear-ankle-monitors/\">Detained Milford teen&#8217;s parents ordered to wear ankle monitors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d70bcc09ea2fd3a03c8d590661d092dc",
       "summary": [
-        "Update: As playoff race tightens, Red Sox desperately need",
-        "Details: <p>\"There's nothing that can kind of prepare you f",
+        "Update: Detained Milford teen\u2019s parents ordered to wear an",
+        "Details: <p> The 16-year-old was briefly detained by ICE la",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s what to know about Thursday night\u2019s planned vigil for Charlie Kirk at Boston Common",
+      "link": "https://www.boston.com/news/local-news/2025/09/18/heres-what-to-know-about-thursday-nights-vigil-for-charlie-kirk/",
+      "pubDate": "Thu, 18 Sep 2025 13:48:33 +0000",
+      "description": "<p>The vigil will begin at 7 p.m. across from the State House.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/18/heres-what-to-know-about-thursday-nights-vigil-for-charlie-kirk/\">Here&#8217;s what to know about Thursday night&#8217;s planned vigil for Charlie Kirk at Boston Common</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dd2c3c3bf0095acd00d9c34f7d7134b2",
+      "summary": [
+        "Update: Here\u2019s what to know about Thursday night\u2019s planned",
+        "Details: <p>The vigil will begin at 7 p.m. across from the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ban on two-wheeled food delivery vehicles gets cold reception in City Council",
+      "link": "https://www.boston.com/news/local-news/2025/09/18/ban-on-two-wheeled-food-delivery-vehicles-gets-cold-reception-in-city-council/",
+      "pubDate": "Thu, 18 Sep 2025 12:53:50 +0000",
+      "description": "<p>The city is taking some measures to crack down on the vehicles, but support for an outright ban appears thin. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/18/ban-on-two-wheeled-food-delivery-vehicles-gets-cold-reception-in-city-council/\">Ban on two-wheeled food delivery vehicles gets cold reception in City Council</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de73a4162f990713ca52ae65da06a9a0",
+      "summary": [
+        "Update: Ban on two-wheeled food delivery vehicles gets col",
+        "Details: <p>The city is taking some measures to crack down ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-18T12:43:44.637627+00:00"
+    "timestamp": "2025-09-18T14:21:13.486397+00:00"
   }
 }
