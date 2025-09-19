@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-19T08:28:42.399652+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-19T10:23:22.718143+00:00",
+  "articles": [
+    {
+      "title": "Modern farmhouse? Meh. Interiors that have contemporary style? Oh, yeah.",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/09/19/modern-farmhouse-meh-interiors-that-have-contemporary-style-oh-yeah/",
+      "pubDate": "Fri, 19 Sep 2025 09:00:00 +0000",
+      "description": "<p>Buyers are zooming in on amenities such as white oak floors, soapstone countertops, or even a pot filler</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/09/19/modern-farmhouse-meh-interiors-that-have-contemporary-style-oh-yeah/\">Modern farmhouse? Meh. Interiors that have contemporary style? Oh, yeah.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "af7ab981cd60e08d933a5b5249a8bd1c",
+      "summary": [
+        "Update: Modern farmhouse? Meh. Interiors that have contemp",
+        "Details: <p>Buyers are zooming in on amenities such as whit",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/09/19/cardi-b-dua-lipa-kraft/",
+      "pubDate": "Fri, 19 Sep 2025 09:00:00 +0000",
+      "description": "<p>Cardi B, Dua Lipa, and Josh Kraft make strange bedfellows in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/09/19/cardi-b-dua-lipa-kraft/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9fcfabd77831a3b2b0ef3294fdd622f2",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>Cardi B, Dua Lipa, and Josh Kraft make strange ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-19T08:28:42.399661+00:00"
+    "timestamp": "2025-09-19T10:23:22.718164+00:00"
   }
 }
