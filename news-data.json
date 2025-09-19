@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-09-19T14:20:27.580478+00:00",
+  "lastUpdated": "2025-09-19T16:26:49.064345+00:00",
   "articles": [
     {
-      "title": "Patriots-Steelers is a matchup for the ages with Drake Maye going against Aaron Rodgers",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/19/patriots-steelers-is-a-matchup-for-the-ages/",
-      "pubDate": "Fri, 19 Sep 2025 13:59:38 +0000",
-      "description": "<p>While Maye is in the early stages of his career, his Steelers counterpart is in the opposite phase.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/19/patriots-steelers-is-a-matchup-for-the-ages/\">Patriots-Steelers is a matchup for the ages with Drake Maye going against Aaron Rodgers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f584cb48432e56e72e52a2dd9a43a51d",
+      "title": "Former Mass. national guardsman pleads guilty to child porn charges",
+      "link": "https://www.boston.com/news/crime/2025/09/19/former-mass-national-guardsman-pleads-guilty-child-porn-charges/",
+      "pubDate": "Fri, 19 Sep 2025 15:54:57 +0000",
+      "description": "<p>The guilty plea comes nearly a year after Nicholas Wells was accused of distributing child pornography videos and chatting online about his interest in minors.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/19/former-mass-national-guardsman-pleads-guilty-child-porn-charges/\">Former Mass. national guardsman pleads guilty to child porn charges</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8dab78e0bc6ea2878c79a02d11f7f581",
       "summary": [
-        "Update: Patriots-Steelers is a matchup for the ages with D",
-        "Details: <p>While Maye is in the early stages of his career",
+        "Update: Former Mass. national guardsman pleads guilty to c",
+        "Details: <p>The guilty plea comes nearly a year after Nicho",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Duxbury residents speak out over proposed \u2018battery farm\u2019 in residential neighborhood",
+      "link": "https://www.boston.com/news/local-news/2025/09/19/duxbury-residents-speak-out-over-proposed-battery-farm-in-residential-neighborhood/",
+      "pubDate": "Fri, 19 Sep 2025 15:04:02 +0000",
+      "description": "<p>Developers are returning with a proposal to build a 5 MW battery storage facility, despite being turned down twice by the town. The residents are not happy. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/19/duxbury-residents-speak-out-over-proposed-battery-farm-in-residential-neighborhood/\">Duxbury residents speak out over proposed &#8216;battery farm&#8217; in residential neighborhood</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a1dc089ce54afa586d558ecf800e4abc",
+      "summary": [
+        "Update: Duxbury residents speak out over proposed \u2018battery",
+        "Details: <p>Developers are returning with a proposal to bui",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Celtics reportedly \u2018very happy\u2019 with work Jayson Tatum has put in this offseason",
+      "link": "https://www.boston.com/sports/morning-sports-update/2025/09/19/jayson-tatum-celtics-achilles-injury-update/",
+      "pubDate": "Fri, 19 Sep 2025 14:57:04 +0000",
+      "description": "<p>Tatum has reportedly remained in Boston for nearly the entire offseason as the Celtics star rehabs from an Achilles injury.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2025/09/19/jayson-tatum-celtics-achilles-injury-update/\">Celtics reportedly &#8216;very happy&#8217; with work Jayson Tatum has put in this offseason</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e491216cd6b3c0bf7c7ec1576b4cd534",
+      "summary": [
+        "Update: Celtics reportedly \u2018very happy\u2019 with work Jayson T",
+        "Details: <p>Tatum has reportedly remained in Boston for nea",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-19T14:20:27.580497+00:00"
+    "timestamp": "2025-09-19T16:26:49.064364+00:00"
   }
 }
