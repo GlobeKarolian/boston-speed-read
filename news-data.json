@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-09-20T10:19:55.339109+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-20T12:40:24.153808+00:00",
+  "articles": [
+    {
+      "title": "Red Sox\u2019 late comeback propels club past Rays to kick off pivotal weekend series",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/20/red-sox-rays-garrett-crochet-jarren-duran-alex-bregman-cora-quotes/",
+      "pubDate": "Sat, 20 Sep 2025 11:42:31 +0000",
+      "description": "<p>A go-ahead two-run home run by Jarren Duran in the seventh inning preceded a seven-run eighth for Boston.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/20/red-sox-rays-garrett-crochet-jarren-duran-alex-bregman-cora-quotes/\">Red Sox\u2019 late comeback propels club past Rays to kick off pivotal weekend series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "917efc9ac3b605b2d60cb8feddd46a6d",
+      "summary": [
+        "Update: Red Sox\u2019 late comeback propels club past Rays to k",
+        "Details: <p>A go-ahead two-run home run by Jarren Duran in ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-09-20T10:19:55.339118+00:00"
+    "timestamp": "2025-09-20T12:40:24.153827+00:00"
   }
 }
