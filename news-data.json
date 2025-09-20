@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2025-09-20T01:38:08.987386+00:00",
+  "lastUpdated": "2025-09-20T02:55:39.984754+00:00",
   "articles": [
     {
-      "title": "5 must-watch movies & TV shows streaming right now",
-      "link": "https://www.boston.com/culture/streaming/2025/09/19/5-must-watch-movies-tv-shows-streaming-right-now-september-19-2025/",
-      "pubDate": "Sat, 20 Sep 2025 00:05:02 +0000",
-      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2025/09/19/5-must-watch-movies-tv-shows-streaming-right-now-september-19-2025/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e127e7df72ebc60fc117231c79a26487",
+      "title": "Trump administration moves to revoke permit for Massachusetts offshore wind project",
+      "link": "https://www.boston.com/news/local-news/2025/09/19/trump-administration-moves-to-revoke-permit-for-massachusetts-offshore-wind-project/",
+      "pubDate": "Sat, 20 Sep 2025 01:51:23 +0000",
+      "description": "<p>The Trump administration has moved to block a Massachusetts offshore wind farm, its latest effort to hobble an industry and technology that President Donald Trump has attacked as &#8220;ugly&#8221; and unreliable compared to fossil fuels such as coal and natural gas</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/19/trump-administration-moves-to-revoke-permit-for-massachusetts-offshore-wind-project/\">Trump administration moves to revoke permit for Massachusetts offshore wind project</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d7e6be557fcc25e8482bff80355cc411",
       "summary": [
-        "Update: 5 must-watch movies & TV shows streaming right now",
-        "Details: <p>The best of what's new streaming on Netflix, Hu",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Girl, 14, has been missing from Worcester for close to a week",
-      "link": "https://www.boston.com/news/local-news/2025/09/19/girl-14-has-been-missing-from-worcester-for-close-to-a-week/",
-      "pubDate": "Fri, 19 Sep 2025 23:14:21 +0000",
-      "description": "<p>Destiny Slack was last seen on Sept. 13.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/19/girl-14-has-been-missing-from-worcester-for-close-to-a-week/\">Girl, 14, has been missing from Worcester for close to a week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4b36d912c1c9d3e1a2ff358ae4d5351c",
-      "summary": [
-        "Update: Girl, 14, has been missing from Worcester for clos",
-        "Details: <p>Destiny Slack was last seen on Sept. 13.</p>\n<p",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "5 takeaways from Day 3 of Bruins training camp",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/09/19/boston-bruins-marco-sturm-nhl-hockey-zacha-center-lines-lineup/",
-      "pubDate": "Fri, 19 Sep 2025 22:30:00 +0000",
-      "description": "<p>The Bruins shed light on the state of their center depth during Friday's practice. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/09/19/boston-bruins-marco-sturm-nhl-hockey-zacha-center-lines-lineup/\">5 takeaways from Day 3 of Bruins training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7f5d5f58650a5de35dc78a6ec1bf72ca",
-      "summary": [
-        "Update: 5 takeaways from Day 3 of Bruins training camp",
-        "Details: <p>The Bruins shed light on the state of their cen",
+        "Update: Trump administration moves to revoke permit for Ma",
+        "Details: <p>The Trump administration has moved to block a M",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-09-20T01:38:08.987404+00:00"
+    "timestamp": "2025-09-20T02:55:39.984775+00:00"
   }
 }
