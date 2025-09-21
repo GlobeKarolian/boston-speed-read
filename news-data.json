@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-09-21T18:28:03.276194+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-21T20:21:58.202400+00:00",
+  "articles": [
+    {
+      "title": "Julian Edelman reflects on his Patriots Hall of Fame career: \u2018Foxborough will always be my home\u2019",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/21/julian-edelman-thanks-fans-during-halftime-speech-patriots-steelers/",
+      "pubDate": "Sun, 21 Sep 2025 20:01:35 +0000",
+      "description": "<p>Edelman, who was inducted into the Patriots Hall of Fame on Sunday, made some brief remarks on Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/21/julian-edelman-thanks-fans-during-halftime-speech-patriots-steelers/\">Julian Edelman reflects on his Patriots Hall of Fame career: &#8216;Foxborough will always be my home&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ac2205067d6a238bdc58d8c13724ea69",
+      "summary": [
+        "Update: Julian Edelman reflects on his Patriots Hall of Fa",
+        "Details: <p>Edelman, who was inducted into the Patriots Hal",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-09-21T18:28:03.276226+00:00"
+    "timestamp": "2025-09-21T20:21:58.202419+00:00"
   }
 }
