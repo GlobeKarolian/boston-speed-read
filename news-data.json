@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-09-21T10:19:50.770457+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-21T12:39:54.858655+00:00",
+  "articles": [
+    {
+      "title": "Trump and MAGA movement will honor Charlie Kirk at Arizona memorial",
+      "link": "https://www.boston.com/news/politics/2025/09/21/trump-and-maga-movement-will-honor-charlie-kirk-at-arizona-memorial/",
+      "pubDate": "Sun, 21 Sep 2025 12:09:23 +0000",
+      "description": "<p>Trump has blamed the \u201cradical left\u201d for Kirk\u2019s death and threatened to go after liberal organizations and donors.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/21/trump-and-maga-movement-will-honor-charlie-kirk-at-arizona-memorial/\">Trump and MAGA movement will honor Charlie Kirk at Arizona memorial</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ebd5ba5955421d141e0cd91a5fd3cff8",
+      "summary": [
+        "Update: Trump and MAGA movement will honor Charlie Kirk at",
+        "Details: <p>Trump has blamed the \u201cradical left\u201d for Kirk\u2019s ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Fallout from cyberattack on check-in systems at 3 European airports continues for 2nd day",
+      "link": "https://www.boston.com/news/travel/2025/09/21/fallout-from-cyberattack-on-check-in-systems-at-3-european-airports-continues-for-2nd-day/",
+      "pubDate": "Sun, 21 Sep 2025 11:51:52 +0000",
+      "description": "<p>It was not immediately clear who might be behind the cyberattack, but experts said it could turn out to be hackers, criminal organizations, or state actors.</p>\n<p>The post <a href=\"https://www.boston.com/news/travel/2025/09/21/fallout-from-cyberattack-on-check-in-systems-at-3-european-airports-continues-for-2nd-day/\">Fallout from cyberattack on check-in systems at 3 European airports continues for 2nd day</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "723674c2331c245530ce178f3023331d",
+      "summary": [
+        "Update: Fallout from cyberattack on check-in systems at 3 ",
+        "Details: <p>It was not immediately clear who might be behin",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Man is arrested and charged in NH country club shooting",
+      "link": "https://www.boston.com/news/local-news/2025/09/21/man-is-arrested-and-charged-in-new-hampshire-country-club-shooting/",
+      "pubDate": "Sun, 21 Sep 2025 11:30:49 +0000",
+      "description": "<p>Investigators were still working to determine a motive, New Hampshire Senior Assistant Attorney General Peter Hinckley said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/21/man-is-arrested-and-charged-in-new-hampshire-country-club-shooting/\">Man is arrested and charged in NH country club shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d44f093d1ba31e7a31ddf8edb6e36579",
+      "summary": [
+        "Update: Man is arrested and charged in NH country club sho",
+        "Details: <p>Investigators were still working to determine a",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-21T10:19:50.770470+00:00"
+    "timestamp": "2025-09-21T12:39:54.858676+00:00"
   }
 }
