@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-22T10:24:44.433982+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-22T12:46:31.895778+00:00",
+  "articles": [
+    {
+      "title": "White House says $100K H-1B visa fee won\u2019t apply to existing holders as Trump move stirs anxiety",
+      "link": "https://www.boston.com/news/politics/2025/09/22/trump-white-house-100k-h-1b-visa-fee-wont-apply-existing-holders/",
+      "pubDate": "Mon, 22 Sep 2025 12:14:00 +0000",
+      "description": "<p>\u201cThose who already hold H-1B visas and are currently outside of the country right now will NOT be charged $100,000 to re-enter,\" White House press secretary Karoline Leavitt said in a posting on X. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/22/trump-white-house-100k-h-1b-visa-fee-wont-apply-existing-holders/\">White House says $100K H-1B visa fee won&#8217;t apply to existing holders as Trump move stirs anxiety</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "825b9d29fa49fe0f404c3b6c22450568",
+      "summary": [
+        "Update: White House says $100K H-1B visa fee won\u2019t apply t",
+        "Details: <p>\u201cThose who already hold H-1B visas and are curr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Loss to Steelers shouldn\u2019t change outlook, or expectations, for Patriots season",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/22/patriots-steelers-2025-season-expectations/",
+      "pubDate": "Mon, 22 Sep 2025 11:22:38 +0000",
+      "description": "<p>Take this as a plea for patience if you want.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/22/patriots-steelers-2025-season-expectations/\">Loss to Steelers shouldn\u2019t change outlook, or expectations, for Patriots season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4e3381e6eeffc1eac8121bccf4d0b2c5",
+      "summary": [
+        "Update: Loss to Steelers shouldn\u2019t change outlook, or expe",
+        "Details: <p>Take this as a plea for patience if you want.</",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-22T10:24:44.433989+00:00"
+    "timestamp": "2025-09-22T12:46:31.895797+00:00"
   }
 }
