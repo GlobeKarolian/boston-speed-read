@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-22T03:09:18.274150+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-22T04:26:18.077345+00:00",
+  "articles": [
+    {
+      "title": "4 takeaways from Bruins\u2019 preseason-opening loss to Capitals",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/09/21/boston-bruins-preseason-capitals-takeaways-prospects/",
+      "pubDate": "Mon, 22 Sep 2025 03:31:32 +0000",
+      "description": "<p>\"We still are going to make a lot of mistakes.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/09/21/boston-bruins-preseason-capitals-takeaways-prospects/\">4 takeaways from Bruins\u2019 preseason-opening loss to Capitals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3b6ee0b4fe02ecd60fa84b41ea7d826e",
+      "summary": [
+        "Update: 4 takeaways from Bruins\u2019 preseason-opening loss to",
+        "Details: <p>\"We still are going to make a lot of mistakes.\"",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018Masked, menacing\u2019 DHS agents abducted Somerville man, state rep. says",
+      "link": "https://www.boston.com/news/local-news/2025/09/21/masked-menacing-dhs-agents-abducted-somerville-man-state-rep-says/",
+      "pubDate": "Mon, 22 Sep 2025 03:15:01 +0000",
+      "description": "<p>Three people in Somerville have been detained by federal agents this week, according to reports and state Rep. Mike Connolly.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/21/masked-menacing-dhs-agents-abducted-somerville-man-state-rep-says/\">&#8216;Masked, menacing&#8217; DHS agents abducted Somerville man, state rep. says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b0762c8fcc7f93c202ea67a6110e0a79",
+      "summary": [
+        "Update: \u2018Masked, menacing\u2019 DHS agents abducted Somerville ",
+        "Details: <p>Three people in Somerville have been detained b",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-22T03:09:18.274158+00:00"
+    "timestamp": "2025-09-22T04:26:18.077364+00:00"
   }
 }
