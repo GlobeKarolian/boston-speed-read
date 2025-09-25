@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-25T08:29:19.630729+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-25T10:23:20.176927+00:00",
+  "articles": [
+    {
+      "title": "Home stuck on the market? You may have to play the price is right in prime time.",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/09/25/real-estate-market-home-sales-fast-boston/",
+      "pubDate": "Thu, 25 Sep 2025 10:00:00 +0000",
+      "description": "<p>Experts detail some of the keys to getting that SOLD sign.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/09/25/real-estate-market-home-sales-fast-boston/\">Home stuck on the market? You may have to play the price is right in prime time.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45a5755b2ccf64eb2e70842fc121df3a",
+      "summary": [
+        "Update: Home stuck on the market? You may have to play the",
+        "Details: <p>Experts detail some of the keys to getting that",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 can\u2019t-miss restaurant openings and dining updates in Boston this week",
+      "link": "https://www.boston.com/food/food/2025/09/25/restaurant-openings-sept-25-2025/",
+      "pubDate": "Thu, 25 Sep 2025 09:00:00 +0000",
+      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/09/25/restaurant-openings-sept-25-2025/\">5 can\u2019t-miss restaurant openings and dining updates in Boston this week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cc2282b9b87f029431592cdaa29451e",
+      "summary": [
+        "Update: 5 can\u2019t-miss restaurant openings and dining update",
+        "Details: <p>Stay up to date on the best new restaurants, re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-25T08:29:19.630738+00:00"
+    "timestamp": "2025-09-25T10:23:20.176946+00:00"
   }
 }
