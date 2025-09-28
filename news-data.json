@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-09-28T03:10:21.068506+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-28T04:25:18.692802+00:00",
+  "articles": [
+    {
+      "title": "Alex Cora admits Red Sox were \u2018a little hungover\u2019 heading into Saturday\u2019s game vs. Tigers",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/27/mlb-red-sox-hangover-postseason-clinch/",
+      "pubDate": "Sun, 28 Sep 2025 03:51:20 +0000",
+      "description": "<p>With a postseason berth clinched, Boston elected to let loose a little bit on Friday night.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/27/mlb-red-sox-hangover-postseason-clinch/\">Alex Cora admits Red Sox were &#8216;a little hungover&#8217; heading into Saturday&#8217;s game vs. Tigers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9ce1b977dc29bd2dde7076ed148b3b50",
+      "summary": [
+        "Update: Alex Cora admits Red Sox were \u2018a little hungover\u2019 ",
+        "Details: <p>With a postseason berth clinched, Boston electe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s how the Boston sports world looked last time the Red Sox made the postseason",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/27/red-sox-postseason-2021-boston-sports/",
+      "pubDate": "Sun, 28 Sep 2025 03:47:20 +0000",
+      "description": "<p>A lot has changed in the four years since Boston's last October run in 2021.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/27/red-sox-postseason-2021-boston-sports/\">Here&#8217;s how the Boston sports world looked last time the Red Sox made the postseason</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "02c230d408ce2f91eb1aafddeccbd9d4",
+      "summary": [
+        "Update: Here\u2019s how the Boston sports world looked last tim",
+        "Details: <p>A lot has changed in the four years since Bosto",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Tigers clinch playoff berth with 2-1 win over Red Sox in Game 161 and avert September collapse",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/27/mlb-red-sox-tigers-recap-playoff-berth/",
+      "pubDate": "Sun, 28 Sep 2025 02:55:27 +0000",
+      "description": "<p>Detroit blew a 14-game lead in the AL Central, putting them in danger of missing the postseason.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/27/mlb-red-sox-tigers-recap-playoff-berth/\">Tigers clinch playoff berth with 2-1 win over Red Sox in Game 161 and avert September collapse</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8a7e97792870c92d1f4198b3d9e9fdd3",
+      "summary": [
+        "Update: Tigers clinch playoff berth with 2-1 win over Red ",
+        "Details: <p>Detroit blew a 14-game lead in the AL Central, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-09-28T03:10:21.068516+00:00"
+    "timestamp": "2025-09-28T04:25:18.692819+00:00"
   }
 }
