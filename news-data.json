@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-09-28T10:19:34.572293+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-28T12:40:00.785358+00:00",
+  "articles": [
+    {
+      "title": "Some people are taping their mouths shut at night. Doctors say don\u2019t do it.",
+      "link": "https://www.boston.com/news/health/2025/09/28/some-people-are-taping-their-mouths-shut-at-night-doctors-say-dont-do-it/",
+      "pubDate": "Sun, 28 Sep 2025 12:20:06 +0000",
+      "description": "<p>The safest approach is to figure out why exactly you are breathing with your mouth, because there could be something else going on.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/09/28/some-people-are-taping-their-mouths-shut-at-night-doctors-say-dont-do-it/\">Some people are taping their mouths shut at night. Doctors say don&#8217;t do it.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "12b3215d8462c398062fe2ae41e8f5b4",
+      "summary": [
+        "Update: Some people are taping their mouths shut at night.",
+        "Details: <p>The safest approach is to figure out why exactl",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Listeria found in Walmart, Trader Joe\u2019s meals may be linked to deadly outbreak",
+      "link": "https://www.boston.com/news/food/2025/09/28/listeria-found-in-walmart-trader-joes-meals-may-be-linked-to-deadly-outbreak/",
+      "pubDate": "Sun, 28 Sep 2025 11:47:51 +0000",
+      "description": "<p>Additional products may be identified, according to USDA\u2019s Food Safety and Inspection Service.</p>\n<p>The post <a href=\"https://www.boston.com/news/food/2025/09/28/listeria-found-in-walmart-trader-joes-meals-may-be-linked-to-deadly-outbreak/\">Listeria found in Walmart, Trader Joe&#8217;s meals may be linked to deadly outbreak</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "62e804be1677373487ffc558532fdfcd",
+      "summary": [
+        "Update: Listeria found in Walmart, Trader Joe\u2019s meals may ",
+        "Details: <p>Additional products may be identified, accordin",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-09-28T10:19:34.572305+00:00"
+    "timestamp": "2025-09-28T12:40:00.785378+00:00"
   }
 }
