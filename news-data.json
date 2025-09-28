@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2025-09-28T20:21:54.666910+00:00",
+  "lastUpdated": "2025-09-28T22:18:55.213614+00:00",
   "articles": [
     {
-      "title": "2 people dead and several injured in a shooting and fire at a Michigan church, police say",
-      "link": "https://www.boston.com/news/crime/2025/09/28/2-people-dead-and-several-injured-in-a-shooting-and-fire-at-a-michigan-church-police-say/",
-      "pubDate": "Sun, 28 Sep 2025 20:12:41 +0000",
-      "description": "<p>After the suspect left the church, two officers pursued him and \u201cengaged in gunfire,\u201d Chief William Renye said. The man was killed.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/28/2-people-dead-and-several-injured-in-a-shooting-and-fire-at-a-michigan-church-police-say/\">2 people dead and several injured in a shooting and fire at a Michigan church, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "92cf90e2bc747ead1c29539569df73c5",
+      "title": "Trump says he will send troops to Portland, Oregon, in latest deployment to US cities",
+      "link": "https://www.boston.com/news/politics/2025/09/28/trump-says-he-will-send-troops-to-portland-oregon-in-latest-deployment-to-us-cities/",
+      "pubDate": "Sun, 28 Sep 2025 21:36:15 +0000",
+      "description": "<p>Trump made his announcement on social media, writing that he was directing the Department of Defense to \u201cprovide all necessary Troops to protect War ravaged Portland.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/28/trump-says-he-will-send-troops-to-portland-oregon-in-latest-deployment-to-us-cities/\">Trump says he will send troops to Portland, Oregon, in latest deployment to US cities</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7a37cef0ebffa1e936efc405dc60c822",
       "summary": [
-        "Update: 2 people dead and several injured in a shooting an",
-        "Details: <p>After the suspect left the church, two officers",
+        "Update: Trump says he will send troops to Portland, Oregon",
+        "Details: <p>Trump made his announcement on social media, wr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Europe retains the Ryder Cup and reasserts dominance over Americans",
+      "link": "https://www.boston.com/sports/sports/2025/09/28/europe-retains-the-ryder-cup-and-reasserts-dominance-over-americans/",
+      "pubDate": "Sun, 28 Sep 2025 21:26:15 +0000",
+      "description": "<p>Lowry said to his caddie walking up the 18th, \u201cI have a chance to do the coolest thing in my life.\u201d And he did just that.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2025/09/28/europe-retains-the-ryder-cup-and-reasserts-dominance-over-americans/\">Europe retains the Ryder Cup and reasserts dominance over Americans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "208d5194e1378816fb71ab92c61ece73",
+      "summary": [
+        "Update: Europe retains the Ryder Cup and reasserts dominan",
+        "Details: <p>Lowry said to his caddie walking up the 18th, \u201c",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots stock watch: Here\u2019s who stood out and struggled in blowout win vs. the Panthers",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/09/28/patriots-panthers-stock-watch-who-stood-out-and-struggled/",
+      "pubDate": "Sun, 28 Sep 2025 20:53:56 +0000",
+      "description": "<p>In total, Marcus Jones tallied 167 punt return yards, setting a new single-game franchise record.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/09/28/patriots-panthers-stock-watch-who-stood-out-and-struggled/\">Patriots stock watch: Here&#8217;s who stood out and struggled in blowout win vs. the Panthers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dbe35cef6680ad578775ddd3036e68af",
+      "summary": [
+        "Update: Patriots stock watch: Here\u2019s who stood out and str",
+        "Details: <p>In total, Marcus Jones tallied 167 punt return ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "New York City Mayor Eric Adams abandons his reelection campaign",
+      "link": "https://www.boston.com/news/politics/2025/09/28/new-york-city-mayor-eric-adams-abandons-his-reelection-campaign/",
+      "pubDate": "Sun, 28 Sep 2025 20:21:41 +0000",
+      "description": "<p>Adams did not endorse any of the remaining candidates in the race, but he warned of \u201cinsidious forces\u201d using local government to \u201cadvance divisive agendas.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/28/new-york-city-mayor-eric-adams-abandons-his-reelection-campaign/\">New York City Mayor Eric Adams abandons his reelection campaign</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "95702cd50cecac966d3aaf6e9d0e8508",
+      "summary": [
+        "Update: New York City Mayor Eric Adams abandons his reelec",
+        "Details: <p>Adams did not endorse any of the remaining cand",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-09-28T20:21:54.666931+00:00"
+    "timestamp": "2025-09-28T22:18:55.213635+00:00"
   }
 }
