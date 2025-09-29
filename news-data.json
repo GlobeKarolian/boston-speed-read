@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-09-29T08:32:14.775515+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-29T10:24:14.333613+00:00",
+  "articles": [
+    {
+      "title": "$15M New Hampshire estate owned by Purdue Chicken heiress once welcomed President Taft",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2025/09/29/new-hampshire-estate-knollwood-perdue-chicken-heiress-for-sale/",
+      "pubDate": "Mon, 29 Sep 2025 09:00:00 +0000",
+      "description": "<p>A storied New England estate that\u2019s seen visitors like President Taft is on the market.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2025/09/29/new-hampshire-estate-knollwood-perdue-chicken-heiress-for-sale/\">$15M New Hampshire estate owned by Purdue Chicken heiress once welcomed President Taft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "43d7bdba64292b4e8cd0d8f99e76b322",
+      "summary": [
+        "Update: $15M New Hampshire estate owned by Purdue Chicken ",
+        "Details: <p>A storied New England estate that\u2019s seen visito",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-09-29T08:32:14.775522+00:00"
+    "timestamp": "2025-09-29T10:24:14.333632+00:00"
   }
 }
