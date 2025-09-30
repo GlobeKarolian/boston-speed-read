@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2025-09-30T02:59:42.401289+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-30T04:26:19.768359+00:00",
+  "articles": [
+    {
+      "title": "Little improvement to MCAS scores as districts work to reach prepandemic achievement",
+      "link": "https://www.boston.com/news/local-news/2025/09/29/little-improvement-to-mcas-scores-as-districts-work-to-reach-prepandemic-achievement/",
+      "pubDate": "Tue, 30 Sep 2025 03:59:03 +0000",
+      "description": "<p>English language arts scores for both third through eighth graders and 10th graders were 10 points behind 2019's scores.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/29/little-improvement-to-mcas-scores-as-districts-work-to-reach-prepandemic-achievement/\">Little improvement to MCAS scores as districts work to reach prepandemic achievement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f16c6f4e8f864de35459cbecd1587443",
+      "summary": [
+        "Update: Little improvement to MCAS scores as districts wor",
+        "Details: <p>English language arts scores for both third thr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "3 takeaways from Bruins\u2019 shootout preseason loss to Flyers",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/09/29/boston-bruins-flyers-preseason-pastrnak-swayman-takeaways-poitras/",
+      "pubDate": "Tue, 30 Sep 2025 03:49:38 +0000",
+      "description": "<p>\"When I feel like I did today, I know I can do a lot of things.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/09/29/boston-bruins-flyers-preseason-pastrnak-swayman-takeaways-poitras/\">3 takeaways from Bruins\u2019 shootout preseason loss to Flyers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6e373176a7fbd3fef64c874a7fdbdfab",
+      "summary": [
+        "Update: 3 takeaways from Bruins\u2019 shootout preseason loss t",
+        "Details: <p>\"When I feel like I did today, I know I can do ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 keys for Red Sox if they want to eliminate Yankees in Wild Card round",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/09/29/red-sox-yankees-keys-preview-garrett-crochet-aaron-judge-mlb-baseball/",
+      "pubDate": "Tue, 30 Sep 2025 03:16:46 +0000",
+      "description": "<p>The Red Sox' pitching corps will have their hands full with a Yankees lineup that slugged a league-leading 274 home runs this season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/09/29/red-sox-yankees-keys-preview-garrett-crochet-aaron-judge-mlb-baseball/\">5 keys for Red Sox if they want to eliminate Yankees in Wild Card round</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d80d8df001f5f299f4da73fb73cf898c",
+      "summary": [
+        "Update: 5 keys for Red Sox if they want to eliminate Yanke",
+        "Details: <p>The Red Sox' pitching corps will have their han",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "ICE used autistic 5-year-old to \u2018lure\u2019 Leominster father, family\u2019s lawyer says",
+      "link": "https://www.boston.com/news/local-news/2025/09/29/ice-used-autistic-5-year-old-to-lure-leominster-father-familys-lawyer-says/",
+      "pubDate": "Tue, 30 Sep 2025 02:59:42 +0000",
+      "description": "<p>\u201cThey had his address, and they had his attorney's name. They had all the information they needed to do this in a different manner,\" his lawyer said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/29/ice-used-autistic-5-year-old-to-lure-leominster-father-familys-lawyer-says/\">ICE used autistic 5-year-old to &#8216;lure&#8217; Leominster father, family&#8217;s lawyer says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "caf89656fc03cee6cb20443285ce7f17",
+      "summary": [
+        "Update: ICE used autistic 5-year-old to \u2018lure\u2019 Leominster ",
+        "Details: <p>\u201cThey had his address, and they had his attorne",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-09-30T02:59:42.401297+00:00"
+    "timestamp": "2025-09-30T04:26:19.768380+00:00"
   }
 }
