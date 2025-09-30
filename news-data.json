@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2025-09-30T12:48:14.129709+00:00",
-  "articles": [],
+  "lastUpdated": "2025-09-30T14:21:22.518151+00:00",
+  "articles": [
+    {
+      "title": "Shawn Mendes makes surprise stop at Cambridge restaurant",
+      "link": "https://www.boston.com/food/celebs/2025/09/30/shawn-mendes-brookline-lunch-cambridge/",
+      "pubDate": "Tue, 30 Sep 2025 14:19:38 +0000",
+      "description": "<p>A gym session turned into a Shawn Mendes diner visit \u2014 not your typical workout.</p>\n<p>The post <a href=\"https://www.boston.com/food/celebs/2025/09/30/shawn-mendes-brookline-lunch-cambridge/\">Shawn Mendes makes surprise stop at Cambridge restaurant</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "00175ca05c83dbcb7d871ef86a2c1223",
+      "summary": [
+        "Update: Shawn Mendes makes surprise stop at Cambridge rest",
+        "Details: <p>A gym session turned into a Shawn Mendes diner ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Museum of Science lets the public interact with robot dogs and humanoid robots",
+      "link": "https://www.boston.com/news/technology/2025/09/30/museum-of-science-lets-the-public-interact-with-robot-dogs-and-humanoid-robots/",
+      "pubDate": "Tue, 30 Sep 2025 13:58:30 +0000",
+      "description": "<p>\"I think it\u2019s really, really useful for people to have a chance to see them, learn more about them, ask questions about them.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2025/09/30/museum-of-science-lets-the-public-interact-with-robot-dogs-and-humanoid-robots/\">Museum of Science lets the public interact with robot dogs and humanoid robots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "079c592e47ba031aff2d20ae2e26d1a2",
+      "summary": [
+        "Update: Museum of Science lets the public interact with ro",
+        "Details: <p>\"I think it\u2019s really, really useful for people ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Health department moves to block Harvard from future research grants",
+      "link": "https://www.boston.com/news/education/2025/09/30/health-department-moves-to-block-harvard-from-future-research-grants/",
+      "pubDate": "Tue, 30 Sep 2025 13:51:29 +0000",
+      "description": "<p>The health department\u2019s initial findings that Harvard failed to adequately address antisemitism on campus were disputed by Harvard, which has argued that the university has taken significant steps to address the problem.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2025/09/30/health-department-moves-to-block-harvard-from-future-research-grants/\">Health department moves to block Harvard from future research grants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e89e8a208ac0d603ab23ce1a28aa00a6",
+      "summary": [
+        "Update: Health department moves to block Harvard from futu",
+        "Details: <p>The health department\u2019s initial findings that H",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Lawsuit against Brown University sparks debate on campus police secrecy at private colleges",
+      "link": "https://www.boston.com/news/education/2025/09/30/lawsuit-brown-university-campus-police-secrecy-private-colleges/",
+      "pubDate": "Tue, 30 Sep 2025 13:47:30 +0000",
+      "description": "<p>In a recently filed legal challenge, the American Civil Liberties Union of Rhode Island is hoping to make a dent in that practice by arguing that Brown\u2019s police department should comply with the state\u2019s public records law.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2025/09/30/lawsuit-brown-university-campus-police-secrecy-private-colleges/\">Lawsuit against Brown University sparks debate on campus police secrecy at private colleges</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a477f6df2e9d999a3bf3e577f052d0c3",
+      "summary": [
+        "Update: Lawsuit against Brown University sparks debate on ",
+        "Details: <p>In a recently filed legal challenge, the Americ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The man behind Trump\u2019s push for an all-powerful presidency",
+      "link": "https://www.boston.com/news/politics/2025/09/30/the-man-behind-trumps-push-for-an-all-powerful-presidency/",
+      "pubDate": "Tue, 30 Sep 2025 13:16:28 +0000",
+      "description": "<p>For the leaders of Trump\u2019s \u201cMake America Great Again\u201d movement, Vought is seen as the disciplined architect who channeled the passion of MAGA into an actionable policy blueprint.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/09/30/the-man-behind-trumps-push-for-an-all-powerful-presidency/\">The man behind Trump\u2019s push for an all-powerful presidency</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c4068b3a4c2bb3c03a5e8f83aa211c6a",
+      "summary": [
+        "Update: The man behind Trump\u2019s push for an all-powerful pr",
+        "Details: <p>For the leaders of Trump\u2019s \u201cMake America Great ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2025-09-30T12:48:14.129719+00:00"
+    "timestamp": "2025-09-30T14:21:22.518172+00:00"
   }
 }
