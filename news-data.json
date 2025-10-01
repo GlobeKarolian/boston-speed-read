@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-10-01T18:31:38.969974+00:00",
+  "lastUpdated": "2025-10-01T20:24:39.816890+00:00",
   "articles": [
     {
-      "title": "As federal funding expires, GBH launches $225 million campaign",
-      "link": "https://www.boston.com/news/local-news/2025/10/01/as-federal-funding-expires-gbh-launches-225-million-campaign/",
-      "pubDate": "Wed, 01 Oct 2025 18:01:45 +0000",
-      "description": "<p>GBH, the largest producer of PBS programming in America, is looking to raise the money over the next three years.  </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/01/as-federal-funding-expires-gbh-launches-225-million-campaign/\">As federal funding expires, GBH launches $225 million campaign</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "67241ec5dd1c644174ccd0ac3b2064f3",
+      "title": "Ex-Market Basket CEO Arthur T. Demoulas demands his job back in new court filing",
+      "link": "https://www.boston.com/news/business/2025/10/01/ex-market-basket-ceo-arthur-t-demoulas-demands-his-job-back-in-new-court-filing/",
+      "pubDate": "Wed, 01 Oct 2025 19:52:39 +0000",
+      "description": "<p>Demoulas alleges Market Basket board members improperly colluded with his sisters when they voted to fire him last month.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/01/ex-market-basket-ceo-arthur-t-demoulas-demands-his-job-back-in-new-court-filing/\">Ex-Market Basket CEO Arthur T. Demoulas demands his job back in new court filing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "559f7824f831ac7ad145a00b58c9c63e",
       "summary": [
-        "Update: As federal funding expires, GBH launches $225 mill",
-        "Details: <p>GBH, the largest producer of PBS programming in",
+        "Update: Ex-Market Basket CEO Arthur T. Demoulas demands hi",
+        "Details: <p>Demoulas alleges Market Basket board members im",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Yankees\u2019 Aaron Boone defends decision to pull Max Fried in Game 1 loss to Red Sox",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/01/aaron-boone-max-fried-yankees-red-sox-coments/",
-      "pubDate": "Wed, 01 Oct 2025 17:31:20 +0000",
-      "description": "<p>\"They pressured him pretty good in the fourth, fifth, sixth. They had a couple of baserunners each inning.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/01/aaron-boone-max-fried-yankees-red-sox-coments/\">Yankees&#8217; Aaron Boone defends decision to pull Max Fried in Game 1 loss to Red Sox</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a32d0ae9fc2f47ee6084c8a1a109d038",
+      "title": "Jane Goodall, conservationist renowned for chimpanzee research and environmental advocacy, has died",
+      "link": "https://www.boston.com/news/world-news/2025/10/01/jane-goodall-conservationist-chimpanzee-research-environmental-advocacy-died/",
+      "pubDate": "Wed, 01 Oct 2025 18:43:36 +0000",
+      "description": "<p>While first studying chimps in Tanzania in the early 1960s, Goodall was known for her unconventional approach.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/10/01/jane-goodall-conservationist-chimpanzee-research-environmental-advocacy-died/\">Jane Goodall, conservationist renowned for chimpanzee research and environmental advocacy, has died</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9206d827f92a6fea0534419d36e4092e",
       "summary": [
-        "Update: Yankees\u2019 Aaron Boone defends decision to pull Max ",
-        "Details: <p>\"They pressured him pretty good in the fourth, ",
+        "Update: Jane Goodall, conservationist renowned for chimpan",
+        "Details: <p>While first studying chimps in Tanzania in the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Audit finds Everett mayor received $260K in extra pay",
+      "link": "https://www.boston.com/news/local-news/2025/10/01/audit-finds-everett-mayor-received-260k-in-extra-pay/",
+      "pubDate": "Wed, 01 Oct 2025 18:35:08 +0000",
+      "description": "<p>The findings follow a state inspector general report that flagged $180K in longevity overpayments earlier this year.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/01/audit-finds-everett-mayor-received-260k-in-extra-pay/\">Audit finds Everett mayor received $260K in extra pay</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f9268df0e746d7313cf4a65851f8ff08",
+      "summary": [
+        "Update: Audit finds Everett mayor received $260K in extra ",
+        "Details: <p>The findings follow a state inspector general r",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-01T18:31:38.969989+00:00"
+    "timestamp": "2025-10-01T20:24:39.816910+00:00"
   }
 }
