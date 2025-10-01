@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-10-01T03:13:29.391040+00:00",
+  "lastUpdated": "2025-10-01T04:25:30.117354+00:00",
   "articles": [
     {
-      "title": "Services planned for Haverhill police officer, 32, who died \u2018unexpectedly\u2019",
-      "link": "https://www.boston.com/news/local-news/2025/09/30/services-planned-for-haverhill-officer-32-who-died-unexpectedly/",
-      "pubDate": "Wed, 01 Oct 2025 02:22:28 +0000",
-      "description": "<p>Katelyn Tully, a decorated army veteran who served in Afghanistan for six months, will be buried with military honors.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/30/services-planned-for-haverhill-officer-32-who-died-unexpectedly/\">Services planned for Haverhill police officer, 32, who died &#8216;unexpectedly&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c76d66f3eaa9fcfb8a145883f53ac81a",
+      "title": "DA: Malden man arrested, two others charged in connection to fatal Dedham shooting",
+      "link": "https://www.boston.com/news/crime/2025/09/30/da-malden-man-arrested-two-others-charged-in-connection-to-fatal-dedham-shooting/",
+      "pubDate": "Wed, 01 Oct 2025 03:54:35 +0000",
+      "description": "<p>James Brown, 23, is scheduled to be arraigned Oct. 1 on charges including murder and carrying a firearm without a license.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/30/da-malden-man-arrested-two-others-charged-in-connection-to-fatal-dedham-shooting/\">DA: Malden man arrested, two others charged in connection to fatal Dedham shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2df184f6cd4821ad3d5193c2440e7004",
       "summary": [
-        "Update: Services planned for Haverhill police officer, 32,",
-        "Details: <p>Katelyn Tully, a decorated army veteran who ser",
+        "Update: DA: Malden man arrested, two others charged in con",
+        "Details: <p>James Brown, 23, is scheduled to be arraigned O",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "How did your town do on the MCAS this year? Search scores here.",
+      "link": "https://www.boston.com/news/local-news/2025/09/30/how-did-your-town-do-on-the-mcas-this-year-search-scores-here/",
+      "pubDate": "Wed, 01 Oct 2025 03:27:02 +0000",
+      "description": "<p>MCAS scores across Massachusetts have not rebounded from the pandemic five years ago.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/09/30/how-did-your-town-do-on-the-mcas-this-year-search-scores-here/\">How did your town do on the MCAS this year? Search scores here.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "26efc60e0e725a69db4f0c901fac579f",
+      "summary": [
+        "Update: How did your town do on the MCAS this year? Search",
+        "Details: <p>MCAS scores across Massachusetts have not rebou",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-01T03:13:29.391054+00:00"
+    "timestamp": "2025-10-01T04:25:30.117374+00:00"
   }
 }
