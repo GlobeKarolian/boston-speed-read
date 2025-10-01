@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-10-01T16:27:52.230080+00:00",
+  "lastUpdated": "2025-10-01T18:31:38.970607+00:00",
   "articles": [
+    {
+      "title": "As federal funding expires, GBH launches $225 million campaign",
+      "link": "https://www.boston.com/news/local-news/2025/10/01/as-federal-funding-expires-gbh-launches-225-million-campaign/",
+      "pubDate": "Wed, 01 Oct 2025 18:01:45 +0000",
+      "description": "<p>GBH, the largest producer of PBS programming in America, is looking to raise the money over the next three years.  </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/01/as-federal-funding-expires-gbh-launches-225-million-campaign/\">As federal funding expires, GBH launches $225 million campaign</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "67241ec5dd1c644174ccd0ac3b2064f3",
+      "summary": [
+        "Update: As federal funding expires, GBH launches $225 mill",
+        "Details: <p>GBH, the largest producer of PBS programming in",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Yankees\u2019 Aaron Boone defends decision to pull Max Fried in Game 1 loss to Red Sox",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/01/aaron-boone-max-fried-yankees-red-sox-coments/",
+      "pubDate": "Wed, 01 Oct 2025 17:31:20 +0000",
+      "description": "<p>\"They pressured him pretty good in the fourth, fifth, sixth. They had a couple of baserunners each inning.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/01/aaron-boone-max-fried-yankees-red-sox-coments/\">Yankees&#8217; Aaron Boone defends decision to pull Max Fried in Game 1 loss to Red Sox</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a32d0ae9fc2f47ee6084c8a1a109d038",
+      "summary": [
+        "Update: Yankees\u2019 Aaron Boone defends decision to pull Max ",
+        "Details: <p>\"They pressured him pretty good in the fourth, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Boston Legacy announces signing of 18-year-old forward Chloe Ricketts",
       "link": "https://www.boston.com/sports/sports-news/2025/10/01/boston-legacy-announces-signing-of-18-year-old-forward-chloe-ricketts/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Cat Stevens postpones North American tour and cite",
         "Details: <p>Stevens, who was previously scheduled to perfor",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Another Mass. college has Harvard and MIT beat in WSJ\u2019s new ranking",
-      "link": "https://www.boston.com/news/education/2025/09/30/another-mass-college-has-harvard-and-mit-beat-in-wsjs-new-ranking/",
-      "pubDate": "Tue, 30 Sep 2025 16:34:16 +0000",
-      "description": "<p>With emphasis on financial preparation, Babson College ranked first in the state and second in the country.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2025/09/30/another-mass-college-has-harvard-and-mit-beat-in-wsjs-new-ranking/\">Another Mass. college has Harvard and MIT beat in WSJ&#8217;s new ranking</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4fc27cc3937d21d825a29aa7fa8d22d2",
-      "summary": [
-        "Update: Another Mass. college has Harvard and MIT beat in ",
-        "Details: <p>With emphasis on financial preparation, Babson ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Methuen shuts down second suspected human trafficking front",
-      "link": "https://www.boston.com/news/crime/2025/09/30/methuen-shuts-down-second-suspected-human-trafficking-front/",
-      "pubDate": "Tue, 30 Sep 2025 16:25:43 +0000",
-      "description": "<p>\u201cMethuen has zero tolerance for those who profit from human suffering in our city,\u201d Mayor D.J. Beauregard said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/09/30/methuen-shuts-down-second-suspected-human-trafficking-front/\">Methuen shuts down second suspected human trafficking front</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3d8199ca38cdf6f9bcb090686703ea3b",
-      "summary": [
-        "Update: Methuen shuts down second suspected human traffick",
-        "Details: <p>\u201cMethuen has zero tolerance for those who profi",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
