@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2025-10-02T12:42:40.054750+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-02T14:21:35.649342+00:00",
+  "articles": [
+    {
+      "title": "Father faces charge after allegedly leaving baby in rental car",
+      "link": "https://www.boston.com/news/crime/2025/10/02/father-faces-charge-after-allegedly-leaving-baby-in-rental-car/",
+      "pubDate": "Thu, 02 Oct 2025 13:46:03 +0000",
+      "description": "<p>The incident remains under investigation.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/02/father-faces-charge-after-allegedly-leaving-baby-in-rental-car/\">Father faces charge after allegedly leaving baby in rental car</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1d057f2fa34b72ec0c766e15b074e0c4",
+      "summary": [
+        "Update: Father faces charge after allegedly leaving baby i",
+        "Details: <p>The incident remains under investigation.</p>\n<",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Forbes names the best employers in Massachusetts for 2025",
+      "link": "https://www.boston.com/news/business/2025/10/02/forbes-best-employers-massachusetts-2025/",
+      "pubDate": "Thu, 02 Oct 2025 13:41:50 +0000",
+      "description": "<p>From tech giants to local universities, these companies stand out at the top workplaces in Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/02/forbes-best-employers-massachusetts-2025/\">Forbes names the best employers in Massachusetts for 2025</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "424664cbc3b16871f5ee34edb6a6d1c5",
+      "summary": [
+        "Update: Forbes names the best employers in Massachusetts f",
+        "Details: <p>From tech giants to local universities, these c",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "4 of the best ghost tours in America are in New England, according to USA Today readers",
+      "link": "https://www.boston.com/travel/travel/2025/10/02/best-ghost-tours-in-america-are-in-new-england-usa-today/",
+      "pubDate": "Thu, 02 Oct 2025 13:35:25 +0000",
+      "description": "<p>\"And that, Ghosties, is how we welcome October.  Let the games begin!\"</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/10/02/best-ghost-tours-in-america-are-in-new-england-usa-today/\">4 of the best ghost tours in America are in New England, according to USA Today readers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5f69694fe5b7629effaae68a85a56fde",
+      "summary": [
+        "Update: 4 of the best ghost tours in America are in New En",
+        "Details: <p>\"And that, Ghosties, is how we welcome October.",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Brookline police release images of alleged \u2018peeping tom\u2019 who committed lewd act",
+      "link": "https://www.boston.com/news/crime/2025/10/02/brookline-peeping-tom/",
+      "pubDate": "Thu, 02 Oct 2025 13:29:39 +0000",
+      "description": "<p>The incident occurred on Tuesday, Sept. 23.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/02/brookline-peeping-tom/\">Brookline police release images of alleged &#8216;peeping tom&#8217; who committed lewd act</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "989c37071faf4cda0501371a552c5bd7",
+      "summary": [
+        "Update: Brookline police release images of alleged \u2018peepin",
+        "Details: <p>The incident occurred on Tuesday, Sept. 23.</p>",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ticket bought at Mass. market hits for $15 million",
+      "link": "https://www.boston.com/news/local-news/2025/10/02/ticket-bought-at-mass-market-hits-for-15-million/",
+      "pubDate": "Thu, 02 Oct 2025 13:28:53 +0000",
+      "description": "<p>There are still two jackpot tickets available for the \"$15,000,000 Colossal Millions\" instant ticket game.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/02/ticket-bought-at-mass-market-hits-for-15-million/\">Ticket bought at Mass. market hits for $15 million</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "34a12d4f9c8c0a6e94876251ba6fa12c",
+      "summary": [
+        "Update: Ticket bought at Mass. market hits for $15 million",
+        "Details: <p>There are still two jackpot tickets available f",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2025-10-02T12:42:40.054761+00:00"
+    "timestamp": "2025-10-02T14:21:35.649361+00:00"
   }
 }
