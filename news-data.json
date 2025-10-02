@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-10-02T08:28:23.601093+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-02T10:21:31.183489+00:00",
+  "articles": [
+    {
+      "title": "The fate of Red Sox\u2019 2025 season now rests in hands of rookie Connelly Early",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/02/connelly-early-boston-red-sox-game-3-yankees-wild-card-mlb-baseball/",
+      "pubDate": "Thu, 02 Oct 2025 10:18:52 +0000",
+      "description": "<p>\"He reminds me a lot of Roman [Anthony].\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/02/connelly-early-boston-red-sox-game-3-yankees-wild-card-mlb-baseball/\">The fate of Red Sox\u2019 2025 season now rests in hands of rookie Connelly Early</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "356133cdebac5f50a8c768fce713937d",
+      "summary": [
+        "Update: The fate of Red Sox\u2019 2025 season now rests in hand",
+        "Details: <p>\"He reminds me a lot of Roman [Anthony].\"</p>\n<",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 can\u2019t-miss restaurant openings and dining updates in Boston this week",
+      "link": "https://www.boston.com/food/restaurants/2025/10/02/restaurant-openings-oct-2-2025/",
+      "pubDate": "Thu, 02 Oct 2025 09:00:00 +0000",
+      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2025/10/02/restaurant-openings-oct-2-2025/\">5 can\u2019t-miss restaurant openings and dining updates in Boston this week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "99da43f45d373a1af53a684dbde370d8",
+      "summary": [
+        "Update: 5 can\u2019t-miss restaurant openings and dining update",
+        "Details: <p>Stay up to date on the best new restaurants, re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the Remodeler: Balance cost vs. value in home renovations",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/02/cost-vs-value-in-home-renovations/",
+      "pubDate": "Thu, 02 Oct 2025 09:00:00 +0000",
+      "description": "<p>Buyers and sellers should consider different factors when it comes to investing money into their properties. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/02/cost-vs-value-in-home-renovations/\">Ask the Remodeler: Balance cost vs. value in home renovations</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8411ed3fee7b423315b928f3883c8f02",
+      "summary": [
+        "Update: Ask the Remodeler: Balance cost vs. value in home ",
+        "Details: <p>Buyers and sellers should consider different fa",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-02T08:28:23.601102+00:00"
+    "timestamp": "2025-10-02T10:21:31.183509+00:00"
   }
 }
