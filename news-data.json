@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-10-03T10:22:19.633649+00:00",
+  "lastUpdated": "2025-10-03T12:42:51.829749+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2025/10/03/quiz-charlie-day-kettle-farmers-almanac/",
-      "pubDate": "Fri, 03 Oct 2025 09:00:00 +0000",
-      "description": "<p>An \u201cAlways Sunny\u201d star, a celebrated kettle, and arguing almanacs are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/03/quiz-charlie-day-kettle-farmers-almanac/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c2621ab775b6c8a3c83c048ec0b4e62d",
+      "title": "Charles Barkley: Celtics roster teardown wasn\u2019t due to second apron",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/10/03/celtics-charles-barkley-second-apron-jayson-tatum/",
+      "pubDate": "Fri, 03 Oct 2025 12:14:28 +0000",
+      "description": "<p>\"JT\u2019s out pretty much the whole year, so they\u2019re not winning a championship next year.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/10/03/celtics-charles-barkley-second-apron-jayson-tatum/\">Charles Barkley: Celtics roster teardown wasn\u2019t due to second apron</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "39d1f1fbd819db87e3d3656b19b6f806",
       "summary": [
-        "Update: Did you follow the local news this week? Take our ",
-        "Details: <p>An \u201cAlways Sunny\u201d star, a celebrated kettle, an",
+        "Update: Charles Barkley: Celtics roster teardown wasn\u2019t du",
+        "Details: <p>\"JT\u2019s out pretty much the whole year, so they\u2019r",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Former Patriots Mac Jones, Kendrick Bourne both dominate in primetime win for 49ers",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/03/kendrick-bourne-mac-jones-49ers-nfl-football-san-francisco-rams/",
+      "pubDate": "Fri, 03 Oct 2025 11:53:37 +0000",
+      "description": "<p>\"KB has brought so much energy, so much juice to this team, and we love and appreciate him so much.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/03/kendrick-bourne-mac-jones-49ers-nfl-football-san-francisco-rams/\">Former Patriots Mac Jones, Kendrick Bourne both dominate in primetime win for 49ers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d366956c555437bce22681f8f55cdba9",
+      "summary": [
+        "Update: Former Patriots Mac Jones, Kendrick Bourne both do",
+        "Details: <p>\"KB has brought so much energy, so much juice t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The 2025 Red Sox showcased plenty of promise \u2014 and a lot of flaws \u2014 in roller-coaster year",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/03/2025-red-sox-boston-flaws-alex-cora-roster-offense-scoring/",
+      "pubDate": "Fri, 03 Oct 2025 11:48:53 +0000",
+      "description": "<p>\"Obviously we should feel the way we feel right now \u2014  because we had bigger goals.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/03/2025-red-sox-boston-flaws-alex-cora-roster-offense-scoring/\">The 2025 Red Sox showcased plenty of promise \u2014 and a lot of flaws \u2014 in roller-coaster year</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bbeda6565c643a81f38266dc3ec6016f",
+      "summary": [
+        "Update: The 2025 Red Sox showcased plenty of promise \u2014 and",
+        "Details: <p>\"Obviously we should feel the way we feel right",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-03T10:22:19.633667+00:00"
+    "timestamp": "2025-10-03T12:42:51.829760+00:00"
   }
 }
