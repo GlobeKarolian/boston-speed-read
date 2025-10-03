@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-10-03T04:25:13.973983+00:00",
+  "lastUpdated": "2025-10-03T10:22:19.634416+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/03/quiz-charlie-day-kettle-farmers-almanac/",
+      "pubDate": "Fri, 03 Oct 2025 09:00:00 +0000",
+      "description": "<p>An \u201cAlways Sunny\u201d star, a celebrated kettle, and arguing almanacs are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/03/quiz-charlie-day-kettle-farmers-almanac/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c2621ab775b6c8a3c83c048ec0b4e62d",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>An \u201cAlways Sunny\u201d star, a celebrated kettle, an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "\u2018That was electric\u2019: Walpole native Cam Schlittler lifts Yankees past Red Sox in Game 3 masterpiece",
       "link": "https://www.boston.com/sports/boston-red-sox/2025/10/03/walpole-native-cam-schlittler-lifts-yankees-past-red-sox-quotes/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: 4 defining moments from an intense Game 2 between ",
         "Details: <p>Jazz Chisholm sprinted from first all the way h",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Red Sox\u2019 fundamentals fail and other takeaways from Game 2 loss to Yankees",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/01/boston-red-sox-yankees-game-2-wild-card-mlb-baseball-trevor-story-jarren-duran-alex-cora/",
-      "pubDate": "Thu, 02 Oct 2025 01:38:53 +0000",
-      "description": "<p>The Red Sox used six total relievers in what eventually resulted in a frustrating setback for Boston. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/01/boston-red-sox-yankees-game-2-wild-card-mlb-baseball-trevor-story-jarren-duran-alex-cora/\">Red Sox\u2019 fundamentals fail and other takeaways from Game 2 loss to Yankees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "559c1a14830c16313ef68fe3afaeb646",
-      "summary": [
-        "Update: Red Sox\u2019 fundamentals fail and other takeaways fro",
-        "Details: <p>The Red Sox used six total relievers in what ev",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

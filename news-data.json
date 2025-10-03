@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-03T08:27:32.137717+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-03T10:22:19.633649+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/03/quiz-charlie-day-kettle-farmers-almanac/",
+      "pubDate": "Fri, 03 Oct 2025 09:00:00 +0000",
+      "description": "<p>An \u201cAlways Sunny\u201d star, a celebrated kettle, and arguing almanacs are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/03/quiz-charlie-day-kettle-farmers-almanac/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c2621ab775b6c8a3c83c048ec0b4e62d",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>An \u201cAlways Sunny\u201d star, a celebrated kettle, an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-03T08:27:32.137727+00:00"
+    "timestamp": "2025-10-03T10:22:19.633667+00:00"
   }
 }
