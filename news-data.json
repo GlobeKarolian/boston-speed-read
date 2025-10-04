@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-04T08:25:15.170393+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-04T10:19:19.895395+00:00",
+  "articles": [
+    {
+      "title": "A locked door and myriad treasures beyond, in vast rooms deemed unusable at Boston Public Library",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/10/04/a-locked-door-and-myriad-treasures-beyond-in-vast-rooms-deemed-unusable-at-boston-public-library/",
+      "pubDate": "Sat, 04 Oct 2025 09:00:00 +0000",
+      "description": "<p>The resplendence of the Boston Public Library\u2019s McKim Building unfolds with each step up the grand staircase. Past the imposing stone lions, the golden-hued stairwell gives way to an airy gallery of murals, a millennium-spanning celebration of the muses. Nearby, a narrower stairway leads to the hushed third floor, where people wander the opulent gallery [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/10/04/a-locked-door-and-myriad-treasures-beyond-in-vast-rooms-deemed-unusable-at-boston-public-library/\">A locked door and myriad treasures beyond, in vast rooms deemed unusable at Boston Public Library</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dca06f614a86c85dea081703c1eb4231",
+      "summary": [
+        "Update: A locked door and myriad treasures beyond, in vast",
+        "Details: <p>The resplendence of the Boston Public Library\u2019s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-04T08:25:15.170401+00:00"
+    "timestamp": "2025-10-04T10:19:19.895415+00:00"
   }
 }
