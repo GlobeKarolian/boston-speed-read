@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2025-10-04T12:39:21.070820+00:00",
+  "lastUpdated": "2025-10-04T14:17:34.272395+00:00",
   "articles": [
     {
-      "title": "States say Trump administration has backed off ICE cooperation requirement for victims\u2019 funds",
-      "link": "https://www.boston.com/news/national-news/2025/10/04/states-say-trump-administration-has-backed-off-ice-cooperation-requirement-for-victims-funds/",
-      "pubDate": "Sat, 04 Oct 2025 12:35:49 +0000",
-      "description": "<p>The lawsuit filed in late August had asked a federal judge to declare the conditions were an administrative overstep as well as unconstitutional.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/10/04/states-say-trump-administration-has-backed-off-ice-cooperation-requirement-for-victims-funds/\">States say Trump administration has backed off ICE cooperation requirement for victims&#8217; funds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dca7861f2fde898a1575df6b6fbe0980",
+      "title": "Watertown teens chase down hit-and-run driver later charged with OUI",
+      "link": "https://www.boston.com/news/local-news/2025/10/04/watertown-teens-chase-down-hit-and-run-driver-later-charged-with-oui/",
+      "pubDate": "Sat, 04 Oct 2025 13:53:26 +0000",
+      "description": "<p>The football players ran after an alleged drunk driver they saw hit another vehicle before leaving the scene. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/04/watertown-teens-chase-down-hit-and-run-driver-later-charged-with-oui/\">Watertown teens chase down hit-and-run driver later charged with OUI</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c432792e0d4227ace1eaf2fcc3db71f6",
       "summary": [
-        "Update: States say Trump administration has backed off ICE",
-        "Details: <p>The lawsuit filed in late August had asked a fe",
+        "Update: Watertown teens chase down hit-and-run driver late",
+        "Details: <p>The football players ran after an alleged drunk",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Federal appeals court in Boston rules Trump administration can\u2019t end birthright citizenship",
-      "link": "https://www.boston.com/news/national-news/2025/10/04/federal-appeals-court-rules-trump-administration-cant-end-birthright-citizenship/",
-      "pubDate": "Sat, 04 Oct 2025 12:19:11 +0000",
-      "description": "<p>The panel upheld lower courts' preliminary injunctions, which blocked the birthright order while lawsuits challenging it moved ahead. </p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/10/04/federal-appeals-court-rules-trump-administration-cant-end-birthright-citizenship/\">Federal appeals court in Boston rules Trump administration can&#8217;t end birthright citizenship</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4f87be5029315c3c324348ea8714949d",
+      "title": "Woman accused of shoving woman, 63, off MBTA bus reaches plea deal",
+      "link": "https://www.boston.com/news/local-news/2025/10/04/woman-accused-of-shoving-woman-63-off-mbta-bus-reaches-plea-deal/",
+      "pubDate": "Sat, 04 Oct 2025 13:03:31 +0000",
+      "description": "<p>Luz Pineda, 32, was seen on video shoving the 63-year-old fellow passenger off the bus during a dispute. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/04/woman-accused-of-shoving-woman-63-off-mbta-bus-reaches-plea-deal/\">Woman accused of shoving woman, 63, off MBTA bus reaches plea deal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f523da9d5d8d63578bf47f494a57ad7b",
       "summary": [
-        "Update: Federal appeals court in Boston rules Trump admini",
-        "Details: <p>The panel upheld lower courts' preliminary inju",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "A hurricane sank a Spanish fleet in 1715. This summer, salvagers found $1M in coins.",
-      "link": "https://www.boston.com/news/history/2025/10/04/a-hurricane-sank-a-spanish-fleet-in-1715-this-summer-salvagers-found-1m-in-coins/",
-      "pubDate": "Sat, 04 Oct 2025 11:53:35 +0000",
-      "description": "<p>The recent finds from this summer's salvage season will be split between the salvage company, its subcontractors and the state of Florida.</p>\n<p>The post <a href=\"https://www.boston.com/news/history/2025/10/04/a-hurricane-sank-a-spanish-fleet-in-1715-this-summer-salvagers-found-1m-in-coins/\">A hurricane sank a Spanish fleet in 1715. This summer, salvagers found $1M in coins.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cfc5e0219724ee7289c45308451e4fb6",
-      "summary": [
-        "Update: A hurricane sank a Spanish fleet in 1715. This sum",
-        "Details: <p>The recent finds from this summer's salvage sea",
+        "Update: Woman accused of shoving woman, 63, off MBTA bus r",
+        "Details: <p>Luz Pineda, 32, was seen on video shoving the 6",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-04T12:39:21.070840+00:00"
+    "timestamp": "2025-10-04T14:17:34.272411+00:00"
   }
 }
