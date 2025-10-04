@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-10-04T10:19:19.895395+00:00",
+  "lastUpdated": "2025-10-04T12:39:21.070820+00:00",
   "articles": [
     {
-      "title": "A locked door and myriad treasures beyond, in vast rooms deemed unusable at Boston Public Library",
-      "link": "https://www.boston.com/news/the-boston-globe/2025/10/04/a-locked-door-and-myriad-treasures-beyond-in-vast-rooms-deemed-unusable-at-boston-public-library/",
-      "pubDate": "Sat, 04 Oct 2025 09:00:00 +0000",
-      "description": "<p>The resplendence of the Boston Public Library\u2019s McKim Building unfolds with each step up the grand staircase. Past the imposing stone lions, the golden-hued stairwell gives way to an airy gallery of murals, a millennium-spanning celebration of the muses. Nearby, a narrower stairway leads to the hushed third floor, where people wander the opulent gallery [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/10/04/a-locked-door-and-myriad-treasures-beyond-in-vast-rooms-deemed-unusable-at-boston-public-library/\">A locked door and myriad treasures beyond, in vast rooms deemed unusable at Boston Public Library</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dca06f614a86c85dea081703c1eb4231",
+      "title": "States say Trump administration has backed off ICE cooperation requirement for victims\u2019 funds",
+      "link": "https://www.boston.com/news/national-news/2025/10/04/states-say-trump-administration-has-backed-off-ice-cooperation-requirement-for-victims-funds/",
+      "pubDate": "Sat, 04 Oct 2025 12:35:49 +0000",
+      "description": "<p>The lawsuit filed in late August had asked a federal judge to declare the conditions were an administrative overstep as well as unconstitutional.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/10/04/states-say-trump-administration-has-backed-off-ice-cooperation-requirement-for-victims-funds/\">States say Trump administration has backed off ICE cooperation requirement for victims&#8217; funds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dca7861f2fde898a1575df6b6fbe0980",
       "summary": [
-        "Update: A locked door and myriad treasures beyond, in vast",
-        "Details: <p>The resplendence of the Boston Public Library\u2019s",
+        "Update: States say Trump administration has backed off ICE",
+        "Details: <p>The lawsuit filed in late August had asked a fe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Federal appeals court in Boston rules Trump administration can\u2019t end birthright citizenship",
+      "link": "https://www.boston.com/news/national-news/2025/10/04/federal-appeals-court-rules-trump-administration-cant-end-birthright-citizenship/",
+      "pubDate": "Sat, 04 Oct 2025 12:19:11 +0000",
+      "description": "<p>The panel upheld lower courts' preliminary injunctions, which blocked the birthright order while lawsuits challenging it moved ahead. </p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/10/04/federal-appeals-court-rules-trump-administration-cant-end-birthright-citizenship/\">Federal appeals court in Boston rules Trump administration can&#8217;t end birthright citizenship</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4f87be5029315c3c324348ea8714949d",
+      "summary": [
+        "Update: Federal appeals court in Boston rules Trump admini",
+        "Details: <p>The panel upheld lower courts' preliminary inju",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A hurricane sank a Spanish fleet in 1715. This summer, salvagers found $1M in coins.",
+      "link": "https://www.boston.com/news/history/2025/10/04/a-hurricane-sank-a-spanish-fleet-in-1715-this-summer-salvagers-found-1m-in-coins/",
+      "pubDate": "Sat, 04 Oct 2025 11:53:35 +0000",
+      "description": "<p>The recent finds from this summer's salvage season will be split between the salvage company, its subcontractors and the state of Florida.</p>\n<p>The post <a href=\"https://www.boston.com/news/history/2025/10/04/a-hurricane-sank-a-spanish-fleet-in-1715-this-summer-salvagers-found-1m-in-coins/\">A hurricane sank a Spanish fleet in 1715. This summer, salvagers found $1M in coins.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cfc5e0219724ee7289c45308451e4fb6",
+      "summary": [
+        "Update: A hurricane sank a Spanish fleet in 1715. This sum",
+        "Details: <p>The recent finds from this summer's salvage sea",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-04T10:19:19.895415+00:00"
+    "timestamp": "2025-10-04T12:39:21.070840+00:00"
   }
 }
