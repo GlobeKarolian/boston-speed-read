@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-10-04T18:27:42.496261+00:00",
+  "lastUpdated": "2025-10-04T20:20:46.087006+00:00",
   "articles": [
     {
-      "title": "Alex Bregman reportedly still a \u2018near certainty\u2019 to opt out of Red Sox contract",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/04/alex-bregman-opt-out-mlb-free-agency-rumors-red-sox/",
-      "pubDate": "Sat, 04 Oct 2025 16:33:18 +0000",
-      "description": "<p>Bregman can opt out of the two seasons remaining on his three-year, $120 million deal this offseason. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/04/alex-bregman-opt-out-mlb-free-agency-rumors-red-sox/\">Alex Bregman reportedly still a &#8216;near certainty&#8217; to opt out of Red Sox contract</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0213264843e3df506d3551a9c3c0dbf3",
+      "title": "Patriots set to be without key pass rusher vs. Bills",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/04/klavon-chaisson-injury-update-patriots-bills/",
+      "pubDate": "Sat, 04 Oct 2025 20:16:51 +0000",
+      "description": "<p>The Patriots will have to beat the Bills without K'Lavon Chaisson, who has emerged as a key part of the team's defensive front. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/04/klavon-chaisson-injury-update-patriots-bills/\">Patriots set to be without key pass rusher vs. Bills</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "07669950ecc0b6512a76a7245da6bafb",
       "summary": [
-        "Update: Alex Bregman reportedly still a \u2018near certainty\u2019 t",
-        "Details: <p>Bregman can opt out of the two seasons remainin",
+        "Update: Patriots set to be without key pass rusher vs. Bil",
+        "Details: <p>The Patriots will have to beat the Bills withou",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Quincy native Chris Mannix \u2018incredibly excited\u2019 to be joining NBC\u2019s return to NBA coverage as insider",
+      "link": "https://www.boston.com/sports/local-news/2025/10/04/nba-nbc-coverage-chris-mannix/",
+      "pubDate": "Sat, 04 Oct 2025 20:01:42 +0000",
+      "description": "<p>Mannix, who will continue in his full-time role as a senior writer for Sports Illustrated, said the new gig came about in part because of his previous contributions to NBC Sports.</p>\n<p>The post <a href=\"https://www.boston.com/sports/local-news/2025/10/04/nba-nbc-coverage-chris-mannix/\">Quincy native Chris Mannix \u2018incredibly excited\u2019 to be joining NBC\u2019s return to NBA coverage as insider</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0aec9a41e148601f0997e6df0e06b10f",
+      "summary": [
+        "Update: Quincy native Chris Mannix \u2018incredibly excited\u2019 to",
+        "Details: <p>Mannix, who will continue in his full-time role",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 things to know about Bills ahead of Sunday\u2019s game vs. Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/04/patriots-bills-nfl-week-5-preview/",
+      "pubDate": "Sat, 04 Oct 2025 19:23:52 +0000",
+      "description": "<p>The Patriots will get their best chance to see how they stack up with one of the league's elite teams on Sunday. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/04/patriots-bills-nfl-week-5-preview/\">5 things to know about Bills ahead of Sunday&#8217;s game vs. Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "272b1183229c306f53f79d6d5b431b90",
+      "summary": [
+        "Update: 5 things to know about Bills ahead of Sunday\u2019s gam",
+        "Details: <p>The Patriots will get their best chance to see ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-04T18:27:42.496280+00:00"
+    "timestamp": "2025-10-04T20:20:46.087023+00:00"
   }
 }
