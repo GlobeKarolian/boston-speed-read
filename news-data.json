@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-05T08:24:45.300529+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-05T10:19:57.670105+00:00",
+  "articles": [
+    {
+      "title": "New Hampshire\u2019s $90 million hotel is finally open. Is the Lake Estate on Winnisquam five-star material?",
+      "link": "https://www.boston.com/travel/the-boston-globe/2025/10/05/new-hampshires-90-million-hotel-is-finally-open-is-the-lake-estate-on-winnisquam-five-star-material/",
+      "pubDate": "Sun, 05 Oct 2025 09:00:00 +0000",
+      "description": "<p>TILTON, N.H. \u2014 It\u2019s easy to be cynical about a project like the Lake Estate on Winnisquam. It\u2019s a giant, luxury resort built in a section of New Hampshire where there are no other posh hotel offerings. Its managers brazenly stated they wanted the property to rank on the Forbes Travel Guide months before it [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/travel/the-boston-globe/2025/10/05/new-hampshires-90-million-hotel-is-finally-open-is-the-lake-estate-on-winnisquam-five-star-material/\">New Hampshire\u2019s $90 million hotel is finally open. Is the Lake Estate on Winnisquam five-star material?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2a9e71d934c370f2e38d198cb6045540",
+      "summary": [
+        "Update: New Hampshire\u2019s $90 million hotel is finally open.",
+        "Details: <p>TILTON, N.H. \u2014 It\u2019s easy to be cynical about a ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-05T08:24:45.300538+00:00"
+    "timestamp": "2025-10-05T10:19:57.670124+00:00"
   }
 }
