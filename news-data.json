@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-07T08:29:34.888706+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-07T10:22:56.332433+00:00",
+  "articles": [
+    {
+      "title": "Who is leading Karen Read\u2019s defense in wrongful death suit?",
+      "link": "https://www.boston.com/news/local-news/2025/10/07/karen-read-wrongful-death-civil-defense-lawyer/",
+      "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
+      "description": "<p>First there was Jackson and Yannetti. Now, a new contender has taken up Karen Read\u2019s cause. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/07/karen-read-wrongful-death-civil-defense-lawyer/\">Who is leading Karen Read\u2019s defense in wrongful death suit?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18082ebfa0090be839be36eb92de9894",
+      "summary": [
+        "Update: Who is leading Karen Read\u2019s defense in wrongful de",
+        "Details: <p>First there was Jackson and Yannetti. Now, a ne",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: A log cabin near N.H. ski mountains for under $725K",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/10/07/log-cabin-new-hampshire-ski-mountains-real-estate/",
+      "pubDate": "Tue, 07 Oct 2025 09:00:00 +0000",
+      "description": "<p>The main attraction of this three-bedroom cabin is the view.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/10/07/log-cabin-new-hampshire-ski-mountains-real-estate/\">Home of the Week: A log cabin near N.H. ski mountains for under $725K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c22a3ef057cdf93438ec43b5aea8eafe",
+      "summary": [
+        "Update: Home of the Week: A log cabin near N.H. ski mounta",
+        "Details: <p>The main attraction of this three-bedroom cabin",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-07T08:29:34.888715+00:00"
+    "timestamp": "2025-10-07T10:22:56.332451+00:00"
   }
 }
