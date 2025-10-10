@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-10-10T03:02:26.336139+00:00",
+  "lastUpdated": "2025-10-10T10:23:27.965358+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/10/david-byrne-kowloon-vehicle-takeovers/",
+      "pubDate": "Fri, 10 Oct 2025 09:00:00 +0000",
+      "description": "<p>A Talking Head, a Route 1 revision, and some troubling takeovers are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/10/david-byrne-kowloon-vehicle-takeovers/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "959529121a8879997cadab7cbc7ac6ec",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A Talking Head, a Route 1 revision, and some tr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Renovated 1964 Mid-century modern ranch honors its roots in Wayland",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/10/1964-mid-century-modern-ranch-wayland/",
+      "pubDate": "Fri, 10 Oct 2025 09:00:00 +0000",
+      "description": "<p>The re-designed home paying homage to the \"Mad Men\" era is on the market for $1.2 million. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/10/1964-mid-century-modern-ranch-wayland/\">Renovated 1964 Mid-century modern ranch honors its roots in Wayland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "343fc67562aa20f00aeb578f980eaabe",
+      "summary": [
+        "Update: Renovated 1964 Mid-century modern ranch honors its",
+        "Details: <p>The re-designed home paying homage to the \"Mad ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Haverhill police chief retires amid no confidence vote, criticism after officer\u2019s death",
       "link": "https://www.boston.com/news/local-news/2025/10/09/haverhill-police-chief-retires-amid-no-confidence-vote-criticism-after-officers-death/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Why Mike Vrabel isn\u2019t concerned with Patriots\u2019 pen",
         "Details: <p>\"We're going to play to the whistle. We're goin",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Amid reports of buyout talk, Bill Belichick says he\u2019s \u2018fully committed to UNC football\u2019",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/08/amid-reports-of-buyout-talk-bill-belichick-says-hes-fully-committed-to-unc-football/",
-      "pubDate": "Thu, 09 Oct 2025 02:25:49 +0000",
-      "description": "<p>\u201cCoach Belichick has the full support of the Department of Athletics and University.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/08/amid-reports-of-buyout-talk-bill-belichick-says-hes-fully-committed-to-unc-football/\">Amid reports of buyout talk, Bill Belichick says he\u2019s \u2018fully committed to UNC football\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "962c9417bb6c18c93dfeceb0dee12e9d",
-      "summary": [
-        "Update: Amid reports of buyout talk, Bill Belichick says h",
-        "Details: <p>\u201cCoach Belichick has the full support of the De",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018Still more work to do\u2019: Organizers, city leaders decry alleged attack on gay couple in Mattapan",
-      "link": "https://www.boston.com/news/local-news/2025/10/08/city-officials-community-leaders-address-mattapan-hate-crime-at-press-conference/",
-      "pubDate": "Thu, 09 Oct 2025 02:17:13 +0000",
-      "description": "<p>The press conference was organized in response to an alleged homophobic hate crime that happened Sept. 13 in Mattapan.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/08/city-officials-community-leaders-address-mattapan-hate-crime-at-press-conference/\">&#8216;Still more work to do&#8217;: Organizers, city leaders decry alleged attack on gay couple in Mattapan</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e49022f13901d059cfef12f109221bac",
-      "summary": [
-        "Update: \u2018Still more work to do\u2019: Organizers, city leaders ",
-        "Details: <p>The press conference was organized in response ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

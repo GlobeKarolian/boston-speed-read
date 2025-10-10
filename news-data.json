@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-10T08:29:22.229132+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-10T10:23:27.964488+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/10/david-byrne-kowloon-vehicle-takeovers/",
+      "pubDate": "Fri, 10 Oct 2025 09:00:00 +0000",
+      "description": "<p>A Talking Head, a Route 1 revision, and some troubling takeovers are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/10/david-byrne-kowloon-vehicle-takeovers/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "959529121a8879997cadab7cbc7ac6ec",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A Talking Head, a Route 1 revision, and some tr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Renovated 1964 Mid-century modern ranch honors its roots in Wayland",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/10/1964-mid-century-modern-ranch-wayland/",
+      "pubDate": "Fri, 10 Oct 2025 09:00:00 +0000",
+      "description": "<p>The re-designed home paying homage to the \"Mad Men\" era is on the market for $1.2 million. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/10/1964-mid-century-modern-ranch-wayland/\">Renovated 1964 Mid-century modern ranch honors its roots in Wayland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "343fc67562aa20f00aeb578f980eaabe",
+      "summary": [
+        "Update: Renovated 1964 Mid-century modern ranch honors its",
+        "Details: <p>The re-designed home paying homage to the \"Mad ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-10T08:29:22.229143+00:00"
+    "timestamp": "2025-10-10T10:23:27.964507+00:00"
   }
 }
