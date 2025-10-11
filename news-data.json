@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2025-10-11T12:39:28.156527+00:00",
+  "lastUpdated": "2025-10-11T14:16:55.772568+00:00",
   "articles": [
     {
-      "title": "Drew Bledsoe is on his way to Boston \u2014 and he wants to drink wine with you.",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/11/drew-bledsoe-patriots-wine-seaport-dinner/",
-      "pubDate": "Sat, 11 Oct 2025 12:27:21 +0000",
-      "description": "<p>Ahead of a ticketed Seaport dinner, the former New England Patriots quarterback talks roasting Tom Brady, Bill Belichick, the Patriots, and all things wine.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/11/drew-bledsoe-patriots-wine-seaport-dinner/\">Drew Bledsoe is on his way to Boston \u2014 and he wants to drink wine with you.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0ec03503473b3d6af2f9d72ab3d973b7",
+      "title": "Suspect sought in Davis Square knife assault",
+      "link": "https://www.boston.com/news/local-news/2025/10/11/suspect-sought-in-davis-square-knife-assault/",
+      "pubDate": "Sat, 11 Oct 2025 13:51:16 +0000",
+      "description": "<p>Transit police are asking anyone with information about the Oct. 8 assault to contact investigators. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/11/suspect-sought-in-davis-square-knife-assault/\">Suspect sought in Davis Square knife assault</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5fc67a4a53dc8204d331f6b8db1b085f",
       "summary": [
-        "Update: Drew Bledsoe is on his way to Boston \u2014 and he want",
-        "Details: <p>Ahead of a ticketed Seaport dinner, the former ",
+        "Update: Suspect sought in Davis Square knife assault",
+        "Details: <p>Transit police are asking anyone with informati",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Can moving make or break a relationship?",
-      "link": "https://www.boston.com/love-letters/love-letters/2025/10/11/how-moving-affects-relationships/",
-      "pubDate": "Sat, 11 Oct 2025 12:00:00 +0000",
-      "description": "<p>A young adult author moved 10 times in 12 years with his husband. Here's what he learned.</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2025/10/11/how-moving-affects-relationships/\">Can moving make or break a relationship?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ab34361a6fe51f9ca7e29ee1225e498f",
+      "title": "Republicans try to weaken 1972 law protecting whales, seals, and polar bears",
+      "link": "https://www.boston.com/news/politics/2025/10/11/republicans-try-to-weaken-1972-law-protecting-whales-seals-and-polar-bears/",
+      "pubDate": "Sat, 11 Oct 2025 12:55:19 +0000",
+      "description": "<p>Here's what to know about the Marine Mammal Protection Act and the proposed transformations.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/11/republicans-try-to-weaken-1972-law-protecting-whales-seals-and-polar-bears/\">Republicans try to weaken 1972 law protecting whales, seals, and polar bears</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "39f2f915f44c3e4b22f7cdde8ad37223",
       "summary": [
-        "Update: Can moving make or break a relationship?",
-        "Details: <p>A young adult author moved 10 times in 12 years",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "AstraZeneca agrees to lower drug prices for Medicaid under Trump administration deal",
-      "link": "https://www.boston.com/news/business/2025/10/11/astrazeneca-agrees-to-lower-drug-prices-for-medicaid-under-trump-administration-deal/",
-      "pubDate": "Sat, 11 Oct 2025 11:54:56 +0000",
-      "description": "<p>AstraZeneca's deal follows a similar agreement Pfizer announced late last month.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/11/astrazeneca-agrees-to-lower-drug-prices-for-medicaid-under-trump-administration-deal/\">AstraZeneca agrees to lower drug prices for Medicaid under Trump administration deal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d604228a4433f9374be5cda569a45859",
-      "summary": [
-        "Update: AstraZeneca agrees to lower drug prices for Medica",
-        "Details: <p>AstraZeneca's deal follows a similar agreement ",
+        "Update: Republicans try to weaken 1972 law protecting whal",
+        "Details: <p>Here's what to know about the Marine Mammal Pro",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-11T12:39:28.156547+00:00"
+    "timestamp": "2025-10-11T14:16:55.772587+00:00"
   }
 }
