@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2025-10-11T01:38:20.257246+00:00",
+  "lastUpdated": "2025-10-11T02:55:04.075609+00:00",
   "articles": [
     {
-      "title": "Trump threatens tech export limits, new 100% tariff on Chinese imports",
-      "link": "https://www.boston.com/news/business/2025/10/10/trump-threatens-tech-export-limits-new-100-tariff-on-chinese-imports/",
-      "pubDate": "Sat, 11 Oct 2025 00:23:21 +0000",
-      "description": "<p>The S&amp;P 500 tumbled 2.7% on worries about the rising tensions between the world\u2019s largest economies.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/10/trump-threatens-tech-export-limits-new-100-tariff-on-chinese-imports/\">Trump threatens tech export limits, new 100% tariff on Chinese imports</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3dd8f6c66e4421f102a06d4db2d2ce1a",
+      "title": "Firings of federal workers begin as White House seeks to pressure Democrats in government shutdown",
+      "link": "https://www.boston.com/news/politics/2025/10/10/firings-of-federal-workers-begin-as-white-house-seeks-to-pressure-democrats-in-government-shutdown/",
+      "pubDate": "Sat, 11 Oct 2025 02:01:47 +0000",
+      "description": "<p>In a court filing, the budget office said well over 4,000 employees would be fired, though it noted that the funding situation was \u201cfluid and rapidly evolving.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/10/firings-of-federal-workers-begin-as-white-house-seeks-to-pressure-democrats-in-government-shutdown/\">Firings of federal workers begin as White House seeks to pressure Democrats in government shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "87471216dbfd7fb472cbe74ebe2665b5",
       "summary": [
-        "Update: Trump threatens tech export limits, new 100% tarif",
-        "Details: <p>The S&amp;P 500 tumbled 2.7% on worries about t",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "5 must-watch movies & TV shows streaming right now",
-      "link": "https://www.boston.com/culture/streaming/2025/10/10/5-must-watch-movies-tv-shows-streaming-right-now-october-10-2025/",
-      "pubDate": "Fri, 10 Oct 2025 23:05:27 +0000",
-      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2025/10/10/5-must-watch-movies-tv-shows-streaming-right-now-october-10-2025/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2f7553612101f73fdcb6d982d73e823b",
-      "summary": [
-        "Update: 5 must-watch movies & TV shows streaming right now",
-        "Details: <p>The best of what's new streaming on Netflix, Hu",
+        "Update: Firings of federal workers begin as White House se",
+        "Details: <p>In a court filing, the budget office said well ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-11T01:38:20.257258+00:00"
+    "timestamp": "2025-10-11T02:55:04.075625+00:00"
   }
 }
