@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2025-10-12T14:17:48.490982+00:00",
+  "lastUpdated": "2025-10-12T16:24:04.896483+00:00",
   "articles": [
     {
-      "title": "3 people injured after daytime shooting in Mattapan, police say",
-      "link": "https://www.boston.com/news/crime/2025/10/12/three-people-injured-after-daytime-shooting-in-mattapan-police-say/",
-      "pubDate": "Sun, 12 Oct 2025 13:54:50 +0000",
-      "description": "<p>Two men were hospitalized with non-life-threatening injuries, and a woman was hospitalized with \u201cserious\u201d injuries, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/12/three-people-injured-after-daytime-shooting-in-mattapan-police-say/\">3 people injured after daytime shooting in Mattapan, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1e1b65fc2d9b3157a02729ad16d066a7",
+      "title": "Community shows support for Roslindale business owner after Pride flag torn down",
+      "link": "https://www.boston.com/news/local-news/2025/10/12/community-shows-support-for-roslindale-business-owner-after-pride-flag-torn-down/",
+      "pubDate": "Sun, 12 Oct 2025 15:06:08 +0000",
+      "description": "<p>The owner of Roslindale Gourmet Foods Market, Russ &amp; Mimi\u2019s, discovered her business\u2019 Pride flag had been ripped down overnight.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/12/community-shows-support-for-roslindale-business-owner-after-pride-flag-torn-down/\">Community shows support for Roslindale business owner after Pride flag torn down</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "90ca5bf1eca4fcf02e721f24e01b06fe",
       "summary": [
-        "Update: 3 people injured after daytime shooting in Mattapa",
-        "Details: <p>Two men were hospitalized with non-life-threate",
+        "Update: Community shows support for Roslindale business ow",
+        "Details: <p>The owner of Roslindale Gourmet Foods Market, R",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Boston judge orders release of 13-year-old boy from ICE custody",
-      "link": "https://www.boston.com/news/local-news/2025/10/12/boston-judge-orders-release-of-13-year-old-boy-from-ice-custody/",
-      "pubDate": "Sun, 12 Oct 2025 13:43:10 +0000",
-      "description": "<p>The boy is allegedly being held with unrelated adult men, and no reason has been given for his detainment, according to the order.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/12/boston-judge-orders-release-of-13-year-old-boy-from-ice-custody/\">Boston judge orders release of 13-year-old boy from ICE custody</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "75be1538583d90b8b95101ab3d8a1a67",
+      "title": "Laney Wilson blows through Mansfield with Whirlwind World Tour",
+      "link": "https://www.boston.com/culture/concert-reviews/2025/10/12/laney-wilson-blows-through-mansfield-with-whirlwind-world-tour/",
+      "pubDate": "Sun, 12 Oct 2025 15:00:05 +0000",
+      "description": "<p>She is a showman. Polished as a new penny, with a voice reminiscent of Dolly Parton and a stage presence of someone who\u2019s been doing this for 40 years. </p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/10/12/laney-wilson-blows-through-mansfield-with-whirlwind-world-tour/\">Laney Wilson blows through Mansfield with Whirlwind World Tour</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9867f6e3dd2f0cc86aa398a86f6c9135",
       "summary": [
-        "Update: Boston judge orders release of 13-year-old boy fro",
-        "Details: <p>The boy is allegedly being held with unrelated ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "A long-lost ancient Roman artifact reappears in a New Orleans backyard",
-      "link": "https://www.boston.com/news/history/2025/10/12/a-long-lost-ancient-roman-artifact-reappears-in-a-new-orleans-backyard/",
-      "pubDate": "Sun, 12 Oct 2025 13:20:05 +0000",
-      "description": "<p>The FBI is in talks with Italian authorities to repatriate the tablet.</p>\n<p>The post <a href=\"https://www.boston.com/news/history/2025/10/12/a-long-lost-ancient-roman-artifact-reappears-in-a-new-orleans-backyard/\">A long-lost ancient Roman artifact reappears in a New Orleans backyard</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8c4c9042e1ab0fd450002191eafaafb6",
-      "summary": [
-        "Update: A long-lost ancient Roman artifact reappears in a ",
-        "Details: <p>The FBI is in talks with Italian authorities to",
+        "Update: Laney Wilson blows through Mansfield with Whirlwin",
+        "Details: <p>She is a showman. Polished as a new penny, with",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-12T14:17:48.491001+00:00"
+    "timestamp": "2025-10-12T16:24:04.896503+00:00"
   }
 }
