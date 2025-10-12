@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-12T03:04:07.844627+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-12T04:24:44.485710+00:00",
+  "articles": [
+    {
+      "title": "Bruins improve to 3-0 on the season after stifling Sabres offense Saturday",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/10/11/nhl-bruins-sabres-recap-defense-penalty-kill-jeremy-swayman/",
+      "pubDate": "Sun, 12 Oct 2025 03:58:49 +0000",
+      "description": "<p>Boston's defense held Buffalo to just one shot on goal in the first period.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/10/11/nhl-bruins-sabres-recap-defense-penalty-kill-jeremy-swayman/\">Bruins improve to 3-0 on the season after stifling Sabres offense Saturday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "50a588f5a0e8bb1dd6fe4605c1bbb6a7",
+      "summary": [
+        "Update: Bruins improve to 3-0 on the season after stifling",
+        "Details: <p>Boston's defense held Buffalo to just one shot ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots elevate RB Terrell Jennings ahead of Week 6 matchup vs. Saints",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/11/nfl-patriots-practice-squad-elevations-terrell-jennings-truman-jones/",
+      "pubDate": "Sun, 12 Oct 2025 03:58:19 +0000",
+      "description": "<p>With Antonio Gibson out for the season, Jennings could make his season debut on Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/11/nfl-patriots-practice-squad-elevations-terrell-jennings-truman-jones/\">Patriots elevate RB Terrell Jennings ahead of Week 6 matchup vs. Saints</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "39f44495ae1a1a0dc31b445a88e97225",
+      "summary": [
+        "Update: Patriots elevate RB Terrell Jennings ahead of Week",
+        "Details: <p>With Antonio Gibson out for the season, Jenning",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-12T03:04:07.844635+00:00"
+    "timestamp": "2025-10-12T04:24:44.485730+00:00"
   }
 }
