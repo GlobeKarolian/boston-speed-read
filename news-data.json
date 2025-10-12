@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-12T20:21:59.490747+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-12T22:19:00.460208+00:00",
+  "articles": [
+    {
+      "title": "Justin Herbert rallies Chargers in final minute for 29-27 win over Dolphins",
+      "link": "https://www.boston.com/sports/nfl/2025/10/12/justin-herbert-rallies-chargers-final-minute-win-over-dolphins-recap/",
+      "pubDate": "Sun, 12 Oct 2025 22:14:00 +0000",
+      "description": "<p>\"The thing that was going through my mind was no sacks.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/nfl/2025/10/12/justin-herbert-rallies-chargers-final-minute-win-over-dolphins-recap/\">Justin Herbert rallies Chargers in final minute for 29-27 win over Dolphins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "605ea6fc099c8dc037a37782c045c16e",
+      "summary": [
+        "Update: Justin Herbert rallies Chargers in final minute fo",
+        "Details: <p>\"The thing that was going through my mind was n",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-12T20:21:59.490755+00:00"
+    "timestamp": "2025-10-12T22:19:00.460231+00:00"
   }
 }
