@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-13T16:27:53.330990+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-13T18:30:32.795762+00:00",
+  "articles": [
+    {
+      "title": "\u2018Just watch the effort\u2019: Former Patriots RB highlights Rhamondre Stevenson\u2019s hustle amid tough stretch",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/13/damien-harris-highlights-rhamondre-stevenson-hustle-amid-tough-stretch/",
+      "pubDate": "Mon, 13 Oct 2025 17:32:05 +0000",
+      "description": "<p>\"When Mike Vrabel said they need Rhamondre, it\u2019s because of stuff like this.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/13/damien-harris-highlights-rhamondre-stevenson-hustle-amid-tough-stretch/\">&#8216;Just watch the effort&#8217;: Former Patriots RB highlights Rhamondre Stevenson&#8217;s hustle amid tough stretch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "299f67b951b48b0af8bc0d12ae7bfa46",
+      "summary": [
+        "Update: \u2018Just watch the effort\u2019: Former Patriots RB highli",
+        "Details: <p>\"When Mike Vrabel said they need Rhamondre, it\u2019",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Purdue tops preseason AP Top 25 poll for 1st time, ahead of Houston and reigning NCAA champ Florida",
+      "link": "https://www.boston.com/sports/college-sports/2025/10/13/purdue-tops-preseason-ap-top-25-poll-houston-florida-next/",
+      "pubDate": "Mon, 13 Oct 2025 16:40:00 +0000",
+      "description": "<p>Purdue is No. 1 in the preseason Associated Press men&#8217;s college basketball poll for the first time</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2025/10/13/purdue-tops-preseason-ap-top-25-poll-houston-florida-next/\">Purdue tops preseason AP Top 25 poll for 1st time, ahead of Houston and reigning NCAA champ Florida</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "308ce215a59f40fd693f192cb71ddf36",
+      "summary": [
+        "Update: Purdue tops preseason AP Top 25 poll for 1st time,",
+        "Details: <p>Purdue is No. 1 in the preseason Associated Pre",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-13T16:27:53.330998+00:00"
+    "timestamp": "2025-10-13T18:30:32.795780+00:00"
   }
 }
