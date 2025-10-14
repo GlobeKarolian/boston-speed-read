@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-14T08:27:48.103978+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-14T10:23:51.037431+00:00",
+  "articles": [
+    {
+      "title": "Giveaway: Enter to be a GlobeDocs Film Festival VIP",
+      "link": "https://www.boston.com/culture/things-to-do/2025/10/14/globedocs-film-festival-giveaway-2025/",
+      "pubDate": "Tue, 14 Oct 2025 09:00:00 +0000",
+      "description": "<p>The winner will be selected Oct. 16.</p>\n<p>The post <a href=\"https://www.boston.com/culture/things-to-do/2025/10/14/globedocs-film-festival-giveaway-2025/\">Giveaway: Enter to be a GlobeDocs Film Festival VIP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4af49d6514a8738722ca362df10b84f0",
+      "summary": [
+        "Update: Giveaway: Enter to be a GlobeDocs Film Festival VI",
+        "Details: <p>The winner will be selected Oct. 16.</p>\n<p>The",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-14T08:27:48.103989+00:00"
+    "timestamp": "2025-10-14T10:23:51.037449+00:00"
   }
 }
