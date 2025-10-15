@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-15T08:31:09.703238+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-15T10:25:18.115393+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: House on the Charles River listed for $1.5M in Waltham",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/10/15/home-of-the-week-charles-river-waltham/",
+      "pubDate": "Wed, 15 Oct 2025 09:00:00 +0000",
+      "description": "<p>The water can be accessed via a private dock for kayaking and fishing or simply siting in a chair to contemplate.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/10/15/home-of-the-week-charles-river-waltham/\">Home of the Week: House on the Charles River listed for $1.5M in Waltham</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b6da391da6b2faf166f14315942daa9b",
+      "summary": [
+        "Update: Home of the Week: House on the Charles River liste",
+        "Details: <p>The water can be accessed via a private dock fo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Recent homes sales in Greater Boston (Oct. 15)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/10/15/recent-homes-sales-in-greater-boston-oct-15/",
+      "pubDate": "Wed, 15 Oct 2025 09:00:00 +0000",
+      "description": "<p>ABINGTON 190 Washington St. One-family Colonial, built in 1996, 3,253 square feet, 8 rooms, 5 bedrooms, 4 baths, on 44,412-square-foot lot. $1,399,900 131 Spruce St. One-family conventional, built in 1890, 1,497 square feet, 6 rooms, 3 bedrooms, 2 baths, on 23,939-square-foot lot. $785,000 ACTON 16 Patriots Road. One-family Colonial, built in 1967, 2,632 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/10/15/recent-homes-sales-in-greater-boston-oct-15/\">Recent homes sales in Greater Boston (Oct. 15)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d6ebea294821b9b7d741b7b72c5e886",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Oct. 15)",
+        "Details: <p>ABINGTON 190 Washington St. One-family Colonial",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-15T08:31:09.703249+00:00"
+    "timestamp": "2025-10-15T10:25:18.115411+00:00"
   }
 }
