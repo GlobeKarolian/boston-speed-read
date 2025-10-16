@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2025-10-16T10:25:21.617520+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-16T12:49:04.762754+00:00",
+  "articles": [
+    {
+      "title": "She died after getting mugged for her pocketbook in South Boston. Her assailant has never been caught.",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/10/16/jean-lampron-cold-case-files/",
+      "pubDate": "Thu, 16 Oct 2025 12:46:19 +0000",
+      "description": "<p>Twenty-one years earlier, Jean Lampron's son, Walter, was killed in South Boston, just blocks from where she was mugged.</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/10/16/jean-lampron-cold-case-files/\">She died after getting mugged for her pocketbook in South Boston. Her assailant has never been caught.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18551e9b6c14009ed61fe780c608f312",
+      "summary": [
+        "Update: She died after getting mugged for her pocketbook i",
+        "Details: <p>Twenty-one years earlier, Jean Lampron's son, W",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Smucker sues Trader Joe\u2019s, saying its new PB&J sandwiches are too similar to Uncrustables",
+      "link": "https://www.boston.com/news/business/2025/10/16/smucker-sues-trader-joespbj-sandwiches-uncrustables/",
+      "pubDate": "Thu, 16 Oct 2025 12:05:35 +0000",
+      "description": "<p>Smucker is seeking restitution\u00a0from Trader Joe's. It also wants a judge to require Trader Joe's to deliver all products and packaging to Smucker to be destroyed.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/16/smucker-sues-trader-joespbj-sandwiches-uncrustables/\">Smucker sues Trader Joe&#8217;s, saying its new PB&amp;J sandwiches are too similar to Uncrustables</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "feeac372d0c4cb2bee6f7894ef27ebfd",
+      "summary": [
+        "Update: Smucker sues Trader Joe\u2019s, saying its new PB&J san",
+        "Details: <p>Smucker is seeking restitution\u00a0from Trader Joe'",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018Death has so many gifts to give\u2019: Before Boston show, Neko Case talks about life, love, and loss",
+      "link": "https://www.boston.com/culture/music/2025/10/16/neko-case-talks-life-love-loss-boston-show/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
+      "description": "<p>Case, who recorded her new album at her home studio in Vermont, comes to The Wilbur Oct. 23.</p>\n<p>The post <a href=\"https://www.boston.com/culture/music/2025/10/16/neko-case-talks-life-love-loss-boston-show/\">&#8216;Death has so many gifts to give&#8217;: Before Boston show, Neko Case talks about life, love, and loss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d83e2b98734188791eddbd7e6a2105fc",
+      "summary": [
+        "Update: \u2018Death has so many gifts to give\u2019: Before Boston s",
+        "Details: <p>Case, who recorded her new album at her home st",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 can\u2019t-miss restaurant openings and dining updates in Boston this week",
+      "link": "https://www.boston.com/food/restaurants/2025/10/16/restaurant-openings-oct-15-2025/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
+      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2025/10/16/restaurant-openings-oct-15-2025/\">5 can\u2019t-miss restaurant openings and dining updates in Boston this week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "308243903cb201b0efa4135d4d0c2318",
+      "summary": [
+        "Update: 5 can\u2019t-miss restaurant openings and dining update",
+        "Details: <p>Stay up to date on the best new restaurants, re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the Remodeler: What to expect from a full kitchen remodel",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/16/home-renovation-tips-kitchen-remodel/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
+      "description": "<p>Before gutting your kitchen, prepare your timeline and get a good idea of what\u2019s in store. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/16/home-renovation-tips-kitchen-remodel/\">Ask the Remodeler: What to expect from a full kitchen remodel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e7cb318a5a2aa49313bee7b146d8fc5b",
+      "summary": [
+        "Update: Ask the Remodeler: What to expect from a full kitc",
+        "Details: <p>Before gutting your kitchen, prepare your timel",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2025-10-16T10:25:21.617532+00:00"
+    "timestamp": "2025-10-16T12:49:04.762773+00:00"
   }
 }

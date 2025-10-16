@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-10-16T03:05:13.326594+00:00",
+  "lastUpdated": "2025-10-16T12:49:04.763624+00:00",
   "articles": [
+    {
+      "title": "She died after getting mugged for her pocketbook in South Boston. Her assailant has never been caught.",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/10/16/jean-lampron-cold-case-files/",
+      "pubDate": "Thu, 16 Oct 2025 12:46:19 +0000",
+      "description": "<p>Twenty-one years earlier, Jean Lampron's son, Walter, was killed in South Boston, just blocks from where she was mugged.</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/10/16/jean-lampron-cold-case-files/\">She died after getting mugged for her pocketbook in South Boston. Her assailant has never been caught.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18551e9b6c14009ed61fe780c608f312",
+      "summary": [
+        "Update: She died after getting mugged for her pocketbook i",
+        "Details: <p>Twenty-one years earlier, Jean Lampron's son, W",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Smucker sues Trader Joe\u2019s, saying its new PB&J sandwiches are too similar to Uncrustables",
+      "link": "https://www.boston.com/news/business/2025/10/16/smucker-sues-trader-joespbj-sandwiches-uncrustables/",
+      "pubDate": "Thu, 16 Oct 2025 12:05:35 +0000",
+      "description": "<p>Smucker is seeking restitution\u00a0from Trader Joe's. It also wants a judge to require Trader Joe's to deliver all products and packaging to Smucker to be destroyed.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/16/smucker-sues-trader-joespbj-sandwiches-uncrustables/\">Smucker sues Trader Joe&#8217;s, saying its new PB&amp;J sandwiches are too similar to Uncrustables</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "feeac372d0c4cb2bee6f7894ef27ebfd",
+      "summary": [
+        "Update: Smucker sues Trader Joe\u2019s, saying its new PB&J san",
+        "Details: <p>Smucker is seeking restitution\u00a0from Trader Joe'",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018Death has so many gifts to give\u2019: Before Boston show, Neko Case talks about life, love, and loss",
+      "link": "https://www.boston.com/culture/music/2025/10/16/neko-case-talks-life-love-loss-boston-show/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
+      "description": "<p>Case, who recorded her new album at her home studio in Vermont, comes to The Wilbur Oct. 23.</p>\n<p>The post <a href=\"https://www.boston.com/culture/music/2025/10/16/neko-case-talks-life-love-loss-boston-show/\">&#8216;Death has so many gifts to give&#8217;: Before Boston show, Neko Case talks about life, love, and loss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d83e2b98734188791eddbd7e6a2105fc",
+      "summary": [
+        "Update: \u2018Death has so many gifts to give\u2019: Before Boston s",
+        "Details: <p>Case, who recorded her new album at her home st",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 can\u2019t-miss restaurant openings and dining updates in Boston this week",
+      "link": "https://www.boston.com/food/restaurants/2025/10/16/restaurant-openings-oct-15-2025/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
+      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2025/10/16/restaurant-openings-oct-15-2025/\">5 can\u2019t-miss restaurant openings and dining updates in Boston this week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "308243903cb201b0efa4135d4d0c2318",
+      "summary": [
+        "Update: 5 can\u2019t-miss restaurant openings and dining update",
+        "Details: <p>Stay up to date on the best new restaurants, re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the Remodeler: What to expect from a full kitchen remodel",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/16/home-renovation-tips-kitchen-remodel/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 +0000",
+      "description": "<p>Before gutting your kitchen, prepare your timeline and get a good idea of what\u2019s in store. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/16/home-renovation-tips-kitchen-remodel/\">Ask the Remodeler: What to expect from a full kitchen remodel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e7cb318a5a2aa49313bee7b146d8fc5b",
+      "summary": [
+        "Update: Ask the Remodeler: What to expect from a full kitc",
+        "Details: <p>Before gutting your kitchen, prepare your timel",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "10 potential trade targets for Patriots before Nov. 4 deadline",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/10/15/new-england-patriots-trade-targets-rumors-hall-hopkins-brown-olave-vrabel-maye/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: My car\u2019s dashboard lit up like a pinball machine",
         "Details: <p>John Paul, AAA Northeast's Car Doctor, answers ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Red Sox predicted to have a \u2018safe\u2019 offseason, according to ESPN analyst",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/14/red-sox-offseason-trades-free-agents-rumors-mlb-baseball/",
-      "pubDate": "Tue, 14 Oct 2025 23:33:21 +0000",
-      "description": "<p>\u201cIf anyone is the odd man out, it\u2019s probably him, so he\u2019s the one most likely to get traded.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/14/red-sox-offseason-trades-free-agents-rumors-mlb-baseball/\">Red Sox predicted to have a \u2018safe\u2019 offseason, according to ESPN analyst</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "44246b6874c5ac55359c9d1126e9f995",
-      "summary": [
-        "Update: Red Sox predicted to have a \u2018safe\u2019 offseason, acco",
-        "Details: <p>\u201cIf anyone is the odd man out, it\u2019s probably hi",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Report: Bill Belichick believes negative reports \u2018have origins in New England\u2019",
-      "link": "https://www.boston.com/sports/nfl/2025/10/14/bill-belichick-unc-fired-future-reports-robert-kraft-new-england-patriots/",
-      "pubDate": "Tue, 14 Oct 2025 23:27:01 +0000",
-      "description": "<p>Bill Belichick has found himself mired in negative attention amid a 2-3 start at UNC. </p>\n<p>The post <a href=\"https://www.boston.com/sports/nfl/2025/10/14/bill-belichick-unc-fired-future-reports-robert-kraft-new-england-patriots/\">Report: Bill Belichick believes negative reports \u2018have origins in New England\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b7f391a2cccda6169b419a8e8427aafd",
-      "summary": [
-        "Update: Report: Bill Belichick believes negative reports \u2018",
-        "Details: <p>Bill Belichick has found himself mired in negat",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Mother, aunt, mother\u2019s boyfriend arrested after girl\u2019s body found in container behind CT home",
-      "link": "https://www.boston.com/news/crime/2025/10/14/mother-aunt-mothers-boyfriend-arrested-after-girls-body-found-in-container-behind-ct-home/",
-      "pubDate": "Tue, 14 Oct 2025 23:13:45 +0000",
-      "description": "<p>Police found the remains of 12-year-old Jacqueline \u201cMimi\u201d Torres-Garcia in a plastic storage bin last Wednesday in New Britain.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/14/mother-aunt-mothers-boyfriend-arrested-after-girls-body-found-in-container-behind-ct-home/\">Mother, aunt, mother&#8217;s boyfriend arrested after girl&#8217;s body found in container behind CT home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "82c5cc572f0a2b94acd1273c84fe12a0",
-      "summary": [
-        "Update: Mother, aunt, mother\u2019s boyfriend arrested after gi",
-        "Details: <p>Police found the remains of 12-year-old Jacquel",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Trump said Harvard has seen violent crime skyrocket. Data from campus police says otherwise.",
-      "link": "https://www.boston.com/news/local-news/2025/10/14/trump-said-harvard-has-seen-violent-crime-skyrocket-data-from-campus-police-says-otherwise/",
-      "pubDate": "Tue, 14 Oct 2025 21:50:53 +0000",
-      "description": "<p>The Harvard Crimson editorial board slammed the Trump administration's claim that crime has risen on campus, citing university police data showing that most crimes on campus have declined.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/14/trump-said-harvard-has-seen-violent-crime-skyrocket-data-from-campus-police-says-otherwise/\">Trump said Harvard has seen violent crime skyrocket. Data from campus police says otherwise.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3e9d0d1aff78adc429bfdf443b69bf48",
-      "summary": [
-        "Update: Trump said Harvard has seen violent crime skyrocke",
-        "Details: <p>The Harvard Crimson editorial board slammed the",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Healey tells DPU to review, lower gas and electric bills",
-      "link": "https://www.boston.com/news/local-news/2025/10/14/healey-tells-dpu-to-review-lower-gas-and-electric-bills/",
-      "pubDate": "Tue, 14 Oct 2025 21:27:19 +0000",
-      "description": "<p>\"The bottom line is that gas and electric bills are too high, too volatile for people in the Northeast.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/14/healey-tells-dpu-to-review-lower-gas-and-electric-bills/\">Healey tells DPU to review, lower gas and electric bills</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d5c20e60059960c3cb6f02696aedb35e",
-      "summary": [
-        "Update: Healey tells DPU to review, lower gas and electric",
-        "Details: <p>\"The bottom line is that gas and electric bills",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
