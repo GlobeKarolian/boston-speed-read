@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-17T08:30:07.469156+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-17T10:23:52.713145+00:00",
+  "articles": [
+    {
+      "title": "Storied Salem mansion on National Register of Historic Places listed for $2.6M",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2025/10/17/salem-mass-joseph-story-house-historic-home/",
+      "pubDate": "Fri, 17 Oct 2025 09:00:00 +0000",
+      "description": "<p>The home was built in 1811 as the Joseph Story House. Story is regarded as the \"father of Harvard Law School.\"</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2025/10/17/salem-mass-joseph-story-house-historic-home/\">Storied Salem mansion on National Register of Historic Places listed for $2.6M</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "efc7a1e1c575e056624b804775cc51b3",
+      "summary": [
+        "Update: Storied Salem mansion on National Register of Hist",
+        "Details: <p>The home was built in 1811 as the Joseph Story ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/17/mike-greenwell-citgo-paul-pierce/",
+      "pubDate": "Fri, 17 Oct 2025 09:00:00 +0000",
+      "description": "<p>A Red Sox legend, a CITGO sign switch, and a Dave Portnoy purchase are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/17/mike-greenwell-citgo-paul-pierce/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cf26550056d17a5e4034aad5806e1778",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A Red Sox legend, a CITGO sign switch, and a Da",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-17T08:30:07.469167+00:00"
+    "timestamp": "2025-10-17T10:23:52.713166+00:00"
   }
 }
