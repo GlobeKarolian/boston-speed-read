@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-18T16:24:43.831127+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-18T18:27:49.952828+00:00",
+  "articles": [
+    {
+      "title": "5 things to know about Titans before Sunday\u2019s game vs. Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/18/patriots-titans-nfl-week-7-preview/",
+      "pubDate": "Sat, 18 Oct 2025 16:58:04 +0000",
+      "description": "<p>The Titans enter Sunday's matchup with a new head coach.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/18/patriots-titans-nfl-week-7-preview/\">5 things to know about Titans before Sunday&#8217;s game vs. Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "190d60fb28cf190df8b97e0c1f57f09f",
+      "summary": [
+        "Update: 5 things to know about Titans before Sunday\u2019s game",
+        "Details: <p>The Titans enter Sunday's matchup with a new he",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Photos from Saturday\u2019s \u2018No Kings\u2019 protests across Greater Boston",
+      "link": "https://www.boston.com/news/local-news/2025/10/18/photos-from-saturdays-no-kings-protests-across-greater-boston/",
+      "pubDate": "Sat, 18 Oct 2025 16:23:52 +0000",
+      "description": "<p>Thousands of protesters are expected to take part in the \"No Kings\" protests being held around Greater Boston.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/18/photos-from-saturdays-no-kings-protests-across-greater-boston/\">Photos from Saturday&#8217;s &#8216;No Kings&#8217; protests across Greater Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "28224939650ec5bd7bb4a868b733e507",
+      "summary": [
+        "Update: Photos from Saturday\u2019s \u2018No Kings\u2019 protests across ",
+        "Details: <p>Thousands of protesters are expected to take pa",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-18T16:24:43.831136+00:00"
+    "timestamp": "2025-10-18T18:27:49.952849+00:00"
   }
 }
