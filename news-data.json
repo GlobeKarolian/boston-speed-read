@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-18T08:26:59.508870+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-18T10:20:25.287027+00:00",
+  "articles": [
+    {
+      "title": "\u2018We\u2019re not big spenders\u2019: Meet those behind the fight over health insurance at the center of the shutdown stalemate",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/10/18/health-insurance-federal-shutdown-stalemate/",
+      "pubDate": "Sat, 18 Oct 2025 09:00:00 +0000",
+      "description": "<p>The lives of millions could be dramatically changed by what Congress does next. </p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/10/18/health-insurance-federal-shutdown-stalemate/\">\u2018We\u2019re not big spenders\u2019: Meet those behind the fight over health insurance at the center of the shutdown stalemate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "589ec81f4474d9f67a62cda2c1737aac",
+      "summary": [
+        "Update: \u2018We\u2019re not big spenders\u2019: Meet those behind the fi",
+        "Details: <p>The lives of millions could be dramatically cha",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-18T08:26:59.508878+00:00"
+    "timestamp": "2025-10-18T10:20:25.287046+00:00"
   }
 }
