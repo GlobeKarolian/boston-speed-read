@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-10-18T10:20:25.287027+00:00",
+  "lastUpdated": "2025-10-18T12:40:41.360476+00:00",
   "articles": [
     {
-      "title": "\u2018We\u2019re not big spenders\u2019: Meet those behind the fight over health insurance at the center of the shutdown stalemate",
-      "link": "https://www.boston.com/news/the-boston-globe/2025/10/18/health-insurance-federal-shutdown-stalemate/",
-      "pubDate": "Sat, 18 Oct 2025 09:00:00 +0000",
-      "description": "<p>The lives of millions could be dramatically changed by what Congress does next. </p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/10/18/health-insurance-federal-shutdown-stalemate/\">\u2018We\u2019re not big spenders\u2019: Meet those behind the fight over health insurance at the center of the shutdown stalemate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "589ec81f4474d9f67a62cda2c1737aac",
+      "title": "Trump commutes sentence of former US Rep. George Santos in federal fraud case",
+      "link": "https://www.boston.com/news/politics/2025/10/18/trump-commutes-sentence-of-former-us-rep-george-santos-in-federal-fraud-case/",
+      "pubDate": "Sat, 18 Oct 2025 12:09:59 +0000",
+      "description": "<p>The New York Republican was sentenced in April after admitting last year to deceiving donors and stealing the identities of 11 people.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/18/trump-commutes-sentence-of-former-us-rep-george-santos-in-federal-fraud-case/\">Trump commutes sentence of former US Rep. George Santos in federal fraud case</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3fe16cdb4dd5bde31c1fdadaa96ea424",
       "summary": [
-        "Update: \u2018We\u2019re not big spenders\u2019: Meet those behind the fi",
-        "Details: <p>The lives of millions could be dramatically cha",
+        "Update: Trump commutes sentence of former US Rep. George S",
+        "Details: <p>The New York Republican was sentenced in April ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Meta adds parental controls for AI-teen interactions",
+      "link": "https://www.boston.com/news/business/2025/10/18/meta-adds-parental-controls-for-ai-teen-interactions/",
+      "pubDate": "Sat, 18 Oct 2025 11:52:40 +0000",
+      "description": "<p>The changes come as the social media giant faces ongoing criticism over harms to children from its platforms.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/18/meta-adds-parental-controls-for-ai-teen-interactions/\">Meta adds parental controls for AI-teen interactions</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7602d20be700d94d32f300b8a04f31c7",
+      "summary": [
+        "Update: Meta adds parental controls for AI-teen interactio",
+        "Details: <p>The changes come as the social media giant face",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots QB Drake Maye attends Catholic Memorial vs. Xaverian football game",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/18/drake-maye-xaverian-catholic-memorial-football-game/",
+      "pubDate": "Sat, 18 Oct 2025 11:26:18 +0000",
+      "description": "<p>Maye took a trip to Westwood before New England departs for its Week 7 game against the Titans in Tennessee.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/18/drake-maye-xaverian-catholic-memorial-football-game/\">Patriots QB Drake Maye attends Catholic Memorial vs. Xaverian football game</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c6d4ba14964f081803baa1f92ceb6145",
+      "summary": [
+        "Update: Patriots QB Drake Maye attends Catholic Memorial v",
+        "Details: <p>Maye took a trip to Westwood before New England",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-18T10:20:25.287046+00:00"
+    "timestamp": "2025-10-18T12:40:41.360532+00:00"
   }
 }
