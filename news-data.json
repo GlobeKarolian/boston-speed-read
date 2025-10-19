@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2025-10-19T12:40:40.173954+00:00",
+  "lastUpdated": "2025-10-19T14:18:10.478333+00:00",
   "articles": [
     {
-      "title": "Trump\u2019s immigration crackdown weighs heavy on the US labor market",
-      "link": "https://www.boston.com/news/politics/2025/10/19/trumps-immigration-crackdown-weighs-heavy-on-the-us-labor-market/",
-      "pubDate": "Sun, 19 Oct 2025 12:32:56 +0000",
-      "description": "<p>Trump is attacking immigration at both ends of spectrum, deporting low-wage laborers and discouraging skilled foreigners.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/19/trumps-immigration-crackdown-weighs-heavy-on-the-us-labor-market/\">Trump&#8217;s immigration crackdown weighs heavy on the US labor market</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b906be0470831c6401a3e679f5e6b909",
+      "title": "Police break up Lego theft ring, recovering hundreds of beheaded figurines",
+      "link": "https://www.boston.com/news/crime/2025/10/19/police-break-up-lego-theft-ring-recovering-hundreds-of-beheaded-figurines/",
+      "pubDate": "Sun, 19 Oct 2025 13:22:13 +0000",
+      "description": "<p>Officials said they had discovered tens of thousands of Lego pieces at a California home and arrested a man who trafficked in the stolen collectibles.            </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/19/police-break-up-lego-theft-ring-recovering-hundreds-of-beheaded-figurines/\">Police break up Lego theft ring, recovering hundreds of beheaded figurines</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "560a3c6a18feb1757845db4ef56904c9",
       "summary": [
-        "Update: Trump\u2019s immigration crackdown weighs heavy on the ",
-        "Details: <p>Trump is attacking immigration at both ends of ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Shutdown impact: What it means for workers, federal programs and the economy",
-      "link": "https://www.boston.com/news/politics/2025/10/19/shutdown-impact-what-it-means-for-workers-federal-programs-and-the-economy/",
-      "pubDate": "Sun, 19 Oct 2025 12:12:25 +0000",
-      "description": "<p>So far, the public is rather split on who is to blame for the impasse.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/19/shutdown-impact-what-it-means-for-workers-federal-programs-and-the-economy/\">Shutdown impact: What it means for workers, federal programs and the economy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c59b367dd33838b9d16999d8b993b3bd",
-      "summary": [
-        "Update: Shutdown impact: What it means for workers, federa",
-        "Details: <p>So far, the public is rather split on who is to",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Thieves strike Louvre in brazen jewel heist, museum shuts",
-      "link": "https://www.boston.com/culture/crime/2025/10/19/thieves-strike-louvre-in-daring-jewel-heist-museum-shuts/",
-      "pubDate": "Sun, 19 Oct 2025 12:01:50 +0000",
-      "description": "<p>The Louvre said it would close \u201cfor exceptional reasons,\u201d offering no further details on the heist. No injuries were reported.</p>\n<p>The post <a href=\"https://www.boston.com/culture/crime/2025/10/19/thieves-strike-louvre-in-daring-jewel-heist-museum-shuts/\">Thieves strike Louvre in brazen jewel heist, museum shuts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2ad00c3ea372e6f92188b66d11150e4e",
-      "summary": [
-        "Update: Thieves strike Louvre in brazen jewel heist, museu",
-        "Details: <p>The Louvre said it would close \u201cfor exceptional",
+        "Update: Police break up Lego theft ring, recovering hundre",
+        "Details: <p>Officials said they had discovered tens of thou",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-19T12:40:40.173999+00:00"
+    "timestamp": "2025-10-19T14:18:10.478352+00:00"
   }
 }
