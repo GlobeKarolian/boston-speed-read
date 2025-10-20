@@ -1,36 +1,88 @@
 {
-  "lastUpdated": "2025-10-20T12:47:45.804108+00:00",
+  "lastUpdated": "2025-10-20T14:21:52.054777+00:00",
   "articles": [
     {
-      "title": "Advice to feed babies peanuts early and often helped 60,000 kids avoid allergies, study finds",
-      "link": "https://www.boston.com/news/health/2025/10/20/advice-feed-babies-peanuts-early-often-kids-avoid-allergies-study/",
-      "pubDate": "Mon, 20 Oct 2025 12:43:28 +0000",
-      "description": "<p>For decades, doctors had recommended delaying feeding children peanuts and other foods likely to trigger allergies until age 3. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/10/20/advice-feed-babies-peanuts-early-often-kids-avoid-allergies-study/\">Advice to feed babies peanuts early and often helped 60,000 kids avoid allergies, study finds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6eac0ec6716d5a401e7943b7c41bc0b8",
+      "title": "Amazon cloud computing outage disrupts Snapchat, Ring, and many other online services",
+      "link": "https://www.boston.com/news/technology/2025/10/20/amazon-cloud-computing-outage/",
+      "pubDate": "Mon, 20 Oct 2025 13:57:31 +0000",
+      "description": "<p>About three hours after the outage began, Amazon Web Services said it was\u00a0starting to recover from the problem.</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2025/10/20/amazon-cloud-computing-outage/\">Amazon cloud computing outage disrupts Snapchat, Ring, and many other online services</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4baed32ae258ade2b9a850a8690bbd01",
       "summary": [
-        "Update: Advice to feed babies peanuts early and often help",
-        "Details: <p>For decades, doctors had recommended delaying f",
+        "Update: Amazon cloud computing outage disrupts Snapchat, R",
+        "Details: <p>About three hours after the outage began, Amazo",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Inside the Patriots\u2019 locker room: Drake Maye gave Mike Vrabel a game ball",
-      "link": "https://www.boston.com/sports/morning-sports-update/2025/10/20/mike-vrabel-patriots-locker-room-celebration-titans-drake-maye/",
-      "pubDate": "Mon, 20 Oct 2025 12:01:27 +0000",
-      "description": "<p>\"Glad you're our head coach.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2025/10/20/mike-vrabel-patriots-locker-room-celebration-titans-drake-maye/\">Inside the Patriots&#8217; locker room: Drake Maye gave Mike Vrabel a game ball</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8d3d2b82e826763b81785ff9733a3c44",
+      "title": "Another Boston Lululemon store was hit by shoplifters",
+      "link": "https://www.boston.com/news/crime/2025/10/20/boston-lululemon-shoplifting/",
+      "pubDate": "Mon, 20 Oct 2025 13:57:06 +0000",
+      "description": "<p>The two female suspects reportedly stole about $700 worth of merchandise.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/20/boston-lululemon-shoplifting/\">Another Boston Lululemon store was hit by shoplifters</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "736b9d18e5ed8d6345200e0a6ad9a10e",
       "summary": [
-        "Update: Inside the Patriots\u2019 locker room: Drake Maye gave ",
-        "Details: <p>\"Glad you're our head coach.\"</p>\n<p>The post <",
+        "Update: Another Boston Lululemon store was hit by shoplift",
+        "Details: <p>The two female suspects reportedly stole about ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Mike Vrabel on returning to Tennessee, Patriots running back usage, and authenticity with players",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/20/mike-vrabel-return-tennessee-titans-patriots/",
+      "pubDate": "Mon, 20 Oct 2025 13:40:46 +0000",
+      "description": "<p>Vrabel also joked about Titans fans who showed him support.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/20/mike-vrabel-return-tennessee-titans-patriots/\">Mike Vrabel on returning to Tennessee, Patriots running back usage, and authenticity with players</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3fa66a404beacc0fc4c914cacb0edd03",
+      "summary": [
+        "Update: Mike Vrabel on returning to Tennessee, Patriots ru",
+        "Details: <p>Vrabel also joked about Titans fans who showed ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Saugus man, 20, dead following N.H. police chase",
+      "link": "https://www.boston.com/news/local-news/2025/10/20/saugus-man-20-dead-following-nh-police-chase/",
+      "pubDate": "Mon, 20 Oct 2025 13:28:57 +0000",
+      "description": "<p>The driver went down an embankment, struck a tree, and was ejected from the vehicle, according to police.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/20/saugus-man-20-dead-following-nh-police-chase/\">Saugus man, 20, dead following N.H. police chase</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9e1531d9d60c4bd991d56e820c87a212",
+      "summary": [
+        "Update: Saugus man, 20, dead following N.H. police chase",
+        "Details: <p>The driver went down an embankment, struck a tr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Review & setlist: Doechii reigns supreme at MGM Music Hall",
+      "link": "https://www.boston.com/culture/concert-reviews/2025/10/20/doechii-boston-concert-review-2025/",
+      "pubDate": "Mon, 20 Oct 2025 13:14:38 +0000",
+      "description": "<p>The Grammy-winning rapper brought slides, sex ed, and a no-filter confidence to her Boston show Sunday night.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/10/20/doechii-boston-concert-review-2025/\">Review &amp; setlist: Doechii reigns supreme at MGM Music Hall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b6672147a6fe60797814965fe3dfe7e8",
+      "summary": [
+        "Update: Review & setlist: Doechii reigns supreme at MGM Mu",
+        "Details: <p>The Grammy-winning rapper brought slides, sex e",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "How the Louvre jewel heist unfolded in a mere 7 minutes",
+      "link": "https://www.boston.com/news/world-news/2025/10/20/louvre-heist/",
+      "pubDate": "Mon, 20 Oct 2025 13:01:57 +0000",
+      "description": "<p>\u201cIt seems like a scenario out of a film or a television series.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/10/20/louvre-heist/\">How the Louvre jewel heist unfolded in a mere 7 minutes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0592d6086b63a41f8f991849ca8b066d",
+      "summary": [
+        "Update: How the Louvre jewel heist unfolded in a mere 7 mi",
+        "Details: <p>\u201cIt seems like a scenario out of a film or a te",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 6,
     "feedSize": 10,
-    "timestamp": "2025-10-20T12:47:45.804129+00:00"
+    "timestamp": "2025-10-20T14:21:52.054802+00:00"
   }
 }
