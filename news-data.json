@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-20T10:25:13.456040+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-20T12:47:45.804108+00:00",
+  "articles": [
+    {
+      "title": "Advice to feed babies peanuts early and often helped 60,000 kids avoid allergies, study finds",
+      "link": "https://www.boston.com/news/health/2025/10/20/advice-feed-babies-peanuts-early-often-kids-avoid-allergies-study/",
+      "pubDate": "Mon, 20 Oct 2025 12:43:28 +0000",
+      "description": "<p>For decades, doctors had recommended delaying feeding children peanuts and other foods likely to trigger allergies until age 3. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/10/20/advice-feed-babies-peanuts-early-often-kids-avoid-allergies-study/\">Advice to feed babies peanuts early and often helped 60,000 kids avoid allergies, study finds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6eac0ec6716d5a401e7943b7c41bc0b8",
+      "summary": [
+        "Update: Advice to feed babies peanuts early and often help",
+        "Details: <p>For decades, doctors had recommended delaying f",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Inside the Patriots\u2019 locker room: Drake Maye gave Mike Vrabel a game ball",
+      "link": "https://www.boston.com/sports/morning-sports-update/2025/10/20/mike-vrabel-patriots-locker-room-celebration-titans-drake-maye/",
+      "pubDate": "Mon, 20 Oct 2025 12:01:27 +0000",
+      "description": "<p>\"Glad you're our head coach.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2025/10/20/mike-vrabel-patriots-locker-room-celebration-titans-drake-maye/\">Inside the Patriots&#8217; locker room: Drake Maye gave Mike Vrabel a game ball</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8d3d2b82e826763b81785ff9733a3c44",
+      "summary": [
+        "Update: Inside the Patriots\u2019 locker room: Drake Maye gave ",
+        "Details: <p>\"Glad you're our head coach.\"</p>\n<p>The post <",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-20T10:25:13.456051+00:00"
+    "timestamp": "2025-10-20T12:47:45.804129+00:00"
   }
 }
