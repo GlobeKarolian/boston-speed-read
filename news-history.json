@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-10-20T16:28:30.176821+00:00",
+  "lastUpdated": "2025-10-20T18:34:09.398217+00:00",
   "articles": [
+    {
+      "title": "NOAA releases revised winter weather outlook for New England",
+      "link": "https://www.boston.com/news/weather/2025/10/20/noaa-releases-revised-winter-weather-outlook-for-new-england/",
+      "pubDate": "Mon, 20 Oct 2025 17:05:41 +0000",
+      "description": "<p>The revised outlook predicts general temperatures and precipitation levels for December through February.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2025/10/20/noaa-releases-revised-winter-weather-outlook-for-new-england/\">NOAA releases revised winter weather outlook for New England</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cc0f6b62dda52b21b967951d29d14b36",
+      "summary": [
+        "Update: NOAA releases revised winter weather outlook for N",
+        "Details: <p>The revised outlook predicts general temperatur",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Scratch ticket bought at Mass. gas station yields $4M prize",
+      "link": "https://www.boston.com/news/local-news/2025/10/20/scratch-ticket-bought-at-lowell-gas-station-yields-4m-prize/",
+      "pubDate": "Mon, 20 Oct 2025 16:45:28 +0000",
+      "description": "<p>There is still one grand prize remaining on the \"100X\" instant ticket game.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/20/scratch-ticket-bought-at-lowell-gas-station-yields-4m-prize/\">Scratch ticket bought at Mass. gas station yields $4M prize</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c0117c6fda46db50dcdad82550998b36",
+      "summary": [
+        "Update: Scratch ticket bought at Mass. gas station yields ",
+        "Details: <p>There is still one grand prize remaining on the",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Bus carrying UMass Lowell students catches fire",
       "link": "https://www.boston.com/news/local-news/2025/10/20/bus-carrying-umass-lowell-students-catches-fire/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Closed Saugus bridge has reopened after emergency ",
         "Details: <p>MassDOT originally expected the repairs to caus",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Proposal to expand \u2018Move Over Law\u2019 passes Mass. Senate, moves to House",
-      "link": "https://www.boston.com/news/local-news/2025/10/18/proposal-to-expand-move-over-law-passes-mass-senate-moves-to-house/",
-      "pubDate": "Sat, 18 Oct 2025 13:29:44 +0000",
-      "description": "<p>The changes are meant to improve roadside safety for motorists and utility workers.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/18/proposal-to-expand-move-over-law-passes-mass-senate-moves-to-house/\">Proposal to expand &#8216;Move Over Law&#8217; passes Mass. Senate, moves to House</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3ef3a3bc1cb6568e531518309c12a9f6",
-      "summary": [
-        "Update: Proposal to expand \u2018Move Over Law\u2019 passes Mass. Se",
-        "Details: <p>The changes are meant to improve roadside safet",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018No Kings\u2019 protests against Trump planned nationwide, in what the GOP calls \u2018hate America\u2019 rallies",
-      "link": "https://www.boston.com/news/politics/2025/10/18/no-kings-protests-against-trump-planned-nationwide-in-what-the-gop-calls-hate-america-rallies/",
-      "pubDate": "Sat, 18 Oct 2025 13:03:34 +0000",
-      "description": "<p>This is the third mass mobilization since Trump's return to the White House and it is expected to be the largest.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/18/no-kings-protests-against-trump-planned-nationwide-in-what-the-gop-calls-hate-america-rallies/\">&#8216;No Kings&#8217; protests against Trump planned nationwide, in what the GOP calls &#8216;hate America&#8217; rallies</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1d9122356ff93a7e81fc400a16e77c28",
-      "summary": [
-        "Update: \u2018No Kings\u2019 protests against Trump planned nationwi",
-        "Details: <p>This is the third mass mobilization since Trump",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
