@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-21T08:31:53.656471+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-21T10:24:16.303170+00:00",
+  "articles": [
+    {
+      "title": "Giveaway: Enter to win the ultimate Five Iron Golf experience",
+      "link": "https://www.boston.com/things-to-do/things-to-do/2025/10/21/five-iron-golf-giveaway/",
+      "pubDate": "Tue, 21 Oct 2025 09:00:00 +0000",
+      "description": "<p>The winner will be selected Oct. 23.</p>\n<p>The post <a href=\"https://www.boston.com/things-to-do/things-to-do/2025/10/21/five-iron-golf-giveaway/\">Giveaway: Enter to win the ultimate Five Iron Golf experience</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1bb19b2b112fd34dc1eeb615521757d9",
+      "summary": [
+        "Update: Giveaway: Enter to win the ultimate Five Iron Golf",
+        "Details: <p>The winner will be selected Oct. 23.</p>\n<p>The",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: A traditional Cape-style house in Hyde Park for under $700k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/10/21/home-of-week-cape-style-hyde-park-boston/",
+      "pubDate": "Tue, 21 Oct 2025 09:00:00 +0000",
+      "description": "<p>This 76-year-old home is a Cape Cod design, which the original settlers brought over from England.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/10/21/home-of-week-cape-style-hyde-park-boston/\">Home of the Week: A traditional Cape-style house in Hyde Park for under $700k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1b63610fc661e5f991b8f8ee15823f56",
+      "summary": [
+        "Update: Home of the Week: A traditional Cape-style house i",
+        "Details: <p>This 76-year-old home is a Cape Cod design, whi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-21T08:31:53.656483+00:00"
+    "timestamp": "2025-10-21T10:24:16.303189+00:00"
   }
 }
