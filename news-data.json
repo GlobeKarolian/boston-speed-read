@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-22T08:32:48.542243+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-22T10:25:30.283794+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Oct. 22)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/10/22/recent-homes-sales-in-greater-boston-oct-22/",
+      "pubDate": "Wed, 22 Oct 2025 09:00:00 +0000",
+      "description": "<p>ABINGTON 1 Edgar D Bascomb Road. One-family Colonial, built in 2002, 3,565 square feet, 8 rooms, 4 bedrooms, 3 baths, on 30,038-square-foot lot. $990,000 430 Centre Ave. One-family Colonial, built in 2019, 1,506 square feet, 5 rooms, 3 bedrooms, 2 baths, on 6,895-square-foot lot. $630,000 166 Birch St. Two-family two family, built in 1890, 1,976 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/10/22/recent-homes-sales-in-greater-boston-oct-22/\">Recent homes sales in Greater Boston (Oct. 22)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c340f1b7d4e0dcbc7e8a1bf922f7b4bf",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Oct. 22)",
+        "Details: <p>ABINGTON 1 Edgar D Bascomb Road. One-family Col",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Zillow Gone Wild features $40M Nantucket mansion built in 2020",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2025/10/22/zillow-gone-wild-nantucket-mansion/",
+      "pubDate": "Wed, 22 Oct 2025 09:00:00 +0000",
+      "description": "<p>The modern farmhouse-style property comes complete with a resort-style pool, a firepit, and paddocks for horses.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2025/10/22/zillow-gone-wild-nantucket-mansion/\">Zillow Gone Wild features $40M Nantucket mansion built in 2020</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "10d9f5a5c2f204c3df341021e9e3c0d6",
+      "summary": [
+        "Update: Zillow Gone Wild features $40M Nantucket mansion b",
+        "Details: <p>The modern farmhouse-style property comes compl",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-22T08:32:48.542249+00:00"
+    "timestamp": "2025-10-22T10:25:30.283816+00:00"
   }
 }
