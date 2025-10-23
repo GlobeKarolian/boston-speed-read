@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-23T08:30:56.463243+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-23T10:24:50.101606+00:00",
+  "articles": [
+    {
+      "title": "\u2018Stripped of this American dream\u2019: Boston-area ICE raids are deterring immigrant home buyers",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/10/23/boston-ice-raids-immigrant-home-buyers/",
+      "pubDate": "Thu, 23 Oct 2025 09:00:00 +0000",
+      "description": "<p>Real estate professionals and community service providers are providing guidance to help protect their properties in case ICE intervenes in the lives of their clients.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/10/23/boston-ice-raids-immigrant-home-buyers/\">\u2018Stripped of this American dream\u2019: Boston-area ICE raids are deterring immigrant home buyers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9f04729489c1bb42b990859c1ecdda35",
+      "summary": [
+        "Update: \u2018Stripped of this American dream\u2019: Boston-area ICE",
+        "Details: <p>Real estate professionals and community service",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-23T08:30:56.463251+00:00"
+    "timestamp": "2025-10-23T10:24:50.101621+00:00"
   }
 }
