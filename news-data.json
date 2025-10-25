@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-10-25T03:04:29.093882+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-25T04:25:48.090597+00:00",
+  "articles": [
+    {
+      "title": "Jaylen Brown, Celtics struggle early, can\u2019t finish rally in loss to Knicks: 8 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/10/24/celtics-knicks-takeaways-jaylen-brown/",
+      "pubDate": "Sat, 25 Oct 2025 03:31:18 +0000",
+      "description": "<p>The Knicks were expected to be better than the Celtics, and they are.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/10/24/celtics-knicks-takeaways-jaylen-brown/\">Jaylen Brown, Celtics struggle early, can&#8217;t finish rally in loss to Knicks: 8 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e11777ee5d8b45e03b28533fdafe54e2",
+      "summary": [
+        "Update: Jaylen Brown, Celtics struggle early, can\u2019t finish",
+        "Details: <p>The Knicks were expected to be better than the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Lawrence Guy signs one-day contract to retire a Patriot",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/24/lawrence-guy-patriots-retirement/",
+      "pubDate": "Sat, 25 Oct 2025 03:11:39 +0000",
+      "description": "<p>\u201cThey always say the grass is greener on the other side. New England brought me in, and they watered me. They let me grow.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/24/lawrence-guy-patriots-retirement/\">Lawrence Guy signs one-day contract to retire a Patriot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9fc2bffd8027128206d9049704f4cbd1",
+      "summary": [
+        "Update: Lawrence Guy signs one-day contract to retire a Pa",
+        "Details: <p>\u201cThey always say the grass is greener on the ot",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Report: Jason Varitek to remain on Red Sox\u2019 coaching staff with new multi-year contract",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/10/24/jason-varitek-red-sox-coach-contract/",
+      "pubDate": "Sat, 25 Oct 2025 03:09:19 +0000",
+      "description": "<p>Varitek's previous deal had expired when Boston's season ended earlier in October.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/10/24/jason-varitek-red-sox-coach-contract/\">Report: Jason Varitek to remain on Red Sox\u2019 coaching staff with new multi-year contract</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "358e4c0345a2f79e37089f1699c12df4",
+      "summary": [
+        "Update: Report: Jason Varitek to remain on Red Sox\u2019 coachi",
+        "Details: <p>Varitek's previous deal had expired when Boston",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-25T03:04:29.093892+00:00"
+    "timestamp": "2025-10-25T04:25:48.090615+00:00"
   }
 }
