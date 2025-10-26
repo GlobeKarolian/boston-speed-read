@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-26T14:18:50.758444+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-26T16:25:44.175883+00:00",
+  "articles": [
+    {
+      "title": "Patriots vs. Browns live updates: Can Patriots extend win streak to five games?",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/26/patriots-browns-live-updates-score-blog-liveblog-new-england-cleveland-drake-maye-garrett/",
+      "pubDate": "Sun, 26 Oct 2025 15:10:07 +0000",
+      "description": "<p>The Patriots will face a tough test against a stingy Cleveland defense. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/26/patriots-browns-live-updates-score-blog-liveblog-new-england-cleveland-drake-maye-garrett/\">Patriots vs. Browns live updates: Can Patriots extend win streak to five games?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "272ecbdc607ecd86243476942f4f094c",
+      "summary": [
+        "Update: Patriots vs. Browns live updates: Can Patriots ext",
+        "Details: <p>The Patriots will face a tough test against a s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-26T14:18:50.758454+00:00"
+    "timestamp": "2025-10-26T16:25:44.175902+00:00"
   }
 }
