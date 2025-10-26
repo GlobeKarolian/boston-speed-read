@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2025-10-26T10:20:43.743539+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-26T12:41:37.869703+00:00",
+  "articles": [
+    {
+      "title": "Suspects arrested over the theft of crown jewels from Paris\u2019 Louvre museum",
+      "link": "https://www.boston.com/news/world-news/2025/10/26/suspects-arrested-over-the-theft-of-crown-jewels-from-paris-louvre-museum/",
+      "pubDate": "Sun, 26 Oct 2025 11:58:19 +0000",
+      "description": "<p>Paris prosecutors have announced the arrest of suspects in connection with the theft of crown jewels from the Louvre museum</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/10/26/suspects-arrested-over-the-theft-of-crown-jewels-from-paris-louvre-museum/\">Suspects arrested over the theft of crown jewels from Paris&#8217; Louvre museum</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "308f7b1c90b8ec6890a089b6c2af3042",
+      "summary": [
+        "Update: Suspects arrested over the theft of crown jewels f",
+        "Details: <p>Paris prosecutors have announced the arrest of ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Melissa strengthens into a Category 4 hurricane, threatening catastrophic flooding in Jamaica, Haiti",
+      "link": "https://www.boston.com/weather/weather/2025/10/26/hurricane-melissa-jamaica/",
+      "pubDate": "Sun, 26 Oct 2025 11:51:36 +0000",
+      "description": "<p>The National Hurricane Center urged people to seek shelter immediately.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2025/10/26/hurricane-melissa-jamaica/\">Melissa strengthens into a Category 4 hurricane, threatening catastrophic flooding in Jamaica, Haiti</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ea36c71fc44f4ce2e820d5c1e65ea821",
+      "summary": [
+        "Update: Melissa strengthens into a Category 4 hurricane, t",
+        "Details: <p>The National Hurricane Center urged people to s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Morgan Geekie: \u2018My dad would be proud\u2019 of last-second goal against Avs",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/10/26/morgan-geekie-boston-bruins-goal-colorado-avalanche-nhl-hockey/",
+      "pubDate": "Sun, 26 Oct 2025 11:30:55 +0000",
+      "description": "<p>\"I think it's just a great example of playing 'til the last whistle.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/10/26/morgan-geekie-boston-bruins-goal-colorado-avalanche-nhl-hockey/\">Morgan Geekie: &#8216;My dad would be proud\u2019 of last-second goal against Avs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "efe68c710b32a09dfe6a76ecbedc1a27",
+      "summary": [
+        "Update: Morgan Geekie: \u2018My dad would be proud\u2019 of last-sec",
+        "Details: <p>\"I think it's just a great example of playing '",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Shutdowns began as a way to enforce federal law. Now Trump is using it to take more power.",
+      "link": "https://www.boston.com/news/politics/2025/10/25/shutdowns-began-as-a-way-to-enforce-federal-law-now-trump-is-using-it-to-take-more-power/",
+      "pubDate": "Sat, 25 Oct 2025 13:14:47 +0000",
+      "description": "<p>The government shutdown is quickly becoming a way for President Donald Trump to exercise new command over the government</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/25/shutdowns-began-as-a-way-to-enforce-federal-law-now-trump-is-using-it-to-take-more-power/\">Shutdowns began as a way to enforce federal law. Now Trump is using it to take more power.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "84e43371b1190ca8c8ed918d5706a90d",
+      "summary": [
+        "Update: Shutdowns began as a way to enforce federal law. N",
+        "Details: <p>The government shutdown is quickly becoming a w",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-10-26T10:20:43.743551+00:00"
+    "timestamp": "2025-10-26T12:41:37.869721+00:00"
   }
 }
