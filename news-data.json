@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-10-27T10:27:00.889163+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-27T12:49:49.010380+00:00",
+  "articles": [
+    {
+      "title": "At event in Boston, Biden calls these \u2018dark days\u2019 as he urges Americans to \u2018get back up\u2019",
+      "link": "https://www.boston.com/news/politics/2025/10/27/biden-kennedy-institute-boston/",
+      "pubDate": "Mon, 27 Oct 2025 11:38:06 +0000",
+      "description": "<p>\u201cAmerica is not a fairy tale. For 250 years, it\u2019s been a constant push and pull, an existential struggle between peril and possibility,\u201d Biden said Sunday after receiving the Lifetime Achievement Award from the Edward M. Kennedy Institute.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/27/biden-kennedy-institute-boston/\">At event in Boston, Biden calls these &#8216;dark days&#8217; as he urges Americans to &#8216;get back up&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aecaf05911ca8465b041ac086339ffda",
+      "summary": [
+        "Update: At event in Boston, Biden calls these \u2018dark days\u2019 ",
+        "Details: <p>\u201cAmerica is not a fairy tale. For 250 years, it",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-27T10:27:00.889173+00:00"
+    "timestamp": "2025-10-27T12:49:49.010405+00:00"
   }
 }
