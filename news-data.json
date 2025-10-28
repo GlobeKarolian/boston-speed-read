@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2025-10-28T08:31:20.513400+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-28T10:25:59.485504+00:00",
+  "articles": [
+    {
+      "title": "Why Monday\u2019s setback against Ottawa might have been the Bruins\u2019 most discouraging result yet",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/10/28/boston-bruins-senators-marco-sturm-nhl-hockey/",
+      "pubDate": "Tue, 28 Oct 2025 10:21:23 +0000",
+      "description": "<p>\"You gotta buy in or not. That's right there. That's the difference.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/10/28/boston-bruins-senators-marco-sturm-nhl-hockey/\">Why Monday\u2019s setback against Ottawa might have been the Bruins&#8217; most discouraging result yet</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9c5b967b2ce04f709557c4feb9bc607b",
+      "summary": [
+        "Update: Why Monday\u2019s setback against Ottawa might have bee",
+        "Details: <p>\"You gotta buy in or not. That's right there. T",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Giveaway: Enter to win sweet treats at The Half Cookie",
+      "link": "https://www.boston.com/food/food/2025/10/28/half-cookie-giveaway/",
+      "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
+      "description": "<p>The winner will be selected Oct. 30.</p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/10/28/half-cookie-giveaway/\">Giveaway: Enter to win sweet treats at The Half Cookie</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cabd76664d69bfa86374bc7ef4bcc9e3",
+      "summary": [
+        "Update: Giveaway: Enter to win sweet treats at The Half Co",
+        "Details: <p>The winner will be selected Oct. 30.</p>\n<p>The",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the week: 1960 Campanelli ranch in Hingham for just under $1M",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/10/28/home-of-the-week-1960-campanelli-ranch-hingham/",
+      "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
+      "description": "<p>The Campanelli brothers built post-WWII homes advertised as \"California Ranch Living.\"</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/10/28/home-of-the-week-1960-campanelli-ranch-hingham/\">Home of the week: 1960 Campanelli ranch in Hingham for just under $1M</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f66ed5b6a78b265b59cdaaf255b602ef",
+      "summary": [
+        "Update: Home of the week: 1960 Campanelli ranch in Hingham",
+        "Details: <p>The Campanelli brothers built post-WWII homes a",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did Dunkin\u2019 change how we spell \u2018donut\u2019?",
+      "link": "https://www.boston.com/community/wickedpedia/2025/10/28/dunkin-donut-vs-doughnut/",
+      "pubDate": "Tue, 28 Oct 2025 09:00:00 +0000",
+      "description": "<p>The coffee chain\u2019s choice of spelling decades ago may have shaped how we write \"doughnut\" today.</p>\n<p>The post <a href=\"https://www.boston.com/community/wickedpedia/2025/10/28/dunkin-donut-vs-doughnut/\">Did Dunkin&#8217; change how we spell &#8216;donut&#8217;?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a40e4036e6e7c4074d41f57828dd0e80",
+      "summary": [
+        "Update: Did Dunkin\u2019 change how we spell \u2018donut\u2019?",
+        "Details: <p>The coffee chain\u2019s choice of spelling decades a",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-10-28T08:31:20.513410+00:00"
+    "timestamp": "2025-10-28T10:25:59.485522+00:00"
   }
 }
