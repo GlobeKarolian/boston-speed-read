@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-10-28T12:47:33.097473+00:00",
+  "lastUpdated": "2025-10-28T14:23:57.074995+00:00",
   "articles": [
     {
-      "title": "Hurricane Melissa is set to hit Jamaica as its strongest storm since records began",
-      "link": "https://www.boston.com/news/weather/2025/10/28/hurricane-melissa-jamaica-2/",
-      "pubDate": "Tue, 28 Oct 2025 12:38:00 +0000",
-      "description": "<p>\u201cThere is no infrastructure in the region that can withstand a Category 5.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2025/10/28/hurricane-melissa-jamaica-2/\">Hurricane Melissa is set to hit Jamaica as its strongest storm since records began</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8c43491c365f3f4e273e9c2ea2100028",
+      "title": "Where to find the best food under $20 in Somerville",
+      "link": "https://www.boston.com/food/restaurants/2025/10/28/best-cheap-food-somerville/",
+      "pubDate": "Tue, 28 Oct 2025 13:51:52 +0000",
+      "description": "<p>In this economy, we could all use a budget-friendly guide to area restaurants.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2025/10/28/best-cheap-food-somerville/\">Where to find the best food under $20 in Somerville</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "07ce3d99ab8a6fce55a8b5c9f289ae94",
       "summary": [
-        "Update: Hurricane Melissa is set to hit Jamaica as its str",
-        "Details: <p>\u201cThere is no infrastructure in the region that ",
+        "Update: Where to find the best food under $20 in Somervill",
+        "Details: <p>In this economy, we could all use a budget-frie",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Amazon cuts 14,000 corporate jobs as spending on artificial intelligence accelerates",
+      "link": "https://www.boston.com/news/business/2025/10/28/amazon-cuts-14000-corporate-jobs-as-spending-on-artificial-intelligence-accelerates/",
+      "pubDate": "Tue, 28 Oct 2025 12:23:00 +0000",
+      "description": "<p>The cuts announced Tuesday amount to about a 4% reduction in Amazon's corporate workforce.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/10/28/amazon-cuts-14000-corporate-jobs-as-spending-on-artificial-intelligence-accelerates/\">Amazon cuts 14,000 corporate jobs as spending on artificial intelligence accelerates</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8a5b8f198d9c7279be3ce978875648ef",
+      "summary": [
+        "Update: Amazon cuts 14,000 corporate jobs as spending on a",
+        "Details: <p>The cuts announced Tuesday amount to about a 4%",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "NBA starts review of policies after gambling-related arrests of Rozier, Billups",
+      "link": "https://www.boston.com/sports/sports/2025/10/28/nba-starts-review-of-policies-after-gambling-related-arrests-of-rozier-billups/",
+      "pubDate": "Tue, 28 Oct 2025 11:18:00 +0000",
+      "description": "<p>\"This is an opportune time to carefully reassess how sports betting should be regulated and how sports leagues can best protect themselves, their players, and their fans.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2025/10/28/nba-starts-review-of-policies-after-gambling-related-arrests-of-rozier-billups/\">NBA starts review of policies after gambling-related arrests of Rozier, Billups</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b163edc9a7786807b31f824b2216d449",
+      "summary": [
+        "Update: NBA starts review of policies after gambling-relat",
+        "Details: <p>\"This is an opportune time to carefully reasses",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-10-28T12:47:33.097495+00:00"
+    "timestamp": "2025-10-28T14:23:57.075020+00:00"
   }
 }
