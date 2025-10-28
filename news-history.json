@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-10-28T10:25:59.490053+00:00",
+  "lastUpdated": "2025-10-28T12:47:33.098277+00:00",
   "articles": [
+    {
+      "title": "Hurricane Melissa is set to hit Jamaica as its strongest storm since records began",
+      "link": "https://www.boston.com/news/weather/2025/10/28/hurricane-melissa-jamaica-2/",
+      "pubDate": "Tue, 28 Oct 2025 12:38:00 +0000",
+      "description": "<p>\u201cThere is no infrastructure in the region that can withstand a Category 5.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2025/10/28/hurricane-melissa-jamaica-2/\">Hurricane Melissa is set to hit Jamaica as its strongest storm since records began</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8c43491c365f3f4e273e9c2ea2100028",
+      "summary": [
+        "Update: Hurricane Melissa is set to hit Jamaica as its str",
+        "Details: <p>\u201cThere is no infrastructure in the region that ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Why Monday\u2019s setback against Ottawa might have been the Bruins\u2019 most discouraging result yet",
       "link": "https://www.boston.com/sports/boston-bruins/2025/10/28/boston-bruins-senators-marco-sturm-nhl-hockey/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Why Mike Vrabel changed decades-long Bill Belichic",
         "Details: <p>\"You always see other teams do it. I've got lit",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Celtics fall to 0-3 on the season, lose to Pistons 119-113",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/10/26/celtics-fall-to-0-3-on-the-season-lose-to-pistons/",
-      "pubDate": "Sun, 26 Oct 2025 23:10:49 +0000",
-      "description": "<p>Jaylen Brown scored 41 points for Boston, which led 14-2 in the opening minutes and by as much as 17 points.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/10/26/celtics-fall-to-0-3-on-the-season-lose-to-pistons/\">Celtics fall to 0-3 on the season, lose to Pistons 119-113</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "56210c4d07641890945176d03cdb6016",
-      "summary": [
-        "Update: Celtics fall to 0-3 on the season, lose to Pistons",
-        "Details: <p>Jaylen Brown scored 41 points for Boston, which",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
