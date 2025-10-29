@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-10-29T12:50:19.141266+00:00",
+  "lastUpdated": "2025-10-29T14:24:13.313416+00:00",
   "articles": [
     {
-      "title": "Boston\u2019s favorite holiday market is back for the 2025 season",
-      "link": "https://www.boston.com/travel/scenic-six/2025/10/29/boston-snowport-2025-season/",
-      "pubDate": "Wed, 29 Oct 2025 12:46:45 +0000",
-      "description": "<p>Snowport opens soon. Plus: Book your trip to this charming Massachusetts town, or a trending city in Connecticut.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2025/10/29/boston-snowport-2025-season/\">Boston&#8217;s favorite holiday market is back for the 2025 season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f81ae653321916d6d4dec35569b0b556",
+      "title": "An Allston resident was closing her bedroom window. \u2018It suddenly reopened and a hand reached inside,\u2019 police say.",
+      "link": "https://www.boston.com/news/crime/2025/10/29/an-allston-resident-was-closing-her-bedroom-window-it-suddenly-reopened-and-a-hand-reached-inside-police-say/",
+      "pubDate": "Wed, 29 Oct 2025 14:13:17 +0000",
+      "description": "<p>A Brighton man was subsequently arrested.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/10/29/an-allston-resident-was-closing-her-bedroom-window-it-suddenly-reopened-and-a-hand-reached-inside-police-say/\">An Allston resident was closing her bedroom window. &#8216;It suddenly reopened and a hand reached inside,&#8217; police say.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0d92b9d44be20a43e27ecae68efb8faf",
       "summary": [
-        "Update: Boston\u2019s favorite holiday market is back for the 2",
-        "Details: <p>Snowport opens soon. Plus: Book your trip to th",
+        "Update: An Allston resident was closing her bedroom window",
+        "Details: <p>A Brighton man was subsequently arrested.</p>\n<",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Socialite Brooke Astor\u2019s early 1900s Berkshires estate hits the market",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2025/10/29/socialite-brooke-astor-berkshires-estate-for-sale/",
+      "pubDate": "Wed, 29 Oct 2025 14:02:32 +0000",
+      "description": "<p>Known as Cobble House, one of the main attractions is the view from the patio. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2025/10/29/socialite-brooke-astor-berkshires-estate-for-sale/\">Socialite Brooke Astor\u2019s early 1900s Berkshires estate hits the market</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "af9d8401fa5c3e874e8575f8562c97aa",
+      "summary": [
+        "Update: Socialite Brooke Astor\u2019s early 1900s Berkshires es",
+        "Details: <p>Known as Cobble House, one of the main attracti",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-29T12:50:19.141286+00:00"
+    "timestamp": "2025-10-29T14:24:13.313435+00:00"
   }
 }
