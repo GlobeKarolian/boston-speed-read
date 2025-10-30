@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-10-30T10:25:02.508555+00:00",
+  "lastUpdated": "2025-10-30T12:48:00.257349+00:00",
   "articles": [
+    {
+      "title": "How tiny drones inspired by bats could save lives in dark and stormy conditions",
+      "link": "https://www.boston.com/news/local-news/2025/10/30/tiny-drones-bats-worcester-polytechnic-institute/",
+      "pubDate": "Thu, 30 Oct 2025 12:32:54 +0000",
+      "description": "<p>Researchers at Worcester Polytechnic Institute are developing tiny drones inspired by bats for search and rescue missions. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/30/tiny-drones-bats-worcester-polytechnic-institute/\">How tiny drones inspired by bats could save lives in dark and stormy conditions</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ad082cb11ef2eff919304bac5dcc69a2",
+      "summary": [
+        "Update: How tiny drones inspired by bats could save lives ",
+        "Details: <p>Researchers at Worcester Polytechnic Institute ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Boston Scientific named best Massachusetts employer for career growth, survey finds",
       "link": "https://www.boston.com/news/jobs/2025/10/30/best-employer-career-growth-survey/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: A pickup truck loses power and the dashboard light",
         "Details: <p>John Paul, AAA Northeast's Car Doctor, answers ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Hampus Lindholm to return to Bruins lineup Tuesday, Mason Lohrei a healthy scratch",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/10/28/hampus-lindholm-return-nhl-hockey-injury-return-mason-lohrei-scratched/",
-      "pubDate": "Tue, 28 Oct 2025 23:11:37 +0000",
-      "description": "<p>Lindholm had missed eight of Boston's last nine games due to a lower-body injury. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/10/28/hampus-lindholm-return-nhl-hockey-injury-return-mason-lohrei-scratched/\">Hampus Lindholm to return to Bruins lineup Tuesday, Mason Lohrei a healthy scratch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "adddb02cd602971e36f44de3271bfec9",
-      "summary": [
-        "Update: Hampus Lindholm to return to Bruins lineup Tuesday",
-        "Details: <p>Lindholm had missed eight of Boston's last nine",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

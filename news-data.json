@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2025-10-30T10:25:02.507673+00:00",
+  "lastUpdated": "2025-10-30T12:48:00.256496+00:00",
   "articles": [
     {
-      "title": "Boston Scientific named best Massachusetts employer for career growth, survey finds",
-      "link": "https://www.boston.com/news/jobs/2025/10/30/best-employer-career-growth-survey/",
-      "pubDate": "Thu, 30 Oct 2025 09:00:00 +0000",
-      "description": "<p>A new survey by Careerminds shows workers are more loyal to companies that offer transparent career paths and skill-building opportunities.</p>\n<p>The post <a href=\"https://www.boston.com/news/jobs/2025/10/30/best-employer-career-growth-survey/\">Boston Scientific named best Massachusetts employer for career growth, survey finds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0c67871976d5a18f521ef62e7d068faa",
+      "title": "How tiny drones inspired by bats could save lives in dark and stormy conditions",
+      "link": "https://www.boston.com/news/local-news/2025/10/30/tiny-drones-bats-worcester-polytechnic-institute/",
+      "pubDate": "Thu, 30 Oct 2025 12:32:54 +0000",
+      "description": "<p>Researchers at Worcester Polytechnic Institute are developing tiny drones inspired by bats for search and rescue missions. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/30/tiny-drones-bats-worcester-polytechnic-institute/\">How tiny drones inspired by bats could save lives in dark and stormy conditions</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ad082cb11ef2eff919304bac5dcc69a2",
       "summary": [
-        "Update: Boston Scientific named best Massachusetts employe",
-        "Details: <p>A new survey by Careerminds shows workers are m",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Taking a gamble on Everett: Encore casino is helping transform the city into a housing hot spot",
-      "link": "https://www.boston.com/real-estate/real-estate/2025/10/30/encore-casino-massachusetts-everett-housing-development/",
-      "pubDate": "Thu, 30 Oct 2025 09:00:00 +0000",
-      "description": "<p>An industrial city once known for scrapyards and smokestacks has become one of Greater Boston\u2019s few pockets where multifamily projects get built \u2014 and quickly.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/30/encore-casino-massachusetts-everett-housing-development/\">Taking a gamble on Everett: Encore casino is helping transform the city into a housing hot spot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8a095d4faabad0159926e2e0c30a998d",
-      "summary": [
-        "Update: Taking a gamble on Everett: Encore casino is helpi",
-        "Details: <p>An industrial city once known for scrapyards an",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Boston\u2019s hottest ticket? A bar seat for a lecture from a professor.",
-      "link": "https://www.boston.com/culture/local-news/2025/10/30/professors-giving-lectures-in-bars/",
-      "pubDate": "Thu, 30 Oct 2025 09:00:00 +0000",
-      "description": "<p>Lectures on Tap series brings professors and other experts into Boston restaurants and bars for talks that mix big ideas with food and drink.</p>\n<p>The post <a href=\"https://www.boston.com/culture/local-news/2025/10/30/professors-giving-lectures-in-bars/\">Boston\u2019s hottest ticket? A bar seat for a lecture from a professor.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "724f3032cce0388bccc2590b13bc21c2",
-      "summary": [
-        "Update: Boston\u2019s hottest ticket? A bar seat for a lecture ",
-        "Details: <p>Lectures on Tap series brings professors and ot",
+        "Update: How tiny drones inspired by bats could save lives ",
+        "Details: <p>Researchers at Worcester Polytechnic Institute ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-10-30T10:25:02.507696+00:00"
+    "timestamp": "2025-10-30T12:48:00.256522+00:00"
   }
 }
