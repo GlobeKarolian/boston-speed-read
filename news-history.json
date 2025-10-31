@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-10-31T06:34:04.450596+00:00",
+  "lastUpdated": "2025-10-31T10:24:35.203238+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/",
+      "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
+      "description": "<p>Halloween hooligans, a potent potable, and a Market Basket brawl all factor into this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "57f6c009d5820634a2df0633c02676cb",
+      "summary": [
+        "Halloween celebrations in Salem attract large crowds, impacting local businesses and traffic.",
+        "Sam Adams beer promotion highlights local breweries, boosting sales in Greater Boston.",
+        "Market Basket brawl on October 31 raises concerns about safety in grocery stores."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ask the remodeler: Let there be light in your home as Daylight Saving ends",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/31/light-home-renovation-daylight-saving/",
+      "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
+      "description": "<p>From understanding ambient versus task lighting to creative ways of letting in natural light, here\u2019s a guide to brightening your home. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/31/light-home-renovation-daylight-saving/\">Ask the remodeler: Let there be light in your home as Daylight Saving ends</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "41662467022351440bbff8e30b17d3d5",
+      "summary": [
+        "Explore ways to enhance home lighting as Daylight Saving ends on November 5, 2023.",
+        "Learn about ambient versus task lighting for improved home functionality and aesthetics.",
+        "Implementing these tips can increase natural light, benefiting Boston residents' well-being."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Marco Sturm\u2019s faith in Marat Khusnutdinov gets rewarded with Bruins OT winner",
       "link": "https://www.boston.com/sports/boston-bruins/2025/10/30/marat-khusnutdinov-boston-bruins-nhl-hockey-marco-sturm-overtime-goal/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Weighing the pros and cons of a Pavel Zacha trade ",
         "Details: <p>Dealing away Zacha could net Boston a substanti",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Quincy mayor proposes reduced raise after backlash over 79 percent increase",
-      "link": "https://www.boston.com/news/local-news/2025/10/29/quincy-mayor-proposes-reduced-raise-after-backlash-over-79-percent-increase/",
-      "pubDate": "Thu, 30 Oct 2025 01:59:22 +0000",
-      "description": "<p>The proposal will revise Mayor Thomas Koch\u2019s expected raise from $285,000 to $225,000 when it takes effect in 2028.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/29/quincy-mayor-proposes-reduced-raise-after-backlash-over-79-percent-increase/\">Quincy mayor proposes reduced raise after backlash over 79 percent increase</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "04190145e5eb5138fedd122140591a04",
-      "summary": [
-        "Update: Quincy mayor proposes reduced raise after backlash",
-        "Details: <p>The proposal will revise Mayor Thomas Koch\u2019s ex",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Falcons coach compares Drake Maye to reigning NFL MVP",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/10/29/drake-maye-josh-allen-new-england-patriots-bills-atlanta-falcons/",
-      "pubDate": "Thu, 30 Oct 2025 01:25:58 +0000",
-      "description": "<p>\u201cHis mobility, his arm strength, the way he can take a game over with both facets of the game. So he's going to be \u2014  he's a problem.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/10/29/drake-maye-josh-allen-new-england-patriots-bills-atlanta-falcons/\">Falcons coach compares Drake Maye to reigning NFL MVP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f36332df90ae8295fbf2626aca7c50d4",
-      "summary": [
-        "Update: Falcons coach compares Drake Maye to reigning NFL ",
-        "Details: <p>\u201cHis mobility, his arm strength, the way he can",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

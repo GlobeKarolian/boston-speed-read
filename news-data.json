@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-10-31T08:29:26.981408+00:00",
-  "articles": [],
+  "lastUpdated": "2025-10-31T10:24:35.202400+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/",
+      "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
+      "description": "<p>Halloween hooligans, a potent potable, and a Market Basket brawl all factor into this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "57f6c009d5820634a2df0633c02676cb",
+      "summary": [
+        "Halloween celebrations in Salem attract large crowds, impacting local businesses and traffic.",
+        "Sam Adams beer promotion highlights local breweries, boosting sales in Greater Boston.",
+        "Market Basket brawl on October 31 raises concerns about safety in grocery stores."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ask the remodeler: Let there be light in your home as Daylight Saving ends",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/10/31/light-home-renovation-daylight-saving/",
+      "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
+      "description": "<p>From understanding ambient versus task lighting to creative ways of letting in natural light, here\u2019s a guide to brightening your home. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/31/light-home-renovation-daylight-saving/\">Ask the remodeler: Let there be light in your home as Daylight Saving ends</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "41662467022351440bbff8e30b17d3d5",
+      "summary": [
+        "Explore ways to enhance home lighting as Daylight Saving ends on November 5, 2023.",
+        "Learn about ambient versus task lighting for improved home functionality and aesthetics.",
+        "Implementing these tips can increase natural light, benefiting Boston residents' well-being."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-31T08:29:26.981452+00:00"
+    "timestamp": "2025-10-31T10:24:35.202431+00:00"
   }
 }
