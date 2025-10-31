@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-10-31T10:24:35.203238+00:00",
+  "lastUpdated": "2025-10-31T12:47:40.047415+00:00",
   "articles": [
+    {
+      "title": "Boston City Council at-large race: Erin Murphy",
+      "link": "https://www.boston.com/news/politics/2025/10/31/boston-city-council-at-large-race-erin-murphy-3/",
+      "pubDate": "Fri, 31 Oct 2025 12:42:16 +0000",
+      "description": "<p>\"Whether it\u2019s families priced out, seniors feeling isolated, or city workers commuting an hour each way, too many Bostonians feel like the ground keeps shifting under their feet.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/boston-city-council-at-large-race-erin-murphy-3/\">Boston City Council at-large race: Erin Murphy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b8d66c9a250c509c739b5c45f5ca084c",
+      "summary": [
+        "Erin Murphy addresses housing issues affecting families and seniors in Boston's city council race.",
+        "Many city workers face long commutes of up to one hour each way.",
+        "Murphy emphasizes the need for stability as residents feel increasingly displaced."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Let\u2019s face it, Celtics fans: We have no idea what we\u2019re going to get from this team on any given night",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/10/31/celtics-joe-mazzulla-chad-finn/",
+      "pubDate": "Fri, 31 Oct 2025 12:18:22 +0000",
+      "description": "<p>The Celtics now sit at 2-3, following a win against the Cleveland Cavaliers that no one expected.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/10/31/celtics-joe-mazzulla-chad-finn/\">Let\u2019s face it, Celtics fans: We have no idea what we\u2019re going to get from this team on any given night</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a6ec9c85275fda279d10e0ed56c23beb",
+      "summary": [
+        "Celtics improve to 2-3 after an unexpected win against the Cavaliers.",
+        "Team's inconsistency raises concerns among Boston fans about future performance.",
+        "Local businesses may feel impact of fluctuating fan attendance at games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
       "link": "https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Jaylen Brown\u2019s big night leads Celtics to statemen",
         "Details: <p>Wednesday\u2019s win said quite a bit about this tea",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Jaylen Brown scores 30 as Celtics snap Cavaliers\u2019 win streak",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/10/29/jaylen-brown-scores-30-as-celtics-snap-cavaliers-win-streak/",
-      "pubDate": "Thu, 30 Oct 2025 02:59:19 +0000",
-      "description": "<p>Sam Hauser scored 21 points off the bench for Boston, which has won two straight since opening the season with three losses in a row.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/10/29/jaylen-brown-scores-30-as-celtics-snap-cavaliers-win-streak/\">Jaylen Brown scores 30 as Celtics snap Cavaliers&#8217; win streak</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "eea7e78c91f60fa8701a3ccbee8b61f7",
-      "summary": [
-        "Update: Jaylen Brown scores 30 as Celtics snap Cavaliers\u2019 ",
-        "Details: <p>Sam Hauser scored 21 points off the bench for B",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Weighing the pros and cons of a Pavel Zacha trade for the Bruins",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/10/29/pavel-zacha-boston-bruins-trade-rumors-vancouver-canucks-nhl-hockey/",
-      "pubDate": "Thu, 30 Oct 2025 02:47:09 +0000",
-      "description": "<p>Dealing away Zacha could net Boston a substantial return at some point this season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/10/29/pavel-zacha-boston-bruins-trade-rumors-vancouver-canucks-nhl-hockey/\">Weighing the pros and cons of a Pavel Zacha trade for the Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "075df575ac96129415135b3e677592c1",
-      "summary": [
-        "Update: Weighing the pros and cons of a Pavel Zacha trade ",
-        "Details: <p>Dealing away Zacha could net Boston a substanti",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

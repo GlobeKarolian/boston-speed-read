@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2025-10-31T10:24:35.202400+00:00",
+  "lastUpdated": "2025-10-31T12:47:40.046582+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/",
-      "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
-      "description": "<p>Halloween hooligans, a potent potable, and a Market Basket brawl all factor into this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/31/greater-boston-news-quiz-oct-31-2025-salem-halloween-sam-adams-market-basket-brawl/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "57f6c009d5820634a2df0633c02676cb",
+      "title": "Boston City Council at-large race: Erin Murphy",
+      "link": "https://www.boston.com/news/politics/2025/10/31/boston-city-council-at-large-race-erin-murphy-3/",
+      "pubDate": "Fri, 31 Oct 2025 12:42:16 +0000",
+      "description": "<p>\"Whether it\u2019s families priced out, seniors feeling isolated, or city workers commuting an hour each way, too many Bostonians feel like the ground keeps shifting under their feet.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/boston-city-council-at-large-race-erin-murphy-3/\">Boston City Council at-large race: Erin Murphy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b8d66c9a250c509c739b5c45f5ca084c",
       "summary": [
-        "Halloween celebrations in Salem attract large crowds, impacting local businesses and traffic.",
-        "Sam Adams beer promotion highlights local breweries, boosting sales in Greater Boston.",
-        "Market Basket brawl on October 31 raises concerns about safety in grocery stores."
+        "Erin Murphy addresses housing issues affecting families and seniors in Boston's city council race.",
+        "Many city workers face long commutes of up to one hour each way.",
+        "Murphy emphasizes the need for stability as residents feel increasingly displaced."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Ask the remodeler: Let there be light in your home as Daylight Saving ends",
-      "link": "https://www.boston.com/real-estate/real-estate/2025/10/31/light-home-renovation-daylight-saving/",
-      "pubDate": "Fri, 31 Oct 2025 09:00:00 +0000",
-      "description": "<p>From understanding ambient versus task lighting to creative ways of letting in natural light, here\u2019s a guide to brightening your home. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/10/31/light-home-renovation-daylight-saving/\">Ask the remodeler: Let there be light in your home as Daylight Saving ends</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "41662467022351440bbff8e30b17d3d5",
+      "title": "Let\u2019s face it, Celtics fans: We have no idea what we\u2019re going to get from this team on any given night",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/10/31/celtics-joe-mazzulla-chad-finn/",
+      "pubDate": "Fri, 31 Oct 2025 12:18:22 +0000",
+      "description": "<p>The Celtics now sit at 2-3, following a win against the Cleveland Cavaliers that no one expected.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/10/31/celtics-joe-mazzulla-chad-finn/\">Let\u2019s face it, Celtics fans: We have no idea what we\u2019re going to get from this team on any given night</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a6ec9c85275fda279d10e0ed56c23beb",
       "summary": [
-        "Explore ways to enhance home lighting as Daylight Saving ends on November 5, 2023.",
-        "Learn about ambient versus task lighting for improved home functionality and aesthetics.",
-        "Implementing these tips can increase natural light, benefiting Boston residents' well-being."
+        "Celtics improve to 2-3 after an unexpected win against the Cavaliers.",
+        "Team's inconsistency raises concerns among Boston fans about future performance.",
+        "Local businesses may feel impact of fluctuating fan attendance at games."
       ],
       "hookType": "LOCAL_IMPACT"
     }
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-10-31T10:24:35.202431+00:00"
+    "timestamp": "2025-10-31T12:47:40.046605+00:00"
   }
 }
