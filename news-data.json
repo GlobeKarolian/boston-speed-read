@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-01T10:21:17.419465+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-01T12:41:06.472102+00:00",
+  "articles": [
+    {
+      "title": "A winning Powerball ticket remains unclaimed in Mass. \u2014 and expires next month",
+      "link": "https://www.boston.com/news/local-news/2025/11/01/a-winning-powerball-ticket-remains-unclaimed-in-mass-and-expires-next-month/",
+      "pubDate": "Sat, 01 Nov 2025 12:20:40 +0000",
+      "description": "<p>If you bought a Powerball ticket in Marlborough last year, you may want to read this.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/01/a-winning-powerball-ticket-remains-unclaimed-in-mass-and-expires-next-month/\">A winning Powerball ticket remains unclaimed in Mass. \u2014 and expires next month</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e7a13d16c01bdaab27e70064d6f5a242",
+      "summary": [
+        "A winning Powerball ticket worth $1 million remains unclaimed in Marlborough.",
+        "The ticket was purchased last year and expires on December 4, 2023.",
+        "Boston residents are encouraged to check their tickets to avoid losing the prize."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "W. Va. couple had their dream Halloween wedding in Salem",
+      "link": "https://www.boston.com/news/local-news/2025/11/01/w-va-couple-had-their-dream-halloween-wedding-in-salem/",
+      "pubDate": "Sat, 01 Nov 2025 11:46:31 +0000",
+      "description": "<p>Their love story is truly bewitching. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/01/w-va-couple-had-their-dream-halloween-wedding-in-salem/\">W. Va. couple had their dream Halloween wedding in Salem</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e0d1bcc9bebbd39786c1e1072f71fcb0",
+      "summary": [
+        "West Virginia couple celebrated Halloween wedding in Salem on October 31, 2025.",
+        "Event attracted local vendors and tourists, boosting Salem's Halloween tourism.",
+        "Wedding highlights Salem's reputation as a popular Halloween destination for couples."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-01T10:21:17.419476+00:00"
+    "timestamp": "2025-11-01T12:41:06.472123+00:00"
   }
 }
