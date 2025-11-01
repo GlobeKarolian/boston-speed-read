@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-01T16:24:08.932014+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-01T18:28:30.733366+00:00",
+  "articles": [
+    {
+      "title": "5 things to know about Falcons before Sunday\u2019s game vs. Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/01/patriots-falcons-nfl-week-9-preview/",
+      "pubDate": "Sat, 01 Nov 2025 16:34:42 +0000",
+      "description": "<p>The Falcons enter Sunday's matchup with a 3-4 record as they hope to spark a playoff run. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/01/patriots-falcons-nfl-week-9-preview/\">5 things to know about Falcons before Sunday&#8217;s game vs. Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "30931031ae1db195c92c4cee1b9d632b",
+      "summary": [
+        "The Falcons, with a 3-4 record, aim for a playoff push against the Patriots.",
+        "Sunday's game is crucial for both teams' playoff aspirations in the NFL.",
+        "Boston residents can expect heightened local interest and fan engagement during the matchup."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-01T16:24:08.932024+00:00"
+    "timestamp": "2025-11-01T18:28:30.733386+00:00"
   }
 }
