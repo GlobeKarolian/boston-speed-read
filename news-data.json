@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-11-02T20:22:03.152149+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-02T22:19:28.473759+00:00",
+  "articles": [
+    {
+      "title": "Patriots stock watch: Here\u2019s who stood out and struggled against Falcons",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/02/patriots-falcons-stock-watch-analysis-drake-maye-demario-douglas/",
+      "pubDate": "Sun, 02 Nov 2025 21:42:47 +0000",
+      "description": "<p>DeMario Douglas had a career day. Drake Maye had a couple of shaky turnovers. The Falcons attacked Marcus Jones. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/02/patriots-falcons-stock-watch-analysis-drake-maye-demario-douglas/\">Patriots stock watch: Here&#8217;s who stood out and struggled against Falcons</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "70505238c2fc57745ecb1f3f685ebb60",
+      "summary": [
+        "DeMario Douglas achieved a career-high performance against the Falcons on November 2.",
+        "Drake Maye committed two turnovers, raising concerns for the Patriots' defense.",
+        "Marcus Jones faced significant challenges, impacting the team's defensive strategy moving forward."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Shutdown stalemate set to drag into sixth week as Trump pushes Republicans to change Senate rules",
+      "link": "https://www.boston.com/news/politics/2025/11/02/shutdown-stalemate-set-to-drag-into-sixth-week-as-trump-pushes-republicans-to-change-senate-rules/",
+      "pubDate": "Sun, 02 Nov 2025 21:15:47 +0000",
+      "description": "<p>With the two parties at a standstill, the shutdown, now in its 33rd day, appears likely become the longest in history. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/02/shutdown-stalemate-set-to-drag-into-sixth-week-as-trump-pushes-republicans-to-change-senate-rules/\">Shutdown stalemate set to drag into sixth week as Trump pushes Republicans to change Senate rules</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4bff1d9b75342c70d8532e2bebde86a9",
+      "summary": [
+        "Shutdown enters 33rd day, potentially becoming the longest in U.S. history.",
+        "Trump urges Republicans to alter Senate rules amid ongoing deadlock.",
+        "Boston residents face disruptions as federal services remain halted."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Tariffs are Trump\u2019s favorite foreign policy tool. The Supreme Court could change how he uses them.",
+      "link": "https://www.boston.com/news/politics/2025/11/02/tariffs-are-trumps-favorite-foreign-policy-tool-the-supreme-court-could-change-how-he-uses-them/",
+      "pubDate": "Sun, 02 Nov 2025 15:57:43 +0000",
+      "description": "<p>This week, the Supreme Court hears arguments on whether the Republican president has overstepped federal law with many of his tariffs. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/02/tariffs-are-trumps-favorite-foreign-policy-tool-the-supreme-court-could-change-how-he-uses-them/\">Tariffs are Trump&#8217;s favorite foreign policy tool. The Supreme Court could change how he uses them.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8bd8cc60531b2ad6e3ad3736d7f9c58f",
+      "summary": [
+        "Supreme Court hears tariff arguments affecting Trump's trade policies this week.",
+        "Potential changes could impact Boston's local economy and businesses reliant on imports.",
+        "Ruling may redefine presidential power over tariffs, influencing future trade relations."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-02T20:22:03.152159+00:00"
+    "timestamp": "2025-11-02T22:19:28.473778+00:00"
   }
 }
