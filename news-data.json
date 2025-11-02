@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-02T12:40:23.726338+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-02T14:18:47.659452+00:00",
+  "articles": [
+    {
+      "title": "How to spot November\u2019s supermoon, the closest of the year",
+      "link": "https://www.boston.com/news/local-news/2025/11/02/how-to-spot-novembers-supermoon-the-closest-of-the-year/",
+      "pubDate": "Sun, 02 Nov 2025 13:39:52 +0000",
+      "description": "<p>A so-called supermoon happens when a full moon is closer to Earth in its orbit. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/02/how-to-spot-novembers-supermoon-the-closest-of-the-year/\">How to spot November&#8217;s supermoon, the closest of the year</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e8d6c13a77972fd721fb27cc71a32417",
+      "summary": [
+        "November's supermoon occurs on November 14, 2025, appearing larger and brighter.",
+        "This supermoon is the closest to Earth this year, enhancing visibility for Boston residents.",
+        "Local astronomers encourage residents to view the supermoon for educational and recreational purposes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt.",
+      "link": "https://www.boston.com/news/local-news/2025/11/02/explosion-at-harvard-medical-school-appears-to-have-been-intentional-authorities-say-no-one-hurt/",
+      "pubDate": "Sun, 02 Nov 2025 12:50:43 +0000",
+      "description": "<p>Police released grainy photos of two people wearing face coverings and what looked like sweatshirts.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/02/explosion-at-harvard-medical-school-appears-to-have-been-intentional-authorities-say-no-one-hurt/\">Explosion at Harvard Medical School appears to have been intentional, authorities say. No one hurt.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8d3469d99189b73f84005671f662f7e7",
+      "summary": [
+        "Explosion at Harvard Medical School deemed intentional; no injuries reported.",
+        "Police released photos of two suspects wearing sweatshirts and face coverings.",
+        "Incident raises safety concerns for Boston residents near academic institutions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-02T12:40:23.726346+00:00"
+    "timestamp": "2025-11-02T14:18:47.659470+00:00"
   }
 }
