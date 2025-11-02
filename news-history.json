@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-02T16:25:05.240583+00:00",
+  "lastUpdated": "2025-11-02T18:27:49.612721+00:00",
   "articles": [
+    {
+      "title": "Boston residents say they feel safer downtown compared to last year in new survey",
+      "link": "https://www.boston.com/news/local-news/2025/11/02/boston-residents-say-they-feel-safer-downtown-compared-to-last-year-in-new-survey/",
+      "pubDate": "Sun, 02 Nov 2025 16:38:44 +0000",
+      "description": "<p>Far fewer residents said they felt \u201cless safe\u201d compared to the beginning of the year than in a similar survey conducted in 2024.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/02/boston-residents-say-they-feel-safer-downtown-compared-to-last-year-in-new-survey/\">Boston residents say they feel safer downtown compared to last year in new survey</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0d1818f7087e43c1310bdbf984cf5e82",
+      "summary": [
+        "Boston residents report feeling safer downtown compared to last year's survey.",
+        "Fewer residents expressed feeling 'less safe' than in early 2024.",
+        "Increased safety perception may boost local business and tourism in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Patriots vs. Falcons live updates: Can Patriots extend win streak to six games?",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/11/02/patriots-falcons-live-score-update-liveblog-nfl-football/",
@@ -635,19 +648,6 @@
         "WBZ-TV laid off longtime political analyst Jon Keller after 20 years with the station.",
         "Keller's departure is part of broader layoffs affecting several staff members at WBZ.",
         "Boston residents lose a familiar voice in political analysis during an election year."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston City Council District 7 race: Miniard Culpepper and Said Ahmed",
-      "link": "https://www.boston.com/news/politics/2025/10/31/boston-city-council-district-7-race-miniard-culpepper-and-said-ahmed/",
-      "pubDate": "Fri, 31 Oct 2025 15:08:06 +0000",
-      "description": "<p>Miniard Culpepper and Said Ahmed are running to represent District 7 after the arrest and resignation of Tania Fernandes Anderson. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/boston-city-council-district-7-race-miniard-culpepper-and-said-ahmed/\">Boston City Council District 7 race: Miniard Culpepper and Said Ahmed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cb0c2303cbe07e8e877f892fa80e15a0",
-      "summary": [
-        "Miniard Culpepper and Said Ahmed are candidates for Boston's District 7 City Council seat.",
-        "They are running following the resignation of Tania Fernandes Anderson due to her arrest.",
-        "The election outcome will directly affect local governance and community representation in District 7."
       ],
       "hookType": "LOCAL_IMPACT"
     }
