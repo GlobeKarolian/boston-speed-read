@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-11-03T18:31:55.927664+00:00",
+  "lastUpdated": "2025-11-03T20:26:05.263817+00:00",
   "articles": [
+    {
+      "title": "Business confidence in Massachusetts drops again, report says",
+      "link": "https://www.boston.com/news/business/2025/11/03/business-confidence-in-massachusetts-drops-again-report-says/",
+      "pubDate": "Mon, 03 Nov 2025 19:13:16 +0000",
+      "description": "<p>It\u2019s the longest stretch of pessimism since the COVID-19 pandemic in 2020. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/03/business-confidence-in-massachusetts-drops-again-report-says/\">Business confidence in Massachusetts drops again, report says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "88564d9e05bcb28f87662fcec9dc6900",
+      "summary": [
+        "Business confidence in Massachusetts declines for the longest stretch since 2020.",
+        "Recent report indicates a significant drop in optimism among local businesses.",
+        "Continued pessimism may affect job growth and economic recovery in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston Legacy FC announce date of 2026 home opener",
+      "link": "https://www.boston.com/sports/sports-news/2025/11/03/boston-legacy-fc-announce-date-of-2026-home-opener/",
+      "pubDate": "Mon, 03 Nov 2025 19:13:04 +0000",
+      "description": "<p>The club will take the field on March 14.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2025/11/03/boston-legacy-fc-announce-date-of-2026-home-opener/\">Boston Legacy FC announce date of 2026 home opener</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ef8c18acc398fb7de57c37c8fe3b62fd",
+      "summary": [
+        "Boston Legacy FC will host their 2026 home opener on March 14.",
+        "The match marks the club's second season in the league.",
+        "Local fans can expect increased community engagement and events leading up to the opener."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Six straight wins later \u2014 are the Patriots officially back?",
       "link": "https://www.boston.com/community/tell-us/2025/11/03/new-england-patriots-resurgence/",
@@ -622,32 +648,6 @@
         "Federal judge blocks Trump's citizenship proof requirement for voting forms.",
         "Ruling grants plaintiffs partial summary judgment against the requirement.",
         "Boston residents will face no additional barriers to voting in upcoming elections."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A winning Powerball ticket remains unclaimed in Mass. \u2014 and expires next month",
-      "link": "https://www.boston.com/news/local-news/2025/11/01/a-winning-powerball-ticket-remains-unclaimed-in-mass-and-expires-next-month/",
-      "pubDate": "Sat, 01 Nov 2025 12:20:40 +0000",
-      "description": "<p>If you bought a Powerball ticket in Marlborough last year, you may want to read this.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/01/a-winning-powerball-ticket-remains-unclaimed-in-mass-and-expires-next-month/\">A winning Powerball ticket remains unclaimed in Mass. \u2014 and expires next month</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e7a13d16c01bdaab27e70064d6f5a242",
-      "summary": [
-        "A winning Powerball ticket worth $1 million remains unclaimed in Marlborough.",
-        "The ticket was purchased last year and expires on December 4, 2023.",
-        "Boston residents are encouraged to check their tickets to avoid losing the prize."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "W. Va. couple had their dream Halloween wedding in Salem",
-      "link": "https://www.boston.com/news/local-news/2025/11/01/w-va-couple-had-their-dream-halloween-wedding-in-salem/",
-      "pubDate": "Sat, 01 Nov 2025 11:46:31 +0000",
-      "description": "<p>Their love story is truly bewitching. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/01/w-va-couple-had-their-dream-halloween-wedding-in-salem/\">W. Va. couple had their dream Halloween wedding in Salem</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e0d1bcc9bebbd39786c1e1072f71fcb0",
-      "summary": [
-        "West Virginia couple celebrated Halloween wedding in Salem on October 31, 2025.",
-        "Event attracted local vendors and tourists, boosting Salem's Halloween tourism.",
-        "Wedding highlights Salem's reputation as a popular Halloween destination for couples."
       ],
       "hookType": "LOCAL_IMPACT"
     }
