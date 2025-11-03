@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-03T10:27:03.422872+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-03T12:49:13.693124+00:00",
+  "articles": [
+    {
+      "title": "The Patriots beat the Falcons, but they made it more difficult than necessary",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/03/the-patriots-beat-the-falcons-but-they-made-it-more-difficult-than-necessary/",
+      "pubDate": "Mon, 03 Nov 2025 12:37:18 +0000",
+      "description": "<p>Can\u2019t learn from mistakes unless you make a few, right?</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/03/the-patriots-beat-the-falcons-but-they-made-it-more-difficult-than-necessary/\">The Patriots beat the Falcons, but they made it more difficult than necessary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b9b7d164e64c9094b093d0163cc1a446",
+      "summary": [
+        "Patriots secured a win against the Falcons on November 3, 2025.",
+        "Team struggled with execution, making the game unnecessarily challenging for fans.",
+        "Local fans express concern over the team's performance ahead of upcoming games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Two Red Sox outfielders earn Gold Glove Awards",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/11/03/boston-red-sox-gold-glove-wilyer-abreu-ceddanne-rafaela-mlb-baseball/",
+      "pubDate": "Mon, 03 Nov 2025 12:08:24 +0000",
+      "description": "<p>This marks the first time that the Red Sox have had multiple Gold Glove winners in the same season since 2018.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/03/boston-red-sox-gold-glove-wilyer-abreu-ceddanne-rafaela-mlb-baseball/\">Two Red Sox outfielders earn Gold Glove Awards</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a2a4f151f868c8c4a7df8ed383b6e60a",
+      "summary": [
+        "Wilyer Abreu and Ceddanne Rafaela win Gold Glove Awards for the Red Sox.",
+        "This is the first time since 2018 that Boston has multiple winners.",
+        "Enhanced defensive skills may boost Red Sox performance in upcoming seasons."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-03T10:27:03.422882+00:00"
+    "timestamp": "2025-11-03T12:49:13.693145+00:00"
   }
 }
