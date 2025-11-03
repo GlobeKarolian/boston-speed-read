@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-11-03T12:49:13.694025+00:00",
+  "lastUpdated": "2025-11-03T14:23:11.666684+00:00",
   "articles": [
+    {
+      "title": "\u2018I\u2019m going to stretch it\u2019: Anxiety over SNAP leads to hard choices",
+      "link": "https://www.boston.com/news/national-news/2025/11/03/snap-hard-choices-massachusetts/",
+      "pubDate": "Mon, 03 Nov 2025 14:16:42 +0000",
+      "description": "<p>Federal courts in Rhode Island and Massachusetts issued rulings Friday ordering the Trump administration to continue funding SNAP through the government shutdown.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/03/snap-hard-choices-massachusetts/\">\u2018I\u2019m going to stretch it\u2019: Anxiety over SNAP leads to hard choices</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5435efd87499b280a141f65e0fa47029",
+      "summary": [
+        "Federal courts ordered continued SNAP funding amid the government shutdown affecting Massachusetts residents.",
+        "Massachusetts residents face anxiety over SNAP benefits, with many planning to stretch limited resources.",
+        "Local families may struggle with food insecurity as SNAP funding remains uncertain during the shutdown."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mississippi woman kills escaped monkey fearing for her children\u2019s safety",
+      "link": "https://www.boston.com/news/national-news/2025/11/03/mississippi-woman-kills-escaped-monkey-childrens-safety/",
+      "pubDate": "Mon, 03 Nov 2025 13:44:51 +0000",
+      "description": "<p>A truck carrying the monkeys overturned Tuesday on Interstate 59 north of Heidelberg, Mississippi. </p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/03/mississippi-woman-kills-escaped-monkey-childrens-safety/\">Mississippi woman kills escaped monkey fearing for her children&#8217;s safety</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1dda38dc62e49d3c8c0a1cbaf628201f",
+      "summary": [
+        "A truck carrying monkeys overturned on November 1 in Mississippi.",
+        "A local woman killed an escaped monkey to protect her children.",
+        "Residents may face increased concerns about wildlife safety in urban areas."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "The Patriots beat the Falcons, but they made it more difficult than necessary",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/11/03/the-patriots-beat-the-falcons-but-they-made-it-more-difficult-than-necessary/",
@@ -622,32 +648,6 @@
         "Star Market over the Mass. Pike reopened on October 31, 2025, after an asbestos scare.",
         "Inspectors confirmed asbestos was contained in a sealed stockroom, posing no risk to shoppers.",
         "Local residents can resume shopping at Star Market without health concerns."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Judges order the Trump administration to use contingency funds for SNAP payments during the shutdown",
-      "link": "https://www.boston.com/news/national-news/2025/10/31/judges-order-the-trump-administration-to-use-contingency-funds-for-snap-payments-during-the-shutdown/",
-      "pubDate": "Fri, 31 Oct 2025 18:41:37 +0000",
-      "description": "<p>The judges in Massachusetts and Rhode Island gave the administration leeway on whether to fund the program partially or in full for November.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/10/31/judges-order-the-trump-administration-to-use-contingency-funds-for-snap-payments-during-the-shutdown/\">Judges order the Trump administration to use contingency funds for SNAP payments during the shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "048b3909b12fc14451b18b3366f734d4",
-      "summary": [
-        "Judges in Massachusetts and Rhode Island mandate SNAP funding during the government shutdown.",
-        "Administration has discretion to fund SNAP partially or fully for November.",
-        "Local residents may face uncertainty in food assistance due to funding decisions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018He has everything to score 50\u2019: Morgan Geekie is evolving into an elite goal scorer for Bruins",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/10/31/morgan-geekie-goals-bruins-david-pastrnak/",
-      "pubDate": "Fri, 31 Oct 2025 18:19:38 +0000",
-      "description": "<p>\"The shot that he has, it's amazing. It's the best on our team.\u201d </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/10/31/morgan-geekie-goals-bruins-david-pastrnak/\">\u2018He has everything to score 50\u2019: Morgan Geekie is evolving into an elite goal scorer for Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "95d1e2dc6f66d006f8815430ffa19f1f",
-      "summary": [
-        "Morgan Geekie is becoming a top goal scorer for the Bruins this season.",
-        "Geekie's shot is considered the best on the team, enhancing offensive strategies.",
-        "His performance could significantly boost Bruins' chances in upcoming games."
       ],
       "hookType": "LOCAL_IMPACT"
     }
