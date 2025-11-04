@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-04T04:26:48.146232+00:00",
+  "lastUpdated": "2025-11-04T10:26:50.208660+00:00",
   "articles": [
+    {
+      "title": "Home of the week: Updated Newton condo near Green Line for under $700K",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/04/newton-condo-boston-green-line-for-sale/",
+      "pubDate": "Tue, 04 Nov 2025 10:00:00 +0000",
+      "description": "<p>This three-unit building was created out of a home built in 1910.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/11/04/newton-condo-boston-green-line-for-sale/\">Home of the week: Updated Newton condo near Green Line for under $700K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ecd53f15b1deaf8b11fcea35c7f1035f",
+      "summary": [
+        "Updated Newton condo listed for under $700K, appealing to first-time homebuyers.",
+        "Condo located near the Green Line, enhancing public transportation access for residents.",
+        "Building dates back to 1910, offering historical charm in a modern living space."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Jusuf Nurkic makes last-second putback to lift the Jazz past the Celtics, 105-103",
       "link": "https://www.boston.com/sports/sports/2025/11/03/jusuf-nurkic-makes-last-second-putback-to-lift-the-jazz-past-the-celtics-105-103/",
@@ -635,19 +648,6 @@
         "Regulators limit Eversource's proposed rate hike for Massachusetts customers.",
         "Eversource claims the ruling will affect customers significantly over the next year.",
         "Boston residents may see reduced energy costs due to regulatory intervention."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Air traffic controller shortages lead to broader US flight delays",
-      "link": "https://www.boston.com/news/business/2025/11/02/air-traffic-controller-shortages-lead-to-broader-us-flight-delays/",
-      "pubDate": "Sun, 02 Nov 2025 15:30:45 +0000",
-      "description": "<p>The Federal Aviation Administration reported staffing shortages that were causing flight delays at a number of airports, including Boston.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/02/air-traffic-controller-shortages-lead-to-broader-us-flight-delays/\">Air traffic controller shortages lead to broader US flight delays</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dd9153f13714f38f84e0b78ab95ccd9e",
-      "summary": [
-        "FAA reports air traffic controller shortages causing delays at Boston Logan Airport.",
-        "Nationwide, staffing issues have led to increased flight delays affecting thousands of travelers.",
-        "Boston residents may experience longer wait times for flights as delays continue."
       ],
       "hookType": "LOCAL_IMPACT"
     }

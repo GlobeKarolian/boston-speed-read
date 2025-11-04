@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-04T08:32:01.597239+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-04T10:26:50.207823+00:00",
+  "articles": [
+    {
+      "title": "Home of the week: Updated Newton condo near Green Line for under $700K",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/04/newton-condo-boston-green-line-for-sale/",
+      "pubDate": "Tue, 04 Nov 2025 10:00:00 +0000",
+      "description": "<p>This three-unit building was created out of a home built in 1910.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/11/04/newton-condo-boston-green-line-for-sale/\">Home of the week: Updated Newton condo near Green Line for under $700K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ecd53f15b1deaf8b11fcea35c7f1035f",
+      "summary": [
+        "Updated Newton condo listed for under $700K, appealing to first-time homebuyers.",
+        "Condo located near the Green Line, enhancing public transportation access for residents.",
+        "Building dates back to 1910, offering historical charm in a modern living space."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-04T08:32:01.597248+00:00"
+    "timestamp": "2025-11-04T10:26:50.207844+00:00"
   }
 }
