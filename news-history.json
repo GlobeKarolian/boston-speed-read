@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-04T10:26:50.208660+00:00",
+  "lastUpdated": "2025-11-04T12:51:26.014286+00:00",
   "articles": [
+    {
+      "title": "Dick Cheney, one of the most powerful and polarizing vice presidents in U.S. history, dies at 84",
+      "link": "https://www.boston.com/news/politics/2025/11/04/dick-cheney-vice-president-dies-84/",
+      "pubDate": "Tue, 04 Nov 2025 12:06:27 +0000",
+      "description": "<p>Cheney died Monday night due to complications of pneumonia and cardiac and vascular disease, according to a statement from his family.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/04/dick-cheney-vice-president-dies-84/\">Dick Cheney, one of the most powerful and polarizing vice presidents in U.S. history, dies at 84</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "947b3f6d68e008cbb8f101bd25d9f750",
+      "summary": [
+        "Dick Cheney died at 84 due to pneumonia and heart complications on November 4, 2025.",
+        "Cheney's policies significantly influenced U.S. politics, impacting Boston's local governance and security.",
+        "His death may reignite debates on national security and foreign policy in Boston's political circles."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Home of the week: Updated Newton condo near Green Line for under $700K",
       "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/04/newton-condo-boston-green-line-for-sale/",
@@ -635,19 +648,6 @@
         "Miles Teller hosted 'Saturday Night Live' on November 2, showcasing his comedic talents.",
         "Brandi Carlile performed as the musical guest, attracting local fans and viewers.",
         "The episode highlights Boston's connection to popular culture through notable hosts and performers."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Regulators are limiting a proposed Eversource rate hike in Mass.",
-      "link": "https://www.boston.com/news/local-news/2025/11/02/regulators-are-limiting-a-proposed-eversource-rate-hike-in-mass/",
-      "pubDate": "Sun, 02 Nov 2025 15:40:27 +0000",
-      "description": "<p>Eversource says the ruling will lead to greater impacts for customers over the next year.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/02/regulators-are-limiting-a-proposed-eversource-rate-hike-in-mass/\">Regulators are limiting a proposed Eversource rate hike in Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bd4c34fb6dc673a9274a6fe767f0e664",
-      "summary": [
-        "Regulators limit Eversource's proposed rate hike for Massachusetts customers.",
-        "Eversource claims the ruling will affect customers significantly over the next year.",
-        "Boston residents may see reduced energy costs due to regulatory intervention."
       ],
       "hookType": "LOCAL_IMPACT"
     }
