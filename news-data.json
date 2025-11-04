@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-11-04T12:51:26.013469+00:00",
+  "lastUpdated": "2025-11-04T14:23:51.029576+00:00",
   "articles": [
     {
-      "title": "Dick Cheney, one of the most powerful and polarizing vice presidents in U.S. history, dies at 84",
-      "link": "https://www.boston.com/news/politics/2025/11/04/dick-cheney-vice-president-dies-84/",
-      "pubDate": "Tue, 04 Nov 2025 12:06:27 +0000",
-      "description": "<p>Cheney died Monday night due to complications of pneumonia and cardiac and vascular disease, according to a statement from his family.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/04/dick-cheney-vice-president-dies-84/\">Dick Cheney, one of the most powerful and polarizing vice presidents in U.S. history, dies at 84</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "947b3f6d68e008cbb8f101bd25d9f750",
+      "title": "Parts of Morrissey Blvd. may close this week due to high tide flooding",
+      "link": "https://www.boston.com/news/local-news/2025/11/04/expect-potential-morrissey-blvd-closures-this-week-due-to-high-tide-flooding/",
+      "pubDate": "Tue, 04 Nov 2025 14:11:31 +0000",
+      "description": "<p>The closures may occur from Tuesday through Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/04/expect-potential-morrissey-blvd-closures-this-week-due-to-high-tide-flooding/\">Parts of Morrissey Blvd. may close this week due to high tide flooding</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f4fb0f7a98ad88d509a373929eefc63a",
       "summary": [
-        "Dick Cheney died at 84 due to pneumonia and heart complications on November 4, 2025.",
-        "Cheney's policies significantly influenced U.S. politics, impacting Boston's local governance and security.",
-        "His death may reignite debates on national security and foreign policy in Boston's political circles."
+        "Morrissey Blvd. may close from Tuesday to Sunday due to high tide flooding.",
+        "Closures affect local traffic and access for Boston residents and businesses.",
+        "Residents should plan alternate routes to avoid delays this week."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Diane Ladd, 3-time Oscar nominee, dies at 89",
+      "link": "https://www.boston.com/culture/entertainment/2025/11/04/diane-ladd-3-time-oscar-nominee-dies-at-89/",
+      "pubDate": "Tue, 04 Nov 2025 14:07:19 +0000",
+      "description": "<p>A gifted comic and dramatic performer, Ladd had a long career in television and on stage before breaking through as a film performer in\u00a0Martin Scorsese\u2019s\u00a01974 release \u201cAlice Doesn\u2019t Live Here Anymore.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/11/04/diane-ladd-3-time-oscar-nominee-dies-at-89/\">Diane Ladd, 3-time Oscar nominee, dies at 89</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "717fb67601aa6c7c6831875902ca42dd",
+      "summary": [
+        "Diane Ladd, renowned actress, passed away at age 89 on November 4, 2025.",
+        "Ladd was a three-time Oscar nominee, known for her role in 'Alice Doesn\u2019t Live Here Anymore.'",
+        "Her death marks a significant loss for Boston's arts community and local theater scene."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Worker dies after 11 hours trapped within partially collapsed medieval tower in Rome",
+      "link": "https://www.boston.com/news/world-news/2025/11/04/worker-dies-after-11-hours-trapped-partially-collapsed-medieval-tower-rome/",
+      "pubDate": "Tue, 04 Nov 2025 14:04:58 +0000",
+      "description": "<p>Another Romanian was successfully removed and is out of danger, the statement said.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/11/04/worker-dies-after-11-hours-trapped-partially-collapsed-medieval-tower-rome/\">Worker dies after 11 hours trapped within partially collapsed medieval tower in Rome</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1eb0e5a647ebc396767bf26c9e6b6ae0",
+      "summary": [
+        "A worker died after being trapped for 11 hours in Rome's medieval tower.",
+        "Another Romanian worker was rescued and is currently out of danger.",
+        "This incident raises safety concerns for Boston construction workers abroad."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-04T12:51:26.013488+00:00"
+    "timestamp": "2025-11-04T14:23:51.029610+00:00"
   }
 }
