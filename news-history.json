@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2025-11-04T22:20:56.723921+00:00",
+  "lastUpdated": "2025-11-05T01:50:18.084850+00:00",
   "articles": [
+    {
+      "title": "\u2018This is kidnapping \u2014 plain and simple\u2019: ICE arrests 9 employees at Allston car wash",
+      "link": "https://www.boston.com/news/local-news/2025/11/04/this-is-kidnapping-plain-and-simple-ice-arrests-9-employees-in-raid-at-allston-car-wash/",
+      "pubDate": "Wed, 05 Nov 2025 00:25:10 +0000",
+      "description": "<p>The employees were detained Tuesday morning before they could present their documents, according to the car wash\u2019s manager.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/04/this-is-kidnapping-plain-and-simple-ice-arrests-9-employees-in-raid-at-allston-car-wash/\">\u2018This is kidnapping \u2014 plain and simple\u2019: ICE arrests 9 employees at Allston car wash</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2c3b6795293a513f93f40d2425f75b68",
+      "summary": [
+        "ICE arrested 9 employees at an Allston car wash on November 4.",
+        "The arrests occurred before employees could present their documents, according to the manager.",
+        "Local community members express concern over the impact on immigrant workers and families."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots opt to stand pat at trade deadline",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/04/new-england-patriots-trade-rumors-nfl-deadline-mike-vrabel-eliot-wolf/",
+      "pubDate": "Tue, 04 Nov 2025 22:25:51 +0000",
+      "description": "<p>\"We\u2019re eight games into what we feel like is a program that we want to build.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/04/new-england-patriots-trade-rumors-nfl-deadline-mike-vrabel-eliot-wolf/\">Patriots opt to stand pat at trade deadline</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "af50a967d34010f1d0895abbb8a49da2",
+      "summary": [
+        "Patriots decided not to make trades at the NFL deadline on November 1.",
+        "Team is focused on building a program after eight games this season.",
+        "Local fans may see a consistent roster as the team develops its strategy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Transportation Secretary Sean Duffy warns of \u2018mass chaos\u2019 in skies if shutdown continues",
+      "link": "https://www.boston.com/news/national-news/2025/11/04/transportation-secretary-sean-duffy-warns-of-mass-chaos-in-skies-if-shutdown-continues/",
+      "pubDate": "Tue, 04 Nov 2025 22:16:04 +0000",
+      "description": "<p>Last weekend saw some of the worst staff shortages and on Sunday, flights at Newark Liberty International Airport in New Jersey were delayed for several hours.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/04/transportation-secretary-sean-duffy-warns-of-mass-chaos-in-skies-if-shutdown-continues/\">Transportation Secretary Sean Duffy warns of &#8216;mass chaos&#8217; in skies if shutdown continues</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "61151907b282e9435379fb6fbafb3360",
+      "summary": [
+        "Transportation Secretary Sean Duffy warns of potential flight disruptions affecting Boston residents.",
+        "Recent staff shortages caused significant delays at Newark Liberty International Airport last weekend.",
+        "Continued shutdown could lead to widespread chaos in air travel for Boston travelers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Amid SNAP benefit cuts, these Greater Boston food businesses are here to help",
       "link": "https://www.boston.com/food/food-news/2025/11/04/greater-boston-restaurants-help-snap-cuts/",
@@ -609,45 +648,6 @@
         "Stefon Diggs humorously critiques Cardi B's dance moves at Gillette Stadium on November 3.",
         "Cardi B attended the Patriots' game against the Falcons from the owner's suite.",
         "Local fans enjoyed the lighthearted moment, enhancing the game-day experience at Gillette."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A bipartisan group of Mass. lawmakers called on Markey and Warren to help end the shutdown",
-      "link": "https://www.boston.com/news/politics/2025/11/03/a-bipartisan-group-of-mass-lawmakers-called-on-markey-and-warren-to-help-end-the-shutdown/",
-      "pubDate": "Mon, 03 Nov 2025 21:28:48 +0000",
-      "description": "<p>The lawmakers described the situation in Washington as \"untenable\" and voiced concerns about how the shutdown is affecting Massachusetts families. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/03/a-bipartisan-group-of-mass-lawmakers-called-on-markey-and-warren-to-help-end-the-shutdown/\">A bipartisan group of Mass. lawmakers called on Markey and Warren to help end the shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5cf567ad7337b072d845fc5e7c06efc2",
-      "summary": [
-        "Massachusetts lawmakers urge Senators Markey and Warren to end the federal government shutdown.",
-        "Lawmakers describe the Washington situation as 'untenable' for local families.",
-        "Shutdown concerns include potential economic impacts on Massachusetts residents and services."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018Unaffordable and nearly unlivable\u2019: What readers want Mayor Wu and City Councilors to prioritize",
-      "link": "https://www.boston.com/community/readers-say/2025/11/03/mayor-wu-city-councilors-priorities/",
-      "pubDate": "Mon, 03 Nov 2025 21:01:42 +0000",
-      "description": "<p>\u201cAll I want is a city that is livable and accessible to every single Bostonian,\u201d one respondent said.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/11/03/mayor-wu-city-councilors-priorities/\">&#8216;Unaffordable and nearly unlivable&#8217;: What readers want Mayor Wu and City Councilors to prioritize</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6857bf07ef3498b97af409913535cfe1",
-      "summary": [
-        "Residents urge Mayor Wu to focus on affordability and livability in Boston.",
-        "Feedback highlights urgent needs for accessible housing and public services.",
-        "Community concerns reflect growing dissatisfaction with current living conditions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Business confidence in Massachusetts drops again, report says",
-      "link": "https://www.boston.com/news/business/2025/11/03/business-confidence-in-massachusetts-drops-again-report-says/",
-      "pubDate": "Mon, 03 Nov 2025 19:13:16 +0000",
-      "description": "<p>It\u2019s the longest stretch of pessimism since the COVID-19 pandemic in 2020. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/03/business-confidence-in-massachusetts-drops-again-report-says/\">Business confidence in Massachusetts drops again, report says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "88564d9e05bcb28f87662fcec9dc6900",
-      "summary": [
-        "Business confidence in Massachusetts declines for the longest stretch since 2020.",
-        "Recent report indicates a significant drop in optimism among local businesses.",
-        "Continued pessimism may affect job growth and economic recovery in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
