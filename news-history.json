@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-11-06T01:50:14.986444+00:00",
+  "lastUpdated": "2025-11-06T03:16:52.813690+00:00",
   "articles": [
+    {
+      "title": "Patriots get bad news with injuries ahead of Bucs matchup",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/05/new-england-patriots-injuries-rhamondre-stevenson-kayshon-boutte/",
+      "pubDate": "Thu, 06 Nov 2025 02:58:19 +0000",
+      "description": "<p>Garrett Bradbury, Kayshon Boutte, and Rhamondre Stevenson didn't practice on Wednesday. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/05/new-england-patriots-injuries-rhamondre-stevenson-kayshon-boutte/\">Patriots get bad news with injuries ahead of Bucs matchup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "07c9b75cb5a111ce6330fbe385d1d174",
+      "summary": [
+        "Garrett Bradbury, Kayshon Boutte, and Rhamondre Stevenson missed practice on November 1.",
+        "Patriots face the Buccaneers on November 5, increasing pressure on remaining players.",
+        "Injuries may affect team performance, impacting local fans' expectations for the game."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston youth baseball coach pleads not guilty to drug trafficking charge",
+      "link": "https://www.boston.com/news/crime/2025/11/05/boston-youth-baseball-coach-charged-with-fentanyl-trafficking-felony/",
+      "pubDate": "Thu, 06 Nov 2025 02:50:02 +0000",
+      "description": "<p>The coach is facing a felony charge because he was allegedly trafficking more than 10 grams of fentanyl, court records show.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/05/boston-youth-baseball-coach-charged-with-fentanyl-trafficking-felony/\">Boston youth baseball coach pleads not guilty to drug trafficking charge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "360930d37ec8e165216d30463191b04b",
+      "summary": [
+        "Boston youth baseball coach pleads not guilty to drug trafficking charges.",
+        "Coach allegedly trafficked over 10 grams of fentanyl, facing felony charges.",
+        "Local youth sports community concerned about safety and reputation."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Education technology company to close Boston headquarters, embrace fully remote workplace",
+      "link": "https://www.boston.com/news/business/2025/11/05/education-technology-company-to-close-boston-headquarters-embrace-fully-remote-workplace/",
+      "pubDate": "Thu, 06 Nov 2025 02:12:25 +0000",
+      "description": "<p>Cengage Group has based its corporate headquarters in Boston since 2014, with offices downtown and in the Seaport.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/05/education-technology-company-to-close-boston-headquarters-embrace-fully-remote-workplace/\">Education technology company to close Boston headquarters, embrace fully remote workplace</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8206ebaac1426a87510baeea0252336c",
+      "summary": [
+        "Cengage Group will close its Boston headquarters, transitioning to a fully remote workplace.",
+        "The company has operated in Boston since 2014, with offices in downtown and the Seaport.",
+        "This closure may affect local jobs and the downtown office market in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What Patriots players did during their off day that impressed Mike Vrabel",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/05/mike-vrabel-nfl-football-new-england-patriots-off-day-workout/",
+      "pubDate": "Thu, 06 Nov 2025 02:04:55 +0000",
+      "description": "<p>\u201cI feel like \u2014 don't drink the Kool-Aid. Don't get too comfortable. I mean, records are gonna be records.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/05/mike-vrabel-nfl-football-new-england-patriots-off-day-workout/\">What Patriots players did during their off day that impressed Mike Vrabel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ddddd6b5f8fc562784c31b2e026b1482",
+      "summary": [
+        "Patriots players utilized their off day for workouts, impressing coach Mike Vrabel.",
+        "Vrabel emphasized the importance of staying focused and not getting complacent.",
+        "This dedication may enhance team performance for Boston fans this season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Officials identify two killed in apparent murder-suicide in Beverly",
+      "link": "https://www.boston.com/news/crime/2025/11/05/officials-identify-two-killed-in-apparent-murder-suicide-in-beverly/",
+      "pubDate": "Thu, 06 Nov 2025 01:56:33 +0000",
+      "description": "<p>Becky Lynn Center, 58, and John Patrick Nesbitt, 56, were both found dead at a home on Colonial Drive on Monday.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/05/officials-identify-two-killed-in-apparent-murder-suicide-in-beverly/\">Officials identify two killed in apparent murder-suicide in Beverly</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dd3ac685df44b1aca2ba2b4f007d3fbc",
+      "summary": [
+        "Becky Lynn Center, 58, and John Patrick Nesbitt, 56, found dead in Beverly home.",
+        "Incident occurred on Colonial Drive on Monday, raising community safety concerns.",
+        "Local authorities are investigating the circumstances, impacting residents' sense of security."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "South Boston man linked to Bulger sentenced to 15 years for involvement in 1984, 1993 cold case killings",
       "link": "https://www.boston.com/news/crime/2025/11/05/south-boston-man-sentenced-to-15-years-for-involvement-in-1984-1993-cold-case-killings/",
@@ -583,71 +648,6 @@
         "At least 4 people died and 11 were injured in a UPS plane crash in Kentucky.",
         "The incident occurred on November 4, 2025, impacting UPS operations nationwide.",
         "Boston residents may experience delays in package deliveries due to the crash."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Tell us: What should Mayor Wu focus on in her second term?",
-      "link": "https://www.boston.com/community/tell-us/2025/11/04/mayor-wu-second-term-priorities/",
-      "pubDate": "Wed, 05 Nov 2025 02:09:38 +0000",
-      "description": "<p>As Wu prepares for another four years leading the city, her next priorities remain an open question.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2025/11/04/mayor-wu-second-term-priorities/\">Tell us: What should Mayor Wu focus on in her second term?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "06de4057dfae6fd61d850dac93e70e82",
-      "summary": [
-        "Mayor Wu prepares for her second term starting in January 2026.",
-        "Residents are invited to share priorities for Wu's upcoming four years.",
-        "Focus areas may significantly affect housing, public safety, and climate initiatives in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018This is kidnapping \u2014 plain and simple\u2019: ICE arrests 9 employees at Allston car wash",
-      "link": "https://www.boston.com/news/local-news/2025/11/04/this-is-kidnapping-plain-and-simple-ice-arrests-9-employees-in-raid-at-allston-car-wash/",
-      "pubDate": "Wed, 05 Nov 2025 00:25:10 +0000",
-      "description": "<p>The employees were detained Tuesday morning before they could present their documents, according to the car wash\u2019s manager.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/04/this-is-kidnapping-plain-and-simple-ice-arrests-9-employees-in-raid-at-allston-car-wash/\">\u2018This is kidnapping \u2014 plain and simple\u2019: ICE arrests 9 employees at Allston car wash</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2c3b6795293a513f93f40d2425f75b68",
-      "summary": [
-        "ICE arrested 9 employees at an Allston car wash on November 4.",
-        "The arrests occurred before employees could present their documents, according to the manager.",
-        "Local community members express concern over the impact on immigrant workers and families."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots opt to stand pat at trade deadline",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/04/new-england-patriots-trade-rumors-nfl-deadline-mike-vrabel-eliot-wolf/",
-      "pubDate": "Tue, 04 Nov 2025 22:25:51 +0000",
-      "description": "<p>\"We\u2019re eight games into what we feel like is a program that we want to build.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/04/new-england-patriots-trade-rumors-nfl-deadline-mike-vrabel-eliot-wolf/\">Patriots opt to stand pat at trade deadline</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "af50a967d34010f1d0895abbb8a49da2",
-      "summary": [
-        "Patriots decided not to make trades at the NFL deadline on November 1.",
-        "Team is focused on building a program after eight games this season.",
-        "Local fans may see a consistent roster as the team develops its strategy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Transportation Secretary Sean Duffy warns of \u2018mass chaos\u2019 in skies if shutdown continues",
-      "link": "https://www.boston.com/news/national-news/2025/11/04/transportation-secretary-sean-duffy-warns-of-mass-chaos-in-skies-if-shutdown-continues/",
-      "pubDate": "Tue, 04 Nov 2025 22:16:04 +0000",
-      "description": "<p>Last weekend saw some of the worst staff shortages and on Sunday, flights at Newark Liberty International Airport in New Jersey were delayed for several hours.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/04/transportation-secretary-sean-duffy-warns-of-mass-chaos-in-skies-if-shutdown-continues/\">Transportation Secretary Sean Duffy warns of &#8216;mass chaos&#8217; in skies if shutdown continues</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "61151907b282e9435379fb6fbafb3360",
-      "summary": [
-        "Transportation Secretary Sean Duffy warns of potential flight disruptions affecting Boston residents.",
-        "Recent staff shortages caused significant delays at Newark Liberty International Airport last weekend.",
-        "Continued shutdown could lead to widespread chaos in air travel for Boston travelers."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Amid SNAP benefit cuts, these Greater Boston food businesses are here to help",
-      "link": "https://www.boston.com/food/food-news/2025/11/04/greater-boston-restaurants-help-snap-cuts/",
-      "pubDate": "Tue, 04 Nov 2025 22:00:16 +0000",
-      "description": "<p>Restaurants, grocery stores, and other food businesses are stepping up during the government shutdown, which has resulted in cuts to millions of people's SNAP benefits. </p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2025/11/04/greater-boston-restaurants-help-snap-cuts/\">Amid SNAP benefit cuts, these Greater Boston food businesses are here to help</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a4b8250755375af47fe6b338e6207002",
-      "summary": [
-        "Greater Boston food businesses are aiding residents affected by SNAP benefit cuts.",
-        "Restaurants and grocery stores are providing support during the government shutdown.",
-        "Millions of residents face reduced food assistance, impacting local food security."
       ],
       "hookType": "LOCAL_IMPACT"
     }
