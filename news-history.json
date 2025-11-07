@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-11-07T20:22:55.829676+00:00",
+  "lastUpdated": "2025-11-07T22:20:57.891523+00:00",
   "articles": [
+    {
+      "title": "Trump administration seeks to block full SNAP payments for November",
+      "link": "https://www.boston.com/news/local-news/2025/11/07/trump-administration-seeks-to-block-full-snap-payments-for-november/",
+      "pubDate": "Fri, 07 Nov 2025 22:13:30 +0000",
+      "description": "<p>The court wrangling prolonged weeks of uncertainty for the food program that serves about 1 in 8 Americans, mostly with lower incomes.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/07/trump-administration-seeks-to-block-full-snap-payments-for-november/\">Trump administration seeks to block full SNAP payments for November</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "38f462006b24eb894e6af1effef06610",
+      "summary": [
+        "Trump administration aims to block full SNAP payments for November 2023.",
+        "Approximately 1 in 8 Americans rely on SNAP, impacting low-income families.",
+        "Boston residents may face food insecurity if SNAP payments are reduced."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What to know about possible Red Sox free agent target Munetaka Murakami after posting",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/11/07/munetaka-murakami-red-sox-mlb-free-agency-rumors/",
+      "pubDate": "Fri, 07 Nov 2025 21:40:14 +0000",
+      "description": "<p>Murakami is considered to be the \"Japanese Babe Ruth.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/07/munetaka-murakami-red-sox-mlb-free-agency-rumors/\">What to know about possible Red Sox free agent target Munetaka Murakami after posting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "96bf5e89cebd6173dee82cc53c1a0d25",
+      "summary": [
+        "Red Sox eye Munetaka Murakami, a top free agent from Japan, for upcoming season.",
+        "Murakami, known as the 'Japanese Babe Ruth,' posted impressive stats in 2023.",
+        "His signing could boost local fan engagement and team performance in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Airlines are waiving fees, offering refunds due to reduced flight schedules",
+      "link": "https://www.boston.com/travel/flights/2025/11/07/airlines-are-waiving-fees-offerings-refunds-due-to-reduced-flight-schedules/",
+      "pubDate": "Fri, 07 Nov 2025 21:10:31 +0000",
+      "description": "<p>Find out what your airline is doing in response to the reduction in flying due to the government shutdown.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2025/11/07/airlines-are-waiving-fees-offerings-refunds-due-to-reduced-flight-schedules/\">Airlines are waiving fees, offering refunds due to reduced flight schedules</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ddc6ab15217304e57d4644e2a225e1fa",
+      "summary": [
+        "Airlines are waiving fees for Boston travelers affected by reduced flight schedules.",
+        "Major carriers like Delta and United are offering refunds starting November 2023.",
+        "Local residents can expect more flexible travel options during the government shutdown."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "After Cape Cod crash, readers say Mass. should tighten e-bike regulations",
+      "link": "https://www.boston.com/community/readers-say/2025/11/07/massachusetts-should-tighten-ebike-regulations/",
+      "pubDate": "Fri, 07 Nov 2025 20:50:41 +0000",
+      "description": "<p>Readers say e-bikes should face tougher rules, citing safety concerns. Though others warn against overreaction.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/11/07/massachusetts-should-tighten-ebike-regulations/\">After Cape Cod crash, readers say Mass. should tighten e-bike regulations</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "61876eaa010cb9e86c8a20a745f6f9e4",
+      "summary": [
+        "Readers demand stricter e-bike regulations in Massachusetts after a recent Cape Cod crash.",
+        "Safety concerns have been raised by residents, prompting calls for legislative action.",
+        "Potential new rules could affect e-bike usage and safety for Boston commuters."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Watch: Dog rescued from Ted Williams Tunnel",
+      "link": "https://www.boston.com/news/off-beat/2025/11/07/watch-dog-rescued-from-ted-williams-tunnel/",
+      "pubDate": "Fri, 07 Nov 2025 20:37:52 +0000",
+      "description": "<p>After initially evading capture, the dog eventually hopped into a waiting police cruiser.</p>\n<p>The post <a href=\"https://www.boston.com/news/off-beat/2025/11/07/watch-dog-rescued-from-ted-williams-tunnel/\">Watch: Dog rescued from Ted Williams Tunnel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "667afc04e1717c9ace3e6313a3d765f4",
+      "summary": [
+        "Police rescued a dog from the Ted Williams Tunnel on November 7, 2025.",
+        "The dog initially evaded capture but eventually entered a police cruiser.",
+        "This incident highlights the ongoing efforts of local authorities in animal rescue."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Canterbury Farm, \u2018a treasure to the Berkshires,\u2019 closes after 40 years",
       "link": "https://www.boston.com/travel/travel/2025/11/07/canterbury-farm-in-the-berkshires-closes-after-40-years/",
@@ -583,71 +648,6 @@
         "Two teens died in a crash in New Bedford on November 6.",
         "One victim was a senior at Dennis-Yarmouth Regional High School.",
         "The incident raises concerns about teen driving safety in the region."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "BPD releases multiple photos of baseball-capped commercial burglary suspect",
-      "link": "https://www.boston.com/news/crime/2025/11/06/bpd-releases-multiple-photos-of-baseball-capped-commercial-burglary-suspect/",
-      "pubDate": "Thu, 06 Nov 2025 19:15:55 +0000",
-      "description": "<p>The string of burglaries reportedly started in late August.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/06/bpd-releases-multiple-photos-of-baseball-capped-commercial-burglary-suspect/\">BPD releases multiple photos of baseball-capped commercial burglary suspect</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e6bf3184ba9f5a340398f3728986062a",
-      "summary": [
-        "BPD seeks public help identifying a suspect in commercial burglaries since late August.",
-        "Photos released show a baseball-capped suspect linked to multiple incidents.",
-        "Increased vigilance urged among Boston businesses to prevent further burglaries."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Report: Mike Vrabel\u2019s former team was \u2018unwilling\u2019 to trade with Patriots",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/06/report-mike-vrabels-former-team-was-unwilling-to-trade-with-patriots/",
-      "pubDate": "Thu, 06 Nov 2025 18:58:46 +0000",
-      "description": "<p>Apparently, the Titans owner didn't want to do anything to help the Patriots.  </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/06/report-mike-vrabels-former-team-was-unwilling-to-trade-with-patriots/\">Report: Mike Vrabel&#8217;s former team was &#8216;unwilling&#8217; to trade with Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f852555aac685b72955f4f472944f066",
-      "summary": [
-        "Titans owner refused to trade with the Patriots, impacting team strategy.",
-        "Mike Vrabel's former team, the Titans, showed unwillingness to assist on trades.",
-        "This decision may hinder Patriots' roster improvements ahead of the season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Following a career night, Josh Minott isn\u2019t taking his starting role for granted",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/11/06/following-a-career-night-josh-minott-isnt-taking-his-starting-role-for-granted/",
-      "pubDate": "Thu, 06 Nov 2025 18:54:42 +0000",
-      "description": "<p>\"At the end of the day, every time I go out I just assume that it can always be taken from me.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/06/following-a-career-night-josh-minott-isnt-taking-his-starting-role-for-granted/\">Following a career night, Josh Minott isn&#8217;t taking his starting role for granted</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bb62110e64214691d8a88a076b72d03a",
-      "summary": [
-        "Josh Minott reflects on his starting role after a career-high performance.",
-        "Minott emphasizes the importance of consistency in his game for the Celtics.",
-        "Boston fans can expect heightened competition as Minott aims to secure his position."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Are the New England Patriots back? Here\u2019s what 200 readers said.",
-      "link": "https://www.boston.com/community/readers-say/2025/11/06/patriots-hot-streak-week-10/",
-      "pubDate": "Thu, 06 Nov 2025 18:51:53 +0000",
-      "description": "<p>Despite a six-game win streak, many readers say the Patriots still haven\u2019t \"played a worthy opponent yet.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/11/06/patriots-hot-streak-week-10/\">Are the New England Patriots back? Here\u2019s what 200 readers said.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "51a8745cd5babac7e1c5c75378d347ea",
-      "summary": [
-        "200 Boston readers express skepticism about the Patriots' six-game win streak.",
-        "Many believe the team hasn't faced a strong opponent yet this season.",
-        "Local fans remain cautious about the team's performance heading into the playoffs."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Questions swirl after bus aide allegedly assaults autistic student from Cambridge",
-      "link": "https://www.boston.com/news/local-news/2025/11/06/questions-swirl-after-bus-aide-allegedly-assaults-autistic-student-from-cambridge/",
-      "pubDate": "Thu, 06 Nov 2025 18:32:40 +0000",
-      "description": "<p>After the alleged incident was caught on video, the aide was placed on leave while the DCF investigates. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/06/questions-swirl-after-bus-aide-allegedly-assaults-autistic-student-from-cambridge/\">Questions swirl after bus aide allegedly assaults autistic student from Cambridge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "79b4bc6375f74d8bae41bef624b25753",
-      "summary": [
-        "Bus aide allegedly assaulted an autistic student in Cambridge, incident captured on video.",
-        "Aide placed on leave as the Department of Children and Families investigates.",
-        "Incident raises concerns about student safety on school transportation in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
