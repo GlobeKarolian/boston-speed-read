@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-07T04:26:55.015279+00:00",
+  "lastUpdated": "2025-11-07T12:47:01.828016+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/11/07/greater-boston-news-quiz-nov-7-2025-bob-dylan-kim-khazei-candy/",
+      "pubDate": "Fri, 07 Nov 2025 11:40:06 +0000",
+      "description": "<p>Berklee honors Bob, Kim Khazei calls it quits, and Boston gets a new candy craze in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/11/07/greater-boston-news-quiz-nov-7-2025-bob-dylan-kim-khazei-candy/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1d5e50fe66e3a7b88a77cc27cd1cbb37",
+      "summary": [
+        "Berklee College honors Bob Dylan for his contributions to music.",
+        "Kim Khazei announces retirement after years as a local news anchor.",
+        "Boston introduces a new candy craze, impacting local confectionery businesses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Pavel Zacha scores with 6 seconds left in OT as Bruins beat Senators 3-2 and earn fifth straight victory",
       "link": "https://www.boston.com/sports/boston-bruins/2025/11/06/pavel-zacha-scores-with-6-seconds-left-in-ot-as-bruins-beat-senators-3-2-and-earn-fifth-straight-victory/",
@@ -635,19 +648,6 @@
         "Savin Bar and Kitchen removed Whitey Bulger's mugshot following community backlash.",
         "The restaurant faced criticism for displaying mugshots of two notorious Boston mobsters.",
         "Local residents expressed concerns over glorifying criminal figures in their neighborhood."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Have you seen snowliage \u2014 that wild mix of fall leaves and winter snow?",
-      "link": "https://www.boston.com/community/tell-us/2025/11/05/snowliage-fall-leaves-winter-snow/",
-      "pubDate": "Wed, 05 Nov 2025 21:29:54 +0000",
-      "description": "<p>It's when Mother Nature presents a mixture of snow and foliage.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2025/11/05/snowliage-fall-leaves-winter-snow/\">Have you seen snowliage \u2014 that wild mix of fall leaves and winter snow?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "77b52827fc2c1dc2fa4152437094575c",
-      "summary": [
-        "Boston residents are witnessing 'snowliage' as fall leaves mix with winter snow.",
-        "This phenomenon is particularly visible in parks like Boston Common and the Arnold Arboretum.",
-        "Local photographers are capturing unique winter scenes, boosting community engagement and tourism."
       ],
       "hookType": "LOCAL_IMPACT"
     }

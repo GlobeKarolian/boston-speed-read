@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-07T10:24:55.129870+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-07T12:47:01.827219+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/11/07/greater-boston-news-quiz-nov-7-2025-bob-dylan-kim-khazei-candy/",
+      "pubDate": "Fri, 07 Nov 2025 11:40:06 +0000",
+      "description": "<p>Berklee honors Bob, Kim Khazei calls it quits, and Boston gets a new candy craze in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/11/07/greater-boston-news-quiz-nov-7-2025-bob-dylan-kim-khazei-candy/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1d5e50fe66e3a7b88a77cc27cd1cbb37",
+      "summary": [
+        "Berklee College honors Bob Dylan for his contributions to music.",
+        "Kim Khazei announces retirement after years as a local news anchor.",
+        "Boston introduces a new candy craze, impacting local confectionery businesses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-07T10:24:55.129879+00:00"
+    "timestamp": "2025-11-07T12:47:01.827239+00:00"
   }
 }
