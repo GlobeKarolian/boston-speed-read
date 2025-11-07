@@ -1,9 +1,88 @@
 {
-  "lastUpdated": "2025-11-07T01:48:47.747641+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-07T03:13:20.093137+00:00",
+  "articles": [
+    {
+      "title": "An abandoned tent has spurred a hiking mystery in New Hampshire",
+      "link": "https://www.boston.com/news/local-news/2025/11/06/abandoned-tent-hiking-mystery-new-hampshire/",
+      "pubDate": "Fri, 07 Nov 2025 03:03:48 +0000",
+      "description": "<p>Whoever set up the tent was nowhere to be found, but Fish and Game officials had no reports of missing hikers.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/06/abandoned-tent-hiking-mystery-new-hampshire/\">An abandoned tent has spurred a hiking mystery in New Hampshire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f2b34dad81de9bc6fc2ea2bc85d68518",
+      "summary": [
+        "Fish and Game officials found an abandoned tent in New Hampshire without any missing hiker reports.",
+        "No hikers reported missing as of November 6, 2025, raising safety concerns for local outdoor enthusiasts.",
+        "Boston residents are advised to stay vigilant while hiking in New Hampshire's trails amid this mystery."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "A former teacher shot by a 6-year-old student wins $10M jury verdict against ex-assistant principal",
+      "link": "https://www.boston.com/news/national-news/2025/11/06/a-former-teacher-shot-by-a-6-year-old-student-wins-10m-jury-verdict-against-ex-assistant-principal/",
+      "pubDate": "Fri, 07 Nov 2025 02:47:13 +0000",
+      "description": "<p>Abby Zwerner was shot in January 2023 as she sat at a reading table in her first-grade classroom.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/06/a-former-teacher-shot-by-a-6-year-old-student-wins-10m-jury-verdict-against-ex-assistant-principal/\">A former teacher shot by a 6-year-old student wins $10M jury verdict against ex-assistant principal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3013b588c032c91df985db265d16be3b",
+      "summary": [
+        "Abby Zwerner was shot by a 6-year-old student in January 2023.",
+        "Zwerner won a $10 million jury verdict against the ex-assistant principal.",
+        "This case raises concerns about school safety and accountability in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Elon Musk could become history\u2019s first trillionaire as Tesla shareholders approve giant pay package",
+      "link": "https://www.boston.com/news/business/2025/11/06/elon-musk-could-become-historys-first-trillionaire-as-tesla-shareholders-approve-giant-pay-package/",
+      "pubDate": "Fri, 07 Nov 2025 02:37:16 +0000",
+      "description": "<p>\u201cFantastic group of shareholders,\" Musk said after the final vote was tallied.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/06/elon-musk-could-become-historys-first-trillionaire-as-tesla-shareholders-approve-giant-pay-package/\">Elon Musk could become history&#8217;s first trillionaire as Tesla shareholders approve giant pay package</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8c16b1cb420a37479c9289409a8dcf6e",
+      "summary": [
+        "Tesla shareholders approved a massive pay package for Elon Musk.",
+        "Musk's potential wealth could reach $1 trillion, impacting local economies.",
+        "Boston investors may see changes in stock market dynamics due to Musk's financial influence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Man who threw sandwich at federal agent in Washington, D.C., is found not guilty of assault charge",
+      "link": "https://www.boston.com/news/national-news/2025/11/06/man-who-threw-sandwich-at-federal-agent-in-washington-d-c-is-found-not-guilty-of-assault-charge/",
+      "pubDate": "Fri, 07 Nov 2025 02:27:12 +0000",
+      "description": "<p>A viral video of the sandwich tossing made Sean Charles Dunn a symbol of resistance to Trump\u2019s deployment of federal agents to combat crime in the nation\u2019s capital.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/06/man-who-threw-sandwich-at-federal-agent-in-washington-d-c-is-found-not-guilty-of-assault-charge/\">Man who threw sandwich at federal agent in Washington, D.C., is found not guilty of assault charge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fdf82f90611fd216a4821e966c513dff",
+      "summary": [
+        "Sean Charles Dunn was found not guilty of assault for throwing a sandwich.",
+        "The incident occurred during protests against federal agent deployments in D.C.",
+        "Dunn's case highlights local concerns about federal law enforcement in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Federal judge orders Trump administration to fully fund SNAP benefits in November",
+      "link": "https://www.boston.com/news/national-news/2025/11/06/federal-judge-orders-trump-administration-to-fully-fund-snap-benefits-in-november/",
+      "pubDate": "Fri, 07 Nov 2025 02:19:13 +0000",
+      "description": "<p>A federal judge in Rhode Island has ordered the Trump administration to find the money to fully fund SNAP benefits for November</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/06/federal-judge-orders-trump-administration-to-fully-fund-snap-benefits-in-november/\">Federal judge orders Trump administration to fully fund SNAP benefits in November</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c8ff66805eb9f5a37a1d8051aaabe6f6",
+      "summary": [
+        "Federal judge orders full funding for SNAP benefits in November 2023.",
+        "The ruling affects thousands of Boston residents relying on SNAP assistance.",
+        "Increased funding aims to alleviate food insecurity in the local community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Local obituary: Susan Hurley, 62, former Patriots cheerleader who founded CharityTeams",
+      "link": "https://www.boston.com/news/massachusetts-obituaries/2025/11/06/susan-hurley-obituary/",
+      "pubDate": "Fri, 07 Nov 2025 01:57:50 +0000",
+      "description": "<p>\"The cornerstone of her endeavors was her work with the Boston Marathon.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2025/11/06/susan-hurley-obituary/\">Local obituary: Susan Hurley, 62, former Patriots cheerleader who founded CharityTeams</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0b9d49d610aaa854375c9ec534ee0f23",
+      "summary": [
+        "Susan Hurley, 62, passed away, impacting Boston's community and charity landscape.",
+        "She founded CharityTeams, supporting runners in the Boston Marathon.",
+        "Hurley's legacy includes fostering community engagement and charitable efforts in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 6,
     "feedSize": 10,
-    "timestamp": "2025-11-07T01:48:47.747652+00:00"
+    "timestamp": "2025-11-07T03:13:20.093159+00:00"
   }
 }
