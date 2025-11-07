@@ -1,23 +1,101 @@
 {
-  "lastUpdated": "2025-11-07T12:47:01.827219+00:00",
+  "lastUpdated": "2025-11-07T14:22:43.478280+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2025/11/07/greater-boston-news-quiz-nov-7-2025-bob-dylan-kim-khazei-candy/",
-      "pubDate": "Fri, 07 Nov 2025 11:40:06 +0000",
-      "description": "<p>Berklee honors Bob, Kim Khazei calls it quits, and Boston gets a new candy craze in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/11/07/greater-boston-news-quiz-nov-7-2025-bob-dylan-kim-khazei-candy/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1d5e50fe66e3a7b88a77cc27cd1cbb37",
+      "title": "Stuck in neutral in their starter homes, what are millennials to do?",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/11/07/millennials-starter-homes-families-boston-mortgage-rates/",
+      "pubDate": "Fri, 07 Nov 2025 14:00:00 +0000",
+      "description": "<p>Dining rooms become playrooms and home offices become nurseries as families outgrow the homes they hoped would be temporary. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/11/07/millennials-starter-homes-families-boston-mortgage-rates/\">Stuck in neutral in their starter homes, what are millennials to do?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dda9dc4d1ea31e358a3abfb386e0a9cb",
       "summary": [
-        "Berklee College honors Bob Dylan for his contributions to music.",
-        "Kim Khazei announces retirement after years as a local news anchor.",
-        "Boston introduces a new candy craze, impacting local confectionery businesses."
+        "Millennials in Boston are repurposing starter homes as families grow.",
+        "Many are transforming dining rooms into playrooms and offices into nurseries.",
+        "Rising mortgage rates are limiting options for upgrading to larger homes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The Buccaneers are rested and at home. Is this where the Patriots\u2019 six-game winning streak comes to an end?",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/07/patriots-buccaneers-nfl-week-10-preview-prediction/",
+      "pubDate": "Fri, 07 Nov 2025 13:32:05 +0000",
+      "description": "<p>The Patriots travel to Tampa on Sunday to take on the Baker Mayfield-led Buccaneers.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/07/patriots-buccaneers-nfl-week-10-preview-prediction/\">The Buccaneers are rested and at home. Is this where the Patriots\u2019 six-game winning streak comes to an end?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "24790b37b8bd46eb15d6210c39f2be1a",
+      "summary": [
+        "Patriots face Buccaneers in Tampa on Sunday, aiming to extend their six-game winning streak.",
+        "Baker Mayfield leads the Buccaneers, posing a significant challenge for the Patriots' defense.",
+        "A loss could impact the Patriots' playoff positioning and local fan morale in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Farmers\u2019 Almanac says it will cease publication after 208 years, citing financial challenges",
+      "link": "https://www.boston.com/news/business/2025/11/07/farmers-almanac-cease-publication-208-years-financial-challenges/",
+      "pubDate": "Fri, 07 Nov 2025 13:25:23 +0000",
+      "description": "<p>The Maine-based publication, not to be confused with the even older Old Farmer\u2019s Almanac in neighboring New Hampshire, was first printed in 1818. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/07/farmers-almanac-cease-publication-208-years-financial-challenges/\">Farmers&#8217; Almanac says it will cease publication after 208 years, citing financial challenges</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a187b452e3361f3894fa6521f4921d4b",
+      "summary": [
+        "Farmers' Almanac will cease publication after 208 years due to financial challenges.",
+        "The publication, first printed in 1818, is based in Maine, not New Hampshire.",
+        "Boston residents may lose a historical source of weather predictions and gardening advice."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Want to help fight hunger in Boston? Here are 5 ways to do it.",
+      "link": "https://www.boston.com/community/community/2025/11/07/donate-volunteer-help-food-boston/",
+      "pubDate": "Fri, 07 Nov 2025 13:04:56 +0000",
+      "description": "<p>Here are volunteer and donation opportunities to help food-insecure families in Boston. </p>\n<p>The post <a href=\"https://www.boston.com/community/community/2025/11/07/donate-volunteer-help-food-boston/\">Want to help fight hunger in Boston? Here are 5 ways to do it.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a8ec61525b2e1bf63bf3f774b3e2b185",
+      "summary": [
+        "Volunteer opportunities are available to assist food-insecure families in Boston.",
+        "Five specific ways to help include donating food, funds, or time.",
+        "Local residents can directly impact hunger relief efforts in their communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "As injuries linger, Patriots rookie Kyle Williams could be poised for breakout opportunity",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/07/kyle-williams-new-england-patriots-nfl-football/",
+      "pubDate": "Fri, 07 Nov 2025 13:00:08 +0000",
+      "description": "<p>\"We'll see where that goes late in the week, but Kyle should be ready to go here for us.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/07/kyle-williams-new-england-patriots-nfl-football/\">As injuries linger, Patriots rookie Kyle Williams could be poised for breakout opportunity</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7c2b612e3b8832f8ac45ae595c272f7a",
+      "summary": [
+        "Patriots rookie Kyle Williams may start due to ongoing injuries in the team.",
+        "Coach Bill Belichick indicated Williams should be ready by late this week.",
+        "Increased playing time for Williams could enhance the Patriots' offensive strategy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What songs are on your \u2018divorce playlist\u2019?",
+      "link": "https://www.boston.com/love-letters/love-letters/2025/11/07/divorce-playlist-songs/",
+      "pubDate": "Fri, 07 Nov 2025 13:00:00 +0000",
+      "description": "<p>There's a difference between breakup songs and divorce songs, Love Letters writer Meredith Goldstein argues. Do you agree?</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2025/11/07/divorce-playlist-songs/\">What songs are on your &#8216;divorce playlist&#8217;?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c82bd878c165e54723ff6596e5fa635d",
+      "summary": [
+        "Meredith Goldstein discusses the distinction between breakup and divorce songs.",
+        "The article invites Boston residents to share their own divorce playlists.",
+        "Understanding these playlists can help locals process emotional challenges during divorce."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "10 days after their ugliest loss of year, Bruins are looking like a very different team",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/11/07/boston-bruins-nhl-hockey/",
+      "pubDate": "Fri, 07 Nov 2025 12:56:37 +0000",
+      "description": "<p>\"These guys give me everything they have. They really do.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/07/boston-bruins-nhl-hockey/\">10 days after their ugliest loss of year, Bruins are looking like a very different team</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b9c0d364b27abd4c9f91d2bfa539738f",
+      "summary": [
+        "Bruins show significant improvement after a tough loss on October 28, 2025.",
+        "Players are reportedly giving maximum effort, boosting team morale and performance.",
+        "Local fans are hopeful as the team aims for a playoff spot this season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 7,
     "feedSize": 10,
-    "timestamp": "2025-11-07T12:47:01.827239+00:00"
+    "timestamp": "2025-11-07T14:22:43.478297+00:00"
   }
 }
