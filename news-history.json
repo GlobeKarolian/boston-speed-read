@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-11-07T03:13:20.094094+00:00",
+  "lastUpdated": "2025-11-07T04:26:55.015279+00:00",
   "articles": [
+    {
+      "title": "Pavel Zacha scores with 6 seconds left in OT as Bruins beat Senators 3-2 and earn fifth straight victory",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/11/06/pavel-zacha-scores-with-6-seconds-left-in-ot-as-bruins-beat-senators-3-2-and-earn-fifth-straight-victory/",
+      "pubDate": "Fri, 07 Nov 2025 03:40:24 +0000",
+      "description": "<p>Linus Ullmark, the 2023 Vezina Trophy winner with Boston, picked up his first loss against the Bruins since they traded him to the Senators before the 2024-25 season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/06/pavel-zacha-scores-with-6-seconds-left-in-ot-as-bruins-beat-senators-3-2-and-earn-fifth-straight-victory/\">Pavel Zacha scores with 6 seconds left in OT as Bruins beat Senators 3-2 and earn fifth straight victory</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e0097d30f971c719cfc5f2d812be2f4c",
+      "summary": [
+        "Pavel Zacha scored with 6 seconds left in OT, securing a 3-2 win for the Bruins.",
+        "Linus Ullmark faced his first loss against the Bruins since his trade to the Senators.",
+        "The Bruins' victory marks their fifth consecutive win, boosting local team morale."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Tripadvisor to cut 20% of staff amid internal restructuring",
+      "link": "https://www.boston.com/news/business/2025/11/06/tripadvisor-to-cut-20-of-staff-amid-internal-restructuring/",
+      "pubDate": "Fri, 07 Nov 2025 03:25:06 +0000",
+      "description": "<p>The travel review giant said the cuts are part of a strategic effort to merge internal operations and sharpen its focus on experience-driven growth.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/06/tripadvisor-to-cut-20-of-staff-amid-internal-restructuring/\">Tripadvisor to cut 20% of staff amid internal restructuring</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "29212e278383877cd30061e8d877d450",
+      "summary": [
+        "Tripadvisor announces a 20% staff reduction as part of restructuring efforts.",
+        "The layoffs will affect numerous Boston-based employees amid operational changes.",
+        "Local businesses relying on Tripadvisor may face decreased visibility and support."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "An abandoned tent has spurred a hiking mystery in New Hampshire",
       "link": "https://www.boston.com/news/local-news/2025/11/06/abandoned-tent-hiking-mystery-new-hampshire/",
@@ -622,32 +648,6 @@
         "Boston residents are witnessing 'snowliage' as fall leaves mix with winter snow.",
         "This phenomenon is particularly visible in parks like Boston Common and the Arnold Arboretum.",
         "Local photographers are capturing unique winter scenes, boosting community engagement and tourism."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Lynn man convicted of killing girlfriend whose body was found in Saugus marsh",
-      "link": "https://www.boston.com/news/crime/2025/11/05/lynn-man-convicted-killing-girlfriend/",
-      "pubDate": "Wed, 05 Nov 2025 20:55:29 +0000",
-      "description": "<p>\u201cOur hope is that the family and friends of Sherell Pringle can find some comfort in this outcome,\u201d Essex DA Paul Tucker said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/05/lynn-man-convicted-killing-girlfriend/\">Lynn man convicted of killing girlfriend whose body was found in Saugus marsh</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "68e1ea672b61b7e70c3e641b2debffaf",
-      "summary": [
-        "Lynn man convicted of murdering Sherell Pringle, found in Saugus marsh.",
-        "Essex DA Paul Tucker expressed hope for Pringle's family after the verdict.",
-        "The conviction highlights ongoing concerns about domestic violence in Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Debt holders take over downtown Boston office building sold below value",
-      "link": "https://www.boston.com/news/real-estate/2025/11/05/debt-holders-take-over-downtown-boston-office-building-sold-below-value/",
-      "pubDate": "Wed, 05 Nov 2025 20:25:44 +0000",
-      "description": "<p>The City of Boston lost its bid for the $19 million building, saying it hoped to convert it into housing.</p>\n<p>The post <a href=\"https://www.boston.com/news/real-estate/2025/11/05/debt-holders-take-over-downtown-boston-office-building-sold-below-value/\">Debt holders take over downtown Boston office building sold below value</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e11b2903fa9fb6560cbc1b30322f5e10",
-      "summary": [
-        "Debt holders acquired a downtown Boston office building sold for $19 million below market value.",
-        "The City of Boston aimed to convert the building into housing but lost the bid.",
-        "This sale may hinder local housing development efforts in downtown Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
