@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-11-09T14:18:27.431726+00:00",
+  "lastUpdated": "2025-11-09T16:25:07.481673+00:00",
   "articles": [
     {
-      "title": "The Harvard scientist, Kim Kardashian and the comet that probably isn\u2019t an alien spaceship",
-      "link": "https://www.boston.com/news/local-news/2025/11/09/the-harvard-scientist-kim-kardashian-and-the-comet-that-probably-isnt-an-alien-spaceship/",
-      "pubDate": "Sun, 09 Nov 2025 13:26:53 +0000",
-      "description": "<p>Scientists who study comets are struggling to keep up with popular speculation that the interstellar object 3I/ATLAS was sent to our solar system by an alien intelligence.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/09/the-harvard-scientist-kim-kardashian-and-the-comet-that-probably-isnt-an-alien-spaceship/\">The Harvard scientist, Kim Kardashian and the comet that probably isn\u2019t an alien spaceship</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8864d4705c80c2cfa8da14743a72a1dc",
+      "title": "States are pushing for more scrutiny of antisemitism in schools",
+      "link": "https://www.boston.com/news/local-news/2025/11/09/states-are-pushing-for-more-scrutiny-of-antisemitism-in-schools/",
+      "pubDate": "Sun, 09 Nov 2025 16:20:59 +0000",
+      "description": "<p>A Massachusetts state commission formed last year to combat antisemitism found it was a \u201cpervasive and escalating problem\u201d in schools.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/09/states-are-pushing-for-more-scrutiny-of-antisemitism-in-schools/\">States are pushing for more scrutiny of antisemitism in schools</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "74ae99600b804825253d1f032e536fae",
       "summary": [
-        "Harvard scientist Avi Loeb addresses alien speculation about comet 3I/ATLAS in Boston.",
-        "Comet 3I/ATLAS, discovered in 2019, has sparked widespread public interest and debate.",
-        "Local scientists urge Boston residents to focus on scientific evidence over sensational claims."
+        "Massachusetts commission reports antisemitism in schools is pervasive and escalating.",
+        "Commission formed last year highlights urgent need for increased scrutiny in education.",
+        "Local schools may face new policies aimed at combating antisemitism effectively."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018SNL\u2019 recap: Best moments from Nikki Glaser hosting \u2018Saturday Night Live\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2025/11/09/snl-recap-nikki-glaser/",
+      "pubDate": "Sun, 09 Nov 2025 14:56:02 +0000",
+      "description": "<p>Nikki Glaser hosted the Nov. 8 episode of \"Saturday Night Live,\" with Sombr as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/11/09/snl-recap-nikki-glaser/\">\u2018SNL\u2019 recap: Best moments from Nikki Glaser hosting \u2018Saturday Night Live\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "eda74dd5d4ecacee5b9cc9ad413acacc",
+      "summary": [
+        "Nikki Glaser hosted 'Saturday Night Live' on November 8, showcasing her comedic talent.",
+        "Musical guest Sombr performed, adding local flavor to the national broadcast.",
+        "Boston residents can enjoy Glaser's humor, reflecting the city's vibrant entertainment scene."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-09T14:18:27.431746+00:00"
+    "timestamp": "2025-11-09T16:25:07.481692+00:00"
   }
 }
