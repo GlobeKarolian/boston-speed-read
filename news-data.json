@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2025-11-10T04:29:57.769404+00:00",
-  "articles": [
-    {
-      "title": "Senate takes first step toward ending the government shutdown",
-      "link": "https://www.boston.com/news/policy/2025/11/09/senate-advancing-bill-to-end-shutdown-as-small-group-of-democrats-strike-deal/",
-      "pubDate": "Mon, 10 Nov 2025 04:21:55 +0000",
-      "description": "<p>Three New England lawmakers \u2014 New Hampshire Sen. Jeanne Shaheen, New Hampshire Sen. Maggie Hassan and Independent Sen. Angus King of Maine \u2014 broke the stalemate on Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/news/policy/2025/11/09/senate-advancing-bill-to-end-shutdown-as-small-group-of-democrats-strike-deal/\">Senate takes first step toward ending the government shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7cf1f2ed24c7e6361ebbb78610760e00",
-      "summary": [
-        "Senate advances bill to end government shutdown, easing concerns for local services.",
-        "New England Senators Jeanne Shaheen, Maggie Hassan, and Angus King led negotiations on November 5.",
-        "Potential funding restoration could benefit Boston's public programs and services."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Celtics bench shines in bounce-back win over Magic: 7 takeaways",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/11/09/celtics-bench-shines-in-bounce-back-win-over-magic-7-takeaways/",
-      "pubDate": "Mon, 10 Nov 2025 03:50:23 +0000",
-      "description": "<p>The Celtics claimed a split in their two-game series against the Magic with a 111-107 win.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/09/celtics-bench-shines-in-bounce-back-win-over-magic-7-takeaways/\">Celtics bench shines in bounce-back win over Magic: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "139590f6a103a7054bd6c4a06e6019b4",
-      "summary": [
-        "Celtics secured a 111-107 victory against the Magic on November 9.",
-        "Bench players contributed significantly, enhancing team depth and performance.",
-        "This win boosts Celtics' morale and strengthens their position in the season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2025-11-10T06:36:48.590081+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2025-11-10T04:29:57.769423+00:00"
+    "timestamp": "2025-11-10T06:36:48.590089+00:00"
   }
 }
