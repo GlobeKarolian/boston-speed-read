@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-11-10T18:33:37.974361+00:00",
+  "lastUpdated": "2025-11-10T20:27:30.098559+00:00",
   "articles": [
+    {
+      "title": "Falmouth to vote on turning historic golf course into solar farm",
+      "link": "https://www.boston.com/news/local-news/2025/11/10/falmouth-to-vote-on-turning-historic-golf-course-into-solar-farm/",
+      "pubDate": "Mon, 10 Nov 2025 20:23:36 +0000",
+      "description": "<p>At next Monday\u2019s Town Meeting, residents will decide the future of the long-standing Cape Cod course, with part of the land set aside for conservation.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/10/falmouth-to-vote-on-turning-historic-golf-course-into-solar-farm/\">Falmouth to vote on turning historic golf course into solar farm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "25db5c99d3da2c9c0688a6eeca59fb44",
+      "summary": [
+        "Falmouth residents will vote on November 13 to convert a historic golf course into a solar farm.",
+        "Part of the land will be designated for conservation to protect local ecosystems.",
+        "The decision could influence renewable energy initiatives and land use in Cape Cod."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Look inside Sheraton Boston\u2019s whimsical new Goodnight Moon suite",
+      "link": "https://www.boston.com/travel/travel/2025/11/10/look-inside-sheraton-bostons-whimsical-new-goodnight-moon-suite/",
+      "pubDate": "Mon, 10 Nov 2025 19:36:49 +0000",
+      "description": "<p>The stay is available through Feb. 28, 2026.</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/11/10/look-inside-sheraton-bostons-whimsical-new-goodnight-moon-suite/\">Look inside Sheraton Boston&#8217;s whimsical new Goodnight Moon suite</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0d2346ff871e88fb1996e3b73f99d570",
+      "summary": [
+        "Sheraton Boston unveils Goodnight Moon suite, inspired by the classic children's book.",
+        "The suite is available for bookings until February 28, 2026.",
+        "Local families can enjoy a unique themed experience in the heart of Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2 kilos of fentanyl recovered after investigation into Southwest Corridor drug activity, police say",
+      "link": "https://www.boston.com/news/crime/2025/11/10/fentanyl-recovered-boston/",
+      "pubDate": "Mon, 10 Nov 2025 19:30:59 +0000",
+      "description": "<p>The fentanyl was recovered as police executed search warrants in Dorchester, Mattapan, and Roxbury.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/10/fentanyl-recovered-boston/\">2 kilos of fentanyl recovered after investigation into Southwest Corridor drug activity, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2d17eed7af2bafae7fcc224a68037d9d",
+      "summary": [
+        "Police recovered 2 kilos of fentanyl during a drug investigation in Boston neighborhoods.",
+        "Search warrants were executed in Dorchester, Mattapan, and Roxbury on November 10, 2025.",
+        "This operation aims to reduce drug-related crime and improve community safety in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2 MBTA operators sent to hospital after fallen wire causes fire near BC",
+      "link": "https://www.boston.com/news/transportation/2025/11/10/mbta-operators-sent-hospital-fallen-wire-causes-fire-boston-college/",
+      "pubDate": "Mon, 10 Nov 2025 19:17:23 +0000",
+      "description": "<p>The two operators, who were on the out-of-service train at the time, were taken to a local hospital for smoke inhalation.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2025/11/10/mbta-operators-sent-hospital-fallen-wire-causes-fire-boston-college/\">2 MBTA operators sent to hospital after fallen wire causes fire near BC</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f3e086b543151eef95e6df3e30cd256f",
+      "summary": [
+        "Two MBTA operators hospitalized for smoke inhalation after fire caused by fallen wire.",
+        "Incident occurred near Boston College on November 10, 2025.",
+        "MBTA service disruptions may affect local commuters in the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Abandoned manor overlooking the ocean gets new life in Nahant \u2014 thanks to Instagram",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2025/11/10/howe-mansion-nahant-revere-beach-queen-anne-restoration/",
+      "pubDate": "Mon, 10 Nov 2025 19:00:49 +0000",
+      "description": "<p>Presiding over the coast, this historic and stately Queen Anne had fallen victim to vandals. Now its revived and listed for $5.5 million.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2025/11/10/howe-mansion-nahant-revere-beach-queen-anne-restoration/\">Abandoned manor overlooking the ocean gets new life in Nahant \u2014 thanks to Instagram</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "810920c3de4880bec22fff35468d5626",
+      "summary": [
+        "Historic Queen Anne manor in Nahant restored after years of vandalism.",
+        "Property listed for $5.5 million, attracting potential buyers and interest.",
+        "Restoration highlights community efforts and boosts local real estate appeal."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Review & setlist: Natalie Merchant strips back the music in support of Beverly\u2019s Grateful Friends",
       "link": "https://www.boston.com/culture/concert-reviews/2025/11/10/review-setlist-natalie-merchant-strips-back-the-music-in-support-of-beverlys-grateful-friends/",
@@ -583,71 +648,6 @@
         "Patriots face Buccaneers on Sunday, November 10, 2025, at Gillette Stadium.",
         "Buccaneers' quarterback is an MVP candidate, posing a significant challenge for the Patriots' defense.",
         "Local fans expect a competitive game, impacting community engagement and local businesses."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots\u2019 return to relevance includes appearance by Jim Nantz in TV booth to call game for CBS",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/08/patriots-buccaneers-cbs-jim-nantz-tony-romo/",
-      "pubDate": "Sat, 08 Nov 2025 16:53:34 +0000",
-      "description": "<p>Let\u2019s just say Nantz hasn\u2019t said, \u201cHello, friends,\u201d to Patriots fans very often since the end of the team's dynasty. He and analyst Tony Romo last called a Patriots game in Week 6 of the 2023 season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/08/patriots-buccaneers-cbs-jim-nantz-tony-romo/\">Patriots\u2019 return to relevance includes appearance by Jim Nantz in TV booth to call game for CBS</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "57c6592f5e0cf3997eb65bcb422f4c26",
-      "summary": [
-        "Jim Nantz and Tony Romo called the Patriots game on CBS for the first time since Week 6.",
-        "Nantz's last appearance for a Patriots game reflects the team's struggle since their dynasty ended.",
-        "Patriots' improved performance may boost local fan engagement and viewership for future broadcasts."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Magic pull away, beat Celtics despite another big Jaylen Brown game: 8 takeaways",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/11/07/celtics-magic-jaylen-brown-takeaways/",
-      "pubDate": "Sat, 08 Nov 2025 04:02:21 +0000",
-      "description": "<p>Boston gave up 38 and 39 in the first and fourth quarters, respectively.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/07/celtics-magic-jaylen-brown-takeaways/\">Magic pull away, beat Celtics despite another big Jaylen Brown game: 8 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1912b293a6b446bf1ae0c7eac0e1dbba",
-      "summary": [
-        "Celtics lost to the Magic, allowing 39 points in the fourth quarter.",
-        "Jaylen Brown scored 38 points, continuing his strong performance this season.",
-        "Boston's defense struggles raise concerns ahead of upcoming home games."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Public reprimand recommended for judge accused of helping immigrant escape ICE",
-      "link": "https://www.boston.com/news/local-news/2025/11/07/public-reprimand-recommended-for-judge-accused-of-helping-immigrant-escape-ice/",
-      "pubDate": "Sat, 08 Nov 2025 02:54:29 +0000",
-      "description": "<p>Judge Shelley Joseph was cleared of misconduct in the 2018 incident, but faces a public reprimand for creating an \u201cappearance of impropriety.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/07/public-reprimand-recommended-for-judge-accused-of-helping-immigrant-escape-ice/\">Public reprimand recommended for judge accused of helping immigrant escape ICE</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f9276ac4ef4a9be9344b28b044eb0b52",
-      "summary": [
-        "Judge Shelley Joseph faces a public reprimand for a 2018 incident involving an immigrant's escape from ICE.",
-        "The recommendation follows an investigation that cleared her of misconduct but noted an 'appearance of impropriety.'",
-        "Boston residents may see increased scrutiny on judicial actions related to immigration enforcement."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Alex Cora still high on Red Sox\u2019 future a month after being eliminated by Yankees",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/11/07/alex-cora-red-sox-future/",
-      "pubDate": "Sat, 08 Nov 2025 02:40:10 +0000",
-      "description": "<p>\u201cI think this is just the beginning of something great that is gonna happen in Boston.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/07/alex-cora-red-sox-future/\">Alex Cora still high on Red Sox\u2019 future a month after being eliminated by Yankees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d7053e6da4bdeb6b4e44230f12f5f5c0",
-      "summary": [
-        "Alex Cora expresses optimism about the Red Sox's future after their recent elimination.",
-        "Cora believes this is the beginning of a positive change for Boston's baseball team.",
-        "Fans can expect significant developments as the Red Sox aim for improvement in 2025."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Giant blade breaks off Mass. wind turbine",
-      "link": "https://www.boston.com/uncategorized/local-news/2025/11/07/giant-blade-breaks-off-mass-wind-turbine/",
-      "pubDate": "Sat, 08 Nov 2025 01:26:04 +0000",
-      "description": "<p>There were no injuries when the massive blade detached and plunged into a nearby cranberry bog.</p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/local-news/2025/11/07/giant-blade-breaks-off-mass-wind-turbine/\">Giant blade breaks off Mass. wind turbine</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "64ddf8a707d3a5e7657ad6f5c491f24c",
-      "summary": [
-        "A massive wind turbine blade broke off and fell into a cranberry bog.",
-        "The incident occurred without any injuries reported to nearby residents.",
-        "Local cranberry farmers may face disruptions due to potential damage from the fallen blade."
       ],
       "hookType": "LOCAL_IMPACT"
     }
