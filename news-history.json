@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-11-10T03:22:02.968550+00:00",
+  "lastUpdated": "2025-11-10T04:29:57.770135+00:00",
   "articles": [
+    {
+      "title": "Senate takes first step toward ending the government shutdown",
+      "link": "https://www.boston.com/news/policy/2025/11/09/senate-advancing-bill-to-end-shutdown-as-small-group-of-democrats-strike-deal/",
+      "pubDate": "Mon, 10 Nov 2025 04:21:55 +0000",
+      "description": "<p>Three New England lawmakers \u2014 New Hampshire Sen. Jeanne Shaheen, New Hampshire Sen. Maggie Hassan and Independent Sen. Angus King of Maine \u2014 broke the stalemate on Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/news/policy/2025/11/09/senate-advancing-bill-to-end-shutdown-as-small-group-of-democrats-strike-deal/\">Senate takes first step toward ending the government shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7cf1f2ed24c7e6361ebbb78610760e00",
+      "summary": [
+        "Senate advances bill to end government shutdown, easing concerns for local services.",
+        "New England Senators Jeanne Shaheen, Maggie Hassan, and Angus King led negotiations on November 5.",
+        "Potential funding restoration could benefit Boston's public programs and services."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Celtics bench shines in bounce-back win over Magic: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/11/09/celtics-bench-shines-in-bounce-back-win-over-magic-7-takeaways/",
+      "pubDate": "Mon, 10 Nov 2025 03:50:23 +0000",
+      "description": "<p>The Celtics claimed a split in their two-game series against the Magic with a 111-107 win.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/09/celtics-bench-shines-in-bounce-back-win-over-magic-7-takeaways/\">Celtics bench shines in bounce-back win over Magic: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "139590f6a103a7054bd6c4a06e6019b4",
+      "summary": [
+        "Celtics secured a 111-107 victory against the Magic on November 9.",
+        "Bench players contributed significantly, enhancing team depth and performance.",
+        "This win boosts Celtics' morale and strengthens their position in the season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Top BBC bosses resign after criticism of the broadcaster\u2019s editing of a Trump speech",
       "link": "https://www.boston.com/news/entertainment/2025/11/09/top-bbc-bosses-resign-after-criticism-of-the-broadcasters-editing-of-a-trump-speech/",
@@ -622,32 +648,6 @@
         "Fitchburg police defended their actions during an ICE arrest involving a man holding a child.",
         "Emergency medical personnel reported no legitimate medical episode despite bystanders filming the incident.",
         "The incident raises concerns about police and ICE interactions within the Boston community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Review & setlist: At the Shubert, Robert Plant\u2019s quest to keep evolving was on full display",
-      "link": "https://www.boston.com/culture/concert-reviews/2025/11/07/review-setlist-at-the-shubert-robert-plants-quest-to-keep-evolving-was-on-full-display/",
-      "pubDate": "Fri, 07 Nov 2025 18:15:07 +0000",
-      "description": "<p>The Boston stop for \"Robert Plant's Saving Grace featuring Suzi Dian\" continued the former Led Zeppelin frontman's journey toward pan-global omni-folk music.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2025/11/07/review-setlist-at-the-shubert-robert-plants-quest-to-keep-evolving-was-on-full-display/\">Review &amp; setlist: At the Shubert, Robert Plant&#8217;s quest to keep evolving was on full display</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7c436be7ffc9759326822dc39a1bb1f7",
-      "summary": [
-        "Robert Plant performed at the Shubert Theatre in Boston on November 7, 2025.",
-        "The concert featured Suzi Dian and showcased Plant's evolution into pan-global omni-folk music.",
-        "Local residents experienced a unique blend of musical styles from a legendary artist."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Are AI hiring tools to blame for job seekers being ghosted? Experts say it\u2019s more complicated.",
-      "link": "https://www.boston.com/community/jobs/2025/11/07/ai-hiring-job-hunt/",
-      "pubDate": "Fri, 07 Nov 2025 18:12:01 +0000",
-      "description": "<p>Frustrated candidates say artificial intelligence is blocking them from jobs. But recruiters and HR experts say the real problem may be the job market itself.</p>\n<p>The post <a href=\"https://www.boston.com/community/jobs/2025/11/07/ai-hiring-job-hunt/\">Are AI hiring tools to blame for job seekers being ghosted? Experts say it\u2019s more complicated.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bd25fa6d424e6a85f6d80a0e99a78fa1",
-      "summary": [
-        "Job seekers in Boston report increased ghosting due to AI hiring tools.",
-        "Experts suggest the job market's competitiveness is a significant factor affecting hiring.",
-        "Local candidates may face prolonged job searches as AI tools complicate recruitment."
       ],
       "hookType": "LOCAL_IMPACT"
     }
