@@ -1,23 +1,75 @@
 {
-  "lastUpdated": "2025-11-11T12:48:42.599530+00:00",
+  "lastUpdated": "2025-11-11T14:24:05.680144+00:00",
   "articles": [
     {
-      "title": "Home of the week: Waterfront living at an over-55 community in Canton for $895K",
-      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/11/over-55-community-canton-point-massachusetts/",
-      "pubDate": "Tue, 11 Nov 2025 12:00:00 +0000",
-      "description": "<p>This two-bedroom condo has direct pond access and is neighbors with Wampatuck Country Club.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/11/11/over-55-community-canton-point-massachusetts/\">Home of the week: Waterfront living at an over-55 community in Canton for $895K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "63d4dee4c5b9ab35643ec6876ef93029",
+      "title": "Struggling military families ask Globe Santa for help",
+      "link": "https://www.boston.com/news/community/2025/11/11/military-veterans-families-globe-santa/",
+      "pubDate": "Tue, 11 Nov 2025 14:21:44 +0000",
+      "description": "<p>\"When one person serves, the whole family serves.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/community/2025/11/11/military-veterans-families-globe-santa/\">Struggling military families ask Globe Santa for help</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0ece65b44ca378d859130c6c1175d73a",
       "summary": [
-        "Explore a two-bedroom condo in Canton priced at $895K for over-55 residents.",
-        "Enjoy direct pond access and proximity to Wampatuck Country Club.",
-        "This community offers a desirable living option for Boston's aging population."
+        "Military families in Boston seek assistance from Globe Santa for holiday support.",
+        "Over 200 families have applied for help this year, highlighting increased need.",
+        "Local donations are crucial to ensure these families receive necessary holiday aid."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Here\u2019s what Boston meteorologists are saying about Tuesday\u2019s wind chill, potential for flurries",
+      "link": "https://www.boston.com/weather/weather/2025/11/11/boston-ma-weather-cold-potential-snowflakes/",
+      "pubDate": "Tue, 11 Nov 2025 14:02:28 +0000",
+      "description": "<p>\"Unseasonably cold &amp; windy today with a few brief passing flurries or snow showers possible,\" the National Weather Service reported.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2025/11/11/boston-ma-weather-cold-potential-snowflakes/\">Here&#8217;s what Boston meteorologists are saying about Tuesday&#8217;s wind chill, potential for flurries</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c63d78538afc3ff0a87a138031e86d14",
+      "summary": [
+        "Boston faces unseasonably cold temperatures and strong winds on Tuesday.",
+        "National Weather Service predicts brief flurries or snow showers throughout the day.",
+        "Residents should prepare for wind chill factors making temperatures feel even colder."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Love Letters notes on Veterans Day",
+      "link": "https://www.boston.com/love-letters/love-letters/2025/11/11/love-letters-notes-on-veterans-day/",
+      "pubDate": "Tue, 11 Nov 2025 13:49:18 +0000",
+      "description": "<p>We&#8217;re taking the day off for the observed holiday. A few things: Next week is Globe Summit. Elin Hilderbrand\u00a0fans: if you want to be in the audience at a special Globe event with Elin and me, talking about books,\u00a0right now is the time to send a letter. Tell all your book club friends, etc. To [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2025/11/11/love-letters-notes-on-veterans-day/\">Love Letters notes on Veterans Day</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0809a9050069737ec20f20735986220",
+      "summary": [
+        "Boston Globe observes Veterans Day with a day off on November 11.",
+        "Elin Hilderbrand fans can submit letters for a special event next week.",
+        "Community engagement encouraged through book club participation in upcoming Globe Summit."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jets\u2019 Garrett Wilson being evaluated after reinjuring knee, uncertain for Thursday night vs. Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/11/jets-garrett-wilson-after-reinjuring-knee-uncertain-for-thursday-night-vs-pats/",
+      "pubDate": "Tue, 11 Nov 2025 13:30:00 +0000",
+      "description": "<p>ESPN reported Wilson has a sprained knee and could be sidelined for three to four weeks.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/11/jets-garrett-wilson-after-reinjuring-knee-uncertain-for-thursday-night-vs-pats/\">Jets&#8217; Garrett Wilson being evaluated after reinjuring knee, uncertain for Thursday night vs. Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "35c8b7494ab1e952c09d9f234761b1fd",
+      "summary": [
+        "Jets' Garrett Wilson reinjured his knee and is being evaluated for recovery.",
+        "Wilson has a sprained knee and may miss three to four weeks.",
+        "His absence could impact the Patriots' game strategy on November 16."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Shutdown leaves a mark on an already-struggling economy, from lost paychecks to canceled flights",
+      "link": "https://www.boston.com/news/national-news/2025/11/11/government-shutdown-struggling-economy/",
+      "pubDate": "Tue, 11 Nov 2025 13:18:44 +0000",
+      "description": "<p>Airlines scrapped more than 2,000 flights by Monday evening after canceling 5,500 since Friday on orders from the Federal Aviation Administration.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/11/government-shutdown-struggling-economy/\">Shutdown leaves a mark on an already-struggling economy, from lost paychecks to canceled flights</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a67e5ae18a9c0fe77d14bca869f8b6e4",
+      "summary": [
+        "Airlines canceled over 5,500 flights since Friday due to the government shutdown.",
+        "More than 2,000 flights were scrapped by Monday evening, affecting Boston travelers.",
+        "Local economy suffers as residents face lost paychecks and disrupted travel plans."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2025-11-11T12:48:42.599549+00:00"
+    "timestamp": "2025-11-11T14:24:05.680167+00:00"
   }
 }
