@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-11T10:26:21.881149+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-11T12:48:42.599530+00:00",
+  "articles": [
+    {
+      "title": "Home of the week: Waterfront living at an over-55 community in Canton for $895K",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/11/over-55-community-canton-point-massachusetts/",
+      "pubDate": "Tue, 11 Nov 2025 12:00:00 +0000",
+      "description": "<p>This two-bedroom condo has direct pond access and is neighbors with Wampatuck Country Club.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/11/11/over-55-community-canton-point-massachusetts/\">Home of the week: Waterfront living at an over-55 community in Canton for $895K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "63d4dee4c5b9ab35643ec6876ef93029",
+      "summary": [
+        "Explore a two-bedroom condo in Canton priced at $895K for over-55 residents.",
+        "Enjoy direct pond access and proximity to Wampatuck Country Club.",
+        "This community offers a desirable living option for Boston's aging population."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-11T10:26:21.881156+00:00"
+    "timestamp": "2025-11-11T12:48:42.599549+00:00"
   }
 }
