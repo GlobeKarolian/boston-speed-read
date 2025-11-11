@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-11-11T01:51:07.564977+00:00",
+  "lastUpdated": "2025-11-11T03:16:26.313732+00:00",
   "articles": [
+    {
+      "title": "Senate approves bill to end the shutdown, sending it to the House",
+      "link": "https://www.boston.com/news/politics/2025/11/10/senate-approves-bill-to-end-the-shutdown-sending-it-to-the-house/",
+      "pubDate": "Tue, 11 Nov 2025 02:47:18 +0000",
+      "description": "<p>Five moderate Democrats switched their votes as federal food aid was delayed, airport delays worsened, and hundreds of thousands of federal workers continued to go unpaid.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/10/senate-approves-bill-to-end-the-shutdown-sending-it-to-the-house/\">Senate approves bill to end the shutdown, sending it to the House</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "51b13b6f847f31205a1aa690afd82a1f",
+      "summary": [
+        "Senate approved a bill to end the federal shutdown on November 10, 2025.",
+        "Five moderate Democrats changed their votes amid worsening airport delays and food aid issues.",
+        "Hundreds of thousands of federal workers, including many in Boston, remain unpaid during the shutdown."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Zdeno Chara\u2019s 10 most memorable moments with the Bruins",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/11/10/zdeno-charas-10-most-memorable-moments-with-the-bruins/",
+      "pubDate": "Tue, 11 Nov 2025 02:45:54 +0000",
+      "description": "<p>Chara served as captain of the Bruins for 14 seasons. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/10/zdeno-charas-10-most-memorable-moments-with-the-bruins/\">Zdeno Chara\u2019s 10 most memorable moments with the Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0e20e3a5d36b7f764b92ddf3068a02b9",
+      "summary": [
+        "Zdeno Chara captained the Bruins for 14 seasons, shaping team culture.",
+        "Chara's leadership contributed to the Bruins' 2011 Stanley Cup victory.",
+        "His memorable moments resonate with Boston fans, enhancing local sports pride."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Democrats are so angry, one senator from New Hampshire faces blowback from her daughter",
       "link": "https://www.boston.com/news/politics/2025/11/10/democrats-are-so-angry-one-senator-from-new-hampshire-faces-blowback-from-her-daughter/",
@@ -622,32 +648,6 @@
         "Governor Maura Healey vows to fight Trump administration's SNAP payout rollback in court.",
         "States warn that undoing full SNAP payouts could lead to catastrophic impacts on residents.",
         "Boston residents may face increased food insecurity if SNAP funding is reduced."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Donald Trump plans to be the 1st sitting US president at a regular-season NFL game since 1978",
-      "link": "https://www.boston.com/sports/sports/2025/11/09/donald-trump-plans-to-be-the-1st-sitting-us-president-at-a-regular-season-nfl-game-since-1978/",
-      "pubDate": "Sun, 09 Nov 2025 22:10:59 +0000",
-      "description": "<p>Only two other times did a president go to an NFL game during the regular season while in office, according to the league: Richard Nixon in 1969 and Jimmy Carter in 1978.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2025/11/09/donald-trump-plans-to-be-the-1st-sitting-us-president-at-a-regular-season-nfl-game-since-1978/\">Donald Trump plans to be the 1st sitting US president at a regular-season NFL game since 1978</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cee7d15c96fd28065a1c7fb051154581",
-      "summary": [
-        "Donald Trump will attend an NFL game, marking a historic first since 1978.",
-        "Only two presidents previously attended regular-season NFL games: Nixon in 1969 and Carter in 1978.",
-        "Boston residents may see increased security and attention during the game due to Trump's presence."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors",
-      "link": "https://www.boston.com/sports/sports/2025/11/09/mlb-pitchers-emmanuel-clase-and-luis-ortiz-charged-with-taking-bribes-to-rig-pitches-for-bettors/",
-      "pubDate": "Sun, 09 Nov 2025 19:37:50 +0000",
-      "description": "<p>Ortiz was arrested by the FBI on Sunday morning at Boston Logan International Airport. He is expected to appear in federal court in Boston on Monday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2025/11/09/mlb-pitchers-emmanuel-clase-and-luis-ortiz-charged-with-taking-bribes-to-rig-pitches-for-bettors/\">MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "eb188bd5aa35bacc6aa50feb2d093073",
-      "summary": [
-        "Luis Ortiz was arrested at Boston Logan International Airport on November 5.",
-        "Ortiz is expected to appear in federal court in Boston on November 6.",
-        "Charges may impact local sports betting regulations and MLB's integrity in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
