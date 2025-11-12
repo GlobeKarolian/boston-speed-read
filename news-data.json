@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-12T08:31:59.954843+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-12T10:26:18.751098+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Nov. 12)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/11/12/recent-homes-sales-in-greater-boston-nov-12/",
+      "pubDate": "Wed, 12 Nov 2025 10:00:00 +0000",
+      "description": "<p>ABINGTON 47 Daniel Drive. One-family raised ranch, built in 1973, 1,594 square feet, 6 rooms, 3 bedrooms, 2 baths, on 29,166-square-foot lot. $592,000 112 Lake St. One-family Colonial, built in 1945, 1,616 square feet, 6 rooms, 3 bedrooms, 2 baths, on 21,326-square-foot lot. $570,000 101 Regency Lane #101 Condo/Apt, built in 2003, 1,340 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/11/12/recent-homes-sales-in-greater-boston-nov-12/\">Recent homes sales in Greater Boston (Nov. 12)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f1c2fcf3087e0854b5cffcf69cb8fc89",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Nov. 12)",
+        "Details: <p>ABINGTON 47 Daniel Drive. One-family raised ran",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-12T08:31:59.954852+00:00"
+    "timestamp": "2025-11-12T10:26:18.751117+00:00"
   }
 }
