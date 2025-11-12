@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-11-12T18:31:49.497325+00:00",
+  "lastUpdated": "2025-11-12T20:26:24.232137+00:00",
   "articles": [
+    {
+      "title": "Small alligator spotted in Charles River lagoon",
+      "link": "https://www.boston.com/news/local-news/2025/11/12/charles-river-alligator/",
+      "pubDate": "Wed, 12 Nov 2025 20:12:06 +0000",
+      "description": "<p>The alligator has been seen multiple times, and officials are trying to locate it before it succumbs to cold temperatures.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/12/charles-river-alligator/\">Small alligator spotted in Charles River lagoon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "250ee650bf05cac7cb9cd3a9f58f94e8",
+      "summary": [
+        "Update: Small alligator spotted in Charles River lagoon",
+        "Details: <p>The alligator has been seen multiple times, and",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018Winter is on\u2019: The New England ski season has begun as two major resorts open on Wednesday",
+      "link": "https://www.boston.com/travel/travel/2025/11/12/when-are-killington-sunday-river-open/",
+      "pubDate": "Wed, 12 Nov 2025 20:04:15 +0000",
+      "description": "<p>\"Winter is on.\"</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/11/12/when-are-killington-sunday-river-open/\">&#8216;Winter is on&#8217;: The New England ski season has begun as two major resorts open on Wednesday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f446e539cb9cc288b7c47aadfb140def",
+      "summary": [
+        "Update: \u2018Winter is on\u2019: The New England ski season has beg",
+        "Details: <p>\"Winter is on.\"</p>\n<p>The post <a href=\"https:",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Brockton native AJ Dybantsa reflects on Celtics, family ahead of homecoming at TD Garden",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/11/12/boston-celtics-aj-dybantsa-nba-draft-2026-byu-uconn-td-garden/",
+      "pubDate": "Wed, 12 Nov 2025 20:00:18 +0000",
+      "description": "<p>\"I played at TD I think three or four years ago when I was at St. Sebastian. So I\u2019m undefeated there.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/12/boston-celtics-aj-dybantsa-nba-draft-2026-byu-uconn-td-garden/\">Brockton native AJ Dybantsa reflects on Celtics, family ahead of homecoming at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b82e5d2e36f0c7192ec1598d05b091aa",
+      "summary": [
+        "Update: Brockton native AJ Dybantsa reflects on Celtics, f",
+        "Details: <p>\"I played at TD I think three or four years ago",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Cambridge School Committee election results changed after test ballots mistakenly counted",
+      "link": "https://www.boston.com/news/politics/2025/11/12/cambridge-school-committee-election-results-changed-test-ballots/",
+      "pubDate": "Wed, 12 Nov 2025 19:33:26 +0000",
+      "description": "<p>One candidate was crowned a winner last week, only to get bumped down in the rankings once city officials discovered the ballot-counting error.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/12/cambridge-school-committee-election-results-changed-test-ballots/\">Cambridge School Committee election results changed after test ballots mistakenly counted</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a0404dd3ec364fe7c95d5f61de5e574e",
+      "summary": [
+        "Update: Cambridge School Committee election results change",
+        "Details: <p>One candidate was crowned a winner last week, o",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "7 takeaways from Cheryl Hines\u2019s memoir",
+      "link": "https://www.boston.com/news/books/2025/11/12/7-takeaways-from-cheryl-hiness-memoir/",
+      "pubDate": "Wed, 12 Nov 2025 18:39:41 +0000",
+      "description": "<p>In \u201cUnscripted,\u201d the actress and wife of Robert F. Kennedy Jr. discusses vaccines, her husband\u2019s affection for roadkill and the time that meeting Trump made her break out in hives.</p>\n<p>The post <a href=\"https://www.boston.com/news/books/2025/11/12/7-takeaways-from-cheryl-hiness-memoir/\">7 takeaways from Cheryl Hines\u2019s memoir</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a1b6426b6ca40e0dfb9a5cae080f6ecc",
+      "summary": [
+        "Update: 7 takeaways from Cheryl Hines\u2019s memoir",
+        "Details: <p>In \u201cUnscripted,\u201d the actress and wife of Robert",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Report finds loopholes, permitting slowdown are worsening Greater Boston housing crisis",
       "link": "https://www.boston.com/news/local-news/2025/11/12/report-finds-loopholes-permitting-slowdown-are-worsening-greater-boston-housing-crisis/",
@@ -583,71 +648,6 @@
         "Federal judge ordered the release of Juliana Milena Ojeda Montoya from ICE detention.",
         "Ojeda Montoya was arrested during a traffic stop while her husband suffered a seizure.",
         "The incident highlights ongoing concerns about ICE operations in Boston and community safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "How Mass. lawmakers are reacting to the deal that could end the government shutdown",
-      "link": "https://www.boston.com/news/politics/2025/11/11/how-mass-lawmakers-are-reacting-to-the-deal-that-could-end-the-government-shutdown/",
-      "pubDate": "Tue, 11 Nov 2025 16:16:07 +0000",
-      "description": "<p>Lamenting the looming loss of health care subsidies, members of Congress from Massachusetts say the deal was a bad idea.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/11/how-mass-lawmakers-are-reacting-to-the-deal-that-could-end-the-government-shutdown/\">How Mass. lawmakers are reacting to the deal that could end the government shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3e3d591b85f817fc7c60d3b1a14faed1",
-      "summary": [
-        "Massachusetts lawmakers criticize the government shutdown deal for jeopardizing health care subsidies.",
-        "Congress members express concerns over potential loss of funding affecting thousands of residents.",
-        "Local health care services may face cuts, impacting vulnerable populations in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Trump says Marjorie Taylor Greene has \u2018lost her way\u2019 for criticizing his foreign policy focus",
-      "link": "https://www.boston.com/news/politics/2025/11/11/trump-says-marjorie-taylor-greene-has-lost-her-way-for-criticizing-his-foreign-policy-focus/",
-      "pubDate": "Tue, 11 Nov 2025 15:44:15 +0000",
-      "description": "<p>\u201cI don\u2019t know what happened to Marjorie.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/11/trump-says-marjorie-taylor-greene-has-lost-her-way-for-criticizing-his-foreign-policy-focus/\">Trump says Marjorie Taylor Greene has &#8216;lost her way&#8217; for criticizing his foreign policy focus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f8b23347a74bb4cfd9af037d74e428a3",
-      "summary": [
-        "Trump criticized Marjorie Taylor Greene for her foreign policy comments on November 11, 2025.",
-        "Greene's criticism may affect her support among Boston's Republican voters.",
-        "Local political dynamics could shift as Trump and Greene's relationship evolves."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston firefighters battle 2-alarm blaze at multi-family home in Dorchester",
-      "link": "https://www.boston.com/news/local-news/2025/11/11/boston-firefighters-2-alarm-fire-multi-family-home-dorchester/",
-      "pubDate": "Tue, 11 Nov 2025 15:40:08 +0000",
-      "description": "<p>Two residents were displaced as a result of the fire.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/11/boston-firefighters-2-alarm-fire-multi-family-home-dorchester/\">Boston firefighters battle 2-alarm blaze at multi-family home in Dorchester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5c2bad1a8ef170ccc2134afbc07cfde0",
-      "summary": [
-        "Boston firefighters responded to a 2-alarm fire in a Dorchester multi-family home.",
-        "Two residents were displaced due to the fire incident on November 11, 2025.",
-        "Local support services are mobilizing to assist the affected residents in Dorchester."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "She went to prison for manslaughter. She was just sworn in on this Maine city council.",
-      "link": "https://www.boston.com/news/local-news/2025/11/11/she-went-to-prison-for-manslaughter-she-was-just-sworn-in-on-this-maine-city-council/",
-      "pubDate": "Tue, 11 Nov 2025 15:37:15 +0000",
-      "description": "<p>The election of Angela Walker sparked outrage on conservative social media and concern from some Maine Republicans.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/11/she-went-to-prison-for-manslaughter-she-was-just-sworn-in-on-this-maine-city-council/\">She went to prison for manslaughter. She was just sworn in on this Maine city council.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7ba7b584d7f87611308b30d8f53f34fa",
-      "summary": [
-        "Angela Walker was sworn in as a city council member in Maine despite a manslaughter conviction.",
-        "Her election has sparked outrage on conservative social media and concern among Maine Republicans.",
-        "Boston residents may see increased discussions on criminal justice reform and candidate qualifications."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s what Jon Stewart had to say about the Senate Democrats voting to end the shutdown",
-      "link": "https://www.boston.com/news/entertainment/2025/11/11/jon-stewart-daily-show-democrats-shutdown/",
-      "pubDate": "Tue, 11 Nov 2025 15:16:37 +0000",
-      "description": "<p>\"This is a world class collapse by Democrats.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2025/11/11/jon-stewart-daily-show-democrats-shutdown/\">Here&#8217;s what Jon Stewart had to say about the Senate Democrats voting to end the shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8dc302826bfc9a50742bff5afb603757",
-      "summary": [
-        "Jon Stewart criticized Senate Democrats for their handling of the shutdown vote on November 11.",
-        "Stewart described the Democrats' actions as a 'world class collapse' during his commentary.",
-        "Boston residents may face continued uncertainty due to the political fallout from the shutdown."
       ],
       "hookType": "LOCAL_IMPACT"
     }
