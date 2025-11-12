@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-11-12T10:26:18.751098+00:00",
+  "lastUpdated": "2025-11-12T12:49:56.777106+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (Nov. 12)",
-      "link": "https://www.boston.com/real-estate/real-estate-news/2025/11/12/recent-homes-sales-in-greater-boston-nov-12/",
-      "pubDate": "Wed, 12 Nov 2025 10:00:00 +0000",
-      "description": "<p>ABINGTON 47 Daniel Drive. One-family raised ranch, built in 1973, 1,594 square feet, 6 rooms, 3 bedrooms, 2 baths, on 29,166-square-foot lot. $592,000 112 Lake St. One-family Colonial, built in 1945, 1,616 square feet, 6 rooms, 3 bedrooms, 2 baths, on 21,326-square-foot lot. $570,000 101 Regency Lane #101 Condo/Apt, built in 2003, 1,340 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/11/12/recent-homes-sales-in-greater-boston-nov-12/\">Recent homes sales in Greater Boston (Nov. 12)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f1c2fcf3087e0854b5cffcf69cb8fc89",
+      "title": "Nikita Zadorov made life miserable for Maple Leafs in back-to-back Bruins wins",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/11/12/nikita-zadorov-leafs-maple-toronto-boston-bruins-nhl-hockey/",
+      "pubDate": "Wed, 12 Nov 2025 12:07:26 +0000",
+      "description": "<p>\"Just play hard against the top players on their team. That's my job.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/12/nikita-zadorov-leafs-maple-toronto-boston-bruins-nhl-hockey/\">Nikita Zadorov made life miserable for Maple Leafs in back-to-back Bruins wins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c2ce75a1bdbf3685f3ffdbca255f353a",
       "summary": [
-        "Update: Recent homes sales in Greater Boston (Nov. 12)",
-        "Details: <p>ABINGTON 47 Daniel Drive. One-family raised ran",
+        "Update: Nikita Zadorov made life miserable for Maple Leafs",
+        "Details: <p>\"Just play hard against the top players on thei",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Jaylen Brown, Celtics drop another close loss to 76ers: 8 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/11/12/celtics-sixers-derrick-white/",
+      "pubDate": "Wed, 12 Nov 2025 12:00:01 +0000",
+      "description": "<p>Derrick White's heave, and Neemias Queta's put-back, both missed.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/12/celtics-sixers-derrick-white/\">Jaylen Brown, Celtics drop another close loss to 76ers: 8 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8baca1a8fa87625c6077c8aeffdd18dc",
+      "summary": [
+        "Update: Jaylen Brown, Celtics drop another close loss to 7",
+        "Details: <p>Derrick White's heave, and Neemias Queta's put-",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Duxbury\u2019s historic former Odd Fellows hall hits the market for $3.1M",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/11/12/duxbury-mattakeesett-hall-oddfellows-waterfront/",
+      "pubDate": "Wed, 12 Nov 2025 12:00:00 +0000",
+      "description": "<p>It was once a gathering space known for the Odd Fellows\u2019 love of plays, late-night balls, and silent movies.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/11/12/duxbury-mattakeesett-hall-oddfellows-waterfront/\">Duxbury\u2019s historic former Odd Fellows hall hits the market for $3.1M</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "28d6717ebef03429ecc59c91589c7322",
+      "summary": [
+        "Update: Duxbury\u2019s historic former Odd Fellows hall hits th",
+        "Details: <p>It was once a gathering space known for the Odd",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-12T10:26:18.751117+00:00"
+    "timestamp": "2025-11-12T12:49:56.777118+00:00"
   }
 }
