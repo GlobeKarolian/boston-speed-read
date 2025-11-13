@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-13T12:50:35.413968+00:00",
+  "lastUpdated": "2025-11-13T14:22:00.876171+00:00",
   "articles": [
+    {
+      "title": "How much do you need to retire in Massachusetts?",
+      "link": "https://www.boston.com/news/business/2025/11/13/massachusetts-retirement-savings/",
+      "pubDate": "Thu, 13 Nov 2025 13:14:22 +0000",
+      "description": "<p>Experts say it depends on lifestyle and location \u2014 but for most people, it will take millions.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2025/11/13/massachusetts-retirement-savings/\">How much do you need to retire in Massachusetts?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c9abd31e54fde049070ef93c7b097d30",
+      "summary": [
+        "Update: How much do you need to retire in Massachusetts?",
+        "Details: <p>Experts say it depends on lifestyle and locatio",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "What plan do the Red Sox have for Kristian Campbell in 2026?",
       "link": "https://www.boston.com/sports/boston-red-sox/2025/11/13/boston-red-sox-kristian-campbell-upside-mlb-baseball-offseason/",
@@ -635,19 +648,6 @@
         "Federal court dismissed appeal regarding MIT protests, ruling they were not antisemitic.",
         "Court emphasized that group gatherings and disruptions do not constitute antisemitism.",
         "This ruling may influence future campus protest policies at Boston universities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Pastrnak scores twice, hits 400-goal milestone as Bruins beat Maple Leafs",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/11/11/pastrnak-scores-twice-hits-400-goal-milestone-as-bruins-beat-maple-leafs/",
-      "pubDate": "Wed, 12 Nov 2025 03:25:26 +0000",
-      "description": "<p>Pavel Zacha, Hampus Lindholm and Alex Steeves also scored for the Bruins while Jeremy Swayman made 30 saves. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/11/pastrnak-scores-twice-hits-400-goal-milestone-as-bruins-beat-maple-leafs/\">Pastrnak scores twice, hits 400-goal milestone as Bruins beat Maple Leafs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c18899c4754326ab6c4fbf71a6e8cb7a",
-      "summary": [
-        "Pastrnak scored two goals, reaching his 400-goal milestone during the game.",
-        "Bruins defeated Maple Leafs 4-2, with Zacha and Lindholm also contributing to the score.",
-        "Jeremy Swayman made 30 saves, solidifying the Bruins' strong performance for local fans."
       ],
       "hookType": "LOCAL_IMPACT"
     }
