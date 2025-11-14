@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-14T10:25:51.235165+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-14T12:47:53.885836+00:00",
+  "articles": [
+    {
+      "title": "Kids and grandparents live under one roof as the \u2018sandwich generation\u2019 cares for both",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/11/14/multigenerational-housing-gen-x-in-law-suites-adu/",
+      "pubDate": "Fri, 14 Nov 2025 12:00:00 +0000",
+      "description": "<p>As the last era to gain a foothold in the housing market, some Gen Xers are creating multigenerational living arrangements. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/11/14/multigenerational-housing-gen-x-in-law-suites-adu/\">Kids and grandparents live under one roof as the \u2018sandwich generation\u2019 cares for both</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bda840e9247d7cc38e47226dda68989f",
+      "summary": [
+        "Update: Kids and grandparents live under one roof as the \u2018",
+        "Details: <p>As the last era to gain a foothold in the housi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/11/14/greater-boston-news-quiz-nov-14-2025-alligator-market-basket-new-hampshire-hiking/",
+      "pubDate": "Fri, 14 Nov 2025 11:45:13 +0000",
+      "description": "<p>A mountain mystery, an antsy alligator, and a Market Basket brew are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/11/14/greater-boston-news-quiz-nov-14-2025-alligator-market-basket-new-hampshire-hiking/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8ec2242feb735fc588f05741bb2631ad",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A mountain mystery, an antsy alligator, and a M",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-14T10:25:51.235172+00:00"
+    "timestamp": "2025-11-14T12:47:53.885855+00:00"
   }
 }
