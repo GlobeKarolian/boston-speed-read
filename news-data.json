@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-15T10:21:39.915183+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-15T12:41:43.434862+00:00",
+  "articles": [
+    {
+      "title": "Davis Square confronts new normal with unprecedented surge in homelessness, drug use, and violence",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/11/15/davis-square-confronts-new-normal-with-unprecedented-surge-in-homelessness-drug-use-and-violence/",
+      "pubDate": "Sat, 15 Nov 2025 12:00:00 +0000",
+      "description": "<p>Sign up for The Boston Globe&#8217;s free Camberville &#38; Beyond newsletter. SOMERVILLE \u2014 Below Davis Square, the outreach center the Somerville Homeless Coalition has used for 40 years is a refuge. The coffee is hot and a free breakfast awaits, as does help getting into a home. Above ground, it\u2019s often a different story. And [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/11/15/davis-square-confronts-new-normal-with-unprecedented-surge-in-homelessness-drug-use-and-violence/\">Davis Square confronts new normal with unprecedented surge in homelessness, drug use, and violence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "77353259c4cba3a31c0b4ee614379621",
+      "summary": [
+        "Update: Davis Square confronts new normal with unprecedent",
+        "Details: <p>Sign up for The Boston Globe&#8217;s free Cambe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018New England is at the center of it\u2019: Ken Burns talks \u2018The American Revolution\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2025/11/15/ken-burns-the-american-revolution-pbs/",
+      "pubDate": "Sat, 15 Nov 2025 12:00:00 +0000",
+      "description": "<p>The epic story, with Boston as an epicenter,  premieres Nov. 16 on PBS.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/11/15/ken-burns-the-american-revolution-pbs/\">&#8216;New England is at the center of it&#8217;: Ken Burns talks &#8216;The American Revolution&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7cfe099cdde3203d120cfd5e6389f2cd",
+      "summary": [
+        "Update: \u2018New England is at the center of it\u2019: Ken Burns ta",
+        "Details: <p>The epic story, with Boston as an epicenter,  p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-15T10:21:39.915192+00:00"
+    "timestamp": "2025-11-15T12:41:43.434880+00:00"
   }
 }
