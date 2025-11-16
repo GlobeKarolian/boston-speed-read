@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-16T10:22:19.635080+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-16T12:41:36.899629+00:00",
+  "articles": [
+    {
+      "title": "One of Boston\u2019s two remaining strip clubs wants to move. Chinatown is leery.",
+      "link": "https://www.boston.com/news/the-boston-globe/2025/11/16/one-of-bostons-two-remaining-strip-clubs-wants-to-move-chinatown-is-leery/",
+      "pubDate": "Sun, 16 Nov 2025 12:00:00 +0000",
+      "description": "<p>Monet doesn\u2019t see what the big deal is. Neither does her fellow exotic dancer, Lexy, nor the host named Jimmy. After all, Centerfolds Boston, one of two remaining strip clubs in downtown Boston, is trying to move just a block away. But the proposal is raising alarms in nearby Chinatown, where decades-old memories of the [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2025/11/16/one-of-bostons-two-remaining-strip-clubs-wants-to-move-chinatown-is-leery/\">One of Boston\u2019s two remaining strip clubs wants to move. Chinatown is leery.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45ce56097dcab4e4374e2396fb8cf6cd",
+      "summary": [
+        "Update: One of Boston\u2019s two remaining strip clubs wants to",
+        "Details: <p>Monet doesn\u2019t see what the big deal is. Neither",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-16T10:22:19.635091+00:00"
+    "timestamp": "2025-11-16T12:41:36.899668+00:00"
   }
 }
