@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-11-17T12:49:29.733601+00:00",
+  "lastUpdated": "2025-11-17T14:23:46.303849+00:00",
   "articles": [
     {
-      "title": "While Mike Vrabel\u2019s Patriots can only consider the next opponent, we can wonder whether or not they can run the table",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/17/mike-vrabel-can-patriots-run-the-table/",
-      "pubDate": "Mon, 17 Nov 2025 12:22:12 +0000",
-      "description": "<p>Remarkable. Almost unbelievable. And yet as real as the rain.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/17/mike-vrabel-can-patriots-run-the-table/\">While Mike Vrabel\u2019s Patriots can only consider the next opponent, we can wonder whether or not they can run the table</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3e93d1881dd1175fe608a1aef4888905",
+      "title": "NY man seriously injured after crawling onto roof of moving bus on Maine Turnpike",
+      "link": "https://www.boston.com/news/local-news/2025/11/17/ny-man-injured-after-crawling-onto-roof-of-moving-bus-in-maine/",
+      "pubDate": "Mon, 17 Nov 2025 14:05:50 +0000",
+      "description": "<p>The passenger, 35, climbed onto the roof after saying he felt overheated.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/17/ny-man-injured-after-crawling-onto-roof-of-moving-bus-in-maine/\">NY man seriously injured after crawling onto roof of moving bus on Maine Turnpike</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "efc4891ef4ca85cadf899c66e357f9ad",
       "summary": [
-        "Update: While Mike Vrabel\u2019s Patriots can only consider the",
-        "Details: <p>Remarkable. Almost unbelievable. And yet as rea",
+        "Update: NY man seriously injured after crawling onto roof ",
+        "Details: <p>The passenger, 35, climbed onto the roof after ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Livestream: Brian Walshe\u2019s last hearing before jury selection",
+      "link": "https://www.boston.com/news/crime/2025/11/17/livestream-brian-walshes-last-hearing-before-jury-selection/",
+      "pubDate": "Mon, 17 Nov 2025 14:01:32 +0000",
+      "description": "<p>Prosecutors accuse Walshe of killing his wife, Ana, on New Year\u2019s Day in 2023.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/17/livestream-brian-walshes-last-hearing-before-jury-selection/\">Livestream: Brian Walshe&#8217;s last hearing before jury selection</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "deaa3d87b351e43a37cf69be06a29819",
+      "summary": [
+        "Update: Livestream: Brian Walshe\u2019s last hearing before jur",
+        "Details: <p>Prosecutors accuse Walshe of killing his wife, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Everything you need to know about the Michelin Guide",
+      "link": "https://www.boston.com/food/food/2025/11/17/everything-to-know-michelin-guide-boston/",
+      "pubDate": "Mon, 17 Nov 2025 12:52:57 +0000",
+      "description": "<p>Some Boston area restaurants may earn stars or bib gourmand status in a debut guide coming Nov. 18. </p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/11/17/everything-to-know-michelin-guide-boston/\">Everything you need to know about the Michelin Guide</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b7a6d9810644d272448f9a128f57269e",
+      "summary": [
+        "Update: Everything you need to know about the Michelin Gui",
+        "Details: <p>Some Boston area restaurants may earn stars or ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-17T12:49:29.733621+00:00"
+    "timestamp": "2025-11-17T14:23:46.303867+00:00"
   }
 }
