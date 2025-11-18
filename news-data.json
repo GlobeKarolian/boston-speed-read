@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-18T10:27:12.315365+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-18T12:49:19.010621+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: Petite marsh-front cottage on Plum Island for $875K",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/18/cottage-plum-island-newburyport-massachusetts/",
+      "pubDate": "Tue, 18 Nov 2025 12:00:00 +0000",
+      "description": "<p>The two-bedroom Newburyport home overlooks a tidal basin for the Atlantic Ocean.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/11/18/cottage-plum-island-newburyport-massachusetts/\">Home of the Week: Petite marsh-front cottage on Plum Island for $875K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "23cd7bfd4950cd9ac17ec80c5e560747",
+      "summary": [
+        "Update: Home of the Week: Petite marsh-front cottage on Pl",
+        "Details: <p>The two-bedroom Newburyport home overlooks a ti",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-18T10:27:12.315374+00:00"
+    "timestamp": "2025-11-18T12:49:19.010643+00:00"
   }
 }
