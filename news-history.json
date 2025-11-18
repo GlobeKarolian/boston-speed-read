@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-18T12:49:19.011341+00:00",
+  "lastUpdated": "2025-11-18T14:24:17.518460+00:00",
   "articles": [
+    {
+      "title": "Cloudflare outage disrupts ChatGPT, X, other internet services",
+      "link": "https://www.boston.com/news/technology/2025/11/18/cloudflare-outage-disrupts-chatgpt-x-internet-services/",
+      "pubDate": "Tue, 18 Nov 2025 13:34:58 +0000",
+      "description": "<p>There were reports of widespread 500 errors as well as Cloudflare Dashboard and API failing.</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2025/11/18/cloudflare-outage-disrupts-chatgpt-x-internet-services/\">Cloudflare outage disrupts ChatGPT, X, other internet services</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "644b1f4f056c2f20aced2bffa409ff83",
+      "summary": [
+        "Update: Cloudflare outage disrupts ChatGPT, X, other inter",
+        "Details: <p>There were reports of widespread 500 errors as ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Home of the Week: Petite marsh-front cottage on Plum Island for $875K",
       "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/18/cottage-plum-island-newburyport-massachusetts/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: \u2018Now You See Me 3\u2019 races past \u2018The Running Man\u2019 at",
         "Details: <p>\u201cNow You See Me: Now You Don\u2019t,\u201d which cost a r",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "New York Jets cornerback Kris Boyd critically wounded in Manhattan shooting",
-      "link": "https://www.boston.com/sports/sports-news/2025/11/16/new-york-jets-cornerback-kris-boyd-critically-wounded-in-manhattan-shooting/",
-      "pubDate": "Sun, 16 Nov 2025 21:37:14 +0000",
-      "description": "<p>The shooting happened just after 2 a.m. outside a business on West 38th Street near 7th Avenue, according to the New York Police Department. </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2025/11/16/new-york-jets-cornerback-kris-boyd-critically-wounded-in-manhattan-shooting/\">New York Jets cornerback Kris Boyd critically wounded in Manhattan shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f51971285919a9f0152b8b528e37a10d",
-      "summary": [
-        "Update: New York Jets cornerback Kris Boyd critically woun",
-        "Details: <p>The shooting happened just after 2 a.m. outside",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

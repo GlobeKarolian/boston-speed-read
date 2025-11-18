@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2025-11-18T12:49:19.010621+00:00",
+  "lastUpdated": "2025-11-18T14:24:17.517634+00:00",
   "articles": [
     {
-      "title": "Home of the Week: Petite marsh-front cottage on Plum Island for $875K",
-      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/11/18/cottage-plum-island-newburyport-massachusetts/",
-      "pubDate": "Tue, 18 Nov 2025 12:00:00 +0000",
-      "description": "<p>The two-bedroom Newburyport home overlooks a tidal basin for the Atlantic Ocean.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/11/18/cottage-plum-island-newburyport-massachusetts/\">Home of the Week: Petite marsh-front cottage on Plum Island for $875K</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "23cd7bfd4950cd9ac17ec80c5e560747",
+      "title": "Cloudflare outage disrupts ChatGPT, X, other internet services",
+      "link": "https://www.boston.com/news/technology/2025/11/18/cloudflare-outage-disrupts-chatgpt-x-internet-services/",
+      "pubDate": "Tue, 18 Nov 2025 13:34:58 +0000",
+      "description": "<p>There were reports of widespread 500 errors as well as Cloudflare Dashboard and API failing.</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2025/11/18/cloudflare-outage-disrupts-chatgpt-x-internet-services/\">Cloudflare outage disrupts ChatGPT, X, other internet services</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "644b1f4f056c2f20aced2bffa409ff83",
       "summary": [
-        "Update: Home of the Week: Petite marsh-front cottage on Pl",
-        "Details: <p>The two-bedroom Newburyport home overlooks a ti",
+        "Update: Cloudflare outage disrupts ChatGPT, X, other inter",
+        "Details: <p>There were reports of widespread 500 errors as ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
@@ -18,6 +18,6 @@
   "stats": {
     "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-18T12:49:19.010643+00:00"
+    "timestamp": "2025-11-18T14:24:17.517654+00:00"
   }
 }
