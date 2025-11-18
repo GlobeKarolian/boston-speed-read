@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2025-11-18T03:14:56.069844+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-18T04:27:59.742957+00:00",
+  "articles": [
+    {
+      "title": "Meet the cast of \u2018The Real Housewives of Rhode Island\u2019",
+      "link": "https://www.boston.com/culture/tv/2025/11/17/meet-the-cast-of-the-real-housewives-of-rhode-island/",
+      "pubDate": "Tue, 18 Nov 2025 04:07:16 +0000",
+      "description": "<p>Andy Cohen announced the \u201cReal Housewives of Rhode Island\u201d cast \u2014 including a former local NBC news anchor, a URI alum, and a Cranston pizzeria co-owner.</p>\n<p>The post <a href=\"https://www.boston.com/culture/tv/2025/11/17/meet-the-cast-of-the-real-housewives-of-rhode-island/\">Meet the cast of &#8216;The Real Housewives of Rhode Island&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c3dac2b2a03f41f5c5b6f378c0f1df07",
+      "summary": [
+        "Update: Meet the cast of \u2018The Real Housewives of Rhode Isl",
+        "Details: <p>Andy Cohen announced the \u201cReal Housewives of Rh",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Former MLB GM wants Red Sox to sign these 2 sluggers this offseason",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/11/17/boston-red-sox-free-agency-rumors-mlb-offseason-pete-alonso-bo-bichette-alex-bregman/",
+      "pubDate": "Tue, 18 Nov 2025 04:01:20 +0000",
+      "description": "<p>\"What would he do to Roman Anthony? ... What would he do for the middle of that lineup? Take all the pressure off.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/17/boston-red-sox-free-agency-rumors-mlb-offseason-pete-alonso-bo-bichette-alex-bregman/\">Former MLB GM wants Red Sox to sign these 2 sluggers this offseason</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e929f898eab7a34cc5a8111b7ea25623",
+      "summary": [
+        "Update: Former MLB GM wants Red Sox to sign these 2 slugge",
+        "Details: <p>\"What would he do to Roman Anthony? ... What wo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018Deeply ashamed\u2019: Larry Summers will step back from public roles as relationship with Epstein revealed",
+      "link": "https://www.boston.com/news/local-news/2025/11/17/deeply-ashamed-larry-summers-will-step-back-as-relationship-with-epstein-revealed/",
+      "pubDate": "Tue, 18 Nov 2025 03:47:23 +0000",
+      "description": "<p>The former president of Harvard regularly emailed with Jeffrey Epstein from 2017 until his death, according to documents released by the House Oversight Committee.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/17/deeply-ashamed-larry-summers-will-step-back-as-relationship-with-epstein-revealed/\">&#8216;Deeply ashamed&#8217;: Larry Summers will step back from public roles as relationship with Epstein revealed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e52e8afd3baa6dcabf94b23826bc31fb",
+      "summary": [
+        "Update: \u2018Deeply ashamed\u2019: Larry Summers will step back fro",
+        "Details: <p>The former president of Harvard regularly email",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Pyotr Kochetkov makes 29 saves as Hurricanes beat Bruins 3-1",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/11/17/pyotr-kochetkov-makes-29-saves-as-hurricanes-beat-bruins-3-1/",
+      "pubDate": "Tue, 18 Nov 2025 03:45:55 +0000",
+      "description": "<p>Former Bruin Taylor Hall and Mark Jankowski scored for the Hurricanes, who won for the sixth time in eight games.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/17/pyotr-kochetkov-makes-29-saves-as-hurricanes-beat-bruins-3-1/\">Pyotr Kochetkov makes 29 saves as Hurricanes beat Bruins 3-1</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d966c8dd9a47ea2db11845b9c7309028",
+      "summary": [
+        "Update: Pyotr Kochetkov makes 29 saves as Hurricanes beat ",
+        "Details: <p>Former Bruin Taylor Hall and Mark Jankowski sco",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-11-18T03:14:56.069857+00:00"
+    "timestamp": "2025-11-18T04:27:59.742977+00:00"
   }
 }
