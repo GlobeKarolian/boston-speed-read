@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2025-11-19T01:49:42.950570+00:00",
+  "lastUpdated": "2025-11-19T03:14:25.805410+00:00",
   "articles": [
+    {
+      "title": "These are Boston\u2019s first-ever Michelin Guide restaurants",
+      "link": "https://www.boston.com/food/food-news/2025/11/18/boston-michelin-guide/",
+      "pubDate": "Wed, 19 Nov 2025 02:11:16 +0000",
+      "description": "<p>For the first time in Michelin history, Boston restaurants are now on the guide. </p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2025/11/18/boston-michelin-guide/\">These are Boston&#8217;s first-ever Michelin Guide restaurants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1e63ba277c79cc7840ffe3f4dfd04e3b",
+      "summary": [
+        "Update: These are Boston\u2019s first-ever Michelin Guide resta",
+        "Details: <p>For the first time in Michelin history, Boston ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Is the dealer recommending unnecessary maintenance?",
       "link": "https://www.boston.com/cars/how-to/2025/11/18/car-doctor-is-the-dealer-recommending-unnecessary-maintenance/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Harvard custodians go on strike",
         "Details: <p>Over 800 custodians walked off the job demandin",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "What Mike Vrabel said about missing Milton Williams for the \u2018foreseeable future\u2019",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/17/milton-wllliams-injury-patriots-injured-reserve-mike-vrabel-comments/",
-      "pubDate": "Mon, 17 Nov 2025 20:05:46 +0000",
-      "description": "<p>Williams is working hard to get back, Vrabel said, but the Patriots will be without him for a while. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/17/milton-wllliams-injury-patriots-injured-reserve-mike-vrabel-comments/\">What Mike Vrabel said about missing Milton Williams for the &#8216;foreseeable future&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "28c3f0de891e0ff18e2ee7a91359d528",
-      "summary": [
-        "Update: What Mike Vrabel said about missing Milton William",
-        "Details: <p>Williams is working hard to get back, Vrabel sa",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
