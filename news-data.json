@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-11-19T10:26:38.094366+00:00",
+  "lastUpdated": "2025-11-19T12:49:48.899900+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (Nov. 19)",
-      "link": "https://www.boston.com/real-estate/real-estate-news/2025/11/19/recent-homes-sales-in-greater-boston-nov-19/",
-      "pubDate": "Wed, 19 Nov 2025 10:00:00 +0000",
-      "description": "<p>ABINGTON 113 Ashland St. One-family Colonial, built in 1822, 3,390 square feet, 12 rooms, 5 bedrooms, 3 baths, on 40,135-square-foot lot. $775,000 74 Checkerberry Road. One-family Colonial, built in 1981, 2,432 square feet, 8 rooms, 4 bedrooms, 3 baths, on 20,019-square-foot lot. $769,000 48 Olson St. One-family Colonial, built in 1951, 1,552 square feet, 8 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/11/19/recent-homes-sales-in-greater-boston-nov-19/\">Recent homes sales in Greater Boston (Nov. 19)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6c623fa862af86368d4a0a0afd932ccb",
+      "title": "Patriots legend Vince Wilfork can\u2019t wait for Bill Belichick, Robert Kraft to end their \u2018beef\u2019",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/19/vince-wilfork-new-england-patriots-nfl-football-bill-belichick-robert-kraft-the-tradition/",
+      "pubDate": "Wed, 19 Nov 2025 11:43:58 +0000",
+      "description": "<p>\"It'll get to a point where they get it squashed and we'll be able to move forward and celebrate it how we should.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/19/vince-wilfork-new-england-patriots-nfl-football-bill-belichick-robert-kraft-the-tradition/\">Patriots legend Vince Wilfork can\u2019t wait for Bill Belichick, Robert Kraft to end their \u2018beef\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ddd8255e7598018a7eae89bc3123a47e",
       "summary": [
-        "Update: Recent homes sales in Greater Boston (Nov. 19)",
-        "Details: <p>ABINGTON 113 Ashland St. One-family Colonial, b",
+        "Update: Patriots legend Vince Wilfork can\u2019t wait for Bill ",
+        "Details: <p>\"It'll get to a point where they get it squashe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox reportedly \u2018showing interest\u2019 in free agent Bo Bichette",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/11/19/boston-red-sox-rumors-offseason-free-agency-mlb-baseball-bo-bichette/",
+      "pubDate": "Wed, 19 Nov 2025 11:36:55 +0000",
+      "description": "<p>Bo Bichette could be a potential replacement if the Red Sox can't re-sign Alex Bregman. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/19/boston-red-sox-rumors-offseason-free-agency-mlb-baseball-bo-bichette/\">Red Sox reportedly \u2018showing interest\u2019 in free agent Bo Bichette</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "76125c82226dfd6d47a1dbf4f7658040",
+      "summary": [
+        "Update: Red Sox reportedly \u2018showing interest\u2019 in free agen",
+        "Details: <p>Bo Bichette could be a potential replacement if",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox make 4 trades, cut Nathaniel Lowe on busy day for Craig Breslow",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/11/19/boston-red-sox-trades-mlb-baseball-craig-breslow-nathaniel-lowe-brennan-bernardino/",
+      "pubDate": "Wed, 19 Nov 2025 11:33:08 +0000",
+      "description": "<p>The Red Sox reshuffled portions of their bullpen on Tuesday afternoon. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/19/boston-red-sox-trades-mlb-baseball-craig-breslow-nathaniel-lowe-brennan-bernardino/\">Red Sox make 4 trades, cut Nathaniel Lowe on busy day for Craig Breslow</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "60372779689f3f3937b26e8e5f69ce48",
+      "summary": [
+        "Update: Red Sox make 4 trades, cut Nathaniel Lowe on busy ",
+        "Details: <p>The Red Sox reshuffled portions of their bullpe",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-19T10:26:38.094388+00:00"
+    "timestamp": "2025-11-19T12:49:48.899921+00:00"
   }
 }
