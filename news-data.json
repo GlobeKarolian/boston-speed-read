@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-19T08:31:33.723470+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-19T10:26:38.094366+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Nov. 19)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/11/19/recent-homes-sales-in-greater-boston-nov-19/",
+      "pubDate": "Wed, 19 Nov 2025 10:00:00 +0000",
+      "description": "<p>ABINGTON 113 Ashland St. One-family Colonial, built in 1822, 3,390 square feet, 12 rooms, 5 bedrooms, 3 baths, on 40,135-square-foot lot. $775,000 74 Checkerberry Road. One-family Colonial, built in 1981, 2,432 square feet, 8 rooms, 4 bedrooms, 3 baths, on 20,019-square-foot lot. $769,000 48 Olson St. One-family Colonial, built in 1951, 1,552 square feet, 8 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/11/19/recent-homes-sales-in-greater-boston-nov-19/\">Recent homes sales in Greater Boston (Nov. 19)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6c623fa862af86368d4a0a0afd932ccb",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Nov. 19)",
+        "Details: <p>ABINGTON 113 Ashland St. One-family Colonial, b",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-19T08:31:33.723478+00:00"
+    "timestamp": "2025-11-19T10:26:38.094388+00:00"
   }
 }
