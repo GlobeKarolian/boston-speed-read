@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-20T10:25:51.194659+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-20T12:48:18.199917+00:00",
+  "articles": [
+    {
+      "title": "Ian Moore scores late tiebreaking goal in Ducks\u2019 4-3 victory over the Bruins",
+      "link": "https://www.boston.com/sports/sports/2025/11/20/bruins-ducks-score-recap/",
+      "pubDate": "Thu, 20 Nov 2025 05:52:53 +0000",
+      "description": "<p>The Bruins continue their west coast swing with a game vs. the Kings on Friday night.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2025/11/20/bruins-ducks-score-recap/\">Ian Moore scores late tiebreaking goal in Ducks&#8217; 4-3 victory over the Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de87b75beb2907d34b6b695776ec57ca",
+      "summary": [
+        "Update: Ian Moore scores late tiebreaking goal in Ducks\u2019 4",
+        "Details: <p>The Bruins continue their west coast swing with",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-20T10:25:51.194667+00:00"
+    "timestamp": "2025-11-20T12:48:18.199936+00:00"
   }
 }
