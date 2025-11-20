@@ -1,12 +1,38 @@
 {
-  "lastUpdated": "2025-11-20T12:48:18.199917+00:00",
+  "lastUpdated": "2025-11-20T14:23:47.252447+00:00",
   "articles": [
     {
+      "title": "Victim identified in Yarmouth trench collapse",
+      "link": "https://www.boston.com/news/local-news/2025/11/20/victim-identified-in-yarmouth-trench-collapse/",
+      "pubDate": "Thu, 20 Nov 2025 13:48:50 +0000",
+      "description": "<p>Two other workers were injured.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/20/victim-identified-in-yarmouth-trench-collapse/\">Victim identified in Yarmouth trench collapse</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dcc9e2b317cc8958bf0adfa0e0a84cc8",
+      "summary": [
+        "Update: Victim identified in Yarmouth trench collapse",
+        "Details: <p>Two other workers were injured.</p>\n<p>The post",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the gardener: How and why to support winter farmers markets in Mass.",
+      "link": "https://www.boston.com/real-estate/gardening/2025/11/20/winter-farmers-markets-massachusetts-vegetables/",
+      "pubDate": "Thu, 20 Nov 2025 12:00:00 +0000",
+      "description": "<p>New England is a challenging place to be a farmer, and these winter markets serve as a vital lifeline for those engaged in this crucial work.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/gardening/2025/11/20/winter-farmers-markets-massachusetts-vegetables/\">Ask the gardener: How and why to support winter farmers markets in Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bd85da2d8fe164f8d943dc1d2a7099ff",
+      "summary": [
+        "Update: Ask the gardener: How and why to support winter fa",
+        "Details: <p>New England is a challenging place to be a farm",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
       "title": "Ian Moore scores late tiebreaking goal in Ducks\u2019 4-3 victory over the Bruins",
-      "link": "https://www.boston.com/sports/sports/2025/11/20/bruins-ducks-score-recap/",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/11/20/bruins-ducks-score-recap/",
       "pubDate": "Thu, 20 Nov 2025 05:52:53 +0000",
-      "description": "<p>The Bruins continue their west coast swing with a game vs. the Kings on Friday night.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2025/11/20/bruins-ducks-score-recap/\">Ian Moore scores late tiebreaking goal in Ducks&#8217; 4-3 victory over the Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "de87b75beb2907d34b6b695776ec57ca",
+      "description": "<p>The Bruins continue their west coast swing with a game vs. the Kings on Friday night.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/11/20/bruins-ducks-score-recap/\">Ian Moore scores late tiebreaking goal in Ducks&#8217; 4-3 victory over the Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7619051083691596d86fbb0ee58f9675",
       "summary": [
         "Update: Ian Moore scores late tiebreaking goal in Ducks\u2019 4",
         "Details: <p>The Bruins continue their west coast swing with",
@@ -16,8 +42,8 @@
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-20T12:48:18.199936+00:00"
+    "timestamp": "2025-11-20T14:23:47.252467+00:00"
   }
 }
