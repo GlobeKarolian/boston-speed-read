@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-11-21T12:46:52.112143+00:00",
+  "lastUpdated": "2025-11-21T14:22:42.479501+00:00",
   "articles": [
     {
+      "title": "Grizzly attacks schoolchildren and teachers on a walking trail in Canada, injuring 11",
+      "link": "https://www.boston.com/news/world-news/2025/11/21/grizzly-attacks-schoolchildren-teachers-walking-trail-canada/",
+      "pubDate": "Fri, 21 Nov 2025 13:31:25 +0000",
+      "description": "<p>The Nuxalk Nation said the \u201caggressive bear\u201d remained on the loose Thursday evening and police and conservation officers were on the scene.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/11/21/grizzly-attacks-schoolchildren-teachers-walking-trail-canada/\">Grizzly attacks schoolchildren and teachers on a walking trail in Canada, injuring 11</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b223ce13fc0d2168684598c6382e829e",
+      "summary": [
+        "Update: Grizzly attacks schoolchildren and teachers on a w",
+        "Details: <p>The Nuxalk Nation said the \u201caggressive bear\u201d re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The one piece of evidence the skeptics miss about the Patriots? They are unbeaten on the road.",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/21/patriots-bengals-nfl-week-12-preview-predictions/",
+      "pubDate": "Fri, 21 Nov 2025 13:31:17 +0000",
+      "description": "<p>New England will look to keep this streak alive as they travel to Cincinnati on Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/21/patriots-bengals-nfl-week-12-preview-predictions/\">The one piece of evidence the skeptics miss about the Patriots? They are unbeaten on the road.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c731641c79712b31897d460158a01c71",
+      "summary": [
+        "Update: The one piece of evidence the skeptics miss about ",
+        "Details: <p>New England will look to keep this streak alive",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
       "title": "Marcel Breuer\u2019s modernist Wellfleet summer cottage was brought back to life and opened to the public",
-      "link": "https://www.boston.com/real-estate/local-news/2025/11/21/marcel-breuer-wellfleet-cape-cod-architecture-bauhaus/",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/11/21/marcel-breuer-wellfleet-cape-cod-architecture-bauhaus/",
       "pubDate": "Fri, 21 Nov 2025 12:00:00 +0000",
-      "description": "<p>The Cape Cod Modern House Trust purchased the architect\u2019s decaying 1949 house and restored it to its former glory.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/local-news/2025/11/21/marcel-breuer-wellfleet-cape-cod-architecture-bauhaus/\">Marcel Breuer\u2019s modernist Wellfleet summer cottage was brought back to life and opened to the public</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5980a63cf6da9c9ed006466f84292ad9",
+      "description": "<p>The Cape Cod Modern House Trust purchased the architect\u2019s decaying 1949 house and restored it to its former glory.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/11/21/marcel-breuer-wellfleet-cape-cod-architecture-bauhaus/\">Marcel Breuer\u2019s modernist Wellfleet summer cottage was brought back to life and opened to the public</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8856d3a9808b44f16aaa1232ba9f7535",
       "summary": [
         "Update: Marcel Breuer\u2019s modernist Wellfleet summer cottage",
         "Details: <p>The Cape Cod Modern House Trust purchased the a",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2025/11/21/greater-boston-news-quiz-nov-21-2025-american-revolution-michelin-guide-patriots/",
-      "pubDate": "Fri, 21 Nov 2025 11:44:33 +0000",
-      "description": "<p>An all-star eatery, a Pats dis, and \u201cThe American Revolution\u201d are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/11/21/greater-boston-news-quiz-nov-21-2025-american-revolution-michelin-guide-patriots/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "617decb9329966840b10ba7759689d7f",
-      "summary": [
-        "Update: Did you follow the local news this week? Take our ",
-        "Details: <p>An all-star eatery, a Pats dis, and \u201cThe Americ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-21T12:46:52.112161+00:00"
+    "timestamp": "2025-11-21T14:22:42.479521+00:00"
   }
 }
