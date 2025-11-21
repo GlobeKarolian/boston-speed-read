@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-11-21T10:24:59.585142+00:00",
+  "lastUpdated": "2025-11-21T12:46:52.112143+00:00",
   "articles": [
     {
-      "title": "Some GOP candidates for governor have donated to Democrats. Here are all the candidates\u2019 donations broken down.",
-      "link": "https://www.boston.com/news/politics/2025/11/21/some-gop-candidates-for-governor-have-donated-to-democrats-here-are-all-the-candidates-donations-broken-down/",
-      "pubDate": "Fri, 21 Nov 2025 10:00:00 +0000",
-      "description": "<p>One candidate donated $32,000 to Rep. Seth Moulton, one, previously donated to Sen. Ed Markey, and the wife of another donated thousands to Healey.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/21/some-gop-candidates-for-governor-have-donated-to-democrats-here-are-all-the-candidates-donations-broken-down/\">Some GOP candidates for governor have donated to Democrats. Here are all the candidates&#8217; donations broken down.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "80e3a828c13740f1d95ce277e5df375b",
+      "title": "Marcel Breuer\u2019s modernist Wellfleet summer cottage was brought back to life and opened to the public",
+      "link": "https://www.boston.com/real-estate/local-news/2025/11/21/marcel-breuer-wellfleet-cape-cod-architecture-bauhaus/",
+      "pubDate": "Fri, 21 Nov 2025 12:00:00 +0000",
+      "description": "<p>The Cape Cod Modern House Trust purchased the architect\u2019s decaying 1949 house and restored it to its former glory.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/local-news/2025/11/21/marcel-breuer-wellfleet-cape-cod-architecture-bauhaus/\">Marcel Breuer\u2019s modernist Wellfleet summer cottage was brought back to life and opened to the public</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5980a63cf6da9c9ed006466f84292ad9",
       "summary": [
-        "Update: Some GOP candidates for governor have donated to D",
-        "Details: <p>One candidate donated $32,000 to Rep. Seth Moul",
+        "Update: Marcel Breuer\u2019s modernist Wellfleet summer cottage",
+        "Details: <p>The Cape Cod Modern House Trust purchased the a",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/11/21/greater-boston-news-quiz-nov-21-2025-american-revolution-michelin-guide-patriots/",
+      "pubDate": "Fri, 21 Nov 2025 11:44:33 +0000",
+      "description": "<p>An all-star eatery, a Pats dis, and \u201cThe American Revolution\u201d are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/11/21/greater-boston-news-quiz-nov-21-2025-american-revolution-michelin-guide-patriots/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "617decb9329966840b10ba7759689d7f",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>An all-star eatery, a Pats dis, and \u201cThe Americ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-21T10:24:59.585173+00:00"
+    "timestamp": "2025-11-21T12:46:52.112161+00:00"
   }
 }
