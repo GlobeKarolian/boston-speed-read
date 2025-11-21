@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-21T08:32:30.066455+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-21T10:24:59.585142+00:00",
+  "articles": [
+    {
+      "title": "Some GOP candidates for governor have donated to Democrats. Here are all the candidates\u2019 donations broken down.",
+      "link": "https://www.boston.com/news/politics/2025/11/21/some-gop-candidates-for-governor-have-donated-to-democrats-here-are-all-the-candidates-donations-broken-down/",
+      "pubDate": "Fri, 21 Nov 2025 10:00:00 +0000",
+      "description": "<p>One candidate donated $32,000 to Rep. Seth Moulton, one, previously donated to Sen. Ed Markey, and the wife of another donated thousands to Healey.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/11/21/some-gop-candidates-for-governor-have-donated-to-democrats-here-are-all-the-candidates-donations-broken-down/\">Some GOP candidates for governor have donated to Democrats. Here are all the candidates&#8217; donations broken down.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "80e3a828c13740f1d95ce277e5df375b",
+      "summary": [
+        "Update: Some GOP candidates for governor have donated to D",
+        "Details: <p>One candidate donated $32,000 to Rep. Seth Moul",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-21T08:32:30.066464+00:00"
+    "timestamp": "2025-11-21T10:24:59.585173+00:00"
   }
 }
