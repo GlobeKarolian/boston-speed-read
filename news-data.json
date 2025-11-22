@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-22T10:22:02.332858+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-22T12:40:56.161822+00:00",
+  "articles": [
+    {
+      "title": "\u2018Come ready to play or don\u2019t come at all\u2019: Jaylen Brown doesn\u2019t mince words after Celtics\u2019 loss to Nets",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/11/22/celtics-nets-jaylen-brown-postgame-quotes/",
+      "pubDate": "Sat, 22 Nov 2025 12:29:13 +0000",
+      "description": "<p>\u201cCome ready to play basketball, or you're doing a disservice.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/22/celtics-nets-jaylen-brown-postgame-quotes/\">\u2018Come ready to play or don\u2019t come at all\u2019: Jaylen Brown doesn\u2019t mince words after Celtics\u2019 loss to Nets</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d7a81c47c0ded0b91681143156dd4229",
+      "summary": [
+        "Update: \u2018Come ready to play or don\u2019t come at all\u2019: Jaylen ",
+        "Details: <p>\u201cCome ready to play basketball, or you're doing",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-22T10:22:02.332866+00:00"
+    "timestamp": "2025-11-22T12:40:56.161841+00:00"
   }
 }
