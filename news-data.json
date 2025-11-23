@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-23T04:34:51.540394+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-23T06:33:07.297950+00:00",
+  "articles": [
+    {
+      "title": "Stephen A. Smith walks back comments on Patriots QB Drake Maye: \u2018I was being facetious\u2019",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/22/nfl-patriots-drake-maye-stephen-a-smith-apology/",
+      "pubDate": "Sun, 23 Nov 2025 04:48:02 +0000",
+      "description": "<p>Smith caught flak on social media for calling Maye a liar earlier in the week.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/22/nfl-patriots-drake-maye-stephen-a-smith-apology/\">Stephen A. Smith walks back comments on Patriots QB Drake Maye: &#8216;I was being facetious&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fd3d47da0768f8137827eab42bb5a41c",
+      "summary": [
+        "Update: Stephen A. Smith walks back comments on Patriots Q",
+        "Details: <p>Smith caught flak on social media for calling M",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-23T04:34:51.540406+00:00"
+    "timestamp": "2025-11-23T06:33:07.297969+00:00"
   }
 }
