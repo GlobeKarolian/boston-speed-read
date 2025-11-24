@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-24T10:27:19.513973+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-24T12:50:40.225652+00:00",
+  "articles": [
+    {
+      "title": "Where to get the best cookies in Greater Boston",
+      "link": "https://www.boston.com/food/food/2025/11/24/the-best-cookies-greater-boston/",
+      "pubDate": "Mon, 24 Nov 2025 12:38:31 +0000",
+      "description": "<p>From gooey chocolate chip to citrus-sesame and dulce-de-leche alfajores, here's where to find the best cookies in Greater Boston \u2014 plus reader favorites and a map for your next cookie crawl.</p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/11/24/the-best-cookies-greater-boston/\">Where to get the best cookies in Greater Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3ac3a2b8ec236a8aff36f87e33cbb053",
+      "summary": [
+        "Update: Where to get the best cookies in Greater Boston",
+        "Details: <p>From gooey chocolate chip to citrus-sesame and ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Drake Maye continues to play beyond his years, even in imperfect win over Bengals",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/24/drake-maye-continues-to-play-beyond-his-years-even-in-imperfect-win-over-bengals/",
+      "pubDate": "Mon, 24 Nov 2025 12:28:07 +0000",
+      "description": "<p>Maye didn\u2019t just battle back from bad plays. He made big plays when the Patriots found themselves in tenuous circumstances, especially in the second half.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/24/drake-maye-continues-to-play-beyond-his-years-even-in-imperfect-win-over-bengals/\">Drake Maye continues to play beyond his years, even in imperfect win over Bengals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3526271941d3e72fd1ed13e1831a4dc6",
+      "summary": [
+        "Update: Drake Maye continues to play beyond his years, eve",
+        "Details: <p>Maye didn\u2019t just battle back from bad plays. He",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-24T10:27:19.513981+00:00"
+    "timestamp": "2025-11-24T12:50:40.225671+00:00"
   }
 }
