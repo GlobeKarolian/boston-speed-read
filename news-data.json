@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-26T10:27:02.845080+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-26T12:51:23.243773+00:00",
+  "articles": [
+    {
+      "title": "Ask the remodeler: Maintaining your fireplace during the holiday season",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/11/26/fireplace-safety-wood-burning-gas-new-england/",
+      "pubDate": "Wed, 26 Nov 2025 12:00:00 +0000",
+      "description": "<p>From wood-burning to gas, here are some safety tips to keep in mind before lighting a roaring fire this holiday season. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/11/26/fireplace-safety-wood-burning-gas-new-england/\">Ask the remodeler: Maintaining your fireplace during the holiday season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1ed6766c8d66d063e49fc119f7f89f56",
+      "summary": [
+        "Update: Ask the remodeler: Maintaining your fireplace duri",
+        "Details: <p>From wood-burning to gas, here are some safety ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-26T10:27:02.845089+00:00"
+    "timestamp": "2025-11-26T12:51:23.243793+00:00"
   }
 }
