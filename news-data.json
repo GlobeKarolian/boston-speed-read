@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-11-26T22:22:16.746587+00:00",
+  "lastUpdated": "2025-11-27T01:49:17.252835+00:00",
   "articles": [
     {
-      "title": "Denial of service to Black journalist was a case of \u2018mistaken identity,\u2019 says Caff\u00e8 Nero",
-      "link": "https://www.boston.com/news/local-news/2025/11/26/caffe-nero-black-journalist-denied-service-mistaken-identity/",
-      "pubDate": "Wed, 26 Nov 2025 20:42:23 +0000",
-      "description": "<p>\u201cThe reason this is an issue for me is because I don't want it to happen to anyone else,\u201d said Phillip Martin, a retired investigative reporter. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/26/caffe-nero-black-journalist-denied-service-mistaken-identity/\">Denial of service to Black journalist was a case of \u2018mistaken identity,\u2019 says Caff\u00e8 Nero</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2ce91e2bfe2553aa49bfd9eb2cfcc788",
+      "title": "Several suspects facing charges after police recover meth, cocaine in Roslindale drug bust",
+      "link": "https://www.boston.com/news/crime/2025/11/26/several-suspects-facing-charges-after-police-recover-meth-cocaine-in-roslindale-drug-bust/",
+      "pubDate": "Thu, 27 Nov 2025 01:10:43 +0000",
+      "description": "<p>The suspects were arrested after police searched a Roslindale apartment and found a kilogram each of meth and cocaine.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/26/several-suspects-facing-charges-after-police-recover-meth-cocaine-in-roslindale-drug-bust/\">Several suspects facing charges after police recover meth, cocaine in Roslindale drug bust</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4a1bb0b74b880d94c73be94fe3abb988",
       "summary": [
-        "Update: Denial of service to Black journalist was a case o",
-        "Details: <p>\u201cThe reason this is an issue for me is because ",
+        "Update: Several suspects facing charges after police recov",
+        "Details: <p>The suspects were arrested after police searche",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "5 must-watch movies & TV shows streaming this Thanksgiving weekend",
-      "link": "https://www.boston.com/culture/streaming/2025/11/26/streaming-movies-tv-to-watch-thanksgiving-2025/",
-      "pubDate": "Wed, 26 Nov 2025 20:42:14 +0000",
-      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2025/11/26/streaming-movies-tv-to-watch-thanksgiving-2025/\">5 must-watch movies &amp; TV shows streaming this Thanksgiving weekend</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2bd2705e52cf84a57740cf5985960246",
+      "title": "DA: Suspect identified in homicide of Fall River man outside liquor store",
+      "link": "https://www.boston.com/news/crime/2025/11/26/da-suspect-identified-in-homicide-of-fall-river-man-outside-liquor-store/",
+      "pubDate": "Thu, 27 Nov 2025 00:30:39 +0000",
+      "description": "<p>The suspect was arrested in Florida and is being held there until he can be brought back to Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/26/da-suspect-identified-in-homicide-of-fall-river-man-outside-liquor-store/\">DA: Suspect identified in homicide of Fall River man outside liquor store</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ccf0039f79b211f186414a3c6a2c27e9",
       "summary": [
-        "Update: 5 must-watch movies & TV shows streaming this Than",
-        "Details: <p>The best of what's new streaming on Netflix, Hu",
+        "Update: DA: Suspect identified in homicide of Fall River m",
+        "Details: <p>The suspect was arrested in Florida and is bein",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Pedestrian, 68, struck and killed by SUV in Haverhill",
+      "link": "https://www.boston.com/news/local-news/2025/11/26/pedestrian-68-struck-and-killed-by-suv-in-haverhill/",
+      "pubDate": "Wed, 26 Nov 2025 23:06:55 +0000",
+      "description": "<p>The Volvo, carrying an infant, was first hit by a pick-up truck before hitting a third vehicle, the DA said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/26/pedestrian-68-struck-and-killed-by-suv-in-haverhill/\">Pedestrian, 68, struck and killed by SUV in Haverhill</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c975f169e23b09336d6db1b6ac6780d8",
+      "summary": [
+        "Update: Pedestrian, 68, struck and killed by SUV in Haverh",
+        "Details: <p>The Volvo, carrying an infant, was first hit by",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-11-26T22:22:16.746600+00:00"
+    "timestamp": "2025-11-27T01:49:17.252857+00:00"
   }
 }
