@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-11-28T12:48:23.454082+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-28T14:23:16.130977+00:00",
+  "articles": [
+    {
+      "title": "Death toll rises to 128 in Hong Kong residential fire; 8 more arrested over towers\u2019 renovation",
+      "link": "https://www.boston.com/news/world-news/2025/11/28/hong-kong-apartment-tower-fire-deaths-arrests/",
+      "pubDate": "Fri, 28 Nov 2025 13:46:45 +0000",
+      "description": "<p>It took firefighters some 24 hours to bring the fire under control, and it was not fully extinguished until Friday morning.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/11/28/hong-kong-apartment-tower-fire-deaths-arrests/\">Death toll rises to 128 in Hong Kong residential fire; 8 more arrested over towers&#8217; renovation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3c6953f4c750e19e06dfa0ae3b4d304c",
+      "summary": [
+        "Update: Death toll rises to 128 in Hong Kong residential f",
+        "Details: <p>It took firefighters some 24 hours to bring the",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "What we do and don\u2019t know about the shooting of 2 National Guard members in D.C.",
+      "link": "https://www.boston.com/news/national-news/2025/11/28/what-we-know-shooting-2-national-guard-members-dc/",
+      "pubDate": "Fri, 28 Nov 2025 13:22:59 +0000",
+      "description": "<p>Specialist Sarah Beckstrom, 20, had died from her injuries in Wednesday's shooting. Staff Sgt. Andrew Wolfe, 24, remained hospitalized in critical condition.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/28/what-we-know-shooting-2-national-guard-members-dc/\">What we do and don\u2019t know about the shooting of 2 National Guard members in D.C.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7063ab6965908884884f1df5e78d4a02",
+      "summary": [
+        "Update: What we do and don\u2019t know about the shooting of 2 ",
+        "Details: <p>Specialist Sarah Beckstrom, 20, had died from h",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-28T12:48:23.454090+00:00"
+    "timestamp": "2025-11-28T14:23:16.130996+00:00"
   }
 }
