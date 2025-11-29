@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2025-11-29T14:20:23.952382+00:00",
+  "lastUpdated": "2025-11-29T16:27:44.726439+00:00",
   "articles": [
     {
-      "title": "Airlines work to fix software glitch, some flights disrupted",
-      "link": "https://www.boston.com/news/travel/2025/11/29/airlines-work-to-fix-software-glitch-some-flights-disrupted/",
-      "pubDate": "Sat, 29 Nov 2025 13:37:45 +0000",
-      "description": "<p>More than 500 U.S.-registered aircraft will be impacted.</p>\n<p>The post <a href=\"https://www.boston.com/news/travel/2025/11/29/airlines-work-to-fix-software-glitch-some-flights-disrupted/\">Airlines work to fix software glitch, some flights disrupted</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f241223ba75f18b2c5e6e2ebf6ec3964",
+      "title": "Judge says more women can join lawsuit over hidden camera in John Hancock locker room",
+      "link": "https://www.boston.com/news/local-news/2025/11/29/judge-says-more-women-can-join-lawsuit-over-hidden-camera-in-john-hancock-locker-room/",
+      "pubDate": "Sat, 29 Nov 2025 14:47:38 +0000",
+      "description": "<p>A secret camera was stashed in the locker room ceiling of the former John Hancock headquarters in Boston\u2019s Seaport. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/29/judge-says-more-women-can-join-lawsuit-over-hidden-camera-in-john-hancock-locker-room/\">Judge says more women can join lawsuit over hidden camera in John Hancock locker room</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ea1231181cd74430b3a0609b03f4c772",
       "summary": [
-        "Update: Airlines work to fix software glitch, some flights",
-        "Details: <p>More than 500 U.S.-registered aircraft will be ",
+        "Update: Judge says more women can join lawsuit over hidden",
+        "Details: <p>A secret camera was stashed in the locker room ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "US halts all asylum decisions after shooting of National Guard members",
-      "link": "https://www.boston.com/news/national-news/2025/11/29/us-halts-all-asylum-decisions-after-shooting-of-national-guard-members/",
-      "pubDate": "Sat, 29 Nov 2025 12:55:00 +0000",
-      "description": "<p>Trump called the shooting a \u201cterrorist attack\u201d and criticized the Biden administration for enabling entry by Afghans who worked with U.S. forces.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/29/us-halts-all-asylum-decisions-after-shooting-of-national-guard-members/\">US halts all asylum decisions after shooting of National Guard members</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c89b8b55c9e15f5b44ccfb945c8f8eeb",
+      "title": "Typo for Olivia Dean\u2019s TD Garden show has fans up in arms",
+      "link": "https://www.boston.com/news/local-news/2025/11/29/typo-for-olivia-deans-td-garden-show-has-fans-up-in-arms/",
+      "pubDate": "Sat, 29 Nov 2025 14:18:11 +0000",
+      "description": "<p>Fans were fuming after tickets to Olivia Dean\u2019s August 2026 TD Garden show were priced at a whopping $753.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/29/typo-for-olivia-deans-td-garden-show-has-fans-up-in-arms/\">Typo for Olivia Dean&#8217;s TD Garden show has fans up in arms</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cdad4876b2ae1f8167e5e523c749bcf3",
       "summary": [
-        "Update: US halts all asylum decisions after shooting of Na",
-        "Details: <p>Trump called the shooting a \u201cterrorist attack\u201d ",
+        "Update: Typo for Olivia Dean\u2019s TD Garden show has fans up ",
+        "Details: <p>Fans were fuming after tickets to Olivia Dean\u2019s",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-29T14:20:23.952398+00:00"
+    "timestamp": "2025-11-29T16:27:44.726452+00:00"
   }
 }
