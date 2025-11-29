@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-11-29T10:23:12.200496+00:00",
-  "articles": [],
+  "lastUpdated": "2025-11-29T12:44:08.153489+00:00",
+  "articles": [
+    {
+      "title": "Jaylen Brown, Derrick White appear on Celtics\u2019 injury report ahead of Timberwolves game",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/11/29/celtics-timberwolves-injury-report-jaylen-brown-derrick-white/",
+      "pubDate": "Sat, 29 Nov 2025 12:19:23 +0000",
+      "description": "<p>White is coming off his best performance of the season against the Pistons on Wednesday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/29/celtics-timberwolves-injury-report-jaylen-brown-derrick-white/\">Jaylen Brown, Derrick White appear on Celtics\u2019 injury report ahead of Timberwolves game</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c3eec2160586ec4896766baa156ba332",
+      "summary": [
+        "Update: Jaylen Brown, Derrick White appear on Celtics\u2019 inj",
+        "Details: <p>White is coming off his best performance of the",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-29T10:23:12.200504+00:00"
+    "timestamp": "2025-11-29T12:44:08.153510+00:00"
   }
 }
