@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-11-29T12:44:08.153489+00:00",
+  "lastUpdated": "2025-11-29T14:20:23.952382+00:00",
   "articles": [
     {
-      "title": "Jaylen Brown, Derrick White appear on Celtics\u2019 injury report ahead of Timberwolves game",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/11/29/celtics-timberwolves-injury-report-jaylen-brown-derrick-white/",
-      "pubDate": "Sat, 29 Nov 2025 12:19:23 +0000",
-      "description": "<p>White is coming off his best performance of the season against the Pistons on Wednesday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/29/celtics-timberwolves-injury-report-jaylen-brown-derrick-white/\">Jaylen Brown, Derrick White appear on Celtics\u2019 injury report ahead of Timberwolves game</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c3eec2160586ec4896766baa156ba332",
+      "title": "Airlines work to fix software glitch, some flights disrupted",
+      "link": "https://www.boston.com/news/travel/2025/11/29/airlines-work-to-fix-software-glitch-some-flights-disrupted/",
+      "pubDate": "Sat, 29 Nov 2025 13:37:45 +0000",
+      "description": "<p>More than 500 U.S.-registered aircraft will be impacted.</p>\n<p>The post <a href=\"https://www.boston.com/news/travel/2025/11/29/airlines-work-to-fix-software-glitch-some-flights-disrupted/\">Airlines work to fix software glitch, some flights disrupted</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f241223ba75f18b2c5e6e2ebf6ec3964",
       "summary": [
-        "Update: Jaylen Brown, Derrick White appear on Celtics\u2019 inj",
-        "Details: <p>White is coming off his best performance of the",
+        "Update: Airlines work to fix software glitch, some flights",
+        "Details: <p>More than 500 U.S.-registered aircraft will be ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "US halts all asylum decisions after shooting of National Guard members",
+      "link": "https://www.boston.com/news/national-news/2025/11/29/us-halts-all-asylum-decisions-after-shooting-of-national-guard-members/",
+      "pubDate": "Sat, 29 Nov 2025 12:55:00 +0000",
+      "description": "<p>Trump called the shooting a \u201cterrorist attack\u201d and criticized the Biden administration for enabling entry by Afghans who worked with U.S. forces.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/11/29/us-halts-all-asylum-decisions-after-shooting-of-national-guard-members/\">US halts all asylum decisions after shooting of National Guard members</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c89b8b55c9e15f5b44ccfb945c8f8eeb",
+      "summary": [
+        "Update: US halts all asylum decisions after shooting of Na",
+        "Details: <p>Trump called the shooting a \u201cterrorist attack\u201d ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-29T12:44:08.153510+00:00"
+    "timestamp": "2025-11-29T14:20:23.952398+00:00"
   }
 }
