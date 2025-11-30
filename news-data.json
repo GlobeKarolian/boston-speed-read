@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2025-11-30T16:27:23.963458+00:00",
+  "lastUpdated": "2025-11-30T18:31:47.130172+00:00",
   "articles": [
     {
-      "title": "Graduate student allegedly stabbed passengers with fork aboard flight diverted to Logan Airport",
-      "link": "https://www.boston.com/news/crime/2025/11/30/graduate-student-allegedly-stabbed-passengers-with-fork-aboard-flight-diverted-to-logan-airport/",
-      "pubDate": "Sun, 30 Nov 2025 14:55:57 +0000",
-      "description": "<p>The international flight landed in Boston after the Indian student allegedly stabbed two boys with the fork, according to court documents.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/30/graduate-student-allegedly-stabbed-passengers-with-fork-aboard-flight-diverted-to-logan-airport/\">Graduate student allegedly stabbed passengers with fork aboard flight diverted to Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "30894a29e6c247e9478560ea44c56371",
+      "title": "Mass. lawmakers hold hearing on immigration bill that would ban police from asking about status",
+      "link": "https://www.boston.com/news/local-news/2025/11/30/mass-lawmakers-hold-hearing-on-immigration-bill-that-would-ban-police-from-asking-about-status/",
+      "pubDate": "Sun, 30 Nov 2025 16:28:05 +0000",
+      "description": "<p>The bill, known as the Safe Communities Act, was proposed in response to the Trump administration\u2019s immigration crackdown.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/30/mass-lawmakers-hold-hearing-on-immigration-bill-that-would-ban-police-from-asking-about-status/\">Mass. lawmakers hold hearing on immigration bill that would ban police from asking about status</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f3e67113589f7bf9c028015a10d412c7",
       "summary": [
-        "Update: Graduate student allegedly stabbed passengers with",
-        "Details: <p>The international flight landed in Boston after",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Trump says Venezuelan airspace should be viewed as closed",
-      "link": "https://www.boston.com/news/world-news/2025/11/30/trump-says-venezuelan-airspace-should-be-viewed-as-closed/",
-      "pubDate": "Sun, 30 Nov 2025 14:24:37 +0000",
-      "description": "<p>Maduro accused Trump of making a \u201dcolonial threat\" and seeking to undermine the South American country's sovereignty.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/11/30/trump-says-venezuelan-airspace-should-be-viewed-as-closed/\">Trump says Venezuelan airspace should be viewed as closed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "021072b9b19fd739b98d6c86c75b18da",
-      "summary": [
-        "Update: Trump says Venezuelan airspace should be viewed as",
-        "Details: <p>Maduro accused Trump of making a \u201dcolonial thre",
+        "Update: Mass. lawmakers hold hearing on immigration bill t",
+        "Details: <p>The bill, known as the Safe Communities Act, wa",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-30T16:27:23.963475+00:00"
+    "timestamp": "2025-11-30T18:31:47.130191+00:00"
   }
 }
