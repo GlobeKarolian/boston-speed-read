@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2025-11-30T12:43:27.790632+00:00",
+  "lastUpdated": "2025-11-30T14:20:10.298752+00:00",
   "articles": [
     {
-      "title": "5 restaurants we\u2019re excited to try in December",
-      "link": "https://www.boston.com/food/restaurants/2025/11/30/5-restaurants-were-excited-to-try-in-december/",
-      "pubDate": "Sun, 30 Nov 2025 12:33:04 +0000",
-      "description": "<p>Boston area openings include a new Mexican joint in South Boston to a Havana-inspired concept from COJE Management Group.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2025/11/30/5-restaurants-were-excited-to-try-in-december/\">5 restaurants we\u2019re excited to try in December</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c2db9a5226c818ea27b034c86ddc1767",
+      "title": "AI country hit \u2018Walk My Walk\u2019 built on Blanco Brown\u2019s sound sparks questions of attribution, ethics",
+      "link": "https://www.boston.com/culture/entertainment/2025/11/30/ai-country-hit-walk-my-walk-built-on-blanco-browns-sound-sparks-questions-of-attribution-ethics/",
+      "pubDate": "Sun, 30 Nov 2025 14:16:30 +0000",
+      "description": "<p>The moment is the latest example of how generative AI is upending the music industry.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/11/30/ai-country-hit-walk-my-walk-built-on-blanco-browns-sound-sparks-questions-of-attribution-ethics/\">AI country hit &#8216;Walk My Walk&#8217; built on Blanco Brown&#8217;s sound sparks questions of attribution, ethics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0e200ca3daaed5375c6344b29e58faf3",
       "summary": [
-        "Update: 5 restaurants we\u2019re excited to try in December",
-        "Details: <p>Boston area openings include a new Mexican join",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Giveaway: Enter to win a stay at Ocean Edge Resort & Golf Club",
-      "link": "https://www.boston.com/travel/travel/2025/11/30/giveaway-ocean-edge-resort/",
-      "pubDate": "Sun, 30 Nov 2025 12:21:08 +0000",
-      "description": "<p>The winner will be selected on Dec. 3. </p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/11/30/giveaway-ocean-edge-resort/\">Giveaway: Enter to win a stay at Ocean Edge Resort &amp; Golf Club</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "560a867c20b180b6193e21c110a9eed3",
-      "summary": [
-        "Update: Giveaway: Enter to win a stay at Ocean Edge Resort",
-        "Details: <p>The winner will be selected on Dec. 3. </p>\n<p>",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Joe Mazzulla makes comical football comparison to avoid negative comments about officiating",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/11/30/nba-joe-mazzulla-football-comparison/",
-      "pubDate": "Sun, 30 Nov 2025 12:19:05 +0000",
-      "description": "<p>Mazzulla's response clearly carried some frustration toward the officiating of a particular play in Saturday's game.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/11/30/nba-joe-mazzulla-football-comparison/\">Joe Mazzulla makes comical football comparison to avoid negative comments about officiating</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "739fb3c332b4934d2218d94cd414f03b",
-      "summary": [
-        "Update: Joe Mazzulla makes comical football comparison to ",
-        "Details: <p>Mazzulla's response clearly carried some frustr",
+        "Update: AI country hit \u2018Walk My Walk\u2019 built on Blanco Brow",
+        "Details: <p>The moment is the latest example of how generat",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-11-30T12:43:27.790673+00:00"
+    "timestamp": "2025-11-30T14:20:10.298772+00:00"
   }
 }
