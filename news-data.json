@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-11-30T14:20:10.298752+00:00",
+  "lastUpdated": "2025-11-30T16:27:23.963458+00:00",
   "articles": [
     {
-      "title": "AI country hit \u2018Walk My Walk\u2019 built on Blanco Brown\u2019s sound sparks questions of attribution, ethics",
-      "link": "https://www.boston.com/culture/entertainment/2025/11/30/ai-country-hit-walk-my-walk-built-on-blanco-browns-sound-sparks-questions-of-attribution-ethics/",
-      "pubDate": "Sun, 30 Nov 2025 14:16:30 +0000",
-      "description": "<p>The moment is the latest example of how generative AI is upending the music industry.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/11/30/ai-country-hit-walk-my-walk-built-on-blanco-browns-sound-sparks-questions-of-attribution-ethics/\">AI country hit &#8216;Walk My Walk&#8217; built on Blanco Brown&#8217;s sound sparks questions of attribution, ethics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0e200ca3daaed5375c6344b29e58faf3",
+      "title": "Graduate student allegedly stabbed passengers with fork aboard flight diverted to Logan Airport",
+      "link": "https://www.boston.com/news/crime/2025/11/30/graduate-student-allegedly-stabbed-passengers-with-fork-aboard-flight-diverted-to-logan-airport/",
+      "pubDate": "Sun, 30 Nov 2025 14:55:57 +0000",
+      "description": "<p>The international flight landed in Boston after the Indian student allegedly stabbed two boys with the fork, according to court documents.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/30/graduate-student-allegedly-stabbed-passengers-with-fork-aboard-flight-diverted-to-logan-airport/\">Graduate student allegedly stabbed passengers with fork aboard flight diverted to Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "30894a29e6c247e9478560ea44c56371",
       "summary": [
-        "Update: AI country hit \u2018Walk My Walk\u2019 built on Blanco Brow",
-        "Details: <p>The moment is the latest example of how generat",
+        "Update: Graduate student allegedly stabbed passengers with",
+        "Details: <p>The international flight landed in Boston after",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Trump says Venezuelan airspace should be viewed as closed",
+      "link": "https://www.boston.com/news/world-news/2025/11/30/trump-says-venezuelan-airspace-should-be-viewed-as-closed/",
+      "pubDate": "Sun, 30 Nov 2025 14:24:37 +0000",
+      "description": "<p>Maduro accused Trump of making a \u201dcolonial threat\" and seeking to undermine the South American country's sovereignty.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2025/11/30/trump-says-venezuelan-airspace-should-be-viewed-as-closed/\">Trump says Venezuelan airspace should be viewed as closed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "021072b9b19fd739b98d6c86c75b18da",
+      "summary": [
+        "Update: Trump says Venezuelan airspace should be viewed as",
+        "Details: <p>Maduro accused Trump of making a \u201dcolonial thre",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-11-30T14:20:10.298772+00:00"
+    "timestamp": "2025-11-30T16:27:23.963475+00:00"
   }
 }
