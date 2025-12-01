@@ -1,62 +1,23 @@
 {
-  "lastUpdated": "2025-12-01T20:24:50.401422+00:00",
+  "lastUpdated": "2025-12-01T22:21:54.893801+00:00",
   "articles": [
     {
-      "title": "Babson College supports student deported to Honduras",
-      "link": "https://www.boston.com/news/education/2025/12/01/babson-college-supports-student-deported-to-honduras/",
-      "pubDate": "Mon, 01 Dec 2025 20:11:06 +0000",
-      "description": "<p>Any Lucia Lopez Belloza, 19, was detained at Boston Logan International Airport on Nov. 20 when she tried to board a flight to surprise her family in Texas. </p>\n<p>The post <a href=\"https://www.boston.com/news/education/2025/12/01/babson-college-supports-student-deported-to-honduras/\">Babson College supports student deported to Honduras</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8f8dcdc5ad6dced7134f421cee9ed119",
+      "title": "South Shore man sent to prison for pandemic swimming pool scam",
+      "link": "https://www.boston.com/news/crime/2025/12/01/south-shore-man-sent-to-prison-for-pandemic-swimming-pool-scam/",
+      "pubDate": "Mon, 01 Dec 2025 20:30:10 +0000",
+      "description": "<p>Steven Docchio, 59, collected over $500,000 from homeowners for work he never completed.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/01/south-shore-man-sent-to-prison-for-pandemic-swimming-pool-scam/\">South Shore man sent to prison for pandemic swimming pool scam</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3b746b066db387e704817bf3b4209814",
       "summary": [
-        "Update: Babson College supports student deported to Hondur",
-        "Details: <p>Any Lucia Lopez Belloza, 19, was detained at Bo",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Group working on new state flag design asks for another extension",
-      "link": "https://www.boston.com/news/local-news/2025/12/01/group-working-on-new-state-flag-design-asks-for-another-extension/",
-      "pubDate": "Mon, 01 Dec 2025 20:09:36 +0000",
-      "description": "<p>The commission released potential designs earlier this year, but says it will not be able to meet a Dec. 15 deadline for recommendations. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/01/group-working-on-new-state-flag-design-asks-for-another-extension/\">Group working on new state flag design asks for another extension</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "36fe211eec6b733634f96c11b1c75512",
-      "summary": [
-        "Update: Group working on new state flag design asks for an",
-        "Details: <p>The commission released potential designs earli",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Somerville\u2019s Lyndell\u2019s Bakery is relocating after redevelopment plans",
-      "link": "https://www.boston.com/food/food-news/2025/12/01/lyndells-bakery-somerville-moving/",
-      "pubDate": "Mon, 01 Dec 2025 18:43:02 +0000",
-      "description": "<p>The 138-year-old shop will close April 5.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2025/12/01/lyndells-bakery-somerville-moving/\">Somerville\u2019s Lyndell\u2019s Bakery is relocating after redevelopment plans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ec4fdeccbba52ca0ed5d2a9f49cf1038",
-      "summary": [
-        "Update: Somerville\u2019s Lyndell\u2019s Bakery is relocating after ",
-        "Details: <p>The 138-year-old shop will close April 5.</p>\n<",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Healey releases new \u2018framework\u2019 of high school graduation requirements after voters nixed MCAS",
-      "link": "https://www.boston.com/news/education/2025/12/01/healey-releases-framework-high-school-graduation-requirements-mcas/",
-      "pubDate": "Mon, 01 Dec 2025 18:42:47 +0000",
-      "description": "<p>The proposal includes end-of-course tests administered by the state, as well as capstone projects and financial literacy lessons.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2025/12/01/healey-releases-framework-high-school-graduation-requirements-mcas/\">Healey releases new \u2018framework\u2019 of high school graduation requirements after voters nixed MCAS</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0f21f27151387e90bf2885160e8f15ad",
-      "summary": [
-        "Update: Healey releases new \u2018framework\u2019 of high school gra",
-        "Details: <p>The proposal includes end-of-course tests admin",
+        "Update: South Shore man sent to prison for pandemic swimmi",
+        "Details: <p>Steven Docchio, 59, collected over $500,000 fro",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-01T20:24:50.401442+00:00"
+    "timestamp": "2025-12-01T22:21:54.893820+00:00"
   }
 }
