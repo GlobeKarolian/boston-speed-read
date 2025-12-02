@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-12-01T22:21:54.893801+00:00",
+  "lastUpdated": "2025-12-02T01:53:19.606742+00:00",
   "articles": [
     {
-      "title": "South Shore man sent to prison for pandemic swimming pool scam",
-      "link": "https://www.boston.com/news/crime/2025/12/01/south-shore-man-sent-to-prison-for-pandemic-swimming-pool-scam/",
-      "pubDate": "Mon, 01 Dec 2025 20:30:10 +0000",
-      "description": "<p>Steven Docchio, 59, collected over $500,000 from homeowners for work he never completed.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/01/south-shore-man-sent-to-prison-for-pandemic-swimming-pool-scam/\">South Shore man sent to prison for pandemic swimming pool scam</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3b746b066db387e704817bf3b4209814",
+      "title": "Bruins injury updates: David Pastrnak still sidelined, Arvidsson set to return",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/12/01/boston-bruins-injuries-david-pastrnak-viktor-arvidsson-nhl-hockey-marco-sturm-red-wings/",
+      "pubDate": "Tue, 02 Dec 2025 01:24:39 +0000",
+      "description": "<p>David Pastrnak will miss his third straight game on Tuesday against the Red Wings. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/01/boston-bruins-injuries-david-pastrnak-viktor-arvidsson-nhl-hockey-marco-sturm-red-wings/\">Bruins injury updates: David Pastrnak still sidelined, Arvidsson set to return</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a0de1d77733d6d89540c2fd2a9676286",
       "summary": [
-        "Update: South Shore man sent to prison for pandemic swimmi",
-        "Details: <p>Steven Docchio, 59, collected over $500,000 fro",
+        "Update: Bruins injury updates: David Pastrnak still sideli",
+        "Details: <p>David Pastrnak will miss his third straight gam",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots 17, Giants 0 (2nd): New England in control out the gate",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/01/patriots-giants-live-score-updates-nfl-football-liveblog-coverage-new-england-york/",
+      "pubDate": "Mon, 01 Dec 2025 23:30:15 +0000",
+      "description": "<p>The Patriots are dealing with several critical injuries across the offensive line. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/01/patriots-giants-live-score-updates-nfl-football-liveblog-coverage-new-england-york/\">Patriots 17, Giants 0 (2nd): New England in control out the gate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1c74c8e614b7b8cb1b4b246fc3a75f3a",
+      "summary": [
+        "Update: Patriots 17, Giants 0 (2nd): New England in contro",
+        "Details: <p>The Patriots are dealing with several critical ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "19-year-old arrested in connection to fatal Norwood assault, DA says",
+      "link": "https://www.boston.com/news/crime/2025/12/01/boston-man-died-from-sharp-object-injuries-in-norwood-not-gunshot-da-says/",
+      "pubDate": "Mon, 01 Dec 2025 22:49:03 +0000",
+      "description": "<p>Anton C. Dowling, of Boston, was identified as the man who died from what emergency room doctors initially believed to be a gunshot wound.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/01/boston-man-died-from-sharp-object-injuries-in-norwood-not-gunshot-da-says/\">19-year-old arrested in connection to fatal Norwood assault, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b9c95edbbb9431c34d615b92de8b6cb3",
+      "summary": [
+        "Update: 19-year-old arrested in connection to fatal Norwoo",
+        "Details: <p>Anton C. Dowling, of Boston, was identified as ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-12-01T22:21:54.893820+00:00"
+    "timestamp": "2025-12-02T01:53:19.606796+00:00"
   }
 }
