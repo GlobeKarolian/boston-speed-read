@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-04T10:28:44.219491+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-04T12:52:39.049286+00:00",
+  "articles": [
+    {
+      "title": "Here\u2019s all you need to know about Friday\u2019s \u2018Final Draw\u2019 for the 2026 World Cup",
+      "link": "https://www.boston.com/sports/sports-news/2025/12/04/heres-all-you-need-to-know-about-fridays-final-draw-for-the-2026-world-cup/",
+      "pubDate": "Thu, 04 Dec 2025 12:21:55 +0000",
+      "description": "<p>Somehow, Tom Brady will also be there.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2025/12/04/heres-all-you-need-to-know-about-fridays-final-draw-for-the-2026-world-cup/\">Here\u2019s all you need to know about Friday\u2019s \u2018Final Draw\u2019 for the 2026 World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5feb6b1f4b6aececaf40d3b822af353c",
+      "summary": [
+        "Update: Here\u2019s all you need to know about Friday\u2019s \u2018Final ",
+        "Details: <p>Somehow, Tom Brady will also be there.</p>\n<p>T",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-04T10:28:44.219499+00:00"
+    "timestamp": "2025-12-04T12:52:39.049304+00:00"
   }
 }
