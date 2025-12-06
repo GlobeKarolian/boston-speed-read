@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-06T10:22:59.345113+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-06T12:44:25.733315+00:00",
+  "articles": [
+    {
+      "title": "After nine years with Celtics, Marcus Smart is \u2018excited and proud\u2019 to be a Laker",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/12/06/marcus-smart-celtics-lakers-td-garden-comments/",
+      "pubDate": "Sat, 06 Dec 2025 12:22:34 +0000",
+      "description": "<p>\"It was weird at first. ... I definitely didn't think that would be a possibility but I'm enjoying every last bit of it.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/06/marcus-smart-celtics-lakers-td-garden-comments/\">After nine years with Celtics, Marcus Smart is &#8216;excited and proud&#8217; to be a Laker</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "38ad1ae8cec971c70562309477cac1fb",
+      "summary": [
+        "Update: After nine years with Celtics, Marcus Smart is \u2018ex",
+        "Details: <p>\"It was weird at first. ... I definitely didn't",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-06T10:22:59.345121+00:00"
+    "timestamp": "2025-12-06T12:44:25.733336+00:00"
   }
 }
