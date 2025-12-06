@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2025-12-06T12:44:25.733315+00:00",
+  "lastUpdated": "2025-12-06T14:19:39.710044+00:00",
   "articles": [
     {
-      "title": "After nine years with Celtics, Marcus Smart is \u2018excited and proud\u2019 to be a Laker",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/12/06/marcus-smart-celtics-lakers-td-garden-comments/",
-      "pubDate": "Sat, 06 Dec 2025 12:22:34 +0000",
-      "description": "<p>\"It was weird at first. ... I definitely didn't think that would be a possibility but I'm enjoying every last bit of it.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/06/marcus-smart-celtics-lakers-td-garden-comments/\">After nine years with Celtics, Marcus Smart is &#8216;excited and proud&#8217; to be a Laker</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "38ad1ae8cec971c70562309477cac1fb",
+      "title": "New law increases penalties for assaulting a T worker",
+      "link": "https://www.boston.com/news/local-news/2025/12/06/new-law-increases-penalties-for-assaulting-a-t-worker/",
+      "pubDate": "Sat, 06 Dec 2025 13:52:40 +0000",
+      "description": "<p>Transit employees will soon have some extra protection against aggressive passengers.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/06/new-law-increases-penalties-for-assaulting-a-t-worker/\">New law increases penalties for assaulting a T worker</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ff40bfd50a3c72801ced8e36f7da8bc7",
       "summary": [
-        "Update: After nine years with Celtics, Marcus Smart is \u2018ex",
-        "Details: <p>\"It was weird at first. ... I definitely didn't",
+        "Update: New law increases penalties for assaulting a T wor",
+        "Details: <p>Transit employees will soon have some extra pro",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Another line of attack: White House sets up a hall of shame for news outlets",
+      "link": "https://www.boston.com/news/politics/2025/12/06/another-line-of-attack-white-house-sets-up-a-hall-of-shame-for-news-outlets/",
+      "pubDate": "Sat, 06 Dec 2025 13:26:03 +0000",
+      "description": "<p>After its debut, the White House asked for volunteers to submit their own examples of media bias.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/12/06/another-line-of-attack-white-house-sets-up-a-hall-of-shame-for-news-outlets/\">Another line of attack: White House sets up a hall of shame for news outlets</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "52ee4dc8529f0140d6f2471acbeace91",
+      "summary": [
+        "Update: Another line of attack: White House sets up a hall",
+        "Details: <p>After its debut, the White House asked for volu",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "How a model\u2019s work affects her dating life",
+      "link": "https://www.boston.com/love-letters/love-letters/2025/12/06/how-a-models-work-affects-her-dating-life/",
+      "pubDate": "Sat, 06 Dec 2025 13:00:00 +0000",
+      "description": "<p>This week's Love Letters podcast guest \u2014 a part-time model \u2014 doesn't want to quit her job to find a healthy relationship. </p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2025/12/06/how-a-models-work-affects-her-dating-life/\">How a model&#8217;s work affects her dating life</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9e3d2503918e6f63f21229e8b3be99e0",
+      "summary": [
+        "Update: How a model\u2019s work affects her dating life",
+        "Details: <p>This week's Love Letters podcast guest \u2014 a part",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-12-06T12:44:25.733336+00:00"
+    "timestamp": "2025-12-06T14:19:39.710064+00:00"
   }
 }
