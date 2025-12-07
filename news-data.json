@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-12-07T12:42:59.509838+00:00",
+  "lastUpdated": "2025-12-07T14:20:08.717786+00:00",
   "articles": [
     {
-      "title": "Bill Simmons \u2018more confident than ever\u2019 Jayson Tatum will play this season",
-      "link": "https://www.boston.com/sports/boston-celtics/2025/12/07/bill-simmons-more-confident-than-ever-jayson-tatum-will-play-this-season/",
-      "pubDate": "Sun, 07 Dec 2025 12:21:37 +0000",
-      "description": "<p>\u201cFrom everything I\u2019ve heard across the board, he\u2019s been relentless and a maniac and passed every checkpoint.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/07/bill-simmons-more-confident-than-ever-jayson-tatum-will-play-this-season/\">Bill Simmons \u2018more confident than ever\u2019 Jayson Tatum will play this season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cde20e1416dd0f2e2162e370cdd68edb",
+      "title": "National Park Service drops free admission on MLK Day, Juneteenth while adding Trump\u2019s birthday",
+      "link": "https://www.boston.com/news/national-news/2025/12/07/national-park-service-drops-free-admission-on-mlk-day-juneteenth-while-adding-trumps-birthday/",
+      "pubDate": "Sun, 07 Dec 2025 13:44:52 +0000",
+      "description": "<p>Some civil rights leaders voiced opposition to the change after news about it began spreading over the weekend.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/12/07/national-park-service-drops-free-admission-on-mlk-day-juneteenth-while-adding-trumps-birthday/\">National Park Service drops free admission on MLK Day, Juneteenth while adding Trump&#8217;s birthday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3575970b6f597f1d68cbb5175f9f8879",
       "summary": [
-        "Update: Bill Simmons \u2018more confident than ever\u2019 Jayson Tat",
-        "Details: <p>\u201cFrom everything I\u2019ve heard across the board, h",
+        "Update: National Park Service drops free admission on MLK ",
+        "Details: <p>Some civil rights leaders voiced opposition to ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Trump awards medals to the Kennedy Center honorees",
+      "link": "https://www.boston.com/news/entertainment/2025/12/07/trump-awards-medals-to-the-kennedy-center-honorees/",
+      "pubDate": "Sun, 07 Dec 2025 13:06:14 +0000",
+      "description": "<p>This year's recipients are actor Sylvester Stallone, singers Gloria Gaynor and George Strait, the rock band Kiss and actor-singer Michael Crawford.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2025/12/07/trump-awards-medals-to-the-kennedy-center-honorees/\">Trump awards medals to the Kennedy Center honorees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ddfe1953ff206f72695910d2ab0fcb98",
+      "summary": [
+        "Update: Trump awards medals to the Kennedy Center honorees",
+        "Details: <p>This year's recipients are actor Sylvester Stal",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-07T12:42:59.509858+00:00"
+    "timestamp": "2025-12-07T14:20:08.717805+00:00"
   }
 }
