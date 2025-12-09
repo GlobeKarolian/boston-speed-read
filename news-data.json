@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-09T10:29:02.952549+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-09T12:52:29.493989+00:00",
+  "articles": [
+    {
+      "title": "Home of the week: Listed at $750K, 125-year-old Fall River house blends architectural styles, eclectic decor",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/12/09/fall-river-massachusetts-colonial-craftsman-1900/",
+      "pubDate": "Tue, 09 Dec 2025 12:00:00 +0000",
+      "description": "<p>Stepping through the front door with its stained glass window starts a journey backward to the skilled craftspeople who built the home.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/12/09/fall-river-massachusetts-colonial-craftsman-1900/\">Home of the week: Listed at $750K, 125-year-old Fall River house blends architectural styles, eclectic decor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "239b766e4ddb1dd9aab140e43555a313",
+      "summary": [
+        "Update: Home of the week: Listed at $750K, 125-year-old Fa",
+        "Details: <p>Stepping through the front door with its staine",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Best places to buy in Boston (and beyond) in 2026: Where agents say the smart money is heading",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/12/09/boston-vermont-new-hampshire-real-estate-market-2026/",
+      "pubDate": "Tue, 09 Dec 2025 12:00:00 +0000",
+      "description": "<p>The new year may reward those willing to look one town \u2014 or one state \u2014 farther than they originally planned.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/12/09/boston-vermont-new-hampshire-real-estate-market-2026/\">Best places to buy in Boston (and beyond) in 2026: Where agents say the smart money is heading</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1da8088ce1ef799c3547e792dddddddc",
+      "summary": [
+        "Update: Best places to buy in Boston (and beyond) in 2026:",
+        "Details: <p>The new year may reward those willing to look o",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-09T10:29:02.952557+00:00"
+    "timestamp": "2025-12-09T12:52:29.494009+00:00"
   }
 }
