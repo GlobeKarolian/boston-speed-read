@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-12T10:27:52.944697+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-12T12:52:00.353622+00:00",
+  "articles": [
+    {
+      "title": "For New Englanders, backyard ice skating rinks are like the swimming pools of winter \u2014 and often more sought-after",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/12/12/backyard-ice-rink-boston-new-england-ez-ice/",
+      "pubDate": "Fri, 12 Dec 2025 12:00:00 +0000",
+      "description": "<p>\u201cI can\u2019t tell you how many times I hear ... \u2018Oh, this is a great yard for a rink. We could definitely do a rink here.\"</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/12/12/backyard-ice-rink-boston-new-england-ez-ice/\">For New Englanders, backyard ice skating rinks are like the swimming pools of winter \u2014 and often more sought-after</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f06a6130e0af4c33de9d2f96c3aa2199",
+      "summary": [
+        "Update: For New Englanders, backyard ice skating rinks are",
+        "Details: <p>\u201cI can\u2019t tell you how many times I hear ... \u2018Oh",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/12/12/greater-boston-news-quiz-richard-gere-wu-pe-guy/",
+      "pubDate": "Fri, 12 Dec 2025 11:54:45 +0000",
+      "description": "<p>A viral bro, Wu\u2019s travel bill, and Richard Gere\u2019s real estate are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/12/greater-boston-news-quiz-richard-gere-wu-pe-guy/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2048cc055c64ea06352066970641e960",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A viral bro, Wu\u2019s travel bill, and Richard Gere",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-12T10:27:52.944704+00:00"
+    "timestamp": "2025-12-12T12:52:00.353646+00:00"
   }
 }
