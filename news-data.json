@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-14T10:23:28.550603+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-14T12:45:53.437813+00:00",
+  "articles": [
+    {
+      "title": "Police have person of interest in custody over Brown University deadly shooting",
+      "link": "https://www.boston.com/news/crime/2025/12/14/police-have-person-of-interest-in-custody-over-brown-university-deadly-shooting/",
+      "pubDate": "Sun, 14 Dec 2025 12:36:17 +0000",
+      "description": "<p>The shooting erupted\u00a0Saturday afternoon in the engineering building of the Ivy League school in Providence, Rhode Island, during final exams.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/14/police-have-person-of-interest-in-custody-over-brown-university-deadly-shooting/\">Police have person of interest in custody over Brown University deadly shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2d3e58b02354c4477ac50417d65f1dc6",
+      "summary": [
+        "Update: Police have person of interest in custody over Bro",
+        "Details: <p>The shooting erupted\u00a0Saturday afternoon in the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-14T10:23:28.550611+00:00"
+    "timestamp": "2025-12-14T12:45:53.437832+00:00"
   }
 }
