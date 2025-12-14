@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-12-14T12:45:53.437813+00:00",
+  "lastUpdated": "2025-12-14T14:21:14.702479+00:00",
   "articles": [
     {
-      "title": "Police have person of interest in custody over Brown University deadly shooting",
-      "link": "https://www.boston.com/news/crime/2025/12/14/police-have-person-of-interest-in-custody-over-brown-university-deadly-shooting/",
-      "pubDate": "Sun, 14 Dec 2025 12:36:17 +0000",
-      "description": "<p>The shooting erupted\u00a0Saturday afternoon in the engineering building of the Ivy League school in Providence, Rhode Island, during final exams.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/14/police-have-person-of-interest-in-custody-over-brown-university-deadly-shooting/\">Police have person of interest in custody over Brown University deadly shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2d3e58b02354c4477ac50417d65f1dc6",
+      "title": "Hallmark holiday movie fans are flocking to quaint filming locations",
+      "link": "https://www.boston.com/culture/entertainment/2025/12/14/hallmark-holiday-movie-fans-are-flocking-to-quaint-filming-locations/",
+      "pubDate": "Sun, 14 Dec 2025 14:06:14 +0000",
+      "description": "<p>Connecticut is promoting tours of its quaint Christmas-card cities and towns featured in this booming movie market.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/12/14/hallmark-holiday-movie-fans-are-flocking-to-quaint-filming-locations/\">Hallmark holiday movie fans are flocking to quaint filming locations</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cdec07afe9a22f2fd0ae1a4609f77d4",
       "summary": [
-        "Update: Police have person of interest in custody over Bro",
-        "Details: <p>The shooting erupted\u00a0Saturday afternoon in the ",
+        "Update: Hallmark holiday movie fans are flocking to quaint",
+        "Details: <p>Connecticut is promoting tours of its quaint Ch",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Affable comedy acting legend Dick Van Dyke turns 100 years old",
+      "link": "https://www.boston.com/culture/entertainment/2025/12/13/affable-comedy-acting-legend-dick-van-dyke-turns-100-years-old/",
+      "pubDate": "Sat, 13 Dec 2025 20:58:58 +0000",
+      "description": "<p>Just last year, he became the oldest winner of a Daytime Emmy, for a guest role on the soap \u201cDays of Our Lives.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/12/13/affable-comedy-acting-legend-dick-van-dyke-turns-100-years-old/\">Affable comedy acting legend Dick Van Dyke turns 100 years old</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cb1e2d3604ae8b78d62420326ab9efec",
+      "summary": [
+        "Update: Affable comedy acting legend Dick Van Dyke turns 1",
+        "Details: <p>Just last year, he became the oldest winner of ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-14T12:45:53.437832+00:00"
+    "timestamp": "2025-12-14T14:21:14.702499+00:00"
   }
 }
