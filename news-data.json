@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-15T08:37:19.633177+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-15T10:31:07.504633+00:00",
+  "articles": [
+    {
+      "title": "Giveaway: Enter to win a $100 gift card to Dirty Water Dough",
+      "link": "https://www.boston.com/food/food/2025/12/15/dirty-water-dough-pizza-giveaway/",
+      "pubDate": "Mon, 15 Dec 2025 10:00:00 +0000",
+      "description": "<p>The winner will be selected Dec. 18. </p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/12/15/dirty-water-dough-pizza-giveaway/\">Giveaway: Enter to win a $100 gift card to Dirty Water Dough</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d053a7887d3cbd6d3d2fdc3f92987ad6",
+      "summary": [
+        "Update: Giveaway: Enter to win a $100 gift card to Dirty W",
+        "Details: <p>The winner will be selected Dec. 18. </p>\n<p>Th",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-15T08:37:19.633186+00:00"
+    "timestamp": "2025-12-15T10:31:07.504652+00:00"
   }
 }
