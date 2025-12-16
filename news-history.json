@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2025-12-16T16:34:27.657500+00:00",
+  "lastUpdated": "2025-12-16T18:37:22.905823+00:00",
   "articles": [
+    {
+      "title": "MIT professor shot and killed in his Brookline home",
+      "link": "https://www.boston.com/news/crime/2025/12/16/mit-professor-shot-and-killed-in-his-brookline-home/",
+      "pubDate": "Tue, 16 Dec 2025 18:06:15 +0000",
+      "description": "<p>Nuno F.G. Loureiro, 47, was pronounced dead on Tuesday after being shot on Monday night.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/16/mit-professor-shot-and-killed-in-his-brookline-home/\">MIT professor shot and killed in his Brookline home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5f2a8e43f27696d1e2f06f676d82e6de",
+      "summary": [
+        "Update: MIT professor shot and killed in his Brookline hom",
+        "Details: <p>Nuno F.G. Loureiro, 47, was pronounced dead on ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Cancelation of naturalization ceremonies is \u2018disturbing to the utmost degree,\u2019 Wu says",
+      "link": "https://www.boston.com/news/local-news/2025/12/16/cancelation-of-naturalization-ceremonies-is-disturbing-to-the-utmost-degree-wu-says/",
+      "pubDate": "Tue, 16 Dec 2025 17:56:26 +0000",
+      "description": "<p>Immigrants from certain \"high-risk\" countries on the verge of gaining their citizenship are being turned away by federal officials. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/16/cancelation-of-naturalization-ceremonies-is-disturbing-to-the-utmost-degree-wu-says/\">Cancelation of naturalization ceremonies is &#8216;disturbing to the utmost degree,&#8217; Wu says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e1bfd1a69ef3d4eab7b45ac1f3910e0",
+      "summary": [
+        "Update: Cancelation of naturalization ceremonies is \u2018distu",
+        "Details: <p>Immigrants from certain \"high-risk\" countries o",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Cade Cunningham explained why he \u2018loves\u2019 competing against the Celtics",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/12/16/cade-cunningham-celtics-pistons-quotes-comments/",
+      "pubDate": "Tue, 16 Dec 2025 17:48:37 +0000",
+      "description": "<p>\"They\u2019re a championship team; they\u2019ve got a championship identity. Play a great brand of basketball, so it\u2019s always a test for us coming in.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/16/cade-cunningham-celtics-pistons-quotes-comments/\">Cade Cunningham explained why he &#8216;loves&#8217; competing against the Celtics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8b22e2b5af757839a7c0cf4b6002d533",
+      "summary": [
+        "Update: Cade Cunningham explained why he \u2018loves\u2019 competing",
+        "Details: <p>\"They\u2019re a championship team; they\u2019ve got a cha",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "After nearly 20 years, Somerville\u2019s abandoned Star Market finally comes down",
+      "link": "https://www.boston.com/news/local-news/2025/12/16/after-nearly-20-years-somervilles-abandoned-star-market-finally-comes-down/",
+      "pubDate": "Tue, 16 Dec 2025 17:26:43 +0000",
+      "description": "<p>Residents gathered Saturday to watch the demolition of a long-vacant grocery store, clearing the way for new housing and retail.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/16/after-nearly-20-years-somervilles-abandoned-star-market-finally-comes-down/\">After nearly 20 years, Somerville\u2019s abandoned Star Market finally comes down</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ad58b8853c11b5c570b8492b02542d04",
+      "summary": [
+        "Update: After nearly 20 years, Somerville\u2019s abandoned Star",
+        "Details: <p>Residents gathered Saturday to watch the demoli",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Jaylen Brown on heated exchange, physicality against the Pistons",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/12/16/jaylen-brown-isaiah-stewart-pistons/",
+      "pubDate": "Tue, 16 Dec 2025 16:56:06 +0000",
+      "description": "<p>\"We were just having fun, I think Stewart is a nice guy.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/16/jaylen-brown-isaiah-stewart-pistons/\">Jaylen Brown on heated exchange, physicality against the Pistons</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "abcdfa7dabf2f3747dbace547f448cff",
+      "summary": [
+        "Update: Jaylen Brown on heated exchange, physicality again",
+        "Details: <p>\"We were just having fun, I think Stewart is a ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Julian Edelman\u2019s take on the Patriots\u2019 loss to the Bills, how New England can respond",
       "link": "https://www.boston.com/sports/morning-sports-update/2025/12/16/julian-edelman-patriots-bills-comments/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: \u2018That\u2019s hard for me to understand\u2019: Mike Vrabel\u2019s ",
         "Details: <p>\"It's 83 days since we lost. It was a good run,",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Amy Schumer says she and her husband, Martha\u2019s Vineyard chef Chris Fischer, have decided to end their marriage",
-      "link": "https://www.boston.com/culture/celebs/2025/12/15/amy-schumer-says-she-and-her-husband-marthas-vineyard-chef-chris-fischer-have-decided-to-end-their-marriage/",
-      "pubDate": "Mon, 15 Dec 2025 15:01:21 +0000",
-      "description": "<p>\"Blah blah blah Chris and I have made the difficult decision to end our marriage after 7 years.\"</p>\n<p>The post <a href=\"https://www.boston.com/culture/celebs/2025/12/15/amy-schumer-says-she-and-her-husband-marthas-vineyard-chef-chris-fischer-have-decided-to-end-their-marriage/\">Amy Schumer says she and her husband, Martha&#8217;s Vineyard chef Chris Fischer, have decided to end their marriage</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e8ff47e449a12e7dce008aef37ff11fa",
-      "summary": [
-        "Update: Amy Schumer says she and her husband, Martha\u2019s Vin",
-        "Details: <p>\"Blah blah blah Chris and I have made the diffi",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Here are the Massachusetts snow totals for this past weekend\u2019s snowfall",
-      "link": "https://www.boston.com/news/weather/2025/12/15/massachusetts-snowfall-totals-for-dec-13-14-2025/",
-      "pubDate": "Mon, 15 Dec 2025 14:45:54 +0000",
-      "description": "<p>Parts of Cape Cod saw up to 6 inches.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2025/12/15/massachusetts-snowfall-totals-for-dec-13-14-2025/\">Here are the Massachusetts snow totals for this past weekend&#8217;s snowfall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6117da90e4a5411aa019ae00bb24d0b4",
-      "summary": [
-        "Update: Here are the Massachusetts snow totals for this pa",
-        "Details: <p>Parts of Cape Cod saw up to 6 inches.</p>\n<p>Th",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Live updates: Search continues for gunman in deadly Brown University mass shooting",
-      "link": "https://www.boston.com/news/local-news/2025/12/15/live-updates-brown-university-mass-shooting-providence-rhode-island/",
-      "pubDate": "Mon, 15 Dec 2025 14:44:09 +0000",
-      "description": "<p>Two students were killed and nine more wounded Saturday afternoon during a shooting that sent shockwaves through the Ivy League campus.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/15/live-updates-brown-university-mass-shooting-providence-rhode-island/\">Live updates: Search continues for gunman in deadly Brown University mass shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "19315b3924f1c8280e6c609c1bb08adf",
-      "summary": [
-        "Update: Live updates: Search continues for gunman in deadl",
-        "Details: <p>Two students were killed and nine more wounded ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Play game: Can you find all 9 winter words?",
-      "link": "https://www.boston.com/community/quizzes/2025/12/15/winter-word-game/",
-      "pubDate": "Mon, 15 Dec 2025 14:22:16 +0000",
-      "description": "<p>Think: Cold weather, holiday motifs, and carol lyrics.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/15/winter-word-game/\">Play game: Can you find all 9 winter words?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f3c15688c78aa88d8674132a0726e463",
-      "summary": [
-        "Update: Play game: Can you find all 9 winter words?",
-        "Details: <p>Think: Cold weather, holiday motifs, and carol ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "For $4 million, a historic Jamaica Plain home with an indoor waterfall",
-      "link": "https://www.boston.com/real-estate/real-estate/2025/12/15/jamaica-plain-boston-house-waterfall-1899/",
-      "pubDate": "Mon, 15 Dec 2025 13:23:30 +0000",
-      "description": "<p>Tucked away from the hustle and bustle of Centre Street, this home is like a private oasis in the middle of Jamaica Plain.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/12/15/jamaica-plain-boston-house-waterfall-1899/\">For $4 million, a historic Jamaica Plain home with an indoor waterfall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "eda2fb7c0b02f3cd7ddd60b65e92754b",
-      "summary": [
-        "Update: For $4 million, a historic Jamaica Plain home with",
-        "Details: <p>Tucked away from the hustle and bustle of Centr",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
