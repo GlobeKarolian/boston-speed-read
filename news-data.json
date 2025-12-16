@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2025-12-16T03:39:08.295253+00:00",
+  "lastUpdated": "2025-12-16T04:38:06.656373+00:00",
   "articles": [
     {
-      "title": "Canton police searching for armed suspect after woman injured in shooting",
-      "link": "https://www.boston.com/news/crime/2025/12/15/canton-police-searching-for-armed-suspect-after-woman-injured-in-shooting/",
-      "pubDate": "Tue, 16 Dec 2025 03:16:39 +0000",
-      "description": "<p>Canton police issued a shelter-in-place for Canton Woods Apartments, Lamplighter Village apartments, and from Tracywood Road south to Stoughton.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/15/canton-police-searching-for-armed-suspect-after-woman-injured-in-shooting/\">Canton police searching for armed suspect after woman injured in shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "426529612ee68bd9af54e638e9c184ed",
+      "title": "Cade Cunningham has 32 points and 10 rebounds as Pistons beat Celtics 112-105",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/12/15/cade-cunningham-has-32-points-and-10-rebounds-as-pistons-beat-celtics-112-105/",
+      "pubDate": "Tue, 16 Dec 2025 04:32:49 +0000",
+      "description": "<p>Derrick White scored 31 points as Boston lost its second straight after a five-game winning streak.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/15/cade-cunningham-has-32-points-and-10-rebounds-as-pistons-beat-celtics-112-105/\">Cade Cunningham has 32 points and 10 rebounds as Pistons beat Celtics 112-105</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fc08e3707801879f6851b2ab1fe3c74f",
       "summary": [
-        "Update: Canton police searching for armed suspect after wo",
-        "Details: <p>Canton police issued a shelter-in-place for Can",
+        "Update: Cade Cunningham has 32 points and 10 rebounds as P",
+        "Details: <p>Derrick White scored 31 points as Boston lost i",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "How to donate to Brown University students after shooting",
-      "link": "https://www.boston.com/news/local-news/2025/12/15/how-to-donate-to-brown-university-students-after-shooting/",
-      "pubDate": "Tue, 16 Dec 2025 02:41:18 +0000",
-      "description": "<p>The Rhode Island Blood Center saw more than 100 first-time donors and a 265 percent increase in donations after the shooting.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/15/how-to-donate-to-brown-university-students-after-shooting/\">How to donate to Brown University students after shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "68b9e40ef038cba5b19d6d64d337d5e9",
+      "title": "Bruins reportedly searching for \u2018scoring winger\u2019 before trade deadline",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/12/15/boston-bruins-trade-rumors-nhl-hockey-scoring-winger-matias-maccelli-toronto/",
+      "pubDate": "Tue, 16 Dec 2025 04:11:56 +0000",
+      "description": "<p>\"I'm not sure if Matias Maccelli's going to be their guy still, or they look for someone else.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/15/boston-bruins-trade-rumors-nhl-hockey-scoring-winger-matias-maccelli-toronto/\">Bruins reportedly searching for &#8216;scoring winger&#8217; before trade deadline</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6a4240e9cdaa39d5e3f8e8b717dd95ec",
       "summary": [
-        "Update: How to donate to Brown University students after s",
-        "Details: <p>The Rhode Island Blood Center saw more than 100",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Red Sox trade a top pitching prospect for Nationals young southpaw",
-      "link": "https://www.boston.com/sports/boston-red-sox/2025/12/15/red-sox-trade-a-top-pitching-prospect-for-nationals-young-southpaw/",
-      "pubDate": "Tue, 16 Dec 2025 02:37:41 +0000",
-      "description": "<p>\"His whiff rates and ability to manage hard contact have us confident in his ability to be a major league starter.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/12/15/red-sox-trade-a-top-pitching-prospect-for-nationals-young-southpaw/\">Red Sox trade a top pitching prospect for Nationals young southpaw</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "759647e93bcb8943fa999fcd024a3287",
-      "summary": [
-        "Update: Red Sox trade a top pitching prospect for National",
-        "Details: <p>\"His whiff rates and ability to manage hard con",
+        "Update: Bruins reportedly searching for \u2018scoring winger\u2019 b",
+        "Details: <p>\"I'm not sure if Matias Maccelli's going to be ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-16T03:39:08.295271+00:00"
+    "timestamp": "2025-12-16T04:38:06.656392+00:00"
   }
 }
