@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-17T08:35:11.830372+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-17T10:29:02.672399+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Dec. 17)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/12/17/recent-homes-sales-in-greater-boston-dec-17/",
+      "pubDate": "Wed, 17 Dec 2025 10:00:00 +0000",
+      "description": "<p>ABINGTON 32 Warren St. Two-family two family, built in 1920, 2,826 square feet, 10 rooms, 5 bedrooms, 3 baths, on 18,712-square-foot lot. $1,035,000 1042 Washington St. Two-family two family, built in 1900, 2,177 square feet, 10 rooms, 6 bedrooms, 2 baths, on 16,970-square-foot lot. $753,000 140 Colonel Hunt Drive. One-family Colonial, built in 1952, 3,028 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/12/17/recent-homes-sales-in-greater-boston-dec-17/\">Recent homes sales in Greater Boston (Dec. 17)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9a087a712d608ce387f25601ac1586d5",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Dec. 17)",
+        "Details: <p>ABINGTON 32 Warren St. Two-family two family, b",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-17T08:35:11.830381+00:00"
+    "timestamp": "2025-12-17T10:29:02.672419+00:00"
   }
 }
