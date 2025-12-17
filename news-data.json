@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-17T12:53:24.973826+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-17T14:27:00.992099+00:00",
+  "articles": [
+    {
+      "title": "On Nantucket, \u2018free\u2019 million-dollar houses come with a catch: you have to move them",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/12/17/nantucket-house-moving-season-erosion-climate-change-preservation/",
+      "pubDate": "Wed, 17 Dec 2025 14:21:37 +0000",
+      "description": "<p>During Nantucket's house-moving season, people's homes travel the island \u2014 sometimes miles away, sometimes a few hundred feet from the eroding coastline. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/12/17/nantucket-house-moving-season-erosion-climate-change-preservation/\">On Nantucket, \u2018free\u2019 million-dollar houses come with a catch: you have to move them</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "226211c2be80056f0c573afdf627a695",
+      "summary": [
+        "Update: On Nantucket, \u2018free\u2019 million-dollar houses come wi",
+        "Details: <p>During Nantucket's house-moving season, people'",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-17T12:53:24.973837+00:00"
+    "timestamp": "2025-12-17T14:27:00.992120+00:00"
   }
 }
