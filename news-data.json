@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-17T04:35:47.214380+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-17T06:38:35.896649+00:00",
+  "articles": [
+    {
+      "title": "How one NFL team played role in helping Marco Sturm craft Bruins winning identity",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/12/16/boston-bruins-marco-sturm-philadelphia-eagles-nfl-football-nhl-hockey/",
+      "pubDate": "Wed, 17 Dec 2025 04:51:33 +0000",
+      "description": "<p>\"We\u2019ve all got to connect. We all have got to be like a family, and the guys are showing that right now.\u201d </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/16/boston-bruins-marco-sturm-philadelphia-eagles-nfl-football-nhl-hockey/\">How one NFL team played role in helping Marco Sturm craft Bruins winning identity</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cb60d87c1a04594edc466579a861293d",
+      "summary": [
+        "Update: How one NFL team played role in helping Marco Stur",
+        "Details: <p>\"We\u2019ve all got to connect. We all have got to b",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-17T04:35:47.214391+00:00"
+    "timestamp": "2025-12-17T06:38:35.896667+00:00"
   }
 }
