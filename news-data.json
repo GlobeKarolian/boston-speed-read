@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-12-18T12:51:29.925071+00:00",
+  "lastUpdated": "2025-12-18T14:26:50.326214+00:00",
   "articles": [
     {
-      "title": "When kitchen makeovers are the product of stressful holiday hosting",
-      "link": "https://www.boston.com/real-estate/real-estate/2025/12/18/renovations-kitchen-dining-holiday-hosting/",
-      "pubDate": "Thu, 18 Dec 2025 12:00:00 +0000",
-      "description": "<p>Homeowners are often forced to see what their kitchens are lacking during family gatherings. In the new year, a growing number are deciding to do something about it.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/12/18/renovations-kitchen-dining-holiday-hosting/\">When kitchen makeovers are the product of stressful holiday hosting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "67443c96a8cb416f10d843cb82eccaf5",
+      "title": "Trump gives a partisan prime-time address insisting the economy is stronger than many voters feel",
+      "link": "https://www.boston.com/news/politics/2025/12/18/trump-partisan-prime-time-address/",
+      "pubDate": "Thu, 18 Dec 2025 14:21:27 +0000",
+      "description": "<p>Trump has promised an economic boom, yet inflation has stayed elevated and the job market has weakened sharply in the wake of his import taxes. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/12/18/trump-partisan-prime-time-address/\">Trump gives a partisan prime-time address insisting the economy is stronger than many voters feel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "238aa89d5df85293f10afb52dc1f87b9",
       "summary": [
-        "Update: When kitchen makeovers are the product of stressfu",
-        "Details: <p>Homeowners are often forced to see what their k",
+        "Update: Trump gives a partisan prime-time address insistin",
+        "Details: <p>Trump has promised an economic boom, yet inflat",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Livestream: Judge to sentence Brian Walshe for wife Ana\u2019s murder",
+      "link": "https://www.boston.com/news/crime/2025/12/18/livestream-brian-walshe-sentencing/",
+      "pubDate": "Thu, 18 Dec 2025 14:02:03 +0000",
+      "description": "<p>Before Judge Diane Freniere imposes Walshe's sentences for all three charges, the court will hear victim impact statements.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/12/18/livestream-brian-walshe-sentencing/\">Livestream: Judge to sentence Brian Walshe for wife Ana&#8217;s murder</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cb38b8429d6815bfe336bc99e5173c22",
+      "summary": [
+        "Update: Livestream: Judge to sentence Brian Walshe for wif",
+        "Details: <p>Before Judge Diane Freniere imposes Walshe's se",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-18T12:51:29.925082+00:00"
+    "timestamp": "2025-12-18T14:26:50.326233+00:00"
   }
 }
