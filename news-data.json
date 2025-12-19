@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-19T10:27:06.402425+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-19T12:49:56.420896+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/",
+      "pubDate": "Fri, 19 Dec 2025 12:15:59 +0000",
+      "description": "<p>A romantic restaurant, World Cup tickets, and some Patriots-adjacent baked goods are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7a19307dbf71d15a828c8b542153563e",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A romantic restaurant, World Cup tickets, and s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the gardener: These shrubs and berries can help birds survive the winter",
+      "link": "https://www.boston.com/real-estate/gardening/2025/12/19/birds-massachusetts-new-england-berries-shrubs-plants/",
+      "pubDate": "Fri, 19 Dec 2025 12:00:00 +0000",
+      "description": "<p>Our feathered friends must rely on whatever food and nesting sites they can find, supplemented by bird feeders and suet cakes. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/gardening/2025/12/19/birds-massachusetts-new-england-berries-shrubs-plants/\">Ask the gardener: These shrubs and berries can help birds survive the winter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5b8a3d467bd075cdc40dd87518e6d810",
+      "summary": [
+        "Update: Ask the gardener: These shrubs and berries can hel",
+        "Details: <p>Our feathered friends must rely on whatever foo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-19T10:27:06.402434+00:00"
+    "timestamp": "2025-12-19T12:49:56.420915+00:00"
   }
 }

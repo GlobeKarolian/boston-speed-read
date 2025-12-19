@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-12-19T06:36:58.134726+00:00",
+  "lastUpdated": "2025-12-19T12:49:56.421689+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/",
+      "pubDate": "Fri, 19 Dec 2025 12:15:59 +0000",
+      "description": "<p>A romantic restaurant, World Cup tickets, and some Patriots-adjacent baked goods are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7a19307dbf71d15a828c8b542153563e",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>A romantic restaurant, World Cup tickets, and s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the gardener: These shrubs and berries can help birds survive the winter",
+      "link": "https://www.boston.com/real-estate/gardening/2025/12/19/birds-massachusetts-new-england-berries-shrubs-plants/",
+      "pubDate": "Fri, 19 Dec 2025 12:00:00 +0000",
+      "description": "<p>Our feathered friends must rely on whatever food and nesting sites they can find, supplemented by bird feeders and suet cakes. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/gardening/2025/12/19/birds-massachusetts-new-england-berries-shrubs-plants/\">Ask the gardener: These shrubs and berries can help birds survive the winter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5b8a3d467bd075cdc40dd87518e6d810",
+      "summary": [
+        "Update: Ask the gardener: These shrubs and berries can hel",
+        "Details: <p>Our feathered friends must rely on whatever foo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Marco Sturm: Bruins gave Oilers \u2018too much respect\u2019 out on TD Garden ice",
       "link": "https://www.boston.com/sports/boston-bruins/2025/12/18/marco-sturm-boston-bruins-edmonton-oilers-connor-mcdavid-nhl-hockey/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Plane crashes into parking lot in Nashua N.H., pol",
         "Details: <p>The plane, carrying only a pilot, crashed into ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "New Cambridge School Committee member signed agreement to never work for the city",
-      "link": "https://www.boston.com/news/local-news/2025/12/17/new-cambridge-school-committee-member-signed-agreement-to-never-work-for-the-city/",
-      "pubDate": "Wed, 17 Dec 2025 20:51:52 +0000",
-      "description": "<p>Luisa de Paula Santos resigned from Cambridge Public Schools, which she will now oversee as a member of the Cambridge School Committee.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/17/new-cambridge-school-committee-member-signed-agreement-to-never-work-for-the-city/\">New Cambridge School Committee member signed agreement to never work for the city</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bbe27795647ad230df44bef4ea37551b",
-      "summary": [
-        "Update: New Cambridge School Committee member signed agree",
-        "Details: <p>Luisa de Paula Santos resigned from Cambridge P",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Mass. school locks down over threatening call that may have been AI generated",
-      "link": "https://www.boston.com/news/local-news/2025/12/17/mass-school-locks-down-over-threatening-call-that-may-have-been-ai-generated/",
-      "pubDate": "Wed, 17 Dec 2025 20:29:33 +0000",
-      "description": "<p>\u201cWe understand that given the events of the past week, this may be a troubling incident for many members of our community,\u201d Police Chief Richard DiPersio said.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/17/mass-school-locks-down-over-threatening-call-that-may-have-been-ai-generated/\">Mass. school locks down over threatening call that may have been AI generated</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "147fa6374921b4c2a7066368171284f9",
-      "summary": [
-        "Update: Mass. school locks down over threatening call that",
-        "Details: <p>\u201cWe understand that given the events of the pas",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
