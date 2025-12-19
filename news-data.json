@@ -1,36 +1,88 @@
 {
-  "lastUpdated": "2025-12-19T12:49:56.420896+00:00",
+  "lastUpdated": "2025-12-19T14:25:24.971408+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/",
-      "pubDate": "Fri, 19 Dec 2025 12:15:59 +0000",
-      "description": "<p>A romantic restaurant, World Cup tickets, and some Patriots-adjacent baked goods are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7a19307dbf71d15a828c8b542153563e",
+      "title": "2 New England restaurants are among the most festive in America, according to Time Out",
+      "link": "https://www.boston.com/travel/travel/2025/12/19/new-england-restaurants-most-festive-in-america-time-out/",
+      "pubDate": "Fri, 19 Dec 2025 14:16:09 +0000",
+      "description": "<p>They are being called \"most decked out, joyful restaurants\" in the nation.</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2025/12/19/new-england-restaurants-most-festive-in-america-time-out/\">2 New England restaurants are among the most festive in America, according to Time Out</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3b52793f648708c0f37496b23c30fe7f",
       "summary": [
-        "Update: Did you follow the local news this week? Take our ",
-        "Details: <p>A romantic restaurant, World Cup tickets, and s",
+        "Update: 2 New England restaurants are among the most festi",
+        "Details: <p>They are being called \"most decked out, joyful ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Ask the gardener: These shrubs and berries can help birds survive the winter",
-      "link": "https://www.boston.com/real-estate/gardening/2025/12/19/birds-massachusetts-new-england-berries-shrubs-plants/",
-      "pubDate": "Fri, 19 Dec 2025 12:00:00 +0000",
-      "description": "<p>Our feathered friends must rely on whatever food and nesting sites they can find, supplemented by bird feeders and suet cakes. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/gardening/2025/12/19/birds-massachusetts-new-england-berries-shrubs-plants/\">Ask the gardener: These shrubs and berries can help birds survive the winter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5b8a3d467bd075cdc40dd87518e6d810",
+      "title": "Trump suspends green card lottery program that let Brown University, MIT shootings suspect into U.S.",
+      "link": "https://www.boston.com/news/national-news/2025/12/19/trump-suspends-green-card-lottery-program-that-let-brown-university-mit-shootings-suspect-into-u-s/",
+      "pubDate": "Fri, 19 Dec 2025 13:57:07 +0000",
+      "description": "<p>The diversity visa program makes up to 50,000 green cards available each year by lottery to people from countries that are little represented in the U.S.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/12/19/trump-suspends-green-card-lottery-program-that-let-brown-university-mit-shootings-suspect-into-u-s/\">Trump suspends green card lottery program that let Brown University, MIT shootings suspect into U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3415eceec9d038428d037b418a2e7527",
       "summary": [
-        "Update: Ask the gardener: These shrubs and berries can hel",
-        "Details: <p>Our feathered friends must rely on whatever foo",
+        "Update: Trump suspends green card lottery program that let",
+        "Details: <p>The diversity visa program makes up to 50,000 g",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A former telephone company building is now a luxe condo for $3M in Dedham",
+      "link": "https://www.boston.com/real-estate/real-estate/2025/12/19/a-former-telephone-company-building-is-now-a-luxe-condo-for-3m-in-dedham/",
+      "pubDate": "Fri, 19 Dec 2025 13:53:34 +0000",
+      "description": "<p>\u201cIt took inspiration from Beacon Hill brownstones from the outside, and the interior kind of meets a Seaport rooftop.\" </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2025/12/19/a-former-telephone-company-building-is-now-a-luxe-condo-for-3m-in-dedham/\">A former telephone company building is now a luxe condo for $3M in Dedham</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "78c9ec6cd16eedb59f7d668c7ea273c1",
+      "summary": [
+        "Update: A former telephone company building is now a luxe ",
+        "Details: <p>\u201cIt took inspiration from Beacon Hill brownston",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Challenge yourself with a week\u2019s worth of Boston games and quizzes",
+      "link": "https://www.boston.com/community/quizzes/2025/12/19/boston-games-newsletter-brain-break/",
+      "pubDate": "Fri, 19 Dec 2025 13:49:16 +0000",
+      "description": "<p>Put your mind to the test with fun games that challenge you in every category.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/19/boston-games-newsletter-brain-break/\">Challenge yourself with a week&#8217;s worth of Boston games and quizzes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "be67561228318c30d8c518edb1c798cf",
+      "summary": [
+        "Update: Challenge yourself with a week\u2019s worth of Boston g",
+        "Details: <p>Put your mind to the test with fun games that c",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "How 1 tipster cracked the Brown University shooting case",
+      "link": "https://www.boston.com/news/local-news/2025/12/19/how-1-tipster-cracked-the-brown-university-shooting-case/",
+      "pubDate": "Fri, 19 Dec 2025 13:38:11 +0000",
+      "description": "<p>\u201cHe blew this case right open.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/19/how-1-tipster-cracked-the-brown-university-shooting-case/\">How 1 tipster cracked the Brown University shooting case</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1aa41dd9ca256cefdb0a1f5a833c2b2a",
+      "summary": [
+        "Update: How 1 tipster cracked the Brown University shootin",
+        "Details: <p>\u201cHe blew this case right open.\"</p>\n<p>The post",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Why \u2018job hugging\u2019 is on the rise as workers face a cooling job market",
+      "link": "https://www.boston.com/news/job-doc/2025/12/19/why-job-hugging-on-rise/",
+      "pubDate": "Fri, 19 Dec 2025 13:12:47 +0000",
+      "description": "<p>A mix of rising unemployment, slower hiring, AI anxiety, and industry layoffs is pushing employees to stay put \u2014 even in roles they don\u2019t love.</p>\n<p>The post <a href=\"https://www.boston.com/news/job-doc/2025/12/19/why-job-hugging-on-rise/\">Why &#8216;job hugging&#8217; is on the rise as workers face a cooling job market</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1e30c1b34582a687693ad4c3c31da37d",
+      "summary": [
+        "Update: Why \u2018job hugging\u2019 is on the rise as workers face a",
+        "Details: <p>A mix of rising unemployment, slower hiring, AI",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 6,
     "feedSize": 10,
-    "timestamp": "2025-12-19T12:49:56.420915+00:00"
+    "timestamp": "2025-12-19T14:25:24.971429+00:00"
   }
 }
