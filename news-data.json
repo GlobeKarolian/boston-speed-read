@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-21T20:25:41.707685+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-21T22:22:57.435610+00:00",
+  "articles": [
+    {
+      "title": "\u2018Don\u2019s best friend\u2019: How Epstein and Trump bonded over the pursuit of women",
+      "link": "https://www.boston.com/news/national-news/2025/12/21/dons-best-friend-how-epstein-and-trump-bonded-over-the-pursuit-of-women/",
+      "pubDate": "Sun, 21 Dec 2025 22:05:31 +0000",
+      "description": "<p>For nearly a quarter-century, Mr. Trump and his representatives have offered shifting, often contradictory accounts of his relationship with Mr. Epstein.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2025/12/21/dons-best-friend-how-epstein-and-trump-bonded-over-the-pursuit-of-women/\">\u2018Don\u2019s best friend\u2019: How Epstein and Trump bonded over the pursuit of women</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d62b7619861c693b08753ba40cf5b48",
+      "summary": [
+        "Update: \u2018Don\u2019s best friend\u2019: How Epstein and Trump bonded ",
+        "Details: <p>For nearly a quarter-century, Mr. Trump and his",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-21T20:25:41.707692+00:00"
+    "timestamp": "2025-12-21T22:22:57.435628+00:00"
   }
 }
