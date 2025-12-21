@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-21T02:03:18.487402+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-21T04:39:45.519749+00:00",
+  "articles": [
+    {
+      "title": "Marco Sturm explains his unorthodox choice for Bruins\u2019 shootout order in loss",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/12/20/marco-sturm-boston-bruins-nhl-hockey-shootout-order-vancouver-canucks/",
+      "pubDate": "Sun, 21 Dec 2025 04:24:26 +0000",
+      "description": "<p>\"I thought he was going to do it again, and he didn\u2019t. So that\u2019s why I picked him. So that\u2019s on me.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/20/marco-sturm-boston-bruins-nhl-hockey-shootout-order-vancouver-canucks/\">Marco Sturm explains his unorthodox choice for Bruins\u2019 shootout order in loss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "655510769f5c0d06e1bc1601b0845393",
+      "summary": [
+        "Update: Marco Sturm explains his unorthodox choice for Bru",
+        "Details: <p>\"I thought he was going to do it again, and he ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Payton Pritchard drops 33 points as spark plug in Celtics win over Raptors",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/12/20/nba-celtics-payton-pritchard-double-double/",
+      "pubDate": "Sun, 21 Dec 2025 03:43:53 +0000",
+      "description": "<p>Pritchard stepped up as Jaylen Brown missed the second half of Boston's back to back.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/20/nba-celtics-payton-pritchard-double-double/\">Payton Pritchard drops 33 points as spark plug in Celtics win over Raptors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d2772a21f0acf545e28044ecfe76dc0",
+      "summary": [
+        "Update: Payton Pritchard drops 33 points as spark plug in ",
+        "Details: <p>Pritchard stepped up as Jaylen Brown missed the",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-21T02:03:18.487411+00:00"
+    "timestamp": "2025-12-21T04:39:45.519768+00:00"
   }
 }
