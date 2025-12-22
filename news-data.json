@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-12-22T12:51:01.097832+00:00",
+  "lastUpdated": "2025-12-22T14:25:19.463703+00:00",
   "articles": [
     {
-      "title": "AFC Playoff Picture: Where the Patriots stand after beating the Ravens",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/22/afc-playoff-picture-patriots/",
-      "pubDate": "Mon, 22 Dec 2025 12:46:09 +0000",
-      "description": "<p>The Patriots are currently the No. 2 seed, but that could change depending on what happens with Denver and Buffalo. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/22/afc-playoff-picture-patriots/\">AFC Playoff Picture: Where the Patriots stand after beating the Ravens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a87b690f43cf10c2c5b1e10d48ae2ca5",
+      "title": "Actor James Ransone, known for his role in \u2018The Wire,\u2019 dies at 46",
+      "link": "https://www.boston.com/culture/entertainment/2025/12/22/actor-james-ransone-known-for-his-role-in-the-wire-dies-at-46/",
+      "pubDate": "Mon, 22 Dec 2025 14:23:14 +0000",
+      "description": "<p>Ransone\u2019s film credits include \u201cIt: Chapter Two\u201d and \u201cThe Black Phone.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/12/22/actor-james-ransone-known-for-his-role-in-the-wire-dies-at-46/\">Actor James Ransone, known for his role in &#8216;The Wire,&#8217; dies at 46</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "04301961b03e960ac6a548af6f0fa124",
       "summary": [
-        "Update: AFC Playoff Picture: Where the Patriots stand afte",
-        "Details: <p>The Patriots are currently the No. 2 seed, but ",
+        "Update: Actor James Ransone, known for his role in \u2018The Wi",
+        "Details: <p>Ransone\u2019s film credits include \u201cIt: Chapter Two",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Wins like Sunday night, by players like Drake Maye, make it feel like sky might be the limit for Patriots",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/22/patriots-drake-maye-sky-is-the-limit-wins/",
-      "pubDate": "Mon, 22 Dec 2025 12:41:34 +0000",
-      "description": "<p>Maye was at his best when the Patriots needed him most and their chances and depth chart were slimmest.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/22/patriots-drake-maye-sky-is-the-limit-wins/\">Wins like Sunday night, by players like Drake Maye, make it feel like sky might be the limit for Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "307376ffa9b1de9cb9def75e0d7f69e2",
+      "title": "Here\u2019s David Epstein\u2019s look at this week\u2019s weather",
+      "link": "https://www.boston.com/weather/weather/2025/12/22/heres-david-epsteins-look-at-this-weeks-weather/",
+      "pubDate": "Mon, 22 Dec 2025 14:10:43 +0000",
+      "description": "<p>\"I think even areas that receive an inch should hold onto the snow through Christmas Day.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2025/12/22/heres-david-epsteins-look-at-this-weeks-weather/\">Here&#8217;s David Epstein&#8217;s look at this week&#8217;s weather</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "81a33202770443cbbdacc9b2ed410464",
       "summary": [
-        "Update: Wins like Sunday night, by players like Drake Maye",
-        "Details: <p>Maye was at his best when the Patriots needed h",
+        "Update: Here\u2019s David Epstein\u2019s look at this week\u2019s weather",
+        "Details: <p>\"I think even areas that receive an inch should",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "What Boston meteorologists are saying about the timing and impacts of Tuesday\u2019s snow",
+      "link": "https://www.boston.com/weather/weather/2025/12/22/boston-ma-snow-forecast-tuesday-dec-23-2025/",
+      "pubDate": "Mon, 22 Dec 2025 13:48:12 +0000",
+      "description": "<p>\"Light snow breaks out tomorrow, whitening the ground for many just before Christmas.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2025/12/22/boston-ma-snow-forecast-tuesday-dec-23-2025/\">What Boston meteorologists are saying about the timing and impacts of Tuesday&#8217;s snow</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d657d84120f096bd5eebca902bcc97ea",
+      "summary": [
+        "Update: What Boston meteorologists are saying about the ti",
+        "Details: <p>\"Light snow breaks out tomorrow, whitening the ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-12-22T12:51:01.097857+00:00"
+    "timestamp": "2025-12-22T14:25:19.463722+00:00"
   }
 }
