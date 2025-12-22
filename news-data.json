@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-22T10:26:46.198921+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-22T12:51:01.097832+00:00",
+  "articles": [
+    {
+      "title": "AFC Playoff Picture: Where the Patriots stand after beating the Ravens",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/22/afc-playoff-picture-patriots/",
+      "pubDate": "Mon, 22 Dec 2025 12:46:09 +0000",
+      "description": "<p>The Patriots are currently the No. 2 seed, but that could change depending on what happens with Denver and Buffalo. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/22/afc-playoff-picture-patriots/\">AFC Playoff Picture: Where the Patriots stand after beating the Ravens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a87b690f43cf10c2c5b1e10d48ae2ca5",
+      "summary": [
+        "Update: AFC Playoff Picture: Where the Patriots stand afte",
+        "Details: <p>The Patriots are currently the No. 2 seed, but ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Wins like Sunday night, by players like Drake Maye, make it feel like sky might be the limit for Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/22/patriots-drake-maye-sky-is-the-limit-wins/",
+      "pubDate": "Mon, 22 Dec 2025 12:41:34 +0000",
+      "description": "<p>Maye was at his best when the Patriots needed him most and their chances and depth chart were slimmest.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/22/patriots-drake-maye-sky-is-the-limit-wins/\">Wins like Sunday night, by players like Drake Maye, make it feel like sky might be the limit for Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "307376ffa9b1de9cb9def75e0d7f69e2",
+      "summary": [
+        "Update: Wins like Sunday night, by players like Drake Maye",
+        "Details: <p>Maye was at his best when the Patriots needed h",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-22T10:26:46.198929+00:00"
+    "timestamp": "2025-12-22T12:51:01.097857+00:00"
   }
 }
