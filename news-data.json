@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2025-12-22T04:43:12.083406+00:00",
+  "lastUpdated": "2025-12-22T06:40:09.705416+00:00",
   "articles": [
     {
-      "title": "Fabian Zetterlund scores 2 as Senators beat Bruins 6-2 for 4th straight win",
-      "link": "https://www.boston.com/sports/boston-bruins/2025/12/21/fabian-zetterlund-scores-2-as-senators-beat-bruins-6-2-for-4th-straight-win/",
-      "pubDate": "Mon, 22 Dec 2025 03:02:54 +0000",
-      "description": "<p>David Pastrnak and Charlie McAvoy scored for the Bruins as Boston fell to Ottawa, 6-2.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/21/fabian-zetterlund-scores-2-as-senators-beat-bruins-6-2-for-4th-straight-win/\">Fabian Zetterlund scores 2 as Senators beat Bruins 6-2 for 4th straight win</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "61b1fc3d9b703a2f226f04dd45a443a2",
+      "title": "What Mike Vrabel said of controversial non-call by refs against Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/22/new-england-patriots-ravens-call-non-call-refs-officials-kayshon-boutte-baltimore-marlon-humphrey/",
+      "pubDate": "Mon, 22 Dec 2025 06:11:59 +0000",
+      "description": "<p>\u201cThat\u2019s pass interference. That\u2019s obvious pass interference, Cris. Not a hard question at all.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/22/new-england-patriots-ravens-call-non-call-refs-officials-kayshon-boutte-baltimore-marlon-humphrey/\">What Mike Vrabel said of controversial non-call by refs against Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c956130b13e5184480516536d9d616ce",
       "summary": [
-        "Update: Fabian Zetterlund scores 2 as Senators beat Bruins",
-        "Details: <p>David Pastrnak and Charlie McAvoy scored for th",
+        "Update: What Mike Vrabel said of controversial non-call by",
+        "Details: <p>\u201cThat\u2019s pass interference. That\u2019s obvious pass ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots Stock Watch: Who stood out and struggled in comeback win against Ravens",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/21/patriots-stock-watch-baltimore-ravens-analysis-stefon-diggs-commentary/",
+      "pubDate": "Mon, 22 Dec 2025 04:57:22 +0000",
+      "description": "<p>The Patriots pulled off a big win in Baltimore. Here's who's up, down, and in between. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/21/patriots-stock-watch-baltimore-ravens-analysis-stefon-diggs-commentary/\">Patriots Stock Watch: Who stood out and struggled in comeback win against Ravens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "54362061984bae356bf54366e81e1238",
+      "summary": [
+        "Update: Patriots Stock Watch: Who stood out and struggled ",
+        "Details: <p>The Patriots pulled off a big win in Baltimore.",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-22T04:43:12.083418+00:00"
+    "timestamp": "2025-12-22T06:40:09.705435+00:00"
   }
 }
