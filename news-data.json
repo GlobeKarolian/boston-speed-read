@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2025-12-23T10:28:03.992895+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-23T12:52:21.909493+00:00",
+  "articles": [
+    {
+      "title": "Wickedpedia: Why is the Green Line so loud?",
+      "link": "https://www.boston.com/community/wickedpedia/2025/12/23/wickedpedia-why-is-the-green-line-so-loud/",
+      "pubDate": "Tue, 23 Dec 2025 12:35:42 +0000",
+      "description": "<p>Unfortunately, there are a lot of reasons.</p>\n<p>The post <a href=\"https://www.boston.com/community/wickedpedia/2025/12/23/wickedpedia-why-is-the-green-line-so-loud/\">Wickedpedia: Why is the Green Line so loud?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7a2c820883310b0989b7075e5aa6b122",
+      "summary": [
+        "Update: Wickedpedia: Why is the Green Line so loud?",
+        "Details: <p>Unfortunately, there are a lot of reasons.</p>\n",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: A waterfront house with cabin vibes in Stow for $1M",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2025/12/23/stow-massachusetts-lake-boon-cabin-house-for-sale/",
+      "pubDate": "Tue, 23 Dec 2025 12:00:00 +0000",
+      "description": "<p>The Cape-style home has 71 feet of access on Lake Boon\u2019s deepest section.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2025/12/23/stow-massachusetts-lake-boon-cabin-house-for-sale/\">Home of the Week: A waterfront house with cabin vibes in Stow for $1M</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0754fcf4097007c426674d442076c92b",
+      "summary": [
+        "Update: Home of the Week: A waterfront house with cabin vi",
+        "Details: <p>The Cape-style home has 71 feet of access on La",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-23T10:28:03.992904+00:00"
+    "timestamp": "2025-12-23T12:52:21.909511+00:00"
   }
 }
