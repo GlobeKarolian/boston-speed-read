@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-24T04:38:22.887772+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-24T06:38:56.960266+00:00",
+  "articles": [
+    {
+      "title": "Ahead of a self-described \u2018must-win\u2019 game, Bruins fail to meet the moment",
+      "link": "https://www.boston.com/sports/boston-bruins/2025/12/23/boston-bruins-montreal-canadiens-nhl-hockey-pastrnak/",
+      "pubDate": "Wed, 24 Dec 2025 04:54:35 +0000",
+      "description": "<p>\"It's terrible. It stinks. Really, this whole homestand, going into the break \u2014 it's unfortunate,\u201d Alex Steeves said.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/23/boston-bruins-montreal-canadiens-nhl-hockey-pastrnak/\">Ahead of a self-described \u2018must-win\u2019 game, Bruins fail to meet the moment</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e7d1f2762b097abd853d847563f01a8c",
+      "summary": [
+        "Update: Ahead of a self-described \u2018must-win\u2019 game, Bruins ",
+        "Details: <p>\"It's terrible. It stinks. Really, this whole h",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-24T04:38:22.887779+00:00"
+    "timestamp": "2025-12-24T06:38:56.960284+00:00"
   }
 }
