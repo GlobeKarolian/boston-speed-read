@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-24T08:34:28.255180+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-24T10:26:22.573554+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Dec. 24)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2025/12/24/recent-homes-sales-in-greater-boston-dec-24/",
+      "pubDate": "Wed, 24 Dec 2025 10:00:00 +0000",
+      "description": "<p>ABINGTON 28 Sylvan Court. One-family Cape Cod, built in 1948, 1,398 square feet, 6 rooms, 3 bedrooms, 1 bath, on 13,049-square-foot lot. $675,000 800 Plymouth St. One-family Colonial, built in 1920, 1,890 square feet, 8 rooms, 3 bedrooms, 2 baths, on 30,473-square-foot lot. $640,000 64 Centre Ave. #1 Condo/Apt, built in 1901, 1,267 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2025/12/24/recent-homes-sales-in-greater-boston-dec-24/\">Recent homes sales in Greater Boston (Dec. 24)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a0117e9f470fc78afbad1f4fb3a14e18",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Dec. 24)",
+        "Details: <p>ABINGTON 28 Sylvan Court. One-family Cape Cod, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-24T08:34:28.255188+00:00"
+    "timestamp": "2025-12-24T10:26:22.573566+00:00"
   }
 }
