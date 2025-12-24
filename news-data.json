@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2025-12-24T12:50:36.618542+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-24T14:23:57.808666+00:00",
+  "articles": [
+    {
+      "title": "Readers: Have you ever been a third wheel?",
+      "link": "https://www.boston.com/love-letters/love-letters/2025/12/24/third-wheel/",
+      "pubDate": "Wed, 24 Dec 2025 14:07:49 +0000",
+      "description": "<p>Share your experiences being single next to a couple or group of couples. </p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2025/12/24/third-wheel/\">Readers: Have you ever been a third wheel?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e8c562094be4a81bff25757e8f54f6e9",
+      "summary": [
+        "Update: Readers: Have you ever been a third wheel?",
+        "Details: <p>Share your experiences being single next to a c",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "10 towns remain defiant of MBTA Communities Act as year-end deadline looms",
+      "link": "https://www.boston.com/news/local-news/2025/12/24/10-towns-remain-defiant-of-mbta-communities-act-as-year-end-deadline-looms/",
+      "pubDate": "Wed, 24 Dec 2025 14:03:21 +0000",
+      "description": "<p>The clock is ticking for these communities as they weigh the consequences of standing firm against the law.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/10-towns-remain-defiant-of-mbta-communities-act-as-year-end-deadline-looms/\">10 towns remain defiant of MBTA Communities Act as year-end deadline looms</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c6ff63e5aa79f0f35af8e5b6ef7a929d",
+      "summary": [
+        "Update: 10 towns remain defiant of MBTA Communities Act as",
+        "Details: <p>The clock is ticking for these communities as t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u201960 Minutes\u2019 segment on Trump immigration policy accidentally airs online",
+      "link": "https://www.boston.com/news/media/2025/12/24/60-minutes-segment-on-trump-immigration-policy-accidentally-airs-online/",
+      "pubDate": "Wed, 24 Dec 2025 13:48:19 +0000",
+      "description": "<p>The segment featured interviews with migrants who were sent to a notorious El Salvador prison called the\u00a0Terrorism Confinement Center, or CECOT, under President Donald Trump\u2019s aggressive\u00a0crackdown on immigration.</p>\n<p>The post <a href=\"https://www.boston.com/news/media/2025/12/24/60-minutes-segment-on-trump-immigration-policy-accidentally-airs-online/\">&#8217;60 Minutes&#8217; segment on Trump immigration policy accidentally airs online</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "81c10b59729e219f3902c8c93ad87199",
+      "summary": [
+        "Update: \u201960 Minutes\u2019 segment on Trump immigration policy a",
+        "Details: <p>The segment featured interviews with migrants w",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Federal judge says Trump administration must restore disaster money to Democratic states",
+      "link": "https://www.boston.com/news/politics/2025/12/24/federal-judge-trump-administration-must-restore-disaster-money-democratic-states/",
+      "pubDate": "Wed, 24 Dec 2025 13:33:47 +0000",
+      "description": "<p>In total, DHS and FEMA reduced more than $233 million from Connecticut, Delaware, the District of Columbia, Massachusetts, Minnesota, New York, Rhode Island, Vermont, and Washington.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/12/24/federal-judge-trump-administration-must-restore-disaster-money-democratic-states/\">Federal judge says Trump administration must restore disaster money to Democratic states</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "98ee6f62cb195fcea10339b018d3cb8c",
+      "summary": [
+        "Update: Federal judge says Trump administration must resto",
+        "Details: <p>In total, DHS and FEMA reduced more than $233 m",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2025-12-24T12:50:36.618551+00:00"
+    "timestamp": "2025-12-24T14:23:57.808681+00:00"
   }
 }
