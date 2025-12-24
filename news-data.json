@@ -1,62 +1,36 @@
 {
-  "lastUpdated": "2025-12-24T20:26:57.697202+00:00",
+  "lastUpdated": "2025-12-24T22:23:40.214508+00:00",
   "articles": [
     {
-      "title": "Officials warn about possible measles exposures in Boston and Westborough",
-      "link": "https://www.boston.com/news/health/2025/12/24/officials-warn-possible-measles-exposures-boston-westborough/",
-      "pubDate": "Wed, 24 Dec 2025 20:05:48 +0000",
-      "description": "<p>A visitor with measles flew into Logan Airport in Boston on Dec. 11 and stayed overnight at a hotel in Westborough, officials said. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/12/24/officials-warn-possible-measles-exposures-boston-westborough/\">Officials warn about possible measles exposures in Boston and Westborough</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "05eeabd9c4ea1cd3cd81563d65e51472",
+      "title": "Boston Logan Airport adds free classic arcade games for holiday travelers",
+      "link": "https://www.boston.com/news/local-news/2025/12/24/boston-logan-airport-arcade-games/",
+      "pubDate": "Wed, 24 Dec 2025 21:38:35 +0000",
+      "description": "<p>From Frogger to Galaga, holiday travelers can relive the '80s and '90s without spending a cent.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/boston-logan-airport-arcade-games/\">Boston Logan Airport adds free classic arcade games for holiday travelers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "698d04f1e35e896cfc283f3286c4033d",
       "summary": [
-        "Update: Officials warn about possible measles exposures in",
-        "Details: <p>A visitor with measles flew into Logan Airport ",
+        "Update: Boston Logan Airport adds free classic arcade game",
+        "Details: <p>From Frogger to Galaga, holiday travelers can r",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "5 best new restaurant openings and dining updates in Boston (Dec. 24, 2025)",
-      "link": "https://www.boston.com/food/food/2025/12/24/restaurant-openings-dec-24-2025/",
-      "pubDate": "Wed, 24 Dec 2025 19:25:39 +0000",
-      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/food/2025/12/24/restaurant-openings-dec-24-2025/\">5 best new restaurant openings and dining updates in Boston (Dec. 24, 2025)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "73c11d43c4423ba6f9c87a392ed48bc0",
+      "title": "Boston.com readers push back against 13% property tax increase",
+      "link": "https://www.boston.com/community/readers-say/2025/12/24/readers-against-tax-increase/",
+      "pubDate": "Wed, 24 Dec 2025 21:04:59 +0000",
+      "description": "<p>Many worry the hike could drive homeowners and residents out of the city.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/12/24/readers-against-tax-increase/\">Boston.com readers push back against 13% property tax increase</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "26d57ec67cc552d101ca392c1cacadd5",
       "summary": [
-        "Update: 5 best new restaurant openings and dining updates ",
-        "Details: <p>Stay up to date on the best new restaurants, re",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Photos: NICU babies at Mass General Brigham don festive attire for first holiday",
-      "link": "https://www.boston.com/news/local-news/2025/12/24/photos-nicu-babies-mass-general-brigham-holidays/",
-      "pubDate": "Wed, 24 Dec 2025 19:23:15 +0000",
-      "description": "<p>The holiday spirit spread across the NICUs at Massachusetts General Hospital, Brigham and Women\u2019s Hospital, and Newton Wellesley Hospital this week. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/photos-nicu-babies-mass-general-brigham-holidays/\">Photos: NICU babies at Mass General Brigham don festive attire for first holiday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1b8fa850b7427203284cfa34f0bef6f6",
-      "summary": [
-        "Update: Photos: NICU babies at Mass General Brigham don fe",
-        "Details: <p>The holiday spirit spread across the NICUs at M",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "The 10 best TV shows of 2025",
-      "link": "https://www.boston.com/culture/entertainment/2025/12/24/best-tv-shows-of-2025/",
-      "pubDate": "Wed, 24 Dec 2025 18:50:12 +0000",
-      "description": "<p>From \"Andor\" to \"Adolescence,\" these are the best TV shows of 2025.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/12/24/best-tv-shows-of-2025/\">The 10 best TV shows of 2025</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7853efe3826c81fbf52f0539d9a72c77",
-      "summary": [
-        "Update: The 10 best TV shows of 2025",
-        "Details: <p>From \"Andor\" to \"Adolescence,\" these are the be",
+        "Update: Boston.com readers push back against 13% property ",
+        "Details: <p>Many worry the hike could drive homeowners and ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2025-12-24T20:26:57.697221+00:00"
+    "timestamp": "2025-12-24T22:23:40.214525+00:00"
   }
 }
