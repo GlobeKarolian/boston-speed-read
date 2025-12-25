@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2025-12-24T22:23:40.214508+00:00",
+  "lastUpdated": "2025-12-25T01:58:01.849671+00:00",
   "articles": [
     {
-      "title": "Boston Logan Airport adds free classic arcade games for holiday travelers",
-      "link": "https://www.boston.com/news/local-news/2025/12/24/boston-logan-airport-arcade-games/",
-      "pubDate": "Wed, 24 Dec 2025 21:38:35 +0000",
-      "description": "<p>From Frogger to Galaga, holiday travelers can relive the '80s and '90s without spending a cent.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/boston-logan-airport-arcade-games/\">Boston Logan Airport adds free classic arcade games for holiday travelers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "698d04f1e35e896cfc283f3286c4033d",
+      "title": "Why Drake Maye had an issue with latest Patriots Pro Bowl selections",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/24/drake-maye-nfl-new-england-patriots-pro-bowl-christian-gonzalez/",
+      "pubDate": "Wed, 24 Dec 2025 23:30:13 +0000",
+      "description": "<p>\u201cI think there\u2019s numerous guys on our squad that I think are deserving. I don\u2019t want to leave out anybody\u2019s name.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/24/drake-maye-nfl-new-england-patriots-pro-bowl-christian-gonzalez/\">Why Drake Maye had an issue with latest Patriots Pro Bowl selections</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "be394d0b2a15ae6bb8172fb7c9158957",
       "summary": [
-        "Update: Boston Logan Airport adds free classic arcade game",
-        "Details: <p>From Frogger to Galaga, holiday travelers can r",
+        "Update: Why Drake Maye had an issue with latest Patriots P",
+        "Details: <p>\u201cI think there\u2019s numerous guys on our squad tha",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Boston.com readers push back against 13% property tax increase",
-      "link": "https://www.boston.com/community/readers-say/2025/12/24/readers-against-tax-increase/",
-      "pubDate": "Wed, 24 Dec 2025 21:04:59 +0000",
-      "description": "<p>Many worry the hike could drive homeowners and residents out of the city.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/12/24/readers-against-tax-increase/\">Boston.com readers push back against 13% property tax increase</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "26d57ec67cc552d101ca392c1cacadd5",
+      "title": "Red Sox have reportedly \u2018shopped\u2019 Brayan Bello this offseason",
+      "link": "https://www.boston.com/sports/boston-red-sox/2025/12/24/boston-red-sox-mlb-baseball-trade-rumors-brayan-bello-ketel-marte/",
+      "pubDate": "Wed, 24 Dec 2025 23:25:02 +0000",
+      "description": "<p>\"The Diamondbacks want young pitching in return.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/12/24/boston-red-sox-mlb-baseball-trade-rumors-brayan-bello-ketel-marte/\">Red Sox have reportedly \u2018shopped\u2019 Brayan Bello this offseason</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a5572ebaa21e159bf1c53a12eec3f4d0",
       "summary": [
-        "Update: Boston.com readers push back against 13% property ",
-        "Details: <p>Many worry the hike could drive homeowners and ",
+        "Update: Red Sox have reportedly \u2018shopped\u2019 Brayan Bello thi",
+        "Details: <p>\"The Diamondbacks want young pitching in return",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "21-year-old woman dies in massive Christmas Eve fire at Needham home",
+      "link": "https://www.boston.com/news/local-news/2025/12/24/21-year-old-woman-dies-in-massive-christmas-eve-fire-at-needham-home/",
+      "pubDate": "Wed, 24 Dec 2025 23:16:45 +0000",
+      "description": "<p>Needham police called the fire \u201can unimaginable tragedy\u201d and said \u201cthe time will come\u201d for donations and other support.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/21-year-old-woman-dies-in-massive-christmas-eve-fire-at-needham-home/\">21-year-old woman dies in massive Christmas Eve fire at Needham home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "211533dd6d24c60de351b09298f5efbd",
+      "summary": [
+        "Update: 21-year-old woman dies in massive Christmas Eve fi",
+        "Details: <p>Needham police called the fire \u201can unimaginable",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-12-24T22:23:40.214525+00:00"
+    "timestamp": "2025-12-25T01:58:01.849689+00:00"
   }
 }
