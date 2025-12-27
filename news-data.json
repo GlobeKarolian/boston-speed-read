@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-27T12:47:20.142177+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-27T14:21:26.406125+00:00",
+  "articles": [
+    {
+      "title": "Here are the Mass. snow totals for Friday into Saturday storm",
+      "link": "https://www.boston.com/news/local-news/2025/12/27/massachusetts-snowfall-totals-for-dec-26-27-2025/",
+      "pubDate": "Sat, 27 Dec 2025 13:58:57 +0000",
+      "description": "<p>The highest totals were in the southern and western parts of the state.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/27/massachusetts-snowfall-totals-for-dec-26-27-2025/\">Here are the Mass. snow totals for Friday into Saturday storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "afa446c0147ae3c0161e37ae14a646d2",
+      "summary": [
+        "Update: Here are the Mass. snow totals for Friday into Sat",
+        "Details: <p>The highest totals were in the southern and wes",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-27T12:47:20.142186+00:00"
+    "timestamp": "2025-12-27T14:21:26.406143+00:00"
   }
 }
