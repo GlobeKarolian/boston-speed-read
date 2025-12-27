@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2025-12-27T04:35:11.560559+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-27T06:36:15.595139+00:00",
+  "articles": [
+    {
+      "title": "Jaylen Brown scores 30 points and the Celtics make 20 3-pointers to beat the Pacers 140-122",
+      "link": "https://www.boston.com/sports/boston-celtics/2025/12/26/celtics-pacers-jaylen-brown/",
+      "pubDate": "Sat, 27 Dec 2025 02:44:50 +0000",
+      "description": "<p>Boston (19-11) are winners of four games in a row.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2025/12/26/celtics-pacers-jaylen-brown/\">Jaylen Brown scores 30 points and the Celtics make 20 3-pointers to beat the Pacers 140-122</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56703ad0ba3c930beaf0d51283048dd1",
+      "summary": [
+        "Update: Jaylen Brown scores 30 points and the Celtics make",
+        "Details: <p>Boston (19-11) are winners of four games in a r",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-27T04:35:11.560568+00:00"
+    "timestamp": "2025-12-27T06:36:15.595159+00:00"
   }
 }
