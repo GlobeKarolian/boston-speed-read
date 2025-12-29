@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2025-12-29T10:27:57.887345+00:00",
-  "articles": [],
+  "lastUpdated": "2025-12-29T12:53:26.955651+00:00",
+  "articles": [
+    {
+      "title": "Patriots learn date, time of regular-season finale vs. Dolphins",
+      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/29/patriots-dolphins-time-nfl-week-18/",
+      "pubDate": "Mon, 29 Dec 2025 12:11:40 +0000",
+      "description": "<p>The No. 1 seed in the AFC will be determined on the results of Sunday's Patriots-Dolphins and Broncos-Chargers games.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/29/patriots-dolphins-time-nfl-week-18/\">Patriots learn date, time of regular-season finale vs. Dolphins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "913656fb5a6f43364ebb4fba9115e064",
+      "summary": [
+        "Update: Patriots learn date, time of regular-season finale",
+        "Details: <p>The No. 1 seed in the AFC will be determined on",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news in 2025? Take our Greater Boston year-end news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/12/29/2025-local-news-quiz/",
+      "pubDate": "Mon, 29 Dec 2025 11:45:57 +0000",
+      "description": "<p>In which we narrow down some of the biggest news stories of the year into 12 key questions, one for each month.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/29/2025-local-news-quiz/\">Did you follow the local news in 2025? Take our Greater Boston year-end news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9159d56e1d44c81cd782cfccb0a77a9a",
+      "summary": [
+        "Update: Did you follow the local news in 2025? Take our Gr",
+        "Details: <p>In which we narrow down some of the biggest new",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "It was close, but this was Boston\u2019s favorite concert of 2025",
+      "link": "https://www.boston.com/community/readers-say/2025/12/29/favorite-concerts-of-2025/",
+      "pubDate": "Mon, 29 Dec 2025 11:42:51 +0000",
+      "description": "<p>David Byrne edged out Nine Inch Nails as the top concert of the year, according to Boston.com readers. But plenty of others got mentioned as well. </p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/12/29/favorite-concerts-of-2025/\">It was close, but this was Boston&#8217;s favorite concert of 2025</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5dc445287cd5b152732b9d70e21d6385",
+      "summary": [
+        "Update: It was close, but this was Boston\u2019s favorite conce",
+        "Details: <p>David Byrne edged out Nine Inch Nails as the to",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2025-12-29T10:27:57.887353+00:00"
+    "timestamp": "2025-12-29T12:53:26.955671+00:00"
   }
 }
