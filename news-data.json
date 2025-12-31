@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2025-12-31T03:42:01.599113+00:00",
+  "lastUpdated": "2025-12-31T04:40:33.991756+00:00",
   "articles": [
     {
-      "title": "Trump administration says it\u2019s freezing child care funds to Minnesota after series of fraud schemes",
-      "link": "https://www.boston.com/news/politics/2025/12/30/trump-administration-says-its-freezing-child-care-funds-to-minnesota-after-series-of-fraud-schemes/",
-      "pubDate": "Wed, 31 Dec 2025 03:06:16 +0000",
-      "description": "<p>The announcement comes one day after US Homeland Security officials were in Minneapolis conducting a fraud investigation by going to unidentified businesses and questioning workers.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/12/30/trump-administration-says-its-freezing-child-care-funds-to-minnesota-after-series-of-fraud-schemes/\">Trump administration says it&#8217;s freezing child care funds to Minnesota after series of fraud schemes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "17941e50a5156c72c9fa81b178e7ee9a",
+      "title": "Dorchester school to exit state control, 2 others no longer \u2018underperforming\u2019",
+      "link": "https://www.boston.com/news/education/2025/12/30/dorchester-school-to-exit-state-control-2-others-no-longer-underperforming/",
+      "pubDate": "Wed, 31 Dec 2025 04:04:18 +0000",
+      "description": "<p>DESE praised the progress of UP Academy Holland in Dorchester Dearborn STEM Academy in Roxbury and the Fonseca Elementary School in Fall River.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2025/12/30/dorchester-school-to-exit-state-control-2-others-no-longer-underperforming/\">Dorchester school to exit state control, 2 others no longer &#8216;underperforming&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "222be56fbcae6d6c82b969820a4eff6c",
       "summary": [
-        "Update: Trump administration says it\u2019s freezing child care",
-        "Details: <p>The announcement comes one day after US Homelan",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Fitchburg father who appeared to seize while being choked by ICE agent sues agent",
-      "link": "https://www.boston.com/news/local-news/2025/12/30/fitchburg-man-appeared-to-sieze-choked-sues-ice-agent/",
-      "pubDate": "Wed, 31 Dec 2025 02:19:45 +0000",
-      "description": "<p>The Fitchburg father requested to be evaluated by emergency medical services, but Agent John Doe allegedly \u201cwaved EMS away and told them, \u2018He\u2019s all good.\u2019\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/30/fitchburg-man-appeared-to-sieze-choked-sues-ice-agent/\">Fitchburg father who appeared to seize while being choked by ICE agent sues agent</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8599ef6b1cbed194aef375c189df2203",
-      "summary": [
-        "Update: Fitchburg father who appeared to seize while being",
-        "Details: <p>The Fitchburg father requested to be evaluated ",
+        "Update: Dorchester school to exit state control, 2 others ",
+        "Details: <p>DESE praised the progress of UP Academy Holland",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2025-12-31T03:42:01.599133+00:00"
+    "timestamp": "2025-12-31T04:40:33.991774+00:00"
   }
 }
