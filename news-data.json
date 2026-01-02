@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-01-02T12:49:55.691553+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-02T14:25:32.269330+00:00",
+  "articles": [
+    {
+      "title": "Man and woman found dead in Fairhaven home on New Year\u2019s Eve",
+      "link": "https://www.boston.com/news/local-news/2026/01/02/man-and-woman-found-dead-in-fairhaven-home-on-new-years-eve/",
+      "pubDate": "Fri, 02 Jan 2026 14:03:17 +0000",
+      "description": "<p>The two were found inside a Jameson Street residence on Wednesday night, officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/02/man-and-woman-found-dead-in-fairhaven-home-on-new-years-eve/\">Man and woman found dead in Fairhaven home on New Year&#8217;s Eve</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cee58e92b9752421bb3f2a7cb0e71b9f",
+      "summary": [
+        "Update: Man and woman found dead in Fairhaven home on New ",
+        "Details: <p>The two were found inside a Jameson Street resi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Kick off 2026 with these New England winter events",
+      "link": "https://www.boston.com/travel/scenic-six/2026/01/02/new-england-travel-nighttime-skiing-new-years/",
+      "pubDate": "Fri, 02 Jan 2026 13:54:45 +0000",
+      "description": "<p>Skiing at night, free things to do in Boston, New Year's events, and more.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/01/02/new-england-travel-nighttime-skiing-new-years/\">Kick off 2026 with these New England winter events</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b7911274778885a0d66f7d4fd74a51ad",
+      "summary": [
+        "Update: Kick off 2026 with these New England winter events",
+        "Details: <p>Skiing at night, free things to do in Boston, N",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Take a break from scrolling at New Bedford\u2019s 25-hour \u2018Moby Dick\u2019 marathon",
+      "link": "https://www.boston.com/culture/books/2026/01/02/take-a-break-from-scrolling-at-new-bedfords-25-hour-moby-dick-marathon/",
+      "pubDate": "Fri, 02 Jan 2026 13:52:18 +0000",
+      "description": "<p>Some 2,500 people are expected at the 30th annual marathon reading of Melville\u2019s classic \u2014 a ritual organizers call \u201ccathartic and communal.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/books/2026/01/02/take-a-break-from-scrolling-at-new-bedfords-25-hour-moby-dick-marathon/\">Take a break from scrolling at New Bedford&#8217;s 25-hour \u2018Moby Dick\u2019 marathon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c919746e5fefc2cb4286fd2f3c5d6209",
+      "summary": [
+        "Update: Take a break from scrolling at New Bedford\u2019s 25-ho",
+        "Details: <p>Some 2,500 people are expected at the 30th annu",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots\u2019 Week 2 win over the Dolphins was the start of a memorable season",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/02/patriots-dolphins-nfl-week-18-preview/",
+      "pubDate": "Fri, 02 Jan 2026 13:50:07 +0000",
+      "description": "<p>It\u2019s fitting that the Patriots wrap up their remarkable regular season against the Dolphins, against whom they first showed flashes of excellence way back in Week 2.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/02/patriots-dolphins-nfl-week-18-preview/\">Patriots\u2019 Week 2 win over the Dolphins was the start of a memorable season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b4ba514bdc5e5bb22ea4f05d8fe40d0c",
+      "summary": [
+        "Update: Patriots\u2019 Week 2 win over the Dolphins was the sta",
+        "Details: <p>It\u2019s fitting that the Patriots wrap up their re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Jaylen Brown scores 29 to help Celtics pull away from Kings in 4th quarter for first victory of 2026",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/02/celtics-kings-jaylen-brown/",
+      "pubDate": "Fri, 02 Jan 2026 13:40:43 +0000",
+      "description": "<p>No team held a lead greater than 10 points in Thursday's game until the Celtics went on a run in the final minutes.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/02/celtics-kings-jaylen-brown/\">Jaylen Brown scores 29 to help Celtics pull away from Kings in 4th quarter for first victory of 2026</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c45dadec2b9f99835b6ddd58d856181f",
+      "summary": [
+        "Update: Jaylen Brown scores 29 to help Celtics pull away f",
+        "Details: <p>No team held a lead greater than 10 points in T",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-01-02T12:49:55.691562+00:00"
+    "timestamp": "2026-01-02T14:25:32.269352+00:00"
   }
 }
