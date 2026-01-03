@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-03T10:24:56.117030+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-03T12:48:00.896541+00:00",
+  "articles": [
+    {
+      "title": "US strikes Venezuela and says its leader has been captured and flown out of the country",
+      "link": "https://www.boston.com/news/world-news/2026/01/03/us-strikes-venezuela-and-says-its-leader-has-been-captured-and-flown-out-of-the-country/",
+      "pubDate": "Sat, 03 Jan 2026 12:41:18 +0000",
+      "description": "<p>The legal authority for the strike \u2014 and whether Trump consulted Congress beforehand \u2014 was not immediately clear.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/01/03/us-strikes-venezuela-and-says-its-leader-has-been-captured-and-flown-out-of-the-country/\">US strikes Venezuela and says its leader has been captured and flown out of the country</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9003bd6d77bf52758686ffac8955e231",
+      "summary": [
+        "Update: US strikes Venezuela and says its leader has been ",
+        "Details: <p>The legal authority for the strike \u2014 and whethe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-03T10:24:56.117039+00:00"
+    "timestamp": "2026-01-03T12:48:00.896560+00:00"
   }
 }
