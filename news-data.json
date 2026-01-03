@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-03T20:26:36.406050+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-03T22:23:13.765690+00:00",
+  "articles": [
+    {
+      "title": "Examining Patriots\u2019 playoff scenarios, possible Wild Card Round opponents entering Week 18",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/03/patriots-week-18-playoff-scenarios-wild-card-opponent/",
+      "pubDate": "Sat, 03 Jan 2026 21:14:40 +0000",
+      "description": "<p>If the Patriots wind up playing in the Wild Card Round, there are three teams they could possibly face.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/03/patriots-week-18-playoff-scenarios-wild-card-opponent/\">Examining Patriots&#8217; playoff scenarios, possible Wild Card Round opponents entering Week 18</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2415a941c8e6fa20717cd299c59288eb",
+      "summary": [
+        "Update: Examining Patriots\u2019 playoff scenarios, possible Wi",
+        "Details: <p>If the Patriots wind up playing in the Wild Car",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-03T20:26:36.406057+00:00"
+    "timestamp": "2026-01-03T22:23:13.765710+00:00"
   }
 }
