@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-01-03T12:48:00.896541+00:00",
+  "lastUpdated": "2026-01-03T14:22:13.196760+00:00",
   "articles": [
     {
-      "title": "US strikes Venezuela and says its leader has been captured and flown out of the country",
-      "link": "https://www.boston.com/news/world-news/2026/01/03/us-strikes-venezuela-and-says-its-leader-has-been-captured-and-flown-out-of-the-country/",
-      "pubDate": "Sat, 03 Jan 2026 12:41:18 +0000",
-      "description": "<p>The legal authority for the strike \u2014 and whether Trump consulted Congress beforehand \u2014 was not immediately clear.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/01/03/us-strikes-venezuela-and-says-its-leader-has-been-captured-and-flown-out-of-the-country/\">US strikes Venezuela and says its leader has been captured and flown out of the country</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9003bd6d77bf52758686ffac8955e231",
+      "title": "Boston man charged after allegedly stealing more than $55K in merchandise from multiple Targets",
+      "link": "https://www.boston.com/news/local-news/2026/01/03/boston-man-charged-after-allegedly-stealing-more-than-55k-in-merchandise-from-multiple-targets/",
+      "pubDate": "Sat, 03 Jan 2026 13:52:50 +0000",
+      "description": "<p>A 54-year-old man was caught allegedly trying to make off with 27 bottles of lotion from the South Bay Plaza Target.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/03/boston-man-charged-after-allegedly-stealing-more-than-55k-in-merchandise-from-multiple-targets/\">Boston man charged after allegedly stealing more than $55K in merchandise from multiple Targets</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ed33cb0b31a54c13b722a47d988d9ee3",
       "summary": [
-        "Update: US strikes Venezuela and says its leader has been ",
-        "Details: <p>The legal authority for the strike \u2014 and whethe",
+        "Update: Boston man charged after allegedly stealing more t",
+        "Details: <p>A 54-year-old man was caught allegedly trying t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Victims of Central Mass. crash IDed as 19- and 20-year-old men",
+      "link": "https://www.boston.com/news/local-news/2026/01/03/victims-of-central-mass-crash-ided-as-19-and-20-year-old-men/",
+      "pubDate": "Sat, 03 Jan 2026 13:19:30 +0000",
+      "description": "<p>The two young men, one from Gardner and the other from Winchendon, died in a crash the day after Christmas.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/03/victims-of-central-mass-crash-ided-as-19-and-20-year-old-men/\">Victims of Central Mass. crash IDed as 19- and 20-year-old men</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cceb28a4d8221514109c8265e3f98eb9",
+      "summary": [
+        "Update: Victims of Central Mass. crash IDed as 19- and 20-",
+        "Details: <p>The two young men, one from Gardner and the oth",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-03T12:48:00.896560+00:00"
+    "timestamp": "2026-01-03T14:22:13.196781+00:00"
   }
 }
