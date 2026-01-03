@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-01-03T14:22:13.196760+00:00",
+  "lastUpdated": "2026-01-03T16:29:07.964618+00:00",
   "articles": [
     {
-      "title": "Boston man charged after allegedly stealing more than $55K in merchandise from multiple Targets",
-      "link": "https://www.boston.com/news/local-news/2026/01/03/boston-man-charged-after-allegedly-stealing-more-than-55k-in-merchandise-from-multiple-targets/",
-      "pubDate": "Sat, 03 Jan 2026 13:52:50 +0000",
-      "description": "<p>A 54-year-old man was caught allegedly trying to make off with 27 bottles of lotion from the South Bay Plaza Target.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/03/boston-man-charged-after-allegedly-stealing-more-than-55k-in-merchandise-from-multiple-targets/\">Boston man charged after allegedly stealing more than $55K in merchandise from multiple Targets</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ed33cb0b31a54c13b722a47d988d9ee3",
+      "title": "26 good things about 2025 in the sports media scene",
+      "link": "https://www.boston.com/sports/sports-news/2026/01/03/sports-media-weei-985-the-sports-hub-ratings-fox-verizion-fios-patriots/",
+      "pubDate": "Sat, 03 Jan 2026 16:24:31 +0000",
+      "description": "<p>National and local people, places, and things that were enjoyed or appreciated from the past year on the sports media beat.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/01/03/sports-media-weei-985-the-sports-hub-ratings-fox-verizion-fios-patriots/\">26 good things about 2025 in the sports media scene</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2359ddf77cbd68a1c41b4d9f93a3cf17",
       "summary": [
-        "Update: Boston man charged after allegedly stealing more t",
-        "Details: <p>A 54-year-old man was caught allegedly trying t",
+        "Update: 26 good things about 2025 in the sports media scen",
+        "Details: <p>National and local people, places, and things t",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Victims of Central Mass. crash IDed as 19- and 20-year-old men",
-      "link": "https://www.boston.com/news/local-news/2026/01/03/victims-of-central-mass-crash-ided-as-19-and-20-year-old-men/",
-      "pubDate": "Sat, 03 Jan 2026 13:19:30 +0000",
-      "description": "<p>The two young men, one from Gardner and the other from Winchendon, died in a crash the day after Christmas.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/03/victims-of-central-mass-crash-ided-as-19-and-20-year-old-men/\">Victims of Central Mass. crash IDed as 19- and 20-year-old men</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cceb28a4d8221514109c8265e3f98eb9",
+      "title": "Tesla loses title as world\u2019s biggest electric vehicle maker as sales fall for second year in a row",
+      "link": "https://www.boston.com/news/business/2026/01/03/tesla-loses-title-as-worlds-biggest-electric-vehicle-maker-as-sales-fall-for-second-year-in-a-row/",
+      "pubDate": "Sat, 03 Jan 2026 15:53:32 +0000",
+      "description": "<p>Tesla said that it delivered 1.64 million vehicles in 2025, down 9% from a year earlier.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/01/03/tesla-loses-title-as-worlds-biggest-electric-vehicle-maker-as-sales-fall-for-second-year-in-a-row/\">Tesla loses title as world&#8217;s biggest electric vehicle maker as sales fall for second year in a row</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "638b84f3fe364eeed126275903de84f3",
       "summary": [
-        "Update: Victims of Central Mass. crash IDed as 19- and 20-",
-        "Details: <p>The two young men, one from Gardner and the oth",
+        "Update: Tesla loses title as world\u2019s biggest electric vehi",
+        "Details: <p>Tesla said that it delivered 1.64 million vehic",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "3 arrested in child sex sting, including Framingham official",
+      "link": "https://www.boston.com/news/local-news/2026/01/03/3-arrested-in-child-sex-sting-including-framingham-official/",
+      "pubDate": "Sat, 03 Jan 2026 14:24:35 +0000",
+      "description": "<p>A Framingham Planning Board vice chair has stepped down following his arrest in a child sex sting operation.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/03/3-arrested-in-child-sex-sting-including-framingham-official/\">3 arrested in child sex sting, including Framingham official</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e65648b7cbd8e2e873ba79072027b1ea",
+      "summary": [
+        "Update: 3 arrested in child sex sting, including Framingha",
+        "Details: <p>A Framingham Planning Board vice chair has step",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-01-03T14:22:13.196781+00:00"
+    "timestamp": "2026-01-03T16:29:07.964637+00:00"
   }
 }
