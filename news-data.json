@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-01-04T14:21:41.400727+00:00",
+  "lastUpdated": "2026-01-04T16:28:50.627048+00:00",
   "articles": [
     {
-      "title": "What we know about the U.S. operation in Venezuela",
-      "link": "https://www.boston.com/news/world-news/2026/01/04/what-we-know-about-the-u-s-operation-in-venezuela/",
-      "pubDate": "Sun, 04 Jan 2026 13:33:12 +0000",
-      "description": "<p>U.S. forces carried out an audacious raid on the country\u2019s capital, seizing President Nicol\u00e1s Maduro. President Trump said the United States now intends to \u201crun\u201d Venezuela.            </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/01/04/what-we-know-about-the-u-s-operation-in-venezuela/\">What we know about the U.S. operation in Venezuela</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7e830f49bb75b45fa93da42759a3857e",
+      "title": "Whitman-Hanson superintendent resigns amid backlash over job cuts",
+      "link": "https://www.boston.com/news/education/2026/01/04/whitman-hanson-superintendent-resigns-amid-backlash-over-job-cuts/",
+      "pubDate": "Sun, 04 Jan 2026 16:14:49 +0000",
+      "description": "<p>The superintendent of the regional school district announced in November that 23 staff members would be let go due to a budget deficit.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2026/01/04/whitman-hanson-superintendent-resigns-amid-backlash-over-job-cuts/\">Whitman-Hanson superintendent resigns amid backlash over job cuts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "344f6c77ace2505976f84c7f4b2d318e",
       "summary": [
-        "Update: What we know about the U.S. operation in Venezuela",
-        "Details: <p>U.S. forces carried out an audacious raid on th",
+        "Update: Whitman-Hanson superintendent resigns amid backlas",
+        "Details: <p>The superintendent of the regional school distr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Pedestrian struck and killed in New Bedford, marking second fatal incident in two days",
+      "link": "https://www.boston.com/news/local-news/2026/01/04/pedestrian-struck-and-killed-in-new-bedford-marking-second-fatal-incident-in-two-days/",
+      "pubDate": "Sun, 04 Jan 2026 14:51:33 +0000",
+      "description": "<p>The recent pedestrian deaths have prompted New Bedford police to begin an \u201cenhanced\u201d roadway safety initiative.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/04/pedestrian-struck-and-killed-in-new-bedford-marking-second-fatal-incident-in-two-days/\">Pedestrian struck and killed in New Bedford, marking second fatal incident in two days</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "41e332f546907bb419d74dd21852062d",
+      "summary": [
+        "Update: Pedestrian struck and killed in New Bedford, marki",
+        "Details: <p>The recent pedestrian deaths have prompted New ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Dartmouth teen facing homicide charge for fatal New Year\u2019s hit-and-run in New Bedford",
+      "link": "https://www.boston.com/news/crime/2026/01/04/dartmouth-teen-facing-homicide-charge-for-fatal-new-years-hit-and-run-in-new-bedford/",
+      "pubDate": "Sun, 04 Jan 2026 14:21:58 +0000",
+      "description": "<p>The 16-year-old is suspected of fatally striking a New Bedford woman following a New Year\u2019s church gathering.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/04/dartmouth-teen-facing-homicide-charge-for-fatal-new-years-hit-and-run-in-new-bedford/\">Dartmouth teen facing homicide charge for fatal New Year\u2019s hit-and-run in New Bedford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "887594852fe74088715473bed31c2219",
+      "summary": [
+        "Update: Dartmouth teen facing homicide charge for fatal Ne",
+        "Details: <p>The 16-year-old is suspected of fatally strikin",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-01-04T14:21:41.400744+00:00"
+    "timestamp": "2026-01-04T16:28:50.627071+00:00"
   }
 }
