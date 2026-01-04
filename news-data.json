@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-01-04T18:33:55.313844+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-04T20:27:20.868491+00:00",
+  "articles": [
+    {
+      "title": "Rubio says US won\u2019t govern Venezuela but will press for changes through oil blockade",
+      "link": "https://www.boston.com/news/politics/2026/01/04/rubio-says-us-wont-govern-venezuela-but-will-press-for-changes-through-oil-blockade/",
+      "pubDate": "Sun, 04 Jan 2026 20:21:56 +0000",
+      "description": "<p>Rubio's statements on TV talk shows seemed designed to temper concerns about whether the assertive American action to achieve regime change might again produce a prolonged foreign intervention or failed attempt at nation-building. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/04/rubio-says-us-wont-govern-venezuela-but-will-press-for-changes-through-oil-blockade/\">Rubio says US won&rsquo;t govern Venezuela but will press for changes through oil blockade</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "315f356a597831cb24415529ff0dc6eb",
+      "summary": [
+        "Update: Rubio says US won\u2019t govern Venezuela but will pres",
+        "Details: <p>Rubio's statements on TV talk shows seemed desi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots vs. Dolphins live updates: Can Patriots lock up top-two seed in AFC?",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/04/patriots-dolphins-score-updates-live-liveblog-nfl-football-miami-new-england/",
+      "pubDate": "Sun, 04 Jan 2026 20:18:12 +0000",
+      "description": "<p>A win would secure at least the No. 2 seed in the AFC for New England. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/04/patriots-dolphins-score-updates-live-liveblog-nfl-football-miami-new-england/\">Patriots vs. Dolphins live updates: Can Patriots lock up top-two seed in AFC?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4e26386a2a354a0facd5e4572c5d2835",
+      "summary": [
+        "Update: Patriots vs. Dolphins live updates: Can Patriots l",
+        "Details: <p>A win would secure at least the No. 2 seed in t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-04T18:33:55.313853+00:00"
+    "timestamp": "2026-01-04T20:27:20.868513+00:00"
   }
 }
