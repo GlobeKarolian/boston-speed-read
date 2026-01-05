@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-01-05T12:55:09.569893+00:00",
+  "lastUpdated": "2026-01-05T14:28:25.240868+00:00",
   "articles": [
     {
-      "title": "Tom Brady: Matthew Stafford\u2019s \u2018dream season\u2019 should be enough to beat Drake Maye for MVP",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/05/tom-brady-matthew-stafford-mvp-comments-drake-maye/",
-      "pubDate": "Mon, 05 Jan 2026 12:29:42 +0000",
-      "description": "<p>\"Drake's got a long career ahead. I'm sure he's going to have many opportunities. I'm going to say Matthew Stafford.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/05/tom-brady-matthew-stafford-mvp-comments-drake-maye/\">Tom Brady: Matthew Stafford&#8217;s &#8216;dream season&#8217; should be enough to beat Drake Maye for MVP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0753a8020a0426751971bc1d87db8ded",
+      "title": "New life emerges atop Boston\u2019s South Station",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/01/05/new-life-emerges-atop-bostons-south-station/",
+      "pubDate": "Mon, 05 Jan 2026 14:06:22 +0000",
+      "description": "<p>A massive mixed-use tower, with 166 high-end condominiums, is altering the skyline while improving one of the city\u2019s transit centers.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/01/05/new-life-emerges-atop-bostons-south-station/\">New life emerges atop Boston\u2019s South Station</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "11227854d216f2bd3fbaeab89f65ecaf",
       "summary": [
-        "Update: Tom Brady: Matthew Stafford\u2019s \u2018dream season\u2019 shoul",
-        "Details: <p>\"Drake's got a long career ahead. I'm sure he's",
+        "Update: New life emerges atop Boston\u2019s South Station",
+        "Details: <p>A massive mixed-use tower, with 166 high-end co",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Local obituary: Kayla Corrigan, 21, Syracuse University student from Needham",
+      "link": "https://www.boston.com/news/local-news/2026/01/05/local-obituary-kayla-corrigan-21-syracuse-university-student-from-needham/",
+      "pubDate": "Mon, 05 Jan 2026 13:48:51 +0000",
+      "description": "<p>\"Kayla was a beautiful paradox of seemingly incompatible qualities and\u00a0character traits.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/05/local-obituary-kayla-corrigan-21-syracuse-university-student-from-needham/\">Local obituary: Kayla Corrigan, 21, Syracuse University student from Needham</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f76b7913f11e827651a523c047925eba",
+      "summary": [
+        "Update: Local obituary: Kayla Corrigan, 21, Syracuse Unive",
+        "Details: <p>\"Kayla was a beautiful paradox of seemingly inc",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "After Maduro, who\u2019s next? Trump spurs speculation about his plans for Greenland, Cuba and Colombia",
+      "link": "https://www.boston.com/news/world-news/2026/01/05/maduro-whos-next-trump-speculation-greenland-cuba-colombia/",
+      "pubDate": "Mon, 05 Jan 2026 13:37:18 +0000",
+      "description": "<p>With thinly veiled threats, Trump is rattling hemispheric friends and foes alike, spurring a pointed question around the globe: Who's next?</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/01/05/maduro-whos-next-trump-speculation-greenland-cuba-colombia/\">After Maduro, who&#8217;s next? Trump spurs speculation about his plans for Greenland, Cuba and Colombia</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2bf30dbf96a1a906eda45831cf765740",
+      "summary": [
+        "Update: After Maduro, who\u2019s next? Trump spurs speculation ",
+        "Details: <p>With thinly veiled threats, Trump is rattling h",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-01-05T12:55:09.569914+00:00"
+    "timestamp": "2026-01-05T14:28:25.240889+00:00"
   }
 }
