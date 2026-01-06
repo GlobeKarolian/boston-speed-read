@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-01-06T12:53:09.720047+00:00",
+  "lastUpdated": "2026-01-06T14:26:57.960818+00:00",
   "articles": [
     {
-      "title": "Anfernee Simons catches fire, leads Celtics to trap game win over Bulls: 7 takeaways",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/01/06/celtics-bulls-score-recap/",
-      "pubDate": "Tue, 06 Jan 2026 11:29:29 +0000",
-      "description": "<p>The Celtics are now second in the Eastern Conference following their 115-101 win over the Bulls.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/06/celtics-bulls-score-recap/\">Anfernee Simons catches fire, leads Celtics to trap game win over Bulls: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "badb3773606845ca6e5eaba19f94c009",
+      "title": "New Haven police chief abruptly retires after theft allegations, mayor says",
+      "link": "https://www.boston.com/news/crime/2026/01/06/new-haven-police-chief-abruptly-retires-after-theft-allegations-mayor-says/",
+      "pubDate": "Tue, 06 Jan 2026 14:24:28 +0000",
+      "description": "<p>The mayor said Chief Karl Jacobson admitted he took money from a city fund that compensates confidential informants for helping police solve crimes.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/06/new-haven-police-chief-abruptly-retires-after-theft-allegations-mayor-says/\">New Haven police chief abruptly retires after theft allegations, mayor says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "22a0da01779a8baf94b4153c3b80cfad",
       "summary": [
-        "Update: Anfernee Simons catches fire, leads Celtics to tra",
-        "Details: <p>The Celtics are now second in the Eastern Confe",
+        "Update: New Haven police chief abruptly retires after thef",
+        "Details: <p>The mayor said Chief Karl Jacobson admitted he ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A rare whale is having an encouraging season for births. Scientists warn it might still go extinct.",
+      "link": "https://www.boston.com/news/local-news/2026/01/06/rare-whale-encouraging-season-births-scientists-warn-extinct/",
+      "pubDate": "Tue, 06 Jan 2026 13:58:25 +0000",
+      "description": "<p>The whales have fared better than\u00a0last winter, when they gave birth to only 11 calves, according to NOAA data.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/06/rare-whale-encouraging-season-births-scientists-warn-extinct/\">A rare whale is having an encouraging season for births. Scientists warn it might still go extinct.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "15531da6bb9ebd752e572f23c8453cfa",
+      "summary": [
+        "Update: A rare whale is having an encouraging season for b",
+        "Details: <p>The whales have fared better than\u00a0last winter, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Trump says the U.S. \u2018needs\u2019 Greenland for Arctic security. Here\u2019s why.",
+      "link": "https://www.boston.com/news/world-news/2026/01/06/trump-us-greenland-arctic-security/",
+      "pubDate": "Tue, 06 Jan 2026 13:46:05 +0000",
+      "description": "<p>Greenland\u00a0is a self-governing territory of\u00a0Denmark, a longtime U.S. ally\u00a0that has rejected Trump\u2019s overtures. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/01/06/trump-us-greenland-arctic-security/\">Trump says the U.S. &#8216;needs&#8217; Greenland for Arctic security. Here&#8217;s why.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c60503e9cbc3e4c6527b957fb975ad6c",
+      "summary": [
+        "Update: Trump says the U.S. \u2018needs\u2019 Greenland for Arctic s",
+        "Details: <p>Greenland\u00a0is a self-governing territory of\u00a0Denm",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-01-06T12:53:09.720067+00:00"
+    "timestamp": "2026-01-06T14:26:57.960837+00:00"
   }
 }
