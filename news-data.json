@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-07T08:35:53.530083+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-07T10:29:04.315287+00:00",
+  "articles": [
+    {
+      "title": "Recent home sales in Greater Boston (Jan. 7)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2026/01/07/recent-home-sales-in-greater-boston-jan-7/",
+      "pubDate": "Wed, 07 Jan 2026 10:00:00 +0000",
+      "description": "<p>ABINGTON 140 Arnold Road. One-family Colonial, built in 2015, 4,480 square feet, 9 rooms, 5 bedrooms, 5 baths, on 23,068-square-foot lot. $975,000 521 Washington St. #2 Condo/Apt, built in 1840, 1,356 square feet, 4 rooms, 2 bedrooms, 2 baths. $445,000 ACTON 8 Laurel Court. One-family Colonial, built in 1954, 3,108 square feet, 7 rooms, 3 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/01/07/recent-home-sales-in-greater-boston-jan-7/\">Recent home sales in Greater Boston (Jan. 7)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8099c45d094f1dfe37f351a37f2851c5",
+      "summary": [
+        "Update: Recent home sales in Greater Boston (Jan. 7)",
+        "Details: <p>ABINGTON 140 Arnold Road. One-family Colonial, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-07T08:35:53.530094+00:00"
+    "timestamp": "2026-01-07T10:29:04.315306+00:00"
   }
 }
