@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-01-07T12:54:13.084320+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-07T14:28:00.609843+00:00",
+  "articles": [
+    {
+      "title": "Shuttle buses replace trains on stretch of Red Line after reports of smoke",
+      "link": "https://www.boston.com/news/local-news/2026/01/07/shuttle-buses-replace-trains-on-stretch-of-red-line-after-reports-of-smoke/",
+      "pubDate": "Wed, 07 Jan 2026 14:15:07 +0000",
+      "description": "<p>\"Personnel are on scene working to resolve the issue.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/07/shuttle-buses-replace-trains-on-stretch-of-red-line-after-reports-of-smoke/\">Shuttle buses replace trains on stretch of Red Line after reports of smoke</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "26261ad3b21c435fadbabe8903985803",
+      "summary": [
+        "Update: Shuttle buses replace trains on stretch of Red Lin",
+        "Details: <p>\"Personnel are on scene working to resolve the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "2026 New England winter activities and festivals",
+      "link": "https://www.boston.com/travel/scenic-six/2026/01/07/new-england-winter-festivals-getaways/",
+      "pubDate": "Wed, 07 Jan 2026 13:10:39 +0000",
+      "description": "<p>Plus: Cozy getaways, new year travel deals, restaurants to try, and more.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/01/07/new-england-winter-festivals-getaways/\">2026 New England winter activities and festivals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a2cc436673123b8cdfd14ceeaae9bb53",
+      "summary": [
+        "Update: 2026 New England winter activities and festivals",
+        "Details: <p>Plus: Cozy getaways, new year travel deals, res",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-07T12:54:13.084328+00:00"
+    "timestamp": "2026-01-07T14:28:00.609866+00:00"
   }
 }
