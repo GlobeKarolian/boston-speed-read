@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-01-10T20:26:25.915916+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-10T22:23:33.914496+00:00",
+  "articles": [
+    {
+      "title": "\u2018The ball\u2019s in his court\u2019: What Alex Cora said about Red Sox\u2019 efforts to re-sign Alex Bregman",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/10/alex-cora-alex-bregman-red-sox-mlb-free-agency-rumors-2/",
+      "pubDate": "Sat, 10 Jan 2026 21:37:21 +0000",
+      "description": "<p>\"He knows how I feel about him.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/10/alex-cora-alex-bregman-red-sox-mlb-free-agency-rumors-2/\">&#8216;The ball&#8217;s in his court&#8217;: What Alex Cora said about Red Sox&#8217; efforts to re-sign Alex Bregman</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0de15d95fefe3c0eb89e65887a3b9274",
+      "summary": [
+        "Update: \u2018The ball\u2019s in his court\u2019: What Alex Cora said abo",
+        "Details: <p>\"He knows how I feel about him.\"</p>\n<p>The pos",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "18 stats to know about the Chargers before the Patriots face them on Sunday",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/10/chargers-patriots-nfl-wild-card-round-preview/",
+      "pubDate": "Sat, 10 Jan 2026 21:12:24 +0000",
+      "description": "<p>The Chargers' strengths lie in their defense. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/10/chargers-patriots-nfl-wild-card-round-preview/\">18 stats to know about the Chargers before the Patriots face them on Sunday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "35cb7e6d98fdba1c2fbbf1b33ad06746",
+      "summary": [
+        "Update: 18 stats to know about the Chargers before the Pat",
+        "Details: <p>The Chargers' strengths lie in their defense. <",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-10T20:26:25.915926+00:00"
+    "timestamp": "2026-01-10T22:23:33.914515+00:00"
   }
 }
