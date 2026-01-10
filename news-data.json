@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-01-10T03:38:11.033150+00:00",
-  "articles": [
-    {
-      "title": "Wall Street rises to records after the unemployment rate improves",
-      "link": "https://www.boston.com/news/business/2026/01/09/wall-street-rises-to-records-after-the-unemployment-rate-improves/",
-      "pubDate": "Sat, 10 Jan 2026 02:58:22 +0000",
-      "description": "<p>The Dow Jones Industrial Average added 237 points, or 0.5%, and likewise set a record, while the Nasdaq composite led the market with a 0.8% gain.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/01/09/wall-street-rises-to-records-after-the-unemployment-rate-improves/\">Wall Street rises to records after the unemployment rate improves</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6ef5c6bb2650bda4fb4798d0a1213e20",
-      "summary": [
-        "Update: Wall Street rises to records after the unemploymen",
-        "Details: <p>The Dow Jones Industrial Average added 237 poin",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Another ICE protest is planned for Saturday at JFK federal building",
-      "link": "https://www.boston.com/news/local-news/2026/01/09/another-ice-protest-is-planned-for-saturday-at-jfk-federal-building/",
-      "pubDate": "Sat, 10 Jan 2026 02:01:01 +0000",
-      "description": "<p>The protest is one of dozens of similar demonstrations planned across Massachusetts this weekend in the wake of the fatal shooting of Renee Good.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/09/another-ice-protest-is-planned-for-saturday-at-jfk-federal-building/\">Another ICE protest is planned for Saturday at JFK federal building</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "91e844ed57791a828c65a10e34e435e3",
-      "summary": [
-        "Update: Another ICE protest is planned for Saturday at JFK",
-        "Details: <p>The protest is one of dozens of similar demonst",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    }
-  ],
+  "lastUpdated": "2026-01-10T04:36:43.361741+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-01-10T03:38:11.033169+00:00"
+    "timestamp": "2026-01-10T04:36:43.361750+00:00"
   }
 }
