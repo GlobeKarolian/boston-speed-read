@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-01-11T04:50:28.426826+00:00",
+  "lastUpdated": "2026-01-11T06:37:23.832887+00:00",
   "articles": [
     {
-      "title": "Red Sox lose Alex Bregman to Cubs, who reportedly sign him to $175 million deal",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/10/alex-bregman-cubs-red-sox-mlb-free-agency/",
-      "pubDate": "Sun, 11 Jan 2026 04:16:00 +0000",
-      "description": "<p>The Red Sox were hoping to bring Bregman back to Boston, but lost out to Chicago.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/10/alex-bregman-cubs-red-sox-mlb-free-agency/\">Red Sox lose Alex Bregman to Cubs, who reportedly sign him to $175 million deal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a012544be02c159e5be78226444bb991",
+      "title": "Victor Wembanyama dominates as Celtics fall narrowly to Spurs: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/11/nba-celtics-spurs-takeaways/",
+      "pubDate": "Sun, 11 Jan 2026 06:01:31 +0000",
+      "description": "<p>The Celtics, like most teams in the NBA, didn't have any answer for Wembanyama. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/11/nba-celtics-spurs-takeaways/\">Victor Wembanyama dominates as Celtics fall narrowly to Spurs: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9b649d611e098ce9dfa2119193cda6c2",
       "summary": [
-        "Update: Red Sox lose Alex Bregman to Cubs, who reportedly ",
-        "Details: <p>The Red Sox were hoping to bring Bregman back t",
+        "Update: Victor Wembanyama dominates as Celtics fall narrow",
+        "Details: <p>The Celtics, like most teams in the NBA, didn't",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Jaylen Brown blasts Celtics-Spurs officials in expletive-laden rant over lack of foul calls",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/11/jaylen-brown-celtics-spurs-referee-comments-quotes/",
+      "pubDate": "Sun, 11 Jan 2026 05:27:57 +0000",
+      "description": "<p>\"Every time we play a good team it\u2019s the same [expletive].\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/11/jaylen-brown-celtics-spurs-referee-comments-quotes/\">Jaylen Brown blasts Celtics-Spurs officials in expletive-laden rant over lack of foul calls</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "399c8c4774563b8081d12b6764bb7b0f",
+      "summary": [
+        "Update: Jaylen Brown blasts Celtics-Spurs officials in exp",
+        "Details: <p>\"Every time we play a good team it\u2019s the same [",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-11T04:50:28.426846+00:00"
+    "timestamp": "2026-01-11T06:37:23.832905+00:00"
   }
 }
