@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-01-11T10:25:36.239937+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-11T12:49:29.599676+00:00",
+  "articles": [
+    {
+      "title": "Veteran actor T.K. Carter, known for \u2018The Thing\u2019 and \u2018Punky Brewster,\u2019 dies at 69",
+      "link": "https://www.boston.com/news/entertainment/2026/01/11/veteran-actor-t-k-carter-known-for-the-thing-and-punky-brewster-dies-at-69/",
+      "pubDate": "Sun, 11 Jan 2026 12:42:57 +0000",
+      "description": "<p>Police did not disclose a cause of death or other details, but said no foul play was suspected.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2026/01/11/veteran-actor-t-k-carter-known-for-the-thing-and-punky-brewster-dies-at-69/\">Veteran actor T.K. Carter, known for &#8216;The Thing&#8217; and &#8216;Punky Brewster,&#8217; dies at 69</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fb90f5c2bad50156c2806e82a61434f5",
+      "summary": [
+        "Update: Veteran actor T.K. Carter, known for \u2018The Thing\u2019 a",
+        "Details: <p>Police did not disclose a cause of death or oth",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox reportedly eyeing Bo Bichette after missing out on Alex Bregman",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/11/mlb-rumors-red-sox-bo-bichette/",
+      "pubDate": "Sun, 11 Jan 2026 12:16:39 +0000",
+      "description": "<p>Bichette is a top remaining free agent, and Boston is in need of a right-handed bat in its lineup. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/11/mlb-rumors-red-sox-bo-bichette/\">Red Sox reportedly eyeing Bo Bichette after missing out on Alex Bregman</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "318d65b0fae0ea4e6b5518499e6968da",
+      "summary": [
+        "Update: Red Sox reportedly eyeing Bo Bichette after missin",
+        "Details: <p>Bichette is a top remaining free agent, and Bos",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-11T10:25:36.239947+00:00"
+    "timestamp": "2026-01-11T12:49:29.599696+00:00"
   }
 }
