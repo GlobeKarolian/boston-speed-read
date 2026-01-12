@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-01-12T18:38:27.762277+00:00",
+  "lastUpdated": "2026-01-12T20:29:22.724401+00:00",
   "articles": [
+    {
+      "title": "Fire that killed 10 at an assisted living facility prompts Massachusetts to enact safety reforms",
+      "link": "https://www.boston.com/news/local-news/2026/01/12/fire-killed-10-assisted-living-facility-massachusetts-safety-reforms/",
+      "pubDate": "Mon, 12 Jan 2026 20:14:40 +0000",
+      "description": "<p>\u201cEvery older adult deserves a safe home and peace of mind, and every family deserves transparency and accountability,\u201d Democratic Gov. Maura Healey said. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/12/fire-killed-10-assisted-living-facility-massachusetts-safety-reforms/\">Fire that killed 10 at an assisted living facility prompts Massachusetts to enact safety reforms</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "60b1cc339e2fbdf72811fa94bf86edd1",
+      "summary": [
+        "Update: Fire that killed 10 at an assisted living facility",
+        "Details: <p>\u201cEvery older adult deserves a safe home and pea",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Mass. fire department credits phone app for saving lost hikers",
+      "link": "https://www.boston.com/news/local-news/2026/01/12/mass-fire-department-credits-phone-app-for-saving-lost-hikers/",
+      "pubDate": "Mon, 12 Jan 2026 19:58:21 +0000",
+      "description": "<p>\"Using just three simple words, they were able to give our teams their precise location, leading to a much faster rescue,\" the fire department noted. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/12/mass-fire-department-credits-phone-app-for-saving-lost-hikers/\">Mass. fire department credits phone app for saving lost hikers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d0b9c371ca3bef673a9662e6c2640d9",
+      "summary": [
+        "Update: Mass. fire department credits phone app for saving",
+        "Details: <p>\"Using just three simple words, they were able ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "From \u2018Flake Maye\u2019 to \u2018Scrape Codder\u2019: Meet MassDOT\u2019s newest snowplows",
+      "link": "https://www.boston.com/news/local-news/2026/01/12/massdot-winning-snowplow-names/",
+      "pubDate": "Mon, 12 Jan 2026 19:46:34 +0000",
+      "description": "<p>Massachusetts students dreamed up the winning names in MassDOT's 2025 \"Name a Snowplow\" contest. See the full list.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/12/massdot-winning-snowplow-names/\">From &#8216;Flake Maye&#8217; to &#8216;Scrape Codder&#8217;: Meet MassDOT\u2019s newest snowplows</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6e4cd6ff6ec06a9b14c673cb3c6e4390",
+      "summary": [
+        "Update: From \u2018Flake Maye\u2019 to \u2018Scrape Codder\u2019: Meet MassDOT",
+        "Details: <p>Massachusetts students dreamed up the winning n",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Somerville biotech company laying off 35% of workforce",
+      "link": "https://www.boston.com/news/business/2026/01/12/somerville-biotech-company-laying-off-35-of-workforce/",
+      "pubDate": "Mon, 12 Jan 2026 19:43:34 +0000",
+      "description": "<p>Tessera Therapeutics, a genetic medicine company, is laying off 90 employees as it refocuses on a new partnership.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/01/12/somerville-biotech-company-laying-off-35-of-workforce/\">Somerville biotech company laying off 35% of workforce</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a48a77eff0c2c6f86d6d75d9d4cb290b",
+      "summary": [
+        "Update: Somerville biotech company laying off 35% of workf",
+        "Details: <p>Tessera Therapeutics, a genetic medicine compan",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "4 New England resorts and hotels are among the best in the U.S. for families, according to FamilyVacationist",
+      "link": "https://www.boston.com/travel/travel/2026/01/12/new-england-resorts-and-hotels/",
+      "pubDate": "Mon, 12 Jan 2026 19:32:43 +0000",
+      "description": "<p>\"It takes more than a basic pool and purely functional dining options for a trip that stands out from others.\"</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2026/01/12/new-england-resorts-and-hotels/\">4 New England resorts and hotels are among the best in the U.S. for families, according to FamilyVacationist</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4eecb946de43309a7c2b12efec77acca",
+      "summary": [
+        "Update: 4 New England resorts and hotels are among the bes",
+        "Details: <p>\"It takes more than a basic pool and purely fun",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Where do you get a meal for under $20 in Waltham?",
       "link": "https://www.boston.com/community/tell-us/2026/01/12/best-food-under-20-waltham/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: Why Bruins wore white jerseys at home for Saturday",
         "Details: <p>\u201cWe haven't had them at home, certainly since t",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018The ball\u2019s in his court\u2019: What Alex Cora said about Red Sox\u2019 efforts to re-sign Alex Bregman",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/10/alex-cora-alex-bregman-red-sox-mlb-free-agency-rumors-2/",
-      "pubDate": "Sat, 10 Jan 2026 21:37:21 +0000",
-      "description": "<p>\"He knows how I feel about him.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/10/alex-cora-alex-bregman-red-sox-mlb-free-agency-rumors-2/\">&#8216;The ball&#8217;s in his court&#8217;: What Alex Cora said about Red Sox&#8217; efforts to re-sign Alex Bregman</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0de15d95fefe3c0eb89e65887a3b9274",
-      "summary": [
-        "Update: \u2018The ball\u2019s in his court\u2019: What Alex Cora said abo",
-        "Details: <p>\"He knows how I feel about him.\"</p>\n<p>The pos",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "18 stats to know about the Chargers before the Patriots face them on Sunday",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/10/chargers-patriots-nfl-wild-card-round-preview/",
-      "pubDate": "Sat, 10 Jan 2026 21:12:24 +0000",
-      "description": "<p>The Chargers' strengths lie in their defense. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/10/chargers-patriots-nfl-wild-card-round-preview/\">18 stats to know about the Chargers before the Patriots face them on Sunday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "35cb7e6d98fdba1c2fbbf1b33ad06746",
-      "summary": [
-        "Update: 18 stats to know about the Chargers before the Pat",
-        "Details: <p>The Chargers' strengths lie in their defense. <",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Jon Lester, Johnny Damon, Mike Timlin to be inducted into Red Sox\u2019 Hall of Fame in 2026",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/10/jon-lester-johnny-damon-mike-timlin-red-sox-hall-of-fame/",
-      "pubDate": "Sat, 10 Jan 2026 17:17:47 +0000",
-      "description": "<p>The inductees will be honored during the 2026 regular season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/10/jon-lester-johnny-damon-mike-timlin-red-sox-hall-of-fame/\">Jon Lester, Johnny Damon, Mike Timlin to be inducted into Red Sox&#8217; Hall of Fame in 2026</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e0cfa46a6c6d5fe0237266cfd3a61ac4",
-      "summary": [
-        "Update: Jon Lester, Johnny Damon, Mike Timlin to be induct",
-        "Details: <p>The inductees will be honored during the 2026 r",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "This time around, network sports honchos take staggering NFL ratings in stride",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/10/nfl-2025-regular-season-tv-ratings/",
-      "pubDate": "Sat, 10 Jan 2026 17:17:10 +0000",
-      "description": "<p>The viewership details of the NFL's final Nielsen ratings for 2025 are so impressive that a recurrence of giddy self-congratulations would have been warranted.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/10/nfl-2025-regular-season-tv-ratings/\">This time around, network sports honchos take staggering NFL ratings in stride</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6e97d51b1688888b83dc3bcad5446ad1",
-      "summary": [
-        "Update: This time around, network sports honchos take stag",
-        "Details: <p>The viewership details of the NFL's final Niels",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Drake Maye named second-team All-Pro. What does it mean for his MVP chances?",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/10/drake-maye-matthew-stafford-all-pro-mvp-patriots-rams/",
-      "pubDate": "Sat, 10 Jan 2026 16:10:02 +0000",
-      "description": "<p>Patriots cornerback Marcus Jones was the only other player on the team to receive All-Pro honors.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/10/drake-maye-matthew-stafford-all-pro-mvp-patriots-rams/\">Drake Maye named second-team All-Pro. What does it mean for his MVP chances?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8f0f789a413b21d8a3059cd411b154ae",
-      "summary": [
-        "Update: Drake Maye named second-team All-Pro. What does it",
-        "Details: <p>Patriots cornerback Marcus Jones was the only o",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
