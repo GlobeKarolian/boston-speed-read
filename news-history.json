@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-01-12T16:32:33.619103+00:00",
+  "lastUpdated": "2026-01-12T18:38:27.762277+00:00",
   "articles": [
+    {
+      "title": "Where do you get a meal for under $20 in Waltham?",
+      "link": "https://www.boston.com/community/tell-us/2026/01/12/best-food-under-20-waltham/",
+      "pubDate": "Mon, 12 Jan 2026 18:22:31 +0000",
+      "description": "<p>Help Boston.com build a guide of Boston suburbs' best budget-friendly staples.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/01/12/best-food-under-20-waltham/\">Where do you get a meal for under $20 in Waltham?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "afca920442793c70e778cba4820e52b8",
+      "summary": [
+        "Update: Where do you get a meal for under $20 in Waltham?",
+        "Details: <p>Help Boston.com build a guide of Boston suburbs",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Whale that delighted Cape Cod watchers is found dead on Delaware shore",
+      "link": "https://www.boston.com/news/national-news/2026/01/12/whale-that-delighted-cape-cod-watchers-is-found-dead-on-delaware-shore/",
+      "pubDate": "Mon, 12 Jan 2026 18:21:56 +0000",
+      "description": "<p>The young humpback known as \u201cOil Change,\u201d seen off Cape Cod in the summer, was found fatally injured near Atlantic resort towns after a suspected ship strike.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/12/whale-that-delighted-cape-cod-watchers-is-found-dead-on-delaware-shore/\">Whale that delighted Cape Cod watchers is found dead on Delaware shore</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8fc03fdf70efc4e80747f21d609fb1cc",
+      "summary": [
+        "Update: Whale that delighted Cape Cod watchers is found de",
+        "Details: <p>The young humpback known as \u201cOil Change,\u201d seen ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The Democratic Party is \u2018doomed to fail\u2019 if it does this, Warren says in high-profile speech",
+      "link": "https://www.boston.com/news/politics/2026/01/12/the-democratic-party-is-doomed-to-fail-if-it-does-this-warren-says-in-high-profile-speech/",
+      "pubDate": "Mon, 12 Jan 2026 17:43:35 +0000",
+      "description": "<p>The key to winning elections is economic populism, not an overreliance on wealthy donors, Sen. Elizabeth Warren said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/12/the-democratic-party-is-doomed-to-fail-if-it-does-this-warren-says-in-high-profile-speech/\">The Democratic Party is &#8216;doomed to fail&#8217; if it does this, Warren says in high-profile speech</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "29c3fa6c1b28406d6ed1670ea38a3b26",
+      "summary": [
+        "Update: The Democratic Party is \u2018doomed to fail\u2019 if it doe",
+        "Details: <p>The key to winning elections is economic populi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s Mike Vrabel\u2019s passionate postgame locker room speech after the Patriots\u2019 wild-card win",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/01/12/patriots-mike-vrabel-locker-room-speech-video/",
+      "pubDate": "Mon, 12 Jan 2026 17:12:16 +0000",
+      "description": "<p>\"I ain't afraid to spill a little blood either.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/01/12/patriots-mike-vrabel-locker-room-speech-video/\">Here&#8217;s Mike Vrabel&#8217;s passionate postgame locker room speech after the Patriots&#8217; wild-card win</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d689c5e35550e3896b2b78c27bbcd551",
+      "summary": [
+        "Update: Here\u2019s Mike Vrabel\u2019s passionate postgame locker ro",
+        "Details: <p>\"I ain't afraid to spill a little blood either.",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bay State business outlook remains gloomy entering new year",
+      "link": "https://www.boston.com/news/business/2026/01/12/bay-state-business-outlook-remains-gloomy-entering-new-year/",
+      "pubDate": "Mon, 12 Jan 2026 16:47:26 +0000",
+      "description": "<p>Mass. companies cite escalating costs as their top concern, overshadowing otherwise resilient economic activity.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/01/12/bay-state-business-outlook-remains-gloomy-entering-new-year/\">Bay State business outlook remains gloomy entering new year</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "64866071b958af52bb1b1caa11f80d74",
+      "summary": [
+        "Update: Bay State business outlook remains gloomy entering",
+        "Details: <p>Mass. companies cite escalating costs as their ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Is January the best time to buy in the Boston area?",
       "link": "https://www.boston.com/real-estate/real-estate-news/2026/01/12/lending-tree-january-best-time-to-buy-in-boston/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: Drake Maye named second-team All-Pro. What does it",
         "Details: <p>Patriots cornerback Marcus Jones was the only o",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Grocery chain study ranks Market Basket No. 2 in the nation",
-      "link": "https://www.boston.com/news/local-news/2026/01/10/grocery-chain-study-ranks-market-basket-no-2-in-the-nation/",
-      "pubDate": "Sat, 10 Jan 2026 15:47:22 +0000",
-      "description": "<p>This study found that U.S. consumers prioritize saving money on groceries more than their counterparts in other developed countries.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/10/grocery-chain-study-ranks-market-basket-no-2-in-the-nation/\">Grocery chain study ranks Market Basket No. 2 in the nation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "027f92873f1ee4a8313bd714500166e8",
-      "summary": [
-        "Update: Grocery chain study ranks Market Basket No. 2 in t",
-        "Details: <p>This study found that U.S. consumers prioritize",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Mass. girl recovering from rare, serious illness linked to flu",
-      "link": "https://www.boston.com/news/local-news/2026/01/10/mass-girl-recovering-from-rare-serious-illness-linked-to-flu/",
-      "pubDate": "Sat, 10 Jan 2026 15:11:09 +0000",
-      "description": "<p>Acute necrotizing encephalopathy is a rare but dangerous flu complication that can cause brain damage or even death.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/10/mass-girl-recovering-from-rare-serious-illness-linked-to-flu/\">Mass. girl recovering from rare, serious illness linked to flu</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4a86576b33e8c579ac21feb96c0aaba1",
-      "summary": [
-        "Update: Mass. girl recovering from rare, serious illness l",
-        "Details: <p>Acute necrotizing encephalopathy is a rare but ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Mass. woman charged in NC Publishers Clearing House scam",
-      "link": "https://www.boston.com/news/local-news/2026/01/10/mass-woman-charged-in-nc-publishers-clearing-house-scam/",
-      "pubDate": "Sat, 10 Jan 2026 14:18:44 +0000",
-      "description": "<p>Authorities say a Marlborough woman helped swindle a North Carolina man out of $500,000 in a fake prize scheme.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/10/mass-woman-charged-in-nc-publishers-clearing-house-scam/\">Mass. woman charged in NC Publishers Clearing House scam</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "429bf5be6a9439cc0a6d2120545d9596",
-      "summary": [
-        "Update: Mass. woman charged in NC Publishers Clearing Hous",
-        "Details: <p>Authorities say a Marlborough woman helped swin",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Boston woman flummoxed after rat makes a home in stroller she left on porch",
-      "link": "https://www.boston.com/uncategorized/local-news/2026/01/10/boston-woman-flummoxed-after-rat-makes-a-home-in-stroller-she-left-on-porch/",
-      "pubDate": "Sat, 10 Jan 2026 13:30:30 +0000",
-      "description": "<p>Boston Reddit did not mince words when it came to the best way of evicting this brazen stroller squatter.</p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/local-news/2026/01/10/boston-woman-flummoxed-after-rat-makes-a-home-in-stroller-she-left-on-porch/\">Boston woman flummoxed after rat makes a home in stroller she left on porch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "79f5b887a97e57e751c61c96dd3dbbee",
-      "summary": [
-        "Update: Boston woman flummoxed after rat makes a home in s",
-        "Details: <p>Boston Reddit did not mince words when it came ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Watch: New video of fatal Minnesota ICE shooting, from officer\u2019s perspective, brings fresh scrutiny",
-      "link": "https://www.boston.com/news/national-news/2026/01/10/new-video-of-fatal-minnesota-ice-shooting-from-officers-perspective-brings-fresh-scrutiny/",
-      "pubDate": "Sat, 10 Jan 2026 12:54:15 +0000",
-      "description": "<p>A new, 47-second video was published online by a Minnesota-based conservative news site, Alpha News.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/10/new-video-of-fatal-minnesota-ice-shooting-from-officers-perspective-brings-fresh-scrutiny/\">Watch: New video of fatal Minnesota ICE shooting, from officer&#8217;s perspective, brings fresh scrutiny</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "87fcf06e6262911086d842995177e6e6",
-      "summary": [
-        "Update: Watch: New video of fatal Minnesota ICE shooting, ",
-        "Details: <p>A new, 47-second video was published online by ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
