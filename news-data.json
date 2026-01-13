@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-01-13T14:29:28.736143+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-13T16:37:18.515063+00:00",
+  "articles": [
+    {
+      "title": "Historic Dugout Cafe dive bar to sell its liquor license to chain restaurant",
+      "link": "https://www.boston.com/food/food-news/2026/01/13/dugout-cafe-liquor-license/",
+      "pubDate": "Tue, 13 Jan 2026 15:39:25 +0000",
+      "description": "<p>The listed price for the all-alcohol liquor license is $550,000, according to an attorney representing Earls Kitchen + Bar.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/01/13/dugout-cafe-liquor-license/\">Historic Dugout Cafe dive bar to sell its liquor license to chain restaurant</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "11f963db6edea344d8d1607be08d503a",
+      "summary": [
+        "Update: Historic Dugout Cafe dive bar to sell its liquor l",
+        "Details: <p>The listed price for the all-alcohol liquor lic",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Hartford investigating after apparent federal employees deploy pepper spray, drive through protesters, mayor says",
+      "link": "https://www.boston.com/news/local-news/2026/01/13/hartford-investigating-after-apparent-federal-employees-deploy-pepper-spray-drive-through-protesters-mayor-says/",
+      "pubDate": "Tue, 13 Jan 2026 15:32:39 +0000",
+      "description": "<p>\u201cWe\u2019re in uncharted territory, but we're going to treat it like any other crime that happened in the City of Hartford,\u201d Mayor Arunan Arulampalam said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/13/hartford-investigating-after-apparent-federal-employees-deploy-pepper-spray-drive-through-protesters-mayor-says/\">Hartford investigating after apparent federal employees deploy pepper spray, drive through protesters, mayor says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e993257fb61fb4ec02025f5a8204fd02",
+      "summary": [
+        "Update: Hartford investigating after apparent federal empl",
+        "Details: <p>\u201cWe\u2019re in uncharted territory, but we're going ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Joe Mazzulla repeated the same two words for an entire press conference after Celtics\u2019 loss",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/01/13/joe-mazzulla-pacers-press-conference/",
+      "pubDate": "Tue, 13 Jan 2026 15:20:38 +0000",
+      "description": "<p>Mazzulla was clearly unhappy with the officiating at the end of Boston's loss to the Pacers.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/01/13/joe-mazzulla-pacers-press-conference/\">Joe Mazzulla repeated the same two words for an entire press conference after Celtics&#8217; loss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "128e59e7e91c7bebb9b888a7c362661b",
+      "summary": [
+        "Update: Joe Mazzulla repeated the same two words for an en",
+        "Details: <p>Mazzulla was clearly unhappy with the officiati",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Meet the couple behind the Boston accent video\u00a0taking over TikTok and Instagram",
+      "link": "https://www.boston.com/news/local-news/2026/01/13/meet-the-couple-behind-the-boston-accent-video-taking-over-tiktok-and-instagram/",
+      "pubDate": "Tue, 13 Jan 2026 14:50:22 +0000",
+      "description": "<p>Andover's Romano Duncan has gone viral for his amazing Boston accent, captured by his girlfriend Kacey Levesque.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/13/meet-the-couple-behind-the-boston-accent-video-taking-over-tiktok-and-instagram/\">Meet the couple behind the Boston accent video\u00a0taking over TikTok and Instagram</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5d392a4404d008c7f9dee2924c8fcec0",
+      "summary": [
+        "Update: Meet the couple behind the Boston accent video\u00a0tak",
+        "Details: <p>Andover's Romano Duncan has gone viral for his ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Flu cases are surging across Massachusetts. Have you gotten sick?",
+      "link": "https://www.boston.com/community/tell-us/2026/01/13/flu-cases-surging-have-you-gotten-sick/",
+      "pubDate": "Tue, 13 Jan 2026 14:33:31 +0000",
+      "description": "<p>As hospitalizations climb and Boston opens free vaccination clinics, we want to hear how this flu season is affecting you.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/01/13/flu-cases-surging-have-you-gotten-sick/\">Flu cases are surging across Massachusetts. Have you gotten sick?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bb77358adcd82e42ffca044304c373aa",
+      "summary": [
+        "Update: Flu cases are surging across Massachusetts. Have y",
+        "Details: <p>As hospitalizations climb and Boston opens free",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-01-13T14:29:28.736153+00:00"
+    "timestamp": "2026-01-13T16:37:18.515082+00:00"
   }
 }
