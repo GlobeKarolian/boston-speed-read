@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-01-14T10:29:45.211821+00:00",
+  "lastUpdated": "2026-01-14T12:55:41.383561+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (Jan. 14)",
-      "link": "https://www.boston.com/real-estate/real-estate-news/2026/01/14/recent-homes-sales-in-greater-boston-jan-14/",
-      "pubDate": "Wed, 14 Jan 2026 10:00:00 +0000",
-      "description": "<p>ABINGTON 18 Bellows Circle. One-family Colonial, built in 1950, 1,660 square feet, 10 rooms, 3 bedrooms, 2 baths, on 12,178-square-foot lot. $613,000 63 Rice St. One-family ranch, built in 1952, 1,100 square feet, 5 rooms, 3 bedrooms, 1 bath, on 7,350-square-foot lot. $570,000 33 Green St. One-family ranch, built in 1951, 760 square feet, 6 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/01/14/recent-homes-sales-in-greater-boston-jan-14/\">Recent homes sales in Greater Boston (Jan. 14)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "32a80eb39ccbab49742b56bcb75f7851",
+      "title": "Home of the Week: 840-square-foot bungalow on the water in Halifax for $450k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/01/14/halifax-house-west-monponsett-pond/",
+      "pubDate": "Wed, 14 Jan 2026 12:00:00 +0000",
+      "description": "<p>The house is steps from the shore of West Monponsett Pond.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/01/14/halifax-house-west-monponsett-pond/\">Home of the Week: 840-square-foot bungalow on the water in Halifax for $450k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "316a0f7dfa7de0be492e42fd533d6282",
       "summary": [
-        "Update: Recent homes sales in Greater Boston (Jan. 14)",
-        "Details: <p>ABINGTON 18 Bellows Circle. One-family Colonial",
+        "Update: Home of the Week: 840-square-foot bungalow on the ",
+        "Details: <p>The house is steps from the shore of West Monpo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "In a season of streaks, is Bruins\u2019 latest heater worth believing in?",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/01/14/boston-bruins-winning-streak-jeremy-swayman-marco-sturm-nhl-hockey/",
+      "pubDate": "Wed, 14 Jan 2026 11:23:41 +0000",
+      "description": "<p>\"I think it was one of the most complete games we played all year long.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/01/14/boston-bruins-winning-streak-jeremy-swayman-marco-sturm-nhl-hockey/\">In a season of streaks, is Bruins&#8217; latest heater worth believing in?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aab82e6588e07c8f7141f9f9e86e642b",
+      "summary": [
+        "Update: In a season of streaks, is Bruins\u2019 latest heater w",
+        "Details: <p>\"I think it was one of the most complete games ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-14T10:29:45.211841+00:00"
+    "timestamp": "2026-01-14T12:55:41.383580+00:00"
   }
 }
