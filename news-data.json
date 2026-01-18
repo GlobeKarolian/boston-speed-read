@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-18T20:26:53.408701+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-18T22:23:21.245071+00:00",
+  "articles": [
+    {
+      "title": "Bruins reportedly in \u2018driver\u2019s seat\u2019 in trade talks for Rasmus Andersson",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/01/18/boston-bruins-trade-rumors-rasmus-andersson-nhl-hockey-calgary-flames/",
+      "pubDate": "Sun, 18 Jan 2026 20:27:30 +0000",
+      "description": "<p>\"I believe they are the only team that has been given permission to talk to Andersson.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/01/18/boston-bruins-trade-rumors-rasmus-andersson-nhl-hockey-calgary-flames/\">Bruins reportedly in \u2018driver\u2019s seat\u2019 in trade talks for Rasmus Andersson</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "474891b0eb4a1e4e8061cb2499aedda8",
+      "summary": [
+        "Update: Bruins reportedly in \u2018driver\u2019s seat\u2019 in trade talk",
+        "Details: <p>\"I believe they are the only team that has been",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-18T20:26:53.408711+00:00"
+    "timestamp": "2026-01-18T22:23:21.245093+00:00"
   }
 }
