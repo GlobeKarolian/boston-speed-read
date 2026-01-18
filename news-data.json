@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-18T02:09:21.800184+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-18T04:45:14.261686+00:00",
+  "articles": [
+    {
+      "title": "Jaylen Brown scores 41, Sam Hauser hits 10 threes in Celtics win over Hawks",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/17/celtics-sam-hauser-nba-history/",
+      "pubDate": "Sun, 18 Jan 2026 04:31:12 +0000",
+      "description": "<p>Hauser became the first player in NBA history to attempt 20 or more threes without taking a shot inside the arc.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/17/celtics-sam-hauser-nba-history/\">Jaylen Brown scores 41, Sam Hauser hits 10 threes in Celtics win over Hawks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e1d21915f74171ea87d73efc06be45e",
+      "summary": [
+        "Update: Jaylen Brown scores 41, Sam Hauser hits 10 threes ",
+        "Details: <p>Hauser became the first player in NBA history t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-18T02:09:21.800195+00:00"
+    "timestamp": "2026-01-18T04:45:14.261707+00:00"
   }
 }
