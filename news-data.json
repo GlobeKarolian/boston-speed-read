@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-01-18T04:45:14.261686+00:00",
+  "lastUpdated": "2026-01-18T06:36:44.078270+00:00",
   "articles": [
     {
-      "title": "Jaylen Brown scores 41, Sam Hauser hits 10 threes in Celtics win over Hawks",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/01/17/celtics-sam-hauser-nba-history/",
-      "pubDate": "Sun, 18 Jan 2026 04:31:12 +0000",
-      "description": "<p>Hauser became the first player in NBA history to attempt 20 or more threes without taking a shot inside the arc.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/17/celtics-sam-hauser-nba-history/\">Jaylen Brown scores 41, Sam Hauser hits 10 threes in Celtics win over Hawks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2e1d21915f74171ea87d73efc06be45e",
+      "title": "Jaylen Brown dominates in homecoming as Celtics demolish Hawks: 6 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/18/nba-celtics-hawks-takeaways-jaylen-brown-homecoming/",
+      "pubDate": "Sun, 18 Jan 2026 05:11:28 +0000",
+      "description": "<p>Brown scored 41 points in Boston's win.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/18/nba-celtics-hawks-takeaways-jaylen-brown-homecoming/\">Jaylen Brown dominates in homecoming as Celtics demolish Hawks: 6 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e830ac90c7168cf42b7410ecdacb3cba",
       "summary": [
-        "Update: Jaylen Brown scores 41, Sam Hauser hits 10 threes ",
-        "Details: <p>Hauser became the first player in NBA history t",
+        "Update: Jaylen Brown dominates in homecoming as Celtics de",
+        "Details: <p>Brown scored 41 points in Boston's win.</p>\n<p>",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bo Nix breaks his right ankle late in Broncos\u2019 playoff win, will have surgery",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/17/nfl-playoffs-bo-nix-breaks-ankle/",
+      "pubDate": "Sun, 18 Jan 2026 04:58:06 +0000",
+      "description": "<p>Nix won't play again in the playoffs, putting Jarrett Stidham in line to start the AFC Championship.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/17/nfl-playoffs-bo-nix-breaks-ankle/\">Bo Nix breaks his right ankle late in Broncos&#8217; playoff win, will have surgery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "46825e6d5253d70489380cf80bdef09f",
+      "summary": [
+        "Update: Bo Nix breaks his right ankle late in Broncos\u2019 pla",
+        "Details: <p>Nix won't play again in the playoffs, putting J",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-18T04:45:14.261707+00:00"
+    "timestamp": "2026-01-18T06:36:44.078285+00:00"
   }
 }
