@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-01-18T12:48:14.597805+00:00",
+  "lastUpdated": "2026-01-18T14:22:09.019356+00:00",
   "articles": [
     {
-      "title": "Trump says 8 European countries will face 10% tariff for opposing US control of Greenland",
-      "link": "https://www.boston.com/news/politics/2026/01/18/trump-says-8-european-countries-will-face-10-tariff-for-opposing-us-control-of-greenland/",
-      "pubDate": "Sun, 18 Jan 2026 12:37:11 +0000",
-      "description": "<p>Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands and Finland would face the tariff, Trump said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/18/trump-says-8-european-countries-will-face-10-tariff-for-opposing-us-control-of-greenland/\">Trump says 8 European countries will face 10% tariff for opposing US control of Greenland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "42174d7926d79859a87ab70839873e7d",
+      "title": "In their words: European governments criticize Trump\u2019s tariff threats over Greenland",
+      "link": "https://www.boston.com/news/politics/2026/01/18/in-their-words-european-governments-criticize-trumps-tariff-threats-over-greenland/",
+      "pubDate": "Sun, 18 Jan 2026 13:52:22 +0000",
+      "description": "<p>Trump\u2019s threat sets up a potentially dangerous test of U.S. partnerships in Europe.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/18/in-their-words-european-governments-criticize-trumps-tariff-threats-over-greenland/\">In their words: European governments criticize Trump&#8217;s tariff threats over Greenland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "91a49c87a59da958233d73df4801d2d6",
       "summary": [
-        "Update: Trump says 8 European countries will face 10% tari",
-        "Details: <p>Denmark, Norway, Sweden, France, Germany, the U",
+        "Update: In their words: European governments criticize Tru",
+        "Details: <p>Trump\u2019s threat sets up a potentially dangerous ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018SNL\u2019 recap: Best moments from Finn Wolfhard hosting \u2018Saturday Night Live\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2026/01/18/snl-recap-finn-wolfhard/",
+      "pubDate": "Sun, 18 Jan 2026 13:48:33 +0000",
+      "description": "<p>Finn Wolfhard was joined by his \"Stranger Things\" costars on the January 17 episode of \"Saturday Night Live,\" with A$AP Rocky as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/01/18/snl-recap-finn-wolfhard/\">\u2018SNL\u2019 recap: Best moments from Finn Wolfhard hosting \u2018Saturday Night Live\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "da01e003c062114826a035d2ee696a98",
+      "summary": [
+        "Update: \u2018SNL\u2019 recap: Best moments from Finn Wolfhard hosti",
+        "Details: <p>Finn Wolfhard was joined by his \"Stranger Thing",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-18T12:48:14.597824+00:00"
+    "timestamp": "2026-01-18T14:22:09.019375+00:00"
   }
 }
