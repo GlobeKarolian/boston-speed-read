@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-18T10:25:17.481509+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-18T12:48:14.597805+00:00",
+  "articles": [
+    {
+      "title": "Trump says 8 European countries will face 10% tariff for opposing US control of Greenland",
+      "link": "https://www.boston.com/news/politics/2026/01/18/trump-says-8-european-countries-will-face-10-tariff-for-opposing-us-control-of-greenland/",
+      "pubDate": "Sun, 18 Jan 2026 12:37:11 +0000",
+      "description": "<p>Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands and Finland would face the tariff, Trump said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/18/trump-says-8-european-countries-will-face-10-tariff-for-opposing-us-control-of-greenland/\">Trump says 8 European countries will face 10% tariff for opposing US control of Greenland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "42174d7926d79859a87ab70839873e7d",
+      "summary": [
+        "Update: Trump says 8 European countries will face 10% tari",
+        "Details: <p>Denmark, Norway, Sweden, France, Germany, the U",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-18T10:25:17.481518+00:00"
+    "timestamp": "2026-01-18T12:48:14.597824+00:00"
   }
 }
