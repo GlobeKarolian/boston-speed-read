@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-01-19T20:28:58.290147+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-19T22:26:04.958587+00:00",
+  "articles": [
+    {
+      "title": "100 vehicles pile up in Michigan crash as snowstorm moves across the country",
+      "link": "https://www.boston.com/news/weather/2026/01/19/100-vehicles-pileup-in-michigan-crash-as-snowstorm-moves-across-the-country/",
+      "pubDate": "Mon, 19 Jan 2026 22:04:17 +0000",
+      "description": "<p>The massive pileup prompted the Michigan State Police to close both directions of Interstate 196 Monday morning just southwest of Grand Rapids as while officials worked to remove all the vehicles.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/01/19/100-vehicles-pileup-in-michigan-crash-as-snowstorm-moves-across-the-country/\">100 vehicles pile up in Michigan crash as snowstorm moves across the country</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de4cd5c4d39ce562c84bf10523f1b119",
+      "summary": [
+        "Update: 100 vehicles pile up in Michigan crash as snowstor",
+        "Details: <p>The massive pileup prompted the Michigan State ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u201960 Minutes\u2019 airs report on Trump deportations that was suddenly pulled a month ago",
+      "link": "https://www.boston.com/news/politics/2026/01/19/60-minutes-airs-report-on-trump-deportations-that-was-suddenly-pulled-a-month-ago/",
+      "pubDate": "Mon, 19 Jan 2026 21:42:32 +0000",
+      "description": "<p>Correspondent Sharyn Alfonsi made no reference to her dispute with CBS News editor-in-chief Bari Weiss in the story about deportees who had been sent to El Salvador's notoriously harsh CECOT prison.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/19/60-minutes-airs-report-on-trump-deportations-that-was-suddenly-pulled-a-month-ago/\">&#8217;60 Minutes&#8217; airs report on Trump deportations that was suddenly pulled a month ago</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1255c7932dc11408ac200c2fb797445b",
+      "summary": [
+        "Update: \u201960 Minutes\u2019 airs report on Trump deportations tha",
+        "Details: <p>Correspondent Sharyn Alfonsi made no reference ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Pro-Greenland protesters mock Trump\u2019s MAGA slogan with \u2018Make America Go Away\u2019 caps",
+      "link": "https://www.boston.com/news/politics/2026/01/19/pro-greenland-protesters-mock-trumps-maga-slogan-with-make-america-go-away-caps/",
+      "pubDate": "Mon, 19 Jan 2026 21:22:29 +0000",
+      "description": "<p>The caps reading \u201cMake America Go Away\u201d have gained popularity along with several variants on social media and at public protests, including a weekend demonstration held in freezing weather in the Danish capital.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/19/pro-greenland-protesters-mock-trumps-maga-slogan-with-make-america-go-away-caps/\">Pro-Greenland protesters mock Trump&#8217;s MAGA slogan with &#8216;Make America Go Away&#8217; caps</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c376a71909d6ee624ca4a63d8bb7c4cd",
+      "summary": [
+        "Update: Pro-Greenland protesters mock Trump\u2019s MAGA slogan ",
+        "Details: <p>The caps reading \u201cMake America Go Away\u201d have ga",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Trump\u2019s Board of Peace has several invited leaders trying to figure out how it\u2019ll work",
+      "link": "https://www.boston.com/news/politics/2026/01/19/trumps-board-of-peace-has-several-invited-leaders-trying-to-figure-out-how-itll-work/",
+      "pubDate": "Mon, 19 Jan 2026 21:12:51 +0000",
+      "description": "<p>It\u2019s not known whether\u00a0Israeli Prime Minister Benjamin Netanyahu\u00a0has accepted the offer, said the Israeli official who spoke on condition of anonymity because they were discussing a behind-the-scenes diplomatic matter.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/19/trumps-board-of-peace-has-several-invited-leaders-trying-to-figure-out-how-itll-work/\">Trump&#8217;s Board of Peace has several invited leaders trying to figure out how it&#8217;ll work</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "03488be08f4d3d30b4132da2e420a899",
+      "summary": [
+        "Update: Trump\u2019s Board of Peace has several invited leaders",
+        "Details: <p>It\u2019s not known whether\u00a0Israeli Prime Minister B",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-01-19T20:28:58.290161+00:00"
+    "timestamp": "2026-01-19T22:26:04.958607+00:00"
   }
 }
