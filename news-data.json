@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-01-20T10:33:01.986150+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-20T12:58:47.350734+00:00",
+  "articles": [
+    {
+      "title": "Jaylen Brown scores 32, but Celtics fall to Pistons in potential ECF showdown: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/20/jaylen-brown-pistons-buzzer-beater/",
+      "pubDate": "Tue, 20 Jan 2026 12:39:08 +0000",
+      "description": "<p>\u201cMy legs felt a little heavy, but I\u2019ve got to make a play for my teammates.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/20/jaylen-brown-pistons-buzzer-beater/\">Jaylen Brown scores 32, but Celtics fall to Pistons in potential ECF showdown: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2ba0be6217c8dac3e3c58354f3586d07",
+      "summary": [
+        "Update: Jaylen Brown scores 32, but Celtics fall to Piston",
+        "Details: <p>\u201cMy legs felt a little heavy, but I\u2019ve got to m",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The former waterfront Maine home of Gov. Ken Curtis lists for $4M",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/01/20/south-portland-maine-governor-ken-curtis/",
+      "pubDate": "Tue, 20 Jan 2026 12:00:00 +0000",
+      "description": "<p>It was designed by John Howard Stevens, the son of architect John Calvin Stevens, who was known for creating some of the prominent churches, libraries, and homes in the Portland area.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/01/20/south-portland-maine-governor-ken-curtis/\">The former waterfront Maine home of Gov. Ken Curtis lists for $4M</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6cd6871becc5c1bf64b5bab7603aed5f",
+      "summary": [
+        "Update: The former waterfront Maine home of Gov. Ken Curti",
+        "Details: <p>It was designed by John Howard Stevens, the son",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-20T10:33:01.986158+00:00"
+    "timestamp": "2026-01-20T12:58:47.350757+00:00"
   }
 }
