@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-01-21T04:48:49.530260+00:00",
-  "articles": [
-    {
-      "title": "Boston protesters march in anti-ICE rally fueled by 1-year anniversary of Trump\u2019s inauguration",
-      "link": "https://www.boston.com/news/local-news/2026/01/20/boston-protesters-march-in-anti-ice-rally-fueled-by-1-year-anniversary-of-trumps-inauguration/",
-      "pubDate": "Wed, 21 Jan 2026 03:40:17 +0000",
-      "description": "<p>The rally followed a series of nationwide walkouts earlier in the day and brought hundreds of protesters to Copley Square.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/20/boston-protesters-march-in-anti-ice-rally-fueled-by-1-year-anniversary-of-trumps-inauguration/\">Boston protesters march in anti-ICE rally fueled by 1-year anniversary of Trump\u2019s inauguration</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c04c2273ddf1d7c8533d8b4710520668",
-      "summary": [
-        "Update: Boston protesters march in anti-ICE rally fueled b",
-        "Details: <p>The rally followed a series of nationwide walko",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "NASA astronaut from Needham who was stuck on space station for months retires",
-      "link": "https://www.boston.com/news/national-news/2026/01/20/suni-williams-nasa-astronaut-who-was-stuck-at-the-space-station-for-months-retires-within-a-year-of-returning/",
-      "pubDate": "Wed, 21 Jan 2026 02:33:58 +0000",
-      "description": "<p>The space agency announced the news Tuesday, saying Williams' retirement took effect at the end of December.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/20/suni-williams-nasa-astronaut-who-was-stuck-at-the-space-station-for-months-retires-within-a-year-of-returning/\">NASA astronaut from Needham who was stuck on space station for months retires</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "21442e579d99a64e45f041fa70446c02",
-      "summary": [
-        "Update: NASA astronaut from Needham who was stuck on space",
-        "Details: <p>The space agency announced the news Tuesday, sa",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    }
-  ],
+  "lastUpdated": "2026-01-21T06:42:18.825560+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-01-21T04:48:49.530281+00:00"
+    "timestamp": "2026-01-21T06:42:18.825572+00:00"
   }
 }
