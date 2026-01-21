@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-01-21T10:33:57.597816+00:00",
+  "lastUpdated": "2026-01-21T12:58:18.483246+00:00",
   "articles": [
     {
-      "title": "Recent home sales in Greater Boston (Jan. 21)",
-      "link": "https://www.boston.com/real-estate/real-estate-news/2026/01/21/recent-home-sales-in-greater-boston-jan-21/",
-      "pubDate": "Wed, 21 Jan 2026 10:00:00 +0000",
-      "description": "<p>ABINGTON 34 George H Gillespie Way One-family Colonial, built in 2008, 1,920 square feet, 8 rooms, 3 bedrooms, 3 baths, on 7,072-square-foot lot. $650,000 27 Lake St. One-family bngl/cottage, built in 1932, 1,120 square feet, 6 rooms, 2 bedrooms, 1 bath, on 38,750-square-foot lot. $499,219 ACTON 20 Birch Ridge Road. One-family Cape Cod, built in [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/01/21/recent-home-sales-in-greater-boston-jan-21/\">Recent home sales in Greater Boston (Jan. 21)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "497318015778885a27a2a0ce6b57df30",
+      "title": "Worcester Square condo in the South End with private patio for $1.4m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/01/21/worcester-square-condo-boston-south-end/",
+      "pubDate": "Wed, 21 Jan 2026 12:00:00 +0000",
+      "description": "<p>The street is lined with brownstones, and there is a fountain in the center.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/01/21/worcester-square-condo-boston-south-end/\">Worcester Square condo in the South End with private patio for $1.4m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a7c98e7081a34fa0640aef404d8d1c13",
       "summary": [
-        "Update: Recent home sales in Greater Boston (Jan. 21)",
-        "Details: <p>ABINGTON 34 George H Gillespie Way One-family C",
+        "Update: Worcester Square condo in the South End with priva",
+        "Details: <p>The street is lined with brownstones, and there",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Stars end Bruins\u2019 6-game winning streak with a dominant 6-2 victory",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/01/20/stars-bruins-score-recap/",
+      "pubDate": "Wed, 21 Jan 2026 03:41:28 +0000",
+      "description": "<p>Jason Robertson scored two goals, Justin Hryckowian had a goal and two assists, and the Dallas Stars ended a three-game skid while snapping the Boston Bruins&#8217; six-game winning streak, 6-2</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/01/20/stars-bruins-score-recap/\">Stars end Bruins&#8217; 6-game winning streak with a dominant 6-2 victory</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bfc16a98290ce0d0e07912e9ec13d581",
+      "summary": [
+        "Update: Stars end Bruins\u2019 6-game winning streak with a dom",
+        "Details: <p>Jason Robertson scored two goals, Justin Hrycko",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-21T10:33:57.597838+00:00"
+    "timestamp": "2026-01-21T12:58:18.483266+00:00"
   }
 }
