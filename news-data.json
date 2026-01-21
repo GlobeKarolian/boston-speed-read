@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-21T08:37:04.625712+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-21T10:33:57.597816+00:00",
+  "articles": [
+    {
+      "title": "Recent home sales in Greater Boston (Jan. 21)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2026/01/21/recent-home-sales-in-greater-boston-jan-21/",
+      "pubDate": "Wed, 21 Jan 2026 10:00:00 +0000",
+      "description": "<p>ABINGTON 34 George H Gillespie Way One-family Colonial, built in 2008, 1,920 square feet, 8 rooms, 3 bedrooms, 3 baths, on 7,072-square-foot lot. $650,000 27 Lake St. One-family bngl/cottage, built in 1932, 1,120 square feet, 6 rooms, 2 bedrooms, 1 bath, on 38,750-square-foot lot. $499,219 ACTON 20 Birch Ridge Road. One-family Cape Cod, built in [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/01/21/recent-home-sales-in-greater-boston-jan-21/\">Recent home sales in Greater Boston (Jan. 21)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "497318015778885a27a2a0ce6b57df30",
+      "summary": [
+        "Update: Recent home sales in Greater Boston (Jan. 21)",
+        "Details: <p>ABINGTON 34 George H Gillespie Way One-family C",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-21T08:37:04.625720+00:00"
+    "timestamp": "2026-01-21T10:33:57.597838+00:00"
   }
 }
