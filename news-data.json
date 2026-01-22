@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-22T12:58:35.234397+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-22T14:35:53.573630+00:00",
+  "articles": [
+    {
+      "title": "Former Patriots quarterback Jarrett Stidham gets long-awaited opportunity stepping in for injured Broncos starter Bo Nix",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/22/broncos-quarterback-jarrett-stidham/",
+      "pubDate": "Thu, 22 Jan 2026 14:23:44 +0000",
+      "description": "<p>The game will feature the only two people who Stidham has taken play calls from, the Broncos\u2019 Sean Payton and the Patriots\u2019 Josh McDaniels. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/22/broncos-quarterback-jarrett-stidham/\">Former Patriots quarterback Jarrett Stidham gets long-awaited opportunity stepping in for injured Broncos starter Bo Nix</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7d7df3c121ea3279ca57978775996bb0",
+      "summary": [
+        "Update: Former Patriots quarterback Jarrett Stidham gets l",
+        "Details: <p>The game will feature the only two people who S",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-22T12:58:35.234404+00:00"
+    "timestamp": "2026-01-22T14:35:53.573650+00:00"
   }
 }
