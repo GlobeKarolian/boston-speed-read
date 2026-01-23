@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-01-23T10:29:36.555782+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-23T12:56:05.692733+00:00",
+  "articles": [
+    {
+      "title": "Airlines are waiving fees ahead of this weekend\u2019s storm",
+      "link": "https://www.boston.com/travel/flights/2026/01/23/logan-airport-storm-flights-refunds/",
+      "pubDate": "Fri, 23 Jan 2026 12:45:43 +0000",
+      "description": "<p>Find out what your airline is doing in response to the upcoming winter storm.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/01/23/logan-airport-storm-flights-refunds/\">Airlines are waiving fees ahead of this weekend&#8217;s storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9dbe66961c9aafd26df11faeb9270ad0",
+      "summary": [
+        "Update: Airlines are waiving fees ahead of this weekend\u2019s ",
+        "Details: <p>Find out what your airline is doing in response",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bruins\u2019 Charlie McAvoy voices support for LGBTQ+ hockey community, \u2018Heated Rivalry\u2019",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/01/23/boston-bruins-charlie-mcavoy-nhl-hockey-heated-rivalry-inclusion/",
+      "pubDate": "Fri, 23 Jan 2026 12:31:40 +0000",
+      "description": "<p>\"It's the least that we can do to show our support and show that we\u2019re all on the same team.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/01/23/boston-bruins-charlie-mcavoy-nhl-hockey-heated-rivalry-inclusion/\">Bruins\u2019 Charlie McAvoy voices support for LGBTQ+ hockey community, \u2018Heated Rivalry\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c4ea5a19eb041a2db5404da5ae0eca7a",
+      "summary": [
+        "Update: Bruins\u2019 Charlie McAvoy voices support for LGBTQ+ h",
+        "Details: <p>\"It's the least that we can do to show our supp",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Luxe in the suburbs: What you can get for up to $34m outside Boston",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/01/23/boston-suburbs-luxury-weston-duxbury-manchester-by-the-sea/",
+      "pubDate": "Fri, 23 Jan 2026 12:00:00 +0000",
+      "description": "<p>With indoor pools, waterfront access, and fitness centers (one with its own juice bar),\u00a0here\u2019s a snapshot of the ultra-luxury market in Boston\u2019s suburbs.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/01/23/boston-suburbs-luxury-weston-duxbury-manchester-by-the-sea/\">Luxe in the suburbs: What you can get for up to $34m outside Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5123b22ae61aa89139f1e30ab6dcfbf6",
+      "summary": [
+        "Update: Luxe in the suburbs: What you can get for up to $3",
+        "Details: <p>With indoor pools, waterfront access, and fitne",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/01/23/greater-boston-news-quiz-jan-23-2026-ann-michael-dropkick-murphys-phantom-gourmet/",
+      "pubDate": "Fri, 23 Jan 2026 11:48:04 +0000",
+      "description": "<p>Ann Michael\u2019s fashion, a Dropkick Murphys update, and Phantom Gourmet\u2019s Facebook prank are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/01/23/greater-boston-news-quiz-jan-23-2026-ann-michael-dropkick-murphys-phantom-gourmet/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0b2b00caa3440134e06b90e1bb877d77",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>Ann Michael\u2019s fashion, a Dropkick Murphys updat",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-01-23T10:29:36.555792+00:00"
+    "timestamp": "2026-01-23T12:56:05.692751+00:00"
   }
 }
