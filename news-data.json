@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-01-24T12:49:28.867981+00:00",
+  "lastUpdated": "2026-01-24T14:23:34.872734+00:00",
   "articles": [
     {
-      "title": "$21 million repair project approved for I-93 in Boston \u2014 here\u2019s when to expect delays",
-      "link": "https://www.boston.com/news/local-news/2026/01/24/21-million-repair-project-approved-for-i-93-in-boston-heres-when-to-expect-delays/",
-      "pubDate": "Sat, 24 Jan 2026 12:44:00 +0000",
-      "description": "<p>Drivers should anticipate late-night delays near JFK/UMass for a couple of years.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/24/21-million-repair-project-approved-for-i-93-in-boston-heres-when-to-expect-delays/\">$21 million repair project approved for I-93 in Boston \u2014 here&#8217;s when to expect delays</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e461cc5d79cdc8243cd395674d9a01ad",
+      "title": "How will this weekend\u2019s storm measure up? Here\u2019s a list of Boston\u2019s top blockbusters.",
+      "link": "https://www.boston.com/weather/weather/2026/01/24/boston-ma-biggest-snowstorms/",
+      "pubDate": "Sat, 24 Jan 2026 13:56:03 +0000",
+      "description": "<p>Snowstorms that approach 2 feet are quite rare in Boston, with only six storms exceeding that mark.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/24/boston-ma-biggest-snowstorms/\">How will this weekend\u2019s storm measure up? Here\u2019s a list of Boston\u2019s top blockbusters.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "679c820bb0ef7421ad035d7b7ee11bb2",
       "summary": [
-        "Update: $21 million repair project approved for I-93 in Bo",
-        "Details: <p>Drivers should anticipate late-night delays nea",
+        "Update: How will this weekend\u2019s storm measure up? Here\u2019s a",
+        "Details: <p>Snowstorms that approach 2 feet are quite rare ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Car crashes into tree in Brookline, injured driver found nearby",
+      "link": "https://www.boston.com/news/local-news/2026/01/24/car-crashes-into-tree-in-brookline-injured-driver-found-nearby/",
+      "pubDate": "Sat, 24 Jan 2026 13:41:04 +0000",
+      "description": "<p>An investigation is underway after a man allegedly fled after crashing a car into a tree on Aspinwall Avenue early Friday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/24/car-crashes-into-tree-in-brookline-injured-driver-found-nearby/\">Car crashes into tree in Brookline, injured driver found nearby</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d8e6dc2bce808fab8d228b3892815df3",
+      "summary": [
+        "Update: Car crashes into tree in Brookline, injured driver",
+        "Details: <p>An investigation is underway after a man allege",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Law firm says BU failed to protect student who reported Allston car wash workers",
+      "link": "https://www.boston.com/news/local-news/2026/01/24/law-firm-says-bu-failed-to-protect-student-who-reported-allston-car-wash-workers/",
+      "pubDate": "Sat, 24 Jan 2026 13:07:11 +0000",
+      "description": "<p>The law firm demands that Boston University relocate student Zachary Segal to its D.C. campus over safety concerns. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/24/law-firm-says-bu-failed-to-protect-student-who-reported-allston-car-wash-workers/\">Law firm says BU failed to protect student who reported Allston car wash workers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c13b2aab9d3fb99c541dc215e13c170f",
+      "summary": [
+        "Update: Law firm says BU failed to protect student who rep",
+        "Details: <p>The law firm demands that Boston University rel",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-01-24T12:49:28.867999+00:00"
+    "timestamp": "2026-01-24T14:23:34.872752+00:00"
   }
 }
