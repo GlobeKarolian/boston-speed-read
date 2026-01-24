@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-24T10:25:35.155317+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-24T12:49:28.867981+00:00",
+  "articles": [
+    {
+      "title": "$21 million repair project approved for I-93 in Boston \u2014 here\u2019s when to expect delays",
+      "link": "https://www.boston.com/news/local-news/2026/01/24/21-million-repair-project-approved-for-i-93-in-boston-heres-when-to-expect-delays/",
+      "pubDate": "Sat, 24 Jan 2026 12:44:00 +0000",
+      "description": "<p>Drivers should anticipate late-night delays near JFK/UMass for a couple of years.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/24/21-million-repair-project-approved-for-i-93-in-boston-heres-when-to-expect-delays/\">$21 million repair project approved for I-93 in Boston \u2014 here&#8217;s when to expect delays</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e461cc5d79cdc8243cd395674d9a01ad",
+      "summary": [
+        "Update: $21 million repair project approved for I-93 in Bo",
+        "Details: <p>Drivers should anticipate late-night delays nea",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-24T10:25:35.155326+00:00"
+    "timestamp": "2026-01-24T12:49:28.867999+00:00"
   }
 }
