@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-01-25T18:35:17.166444+00:00",
+  "lastUpdated": "2026-01-25T20:29:00.909145+00:00",
   "articles": [
     {
-      "title": "Mass. school closures for Jan. 26",
-      "link": "https://www.boston.com/weather/education/2026/01/25/mass-school-closures-for-jan-26/",
-      "pubDate": "Sun, 25 Jan 2026 16:43:35 +0000",
-      "description": "<p>Here is a running list of school closures across Massachusetts due to the Jan. 25-26 winter storm. </p>\n<p>The post <a href=\"https://www.boston.com/weather/education/2026/01/25/mass-school-closures-for-jan-26/\">Mass. school closures for Jan. 26</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "50875507033cf739414a53b4aa997b44",
+      "title": "Broncos 7, Patriots 0 (1st): Denver strikes first",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/25/new-england-patriots-denver-broncos-live-score-updates-blog-live-blog-afc-championship-playoffs-nfl-football/",
+      "pubDate": "Sun, 25 Jan 2026 18:49:39 +0000",
+      "description": "<p>The Patriots are just one win away from a trip to Super Bowl LX. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/25/new-england-patriots-denver-broncos-live-score-updates-blog-live-blog-afc-championship-playoffs-nfl-football/\">Broncos 7, Patriots 0 (1st): Denver strikes first</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5f4a8367bd1d36078803c000ac15c64e",
       "summary": [
-        "Update: Mass. school closures for Jan. 26",
-        "Details: <p>Here is a running list of school closures acros",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "More than 10,500 flights canceled Sunday as massive winter storm sweeps across US",
-      "link": "https://www.boston.com/news/weather/2026/01/25/more-than-15000-flights-canceled-as-massive-winter-storm-sweeps-across-us/",
-      "pubDate": "Sun, 25 Jan 2026 16:40:25 +0000",
-      "description": "<p>Aviation analytics firm Cirium said that as of Sunday morning, the storm is the highest experienced cancellation event since the pandemic.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/01/25/more-than-15000-flights-canceled-as-massive-winter-storm-sweeps-across-us/\">More than 10,500 flights canceled Sunday as massive winter storm sweeps across US</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f5b21b4d5ab994dbeff4a2d159cf5b4e",
-      "summary": [
-        "Update: More than 10,500 flights canceled Sunday as massiv",
-        "Details: <p>Aviation analytics firm Cirium said that as of ",
+        "Update: Broncos 7, Patriots 0 (1st): Denver strikes first",
+        "Details: <p>The Patriots are just one win away from a trip ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-25T18:35:17.166463+00:00"
+    "timestamp": "2026-01-25T20:29:00.909165+00:00"
   }
 }
