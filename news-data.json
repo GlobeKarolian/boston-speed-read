@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-01-25T12:51:14.159819+00:00",
+  "lastUpdated": "2026-01-25T14:23:18.710515+00:00",
   "articles": [
     {
-      "title": "Live updates: Major snowstorm impacting Massachusetts",
-      "link": "https://www.boston.com/weather/weather/2026/01/25/live-updates-snowstorm-massachusetts-jan-25-26-2026/",
-      "pubDate": "Sun, 25 Jan 2026 12:22:10 +0000",
-      "description": "<p>Follow the latest news on the snowstorm in Massachusetts. The storm is forecast to bring 12-24 inches of accumulation through Monday. </p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/25/live-updates-snowstorm-massachusetts-jan-25-26-2026/\">Live updates: Major snowstorm impacting Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "972288724dff8863953e14311b5ffa87",
+      "title": "Protesters demand ICE agents leave Minneapolis after shooting",
+      "link": "https://www.boston.com/news/national-news/2026/01/25/protesters-demand-ice-agents-leave-minneapolis-after-shooting/",
+      "pubDate": "Sun, 25 Jan 2026 14:09:15 +0000",
+      "description": "<p>\u201cWhat\u2019s happening in our community is wrong, it\u2019s sickening, it\u2019s disgusting.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/25/protesters-demand-ice-agents-leave-minneapolis-after-shooting/\">Protesters demand ICE agents leave Minneapolis after shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c76b3f73406e0b740f4433de107867d7",
       "summary": [
-        "Update: Live updates: Major snowstorm impacting Massachuse",
-        "Details: <p>Follow the latest news on the snowstorm in Mass",
+        "Update: Protesters demand ICE agents leave Minneapolis aft",
+        "Details: <p>\u201cWhat\u2019s happening in our community is wrong, it",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Federal judge in Boston warns Trump against targeting immigration status of students suing him",
+      "link": "https://www.boston.com/news/local-news/2026/01/25/federal-judge-in-boston-warns-trump-against-targeting-immigration-status-of-students-suing-him/",
+      "pubDate": "Sun, 25 Jan 2026 13:18:16 +0000",
+      "description": "<p>The order aims to protect a group of noncitizen students from retaliation for suing the Trump administration.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/25/federal-judge-in-boston-warns-trump-against-targeting-immigration-status-of-students-suing-him/\">Federal judge in Boston warns Trump against targeting immigration status of students suing him</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6a954cd5bf2ce75ae12bfe93b71cc7eb",
+      "summary": [
+        "Update: Federal judge in Boston warns Trump against target",
+        "Details: <p>The order aims to protect a group of noncitizen",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Share your winter storm photos and video with Boston.com",
+      "link": "https://www.boston.com/community/tell-us/2026/01/25/share-winter-storm-photos-videos/",
+      "pubDate": "Sun, 25 Jan 2026 13:00:53 +0000",
+      "description": "<p>Snow is expected Sunday into Monday. Send Boston.com your best shots as the storm moves through New England.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/01/25/share-winter-storm-photos-videos/\">Share your winter storm photos and video with Boston.com</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "165def755c586089ab5c470530b4526c",
+      "summary": [
+        "Update: Share your winter storm photos and video with Bost",
+        "Details: <p>Snow is expected Sunday into Monday. Send Bosto",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Celtics fall in final seconds against Bulls despite gritty Jaylen Brown game: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/25/celtics-fall-in-final-seconds-against-bulls-despite-gritty-jaylen-brown-game-7-takeaways/",
+      "pubDate": "Sun, 25 Jan 2026 12:55:36 +0000",
+      "description": "<p>The Celtics have a much-needed day off before a much-needed stretch of home games, which begin on Monday against the Trail Blazers.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/25/celtics-fall-in-final-seconds-against-bulls-despite-gritty-jaylen-brown-game-7-takeaways/\">Celtics fall in final seconds against Bulls despite gritty Jaylen Brown game: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bf147238bedda6571668928322d8870e",
+      "summary": [
+        "Update: Celtics fall in final seconds against Bulls despit",
+        "Details: <p>The Celtics have a much-needed day off before a",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-01-25T12:51:14.159839+00:00"
+    "timestamp": "2026-01-25T14:23:18.710532+00:00"
   }
 }
