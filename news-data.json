@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-01-25T16:30:37.631048+00:00",
+  "lastUpdated": "2026-01-25T18:35:17.166444+00:00",
   "articles": [
     {
-      "title": "2 killed, 2 injured in shooting at child\u2019s party in Carver, suspect charged with murder",
-      "link": "https://www.boston.com/news/crime/2026/01/25/2-killed-2-injured-in-shooting-at-childs-party-in-carver-suspect-charged-with-murder/",
-      "pubDate": "Sun, 25 Jan 2026 15:50:59 +0000",
-      "description": "<p>After a preliminary investigation, law enforcement officials say that the shooting does not appear to be a random act.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/25/2-killed-2-injured-in-shooting-at-childs-party-in-carver-suspect-charged-with-murder/\">2 killed, 2 injured in shooting at child&#8217;s party in Carver, suspect charged with murder</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "17da08079e17061be1a3f8c882c1344f",
+      "title": "Mass. school closures for Jan. 26",
+      "link": "https://www.boston.com/weather/education/2026/01/25/mass-school-closures-for-jan-26/",
+      "pubDate": "Sun, 25 Jan 2026 16:43:35 +0000",
+      "description": "<p>Here is a running list of school closures across Massachusetts due to the Jan. 25-26 winter storm. </p>\n<p>The post <a href=\"https://www.boston.com/weather/education/2026/01/25/mass-school-closures-for-jan-26/\">Mass. school closures for Jan. 26</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "50875507033cf739414a53b4aa997b44",
       "summary": [
-        "Update: 2 killed, 2 injured in shooting at child\u2019s party i",
-        "Details: <p>After a preliminary investigation, law enforcem",
+        "Update: Mass. school closures for Jan. 26",
+        "Details: <p>Here is a running list of school closures acros",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Renovations to Back Bay station are now underway: Here\u2019s what to know",
-      "link": "https://www.boston.com/news/transportation/2026/01/25/renovations-to-back-bay-station-are-now-underway-heres-what-to-know/",
-      "pubDate": "Sun, 25 Jan 2026 15:12:00 +0000",
-      "description": "<p>The construction project\u2019s first phase will tackle the east side of the station and is expected to last until late June.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/01/25/renovations-to-back-bay-station-are-now-underway-heres-what-to-know/\">Renovations to Back Bay station are now underway: Here\u2019s what to know</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "75fc9b4381b369565db9554c1b818cce",
+      "title": "More than 10,500 flights canceled Sunday as massive winter storm sweeps across US",
+      "link": "https://www.boston.com/news/weather/2026/01/25/more-than-15000-flights-canceled-as-massive-winter-storm-sweeps-across-us/",
+      "pubDate": "Sun, 25 Jan 2026 16:40:25 +0000",
+      "description": "<p>Aviation analytics firm Cirium said that as of Sunday morning, the storm is the highest experienced cancellation event since the pandemic.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/01/25/more-than-15000-flights-canceled-as-massive-winter-storm-sweeps-across-us/\">More than 10,500 flights canceled Sunday as massive winter storm sweeps across US</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f5b21b4d5ab994dbeff4a2d159cf5b4e",
       "summary": [
-        "Update: Renovations to Back Bay station are now underway: ",
-        "Details: <p>The construction project\u2019s first phase will tac",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Massive winter storm across the U.S. brings frigid temperatures and widespread power outages",
-      "link": "https://www.boston.com/news/weather/2026/01/25/massive-winter-storm-across-the-u-s-brings-frigid-temperatures-and-widespread-power-outages/",
-      "pubDate": "Sun, 25 Jan 2026 14:44:24 +0000",
-      "description": "<p>The storm was expected to continue through Monday in a large part of the country, followed by very low temperatures, causing ice and \u201cdangerous travel and infrastructure impacts\u201d to linger for several days, the National Weather Service said.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/01/25/massive-winter-storm-across-the-u-s-brings-frigid-temperatures-and-widespread-power-outages/\">Massive winter storm across the U.S. brings frigid temperatures and widespread power outages</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "60bcbd0f8cc01db84265bf5d16aa25a2",
-      "summary": [
-        "Update: Massive winter storm across the U.S. brings frigid",
-        "Details: <p>The storm was expected to continue through Mond",
+        "Update: More than 10,500 flights canceled Sunday as massiv",
+        "Details: <p>Aviation analytics firm Cirium said that as of ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-25T16:30:37.631057+00:00"
+    "timestamp": "2026-01-25T18:35:17.166463+00:00"
   }
 }
