@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-25T06:37:49.609358+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-25T08:32:23.722008+00:00",
+  "articles": [
+    {
+      "title": "\u2018SNL\u2019 recap: Best moments from Teyana Taylor hosting \u2018Saturday Night Live\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2026/01/25/snl-recap-teyana-taylor/",
+      "pubDate": "Sun, 25 Jan 2026 07:45:35 +0000",
+      "description": "<p>Teyana Taylor of \"One Battle After Another\" hosted the January 24 episode of \"Saturday Night Live,\" with Geese as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/01/25/snl-recap-teyana-taylor/\">\u2018SNL\u2019 recap: Best moments from Teyana Taylor hosting \u2018Saturday Night Live\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0a5fac8125fae2a8c30adecf0325fa8c",
+      "summary": [
+        "Update: \u2018SNL\u2019 recap: Best moments from Teyana Taylor hosti",
+        "Details: <p>Teyana Taylor of \"One Battle After Another\" hos",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-25T06:37:49.609366+00:00"
+    "timestamp": "2026-01-25T08:32:23.722029+00:00"
   }
 }
