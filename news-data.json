@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-01-27T12:59:11.678355+00:00",
+  "lastUpdated": "2026-01-27T14:34:47.234413+00:00",
   "articles": [
     {
-      "title": "Home of the Week: Two-bedroom ranch minutes from Scituate Harbor for $750k",
-      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/01/27/scituate-harbor-oceanside-ranch-house/",
-      "pubDate": "Tue, 27 Jan 2026 12:00:00 +0000",
-      "description": "<p>Wide-plank pine flooring, wood trim, and a birch tree trunk in the bathroom give this home a rustic feel. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/01/27/scituate-harbor-oceanside-ranch-house/\">Home of the Week: Two-bedroom ranch minutes from Scituate Harbor for $750k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c589f67da29b4530568db5059bfc6910",
+      "title": "Here\u2019s what Jon Stewart said about Alex Pretti\u2019s killing in Minneapolis",
+      "link": "https://www.boston.com/news/entertainment/2026/01/27/jon-stewart-daily-show-alex-pretti-killing-minneapolis/",
+      "pubDate": "Tue, 27 Jan 2026 14:28:06 +0000",
+      "description": "<p>\"Well it looks like we've got a real case of, he said, video totally disproves what he said.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2026/01/27/jon-stewart-daily-show-alex-pretti-killing-minneapolis/\">Here&#8217;s what Jon Stewart said about Alex Pretti&#8217;s killing in Minneapolis</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c5cd0af615796b4b1f38b4a3d321e96e",
       "summary": [
-        "Update: Home of the Week: Two-bedroom ranch minutes from S",
-        "Details: <p>Wide-plank pine flooring, wood trim, and a birc",
+        "Update: Here\u2019s what Jon Stewart said about Alex Pretti\u2019s k",
+        "Details: <p>\"Well it looks like we've got a real case of, h",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Judge orders ICE chief to appear in court to explain why detainees have been denied due process",
+      "link": "https://www.boston.com/news/national-news/2026/01/27/judge-orders-ice-chief-to-appear-in-court-to-explain-why-detainees-have-been-denied-due-process/",
+      "pubDate": "Tue, 27 Jan 2026 14:22:50 +0000",
+      "description": "<p>In an order dated Monday, Chief Judge Patrick J. Schiltz said Todd Lyons, the acting director of ICE, must appear personally in court.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/27/judge-orders-ice-chief-to-appear-in-court-to-explain-why-detainees-have-been-denied-due-process/\">Judge orders ICE chief to appear in court to explain why detainees have been denied due process</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18accc4951c1adffb40ab46df672df95",
+      "summary": [
+        "Update: Judge orders ICE chief to appear in court to expla",
+        "Details: <p>In an order dated Monday, Chief Judge Patrick J",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s what Boston meteorologists are saying about the potential for \u2018another significant winter storm\u2019 this weekend",
+      "link": "https://www.boston.com/weather/weather/2026/01/27/boston-ma-next-winter-storm/",
+      "pubDate": "Tue, 27 Jan 2026 13:39:51 +0000",
+      "description": "<p>\"Nobody knows whether or not it's going to hit us.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/27/boston-ma-next-winter-storm/\">Here&#8217;s what Boston meteorologists are saying about the potential for &#8216;another significant winter storm&#8217; this weekend</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0ca620b78ac1d28f4f573dccfc0ed1f9",
+      "summary": [
+        "Update: Here\u2019s what Boston meteorologists are saying about",
+        "Details: <p>\"Nobody knows whether or not it's going to hit ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-01-27T12:59:11.678375+00:00"
+    "timestamp": "2026-01-27T14:34:47.234434+00:00"
   }
 }
