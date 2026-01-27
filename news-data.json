@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-01-27T10:32:43.856576+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-27T12:59:11.678355+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: Two-bedroom ranch minutes from Scituate Harbor for $750k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/01/27/scituate-harbor-oceanside-ranch-house/",
+      "pubDate": "Tue, 27 Jan 2026 12:00:00 +0000",
+      "description": "<p>Wide-plank pine flooring, wood trim, and a birch tree trunk in the bathroom give this home a rustic feel. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/01/27/scituate-harbor-oceanside-ranch-house/\">Home of the Week: Two-bedroom ranch minutes from Scituate Harbor for $750k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c589f67da29b4530568db5059bfc6910",
+      "summary": [
+        "Update: Home of the Week: Two-bedroom ranch minutes from S",
+        "Details: <p>Wide-plank pine flooring, wood trim, and a birc",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-01-27T10:32:43.856587+00:00"
+    "timestamp": "2026-01-27T12:59:11.678375+00:00"
   }
 }
