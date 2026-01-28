@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-01-28T12:59:22.795860+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-28T14:35:34.577583+00:00",
+  "articles": [
+    {
+      "title": "Amazon cuts about 16,000 corporate jobs in its latest round of layoffs",
+      "link": "https://www.boston.com/news/business/2026/01/28/amazon-cuts-about-16000-corporate-jobs-in-its-latest-round-of-layoffs/",
+      "pubDate": "Wed, 28 Jan 2026 14:25:32 +0000",
+      "description": "<p>The latest reductions follow a round of job cuts in October, when Amazon said it was laying off 14,000 workers.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/01/28/amazon-cuts-about-16000-corporate-jobs-in-its-latest-round-of-layoffs/\">Amazon cuts about 16,000 corporate jobs in its latest round of layoffs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "be1f2fa7ce7666aa4a6c2997622f1a9e",
+      "summary": [
+        "Update: Amazon cuts about 16,000 corporate jobs in its lat",
+        "Details: <p>The latest reductions follow a round of job cut",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The MBTA says it\u2019s still \u2018testing\u2019 South Station fare gates. Commuters are calling them \u2018obnoxious.\u2019",
+      "link": "https://www.boston.com/news/the-boston-globe/2026/01/28/the-mbta-says-its-still-testing-south-station-fare-gates-commuters-are-calling-them-obnoxious/",
+      "pubDate": "Wed, 28 Jan 2026 14:19:10 +0000",
+      "description": "<p>On a breezy weekday morning in January, Frank Truscott, of Dorchester, disembarked an inbound commuter rail train at South Station and approached a phalanx of fare gates separating him from the city. The 55-year-old IT worker planted his phone screen on the gate\u2019s sensor. Its folding doors remained obstinately shut. He walked a few steps [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2026/01/28/the-mbta-says-its-still-testing-south-station-fare-gates-commuters-are-calling-them-obnoxious/\">The MBTA says it\u2019s still \u2018testing\u2019 South Station fare gates. Commuters are calling them \u2018obnoxious.\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4e96286c5204e02eee433ef2d46624fd",
+      "summary": [
+        "Update: The MBTA says it\u2019s still \u2018testing\u2019 South Station f",
+        "Details: <p>On a breezy weekday morning in January, Frank T",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Super Bowl LX gives Sam Darnold a chance to exorcise those Meadowlands ghosts, once and for all",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/28/super-bowl-lx-sam-darnold-jets/",
+      "pubDate": "Wed, 28 Jan 2026 14:07:31 +0000",
+      "description": "<p>It shouldn\u2019t matter much that the Patriots have tormented Darnold whenever they\u2019ve had the chance. He is 0-4 against them.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/28/super-bowl-lx-sam-darnold-jets/\">Super Bowl LX gives Sam Darnold a chance to exorcise those Meadowlands ghosts, once and for all</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b1a890c1bddd044ac0399bed9d7edf50",
+      "summary": [
+        "Update: Super Bowl LX gives Sam Darnold a chance to exorci",
+        "Details: <p>It shouldn\u2019t matter much that the Patriots have",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "After saving a man\u2019s life, she\u2019s running Boston to support the Red Cross",
+      "link": "https://www.boston.com/community/boston-marathon/2026/01/28/angela-wills-red-cross/",
+      "pubDate": "Wed, 28 Jan 2026 14:00:00 +0000",
+      "description": "<p>\"When first responders arrived and he survived, I was overwhelmed with gratitude and humility.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/01/28/angela-wills-red-cross/\">After saving a man&#8217;s life, she&#8217;s running Boston to support the Red Cross</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "82c560be5f51f5badedae9d398abca78",
+      "summary": [
+        "Update: After saving a man\u2019s life, she\u2019s running Boston to",
+        "Details: <p>\"When first responders arrived and he survived,",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "For her 12th Boston Marathon, this runner honors the legacy of a friend",
+      "link": "https://www.boston.com/community/boston-marathon/2026/01/28/erin-mcveigh-dana-farber/",
+      "pubDate": "Wed, 28 Jan 2026 14:00:00 +0000",
+      "description": "<p>Erin McVeigh is running for Dana-Farber Cancer Institute for their care of her loved ones.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/01/28/erin-mcveigh-dana-farber/\">For her 12th Boston Marathon, this runner honors the legacy of a friend</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "89542bd21ef77d594ce5f25dbdad5023",
+      "summary": [
+        "Update: For her 12th Boston Marathon, this runner honors t",
+        "Details: <p>Erin McVeigh is running for Dana-Farber Cancer ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-01-28T12:59:22.795869+00:00"
+    "timestamp": "2026-01-28T14:35:34.577603+00:00"
   }
 }
