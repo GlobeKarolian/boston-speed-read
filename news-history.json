@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-01-28T20:36:46.614440+00:00",
+  "lastUpdated": "2026-01-28T22:31:21.220304+00:00",
   "articles": [
+    {
+      "title": "\u2018Several\u2019 Worcester school buses get stuck in snow after major storm",
+      "link": "https://www.boston.com/news/local-news/2026/01/28/several-worcester-school-buses-get-stuck-in-snow-after-major-storm/",
+      "pubDate": "Wed, 28 Jan 2026 22:01:59 +0000",
+      "description": "<p>Worcester Public School buses got stuck in snow on the way to school Wednesday after large snowstorm. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/28/several-worcester-school-buses-get-stuck-in-snow-after-major-storm/\">\u2018Several\u2019 Worcester school buses get stuck in snow after major storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "362f4d31e7e585e8ba1f2a13bd137b0a",
+      "summary": [
+        "Update: \u2018Several\u2019 Worcester school buses get stuck in snow",
+        "Details: <p>Worcester Public School buses got stuck in snow",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "What is \u2018National Shutdown Day\u2019 on Jan. 30 \u2014 and do you plan to participate?",
+      "link": "https://www.boston.com/news/community/2026/01/28/ice-national-shutdown-day/",
+      "pubDate": "Wed, 28 Jan 2026 22:00:59 +0000",
+      "description": "<p>Activists are calling for a nationwide \u201cno work, no school, no shopping\u201d shutdown to protest ICE actions.</p>\n<p>The post <a href=\"https://www.boston.com/news/community/2026/01/28/ice-national-shutdown-day/\">What is &#8216;National Shutdown Day&#8217; on Jan. 30 \u2014 and do you plan to participate?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "575d8b7ff6e2646224d3967308659097",
+      "summary": [
+        "Update: What is \u2018National Shutdown Day\u2019 on Jan. 30 \u2014 and d",
+        "Details: <p>Activists are calling for a nationwide \u201cno work",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018They were just screaming.\u2019 Mom unable to save 3 sons who fell through icy pond in Texas",
+      "link": "https://www.boston.com/news/national-news/2026/01/28/they-were-just-screaming-mom-unable-to-save-3-sons-who-fell-through-icy-pond-in-texas/",
+      "pubDate": "Wed, 28 Jan 2026 21:28:38 +0000",
+      "description": "<p>\u201cThey were just screaming, telling me to help them,\u201d Cheyenne Hangaman told the AP. \u201cAnd I watched all of them struggle, struggle to stay above the water. I watched all of them fight.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/28/they-were-just-screaming-mom-unable-to-save-3-sons-who-fell-through-icy-pond-in-texas/\">&#8216;They were just screaming.&#8217; Mom unable to save 3 sons who fell through icy pond in Texas</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6df7ad82aebf2445f5cce9f2cc698412",
+      "summary": [
+        "Update: \u2018They were just screaming.\u2019 Mom unable to save 3 s",
+        "Details: <p>\u201cThey were just screaming, telling me to help t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Charlie\u2019s Kitchen in Harvard Square temporarily closes due to interior damage",
+      "link": "https://www.boston.com/food/food-news/2026/01/28/charlies-kitchen-temporarily-closed/",
+      "pubDate": "Wed, 28 Jan 2026 21:16:37 +0000",
+      "description": "<p>A video shared by ownership on social media shows the inside of Charlie's covered in water.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/01/28/charlies-kitchen-temporarily-closed/\">Charlie&#8217;s Kitchen in Harvard Square temporarily closes due to interior damage</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "81aa66666c3cc968c29e086cdd508f63",
+      "summary": [
+        "Update: Charlie\u2019s Kitchen in Harvard Square temporarily cl",
+        "Details: <p>A video shared by ownership on social media sho",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Framingham State remembers alum Christa McAuliffe on anniversary of Challenger explosion",
+      "link": "https://www.boston.com/news/local-news/2026/01/28/framingham-state-remembers-alum-christa-mcauliffe-on-anniversary-of-challenger-explosion/",
+      "pubDate": "Wed, 28 Jan 2026 20:36:07 +0000",
+      "description": "<p>Jan. 28 marks the 40th anniversary of the disaster.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/28/framingham-state-remembers-alum-christa-mcauliffe-on-anniversary-of-challenger-explosion/\">Framingham State remembers alum Christa McAuliffe on anniversary of Challenger explosion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fde740d6f663d5d8a3133544cd9cfc69",
+      "summary": [
+        "Update: Framingham State remembers alum Christa McAuliffe ",
+        "Details: <p>Jan. 28 marks the 40th anniversary of the disas",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Utilities plan to recoup costs from the governor\u2019s winter bill reductions",
       "link": "https://www.boston.com/news/local-news/2026/01/28/utilities-plan-to-recoup-costs-from-the-governors-winter-bill-reductions/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: MBTA Communities Act: What\u2019s next for your town",
         "Details: <p>We've updated our map and guide to understandin",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Norwood woman killed by plow remembered as \u2018exceptional scientist\u2019",
-      "link": "https://www.boston.com/news/local-news/2026/01/27/norwood-woman-killed-by-plow-remembered-as-exceptional-scientist/",
-      "pubDate": "Tue, 27 Jan 2026 19:52:01 +0000",
-      "description": "<p>Noriko Rapley studied the biology of the intestine at Massachusetts General Hospital. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/27/norwood-woman-killed-by-plow-remembered-as-exceptional-scientist/\">Norwood woman killed by plow remembered as &#8216;exceptional scientist&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cfb00e6ef0aada2d884f69955e935418",
-      "summary": [
-        "Update: Norwood woman killed by plow remembered as \u2018except",
-        "Details: <p>Noriko Rapley studied the biology of the intest",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "A nation divided shares one worry: What\u2019s next?",
-      "link": "https://www.boston.com/uncategorized/national-news/2026/01/27/a-nation-divided-shares-one-worry-whats-next/",
-      "pubDate": "Tue, 27 Jan 2026 19:43:59 +0000",
-      "description": "<p>Scenes from the violent unrest in Minneapolis played on a loop throughout the weekend, overshadowing the extreme weather and two NFL playoff games. </p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/national-news/2026/01/27/a-nation-divided-shares-one-worry-whats-next/\">A nation divided shares one worry: What\u2019s next?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0d7172e838d282b090eba8b353097ba0",
-      "summary": [
-        "Update: A nation divided shares one worry: What\u2019s next?",
-        "Details: <p>Scenes from the violent unrest in Minneapolis p",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Mass., N.H. respond to hundreds of crashes during record winter storm",
-      "link": "https://www.boston.com/news/local-news/2026/01/27/mass-n-h-respond-to-hundreds-of-crashes-during-record-winter-storm/",
-      "pubDate": "Tue, 27 Jan 2026 19:36:26 +0000",
-      "description": "<p>Massachusetts State Police received calls for 222 crashes, with no fatal incidents but 12 injuries. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/27/mass-n-h-respond-to-hundreds-of-crashes-during-record-winter-storm/\">Mass., N.H. respond to hundreds of crashes during record winter storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "969843d11ceb89c0be846d29b3d54771",
-      "summary": [
-        "Update: Mass., N.H. respond to hundreds of crashes during ",
-        "Details: <p>Massachusetts State Police received calls for 2",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Addiction touched his entire family. This year, he\u2019s running Boston for hope.",
-      "link": "https://www.boston.com/community/boston-marathon/2026/01/27/brendan-lawlor-herren-project/",
-      "pubDate": "Tue, 27 Jan 2026 19:19:28 +0000",
-      "description": "<p>\u201cIf one person sees this and believes recovery is possible, every mile will be worth it.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/01/27/brendan-lawlor-herren-project/\">Addiction touched his entire family. This year, he\u2019s running Boston for hope.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "30afac7bf4109dec445ad816d3039567",
-      "summary": [
-        "Update: Addiction touched his entire family. This year, he",
-        "Details: <p>\u201cIf one person sees this and believes recovery ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Students hack their way into the future of brain-computer interfaces",
-      "link": "https://www.boston.com/news/technology/2026/01/27/students-hack-their-way-into-the-future-of-brain-computer-interfaces/",
-      "pubDate": "Tue, 27 Jan 2026 19:16:43 +0000",
-      "description": "<p>At a hackathon over the weekend, students worked with real brain data to create new tools for brain-machine systems.</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2026/01/27/students-hack-their-way-into-the-future-of-brain-computer-interfaces/\">Students hack their way into the future of brain-computer interfaces</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a4b7cfc4269fa397a07102a75c3dfef5",
-      "summary": [
-        "Update: Students hack their way into the future of brain-c",
-        "Details: <p>At a hackathon over the weekend, students worke",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
