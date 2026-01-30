@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-01-30T13:04:00.456691+00:00",
+  "lastUpdated": "2026-01-30T14:38:05.689734+00:00",
   "articles": [
+    {
+      "title": "Parents navigate a fracturing vaccine landscape",
+      "link": "https://www.boston.com/news/national-news/2026/01/30/parents-navigate-a-fracturing-vaccine-landscape/",
+      "pubDate": "Fri, 30 Jan 2026 14:08:25 +0000",
+      "description": "<p>Rattled by the C.D.C.\u2019s actions and the spread of measles, some parents are scrambling to figure out how to best protect their children.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/30/parents-navigate-a-fracturing-vaccine-landscape/\">Parents navigate a fracturing vaccine landscape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f7565c8684f90220a04e480fbe39ca24",
+      "summary": [
+        "Update: Parents navigate a fracturing vaccine landscape",
+        "Details: <p>Rattled by the C.D.C.\u2019s actions and the spread ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "6 maps predicting snowfall totals from Sunday\u2019s coastal winter storm",
+      "link": "https://www.boston.com/weather/weather/2026/01/30/boston-ma-snow-maps-sunday-feb-1-2026/",
+      "pubDate": "Fri, 30 Jan 2026 13:46:15 +0000",
+      "description": "<p>\"Snow on Sunday largely confined to Cape Cod and the Islands with a whole lot of wind.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/30/boston-ma-snow-maps-sunday-feb-1-2026/\">6 maps predicting snowfall totals from Sunday&#8217;s coastal winter storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e7bd8987e7c91d1f5a6e717398805fe",
+      "summary": [
+        "Update: 6 maps predicting snowfall totals from Sunday\u2019s co",
+        "Details: <p>\"Snow on Sunday largely confined to Cape Cod an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Trump names former Federal Reserve official Warsh as the next Fed chair to replace Powell",
+      "link": "https://www.boston.com/news/politics/2026/01/30/trump-names-former-federal-reserve-official-warsh-as-the-next-fed-chair-to-replace-powell/",
+      "pubDate": "Fri, 30 Jan 2026 13:30:38 +0000",
+      "description": "<p>Kevin Warsh would replace current chair Jerome Powell when his term expires in May.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/01/30/trump-names-former-federal-reserve-official-warsh-as-the-next-fed-chair-to-replace-powell/\">Trump names former Federal Reserve official Warsh as the next Fed chair to replace Powell</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "35bb1c64b27dd3f56773acb6f8171688",
+      "summary": [
+        "Update: Trump names former Federal Reserve official Warsh ",
+        "Details: <p>Kevin Warsh would replace current chair Jerome ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "DHS ramps up surveillance in immigration raids, sweeping in citizens",
+      "link": "https://www.boston.com/news/national-news/2026/01/30/dhs-ramps-up-surveillance-in-immigration-raids-sweeping-in-citizens/",
+      "pubDate": "Fri, 30 Jan 2026 12:42:41 +0000",
+      "description": "<p>Photos and documents show heavy reliance on biometric surveillance and vast databases at the heart of the Trump administration\u2019s immigration crackdown.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/01/30/dhs-ramps-up-surveillance-in-immigration-raids-sweeping-in-citizens/\">DHS ramps up surveillance in immigration raids, sweeping in citizens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "95ecc9e9fbe617799863ef5e2951b35f",
+      "summary": [
+        "Update: DHS ramps up surveillance in immigration raids, sw",
+        "Details: <p>Photos and documents show heavy reliance on bio",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Lindsey Vonn left limping after crash in final downhill race before Milan Cortina Olympics",
+      "link": "https://www.boston.com/sports/sports/2026/01/30/lindsey-vonn-crash/",
+      "pubDate": "Fri, 30 Jan 2026 11:44:36 +0000",
+      "description": "<p>The U.S. ski star lost control when landing a jump and was airlifted from the course for medical checks. </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/01/30/lindsey-vonn-crash/\">Lindsey Vonn left limping after crash in final downhill race before Milan Cortina Olympics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a4f1f8f09e8081635c7c66478b52e764",
+      "summary": [
+        "Update: Lindsey Vonn left limping after crash in final dow",
+        "Details: <p>The U.S. ski star lost control when landing a j",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Meet the 9-year-old Massachusetts kid reporter heading to the Super Bowl",
       "link": "https://www.boston.com/news/local-news/2026/01/30/massachusetts-kid-reporter-heading-to-super-bowl-lx/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: Actor Rose Byrne named Harvard\u2019s Hasty Pudding Wom",
         "Details: <p>Fresh off her Golden Globe Award win and Oscar ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018Top Chef: Amateurs\u2019 contestant lists historic Berkshires home and restaurant for $630k",
-      "link": "https://www.boston.com/real-estate/real-estate/2026/01/29/berkshires-farah-momen-bondhu-mill-on-the-floss/",
-      "pubDate": "Thu, 29 Jan 2026 12:00:00 +0000",
-      "description": "<p>Farah Momen operated her restaurant BONDHU on the property.  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/01/29/berkshires-farah-momen-bondhu-mill-on-the-floss/\">&#8216;Top Chef: Amateurs&#8217; contestant lists historic Berkshires home and restaurant for $630k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5923ae601e4be43d7a8f883f068deaf0",
-      "summary": [
-        "Update: \u2018Top Chef: Amateurs\u2019 contestant lists historic Ber",
-        "Details: <p>Farah Momen operated her restaurant BONDHU on t",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Television ratings for the AFC Championship game against the Broncos the highest for a Patriots game in seven years",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/29/television-ratings-afc-championship-patriots-broncos/",
-      "pubDate": "Thu, 29 Jan 2026 12:52:10 +0000",
-      "description": "<p>The game received a 47.8 household rating and 84 share in the Boston market, CBS and Nielson Media Research reports. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/29/television-ratings-afc-championship-patriots-broncos/\">Television ratings for the AFC Championship game against the Broncos the highest for a Patriots game in seven years</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "15cabed273a2d27000982650e70a5baf",
-      "summary": [
-        "Update: Television ratings for the AFC Championship game a",
-        "Details: <p>The game received a 47.8 household rating and 8",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Celtics\u2019 Jayson Tatum\u2019s return this season reportedly \u2018up in the air\u2019",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/01/29/boston-celtics-jayson-tatum-injury-update-timeline-nba-basketball-chris-haynes/",
-      "pubDate": "Thu, 29 Jan 2026 12:29:11 +0000",
-      "description": "<p> \"I was hearing he was getting close and league sources told me that the situation has changed.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/29/boston-celtics-jayson-tatum-injury-update-timeline-nba-basketball-chris-haynes/\">Celtics\u2019 Jayson Tatum\u2019s return this season reportedly \u2018up in the air\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b66995449dc167c1213238927f9fc2fb",
-      "summary": [
-        "Update: Celtics\u2019 Jayson Tatum\u2019s return this season reporte",
-        "Details: <p> \"I was hearing he was getting close and league",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Jaylen Brown, Celtics go cold, fall apart in ugly loss to Hawks: 7 takeaways",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/01/29/hawks-celtics-recap-jaylen-brown/",
-      "pubDate": "Thu, 29 Jan 2026 12:13:41 +0000",
-      "description": "<p>Brown and Payton Pritchard were miserable on a night when the defense just wasn't good enough.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/29/hawks-celtics-recap-jaylen-brown/\">Jaylen Brown, Celtics go cold, fall apart in ugly loss to Hawks: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "170f5e624249f7ed325f429f8b460b18",
-      "summary": [
-        "Update: Jaylen Brown, Celtics go cold, fall apart in ugly ",
-        "Details: <p>Brown and Payton Pritchard were miserable on a ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Post-winter storm Red Line delays, reduced service disappoint commuters",
-      "link": "https://www.boston.com/news/transportation/2026/01/28/post-winter-storm-red-line-delays-reduced-service-disappoint-commuters/",
-      "pubDate": "Thu, 29 Jan 2026 03:05:42 +0000",
-      "description": "<p>As of Wednesday evening, Red Line services were running as low as an estimated 17.5 percent of scheduled trains.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/01/28/post-winter-storm-red-line-delays-reduced-service-disappoint-commuters/\">Post-winter storm Red Line delays, reduced service disappoint commuters</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "64ef526217949eaac880a7cd162759b8",
-      "summary": [
-        "Update: Post-winter storm Red Line delays, reduced service",
-        "Details: <p>As of Wednesday evening, Red Line services were",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
