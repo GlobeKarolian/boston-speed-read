@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-01-31T16:34:02.245791+00:00",
+  "lastUpdated": "2026-01-31T18:38:22.704223+00:00",
   "articles": [
     {
-      "title": "Even Drake Maye\u2019s dad is surprised by Patriots\u2019 Super Bowl run",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/31/patriots-drake-maye-dad-super-bowl-lx/",
-      "pubDate": "Sat, 31 Jan 2026 15:31:06 +0000",
-      "description": "<p>\"That\u2019s pretty tough to do.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/31/patriots-drake-maye-dad-super-bowl-lx/\">Even Drake Maye&#8217;s dad is surprised by Patriots&#8217; Super Bowl run</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "343113565b7098d416cffbdd7e1fa021",
+      "title": "Photos from Boston\u2019s \u2018ICE Out Everywhere\u2019 protest",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/boston-ice-out-everywhere-protest-photos/",
+      "pubDate": "Sat, 31 Jan 2026 18:31:28 +0000",
+      "description": "<p>More than a thousand people braved the cold at Boston Common on Saturday to demonstrate against Trump's immigration policy. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/boston-ice-out-everywhere-protest-photos/\">Photos from Boston&#8217;s &#8216;ICE Out Everywhere&#8217; protest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d33ee4b94793acff9680d0618e9f7524",
       "summary": [
-        "Patriots' unexpected Super Bowl run surprises even Drake Maye's father.",
-        "The team has advanced to Super Bowl LX, highlighting their resilience this season.",
-        "Boston fans are rallying around the team, boosting local morale and community spirit."
+        "Over a thousand protesters gathered at Boston Common on Saturday against Trump's immigration policy.",
+        "The 'ICE Out Everywhere' protest highlighted local opposition to federal immigration enforcement.",
+        "Demonstrators aimed to raise awareness about the impact of immigration policies on Boston communities."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "That guy on TV, Cris Collinsworth, will look familiar to Patriots fans tuning into NBC to watch the Super Bowl",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/31/patriots-seahawks-super-bowl-lx-announcers-cris-collinsworth/",
-      "pubDate": "Sat, 31 Jan 2026 15:27:32 +0000",
-      "description": "<p>Collinsworth has broadcasted five Super Bowls involving the Patriots, including their previous matchup with the Seahawks 11 seasons ago.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/31/patriots-seahawks-super-bowl-lx-announcers-cris-collinsworth/\">That guy on TV, Cris Collinsworth, will look familiar to Patriots fans tuning into NBC to watch the Super Bowl</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "31fb0e60d8c6aa16be0b65ea37100dc1",
+      "title": "Insider believes Red Sox have \u2018another move in them\u2019 this offseason to improve infield",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/31/red-sox-infield-mlb-trade-rumors/",
+      "pubDate": "Sat, 31 Jan 2026 18:02:45 +0000",
+      "description": "<p>While pitchers and catchers report for spring training in less than two weeks, multiple reports indicate that the Red Sox might make another move. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/31/red-sox-infield-mlb-trade-rumors/\">Insider believes Red Sox have &#8216;another move in them&#8217; this offseason to improve infield</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e9f1ab9538ccf91d485a51a0a3689be",
       "summary": [
-        "Cris Collinsworth will broadcast the Super Bowl on NBC for Boston Patriots fans.",
-        "He has covered five Super Bowls involving the Patriots, including the Seahawks in 2015.",
-        "Local viewers can expect familiar commentary from Collinsworth during the game."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Mass. snowplow driver who spotted legs sticking out of snowbank praised for saving older man",
-      "link": "https://www.boston.com/news/local-news/2026/01/31/mass-snowplow-driver-who-spotted-legs-sticking-out-of-snowbank-praised-for-saving-older-man/",
-      "pubDate": "Sat, 31 Jan 2026 15:00:26 +0000",
-      "description": "<p>A quick response during a snowstorm is credited with saving a man\u2019s life in Auburn.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/mass-snowplow-driver-who-spotted-legs-sticking-out-of-snowbank-praised-for-saving-older-man/\">Mass. snowplow driver who spotted legs sticking out of snowbank praised for saving older man</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "709b4ef86f4a6cc961fcd02680f40892",
-      "summary": [
-        "Snowplow driver spotted legs in a snowbank, saving an older man's life during a storm.",
-        "The incident occurred in Auburn, Massachusetts, highlighting the importance of quick responses.",
-        "Local residents are reminded of the dangers of heavy snowfall and the need for vigilance."
+        "Red Sox may make another infield move before spring training starts on February 15.",
+        "Insider reports suggest potential trades to enhance team performance this offseason.",
+        "Improved infield could boost Red Sox competitiveness for Boston fans in 2024 season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-01-31T16:34:02.245811+00:00"
+    "timestamp": "2026-01-31T18:38:22.704242+00:00"
   }
 }

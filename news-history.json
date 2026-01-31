@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-01-31T16:34:02.246675+00:00",
+  "lastUpdated": "2026-01-31T18:38:22.704980+00:00",
   "articles": [
+    {
+      "title": "Photos from Boston\u2019s \u2018ICE Out Everywhere\u2019 protest",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/boston-ice-out-everywhere-protest-photos/",
+      "pubDate": "Sat, 31 Jan 2026 18:31:28 +0000",
+      "description": "<p>More than a thousand people braved the cold at Boston Common on Saturday to demonstrate against Trump's immigration policy. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/boston-ice-out-everywhere-protest-photos/\">Photos from Boston&#8217;s &#8216;ICE Out Everywhere&#8217; protest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d33ee4b94793acff9680d0618e9f7524",
+      "summary": [
+        "Over a thousand protesters gathered at Boston Common on Saturday against Trump's immigration policy.",
+        "The 'ICE Out Everywhere' protest highlighted local opposition to federal immigration enforcement.",
+        "Demonstrators aimed to raise awareness about the impact of immigration policies on Boston communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Insider believes Red Sox have \u2018another move in them\u2019 this offseason to improve infield",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/31/red-sox-infield-mlb-trade-rumors/",
+      "pubDate": "Sat, 31 Jan 2026 18:02:45 +0000",
+      "description": "<p>While pitchers and catchers report for spring training in less than two weeks, multiple reports indicate that the Red Sox might make another move. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/31/red-sox-infield-mlb-trade-rumors/\">Insider believes Red Sox have &#8216;another move in them&#8217; this offseason to improve infield</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e9f1ab9538ccf91d485a51a0a3689be",
+      "summary": [
+        "Red Sox may make another infield move before spring training starts on February 15.",
+        "Insider reports suggest potential trades to enhance team performance this offseason.",
+        "Improved infield could boost Red Sox competitiveness for Boston fans in 2024 season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Even Drake Maye\u2019s dad is surprised by Patriots\u2019 Super Bowl run",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/31/patriots-drake-maye-dad-super-bowl-lx/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: As Fraser Minten breaks out, Bruins\u2019 trade-deadlin",
         "Details: <p>\u201cWe don't know his ceiling yet, and we don't kn",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "As \u2018whisper\u2019 real estate listings rise, a clash over who controls the market",
-      "link": "https://www.boston.com/real-estate/real-estate/2026/01/30/private-whisper-real-estate-listings-boston/",
-      "pubDate": "Fri, 30 Jan 2026 12:00:00 +0000",
-      "description": "<p>Navigating a market in which who you know matters. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/01/30/private-whisper-real-estate-listings-boston/\">As \u2018whisper\u2019 real estate listings rise, a clash over who controls the market</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "678a5a91af46040ee3f829c9330be120",
-      "summary": [
-        "Update: As \u2018whisper\u2019 real estate listings rise, a clash ov",
-        "Details: <p>Navigating a market in which who you know matte",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "With more than 8,000 in Greater Boston, how do you choose a real estate agent?",
-      "link": "https://www.boston.com/real-estate/real-estate/2026/01/30/choosing-real-estate-agent-tips-boston-massachusetts/",
-      "pubDate": "Fri, 30 Jan 2026 12:00:00 +0000",
-      "description": "<p>A lot can go wrong if you choose the wrong one.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/01/30/choosing-real-estate-agent-tips-boston-massachusetts/\">With more than 8,000 in Greater Boston, how do you choose a real estate agent?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5083cf1691922c897b0fabb48796ac1c",
-      "summary": [
-        "Update: With more than 8,000 in Greater Boston, how do you",
-        "Details: <p>A lot can go wrong if you choose the wrong one.",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
