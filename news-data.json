@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-01-31T12:56:22.483623+00:00",
-  "articles": [],
+  "lastUpdated": "2026-01-31T14:28:11.615636+00:00",
+  "articles": [
+    {
+      "title": "UMass student suspended after organizing protest sues university",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/umass-student-suspended-after-organizing-protest-sues-university/",
+      "pubDate": "Sat, 31 Jan 2026 14:17:55 +0000",
+      "description": "<p>Kivlighan de Montebello says the university punished him for a peaceful protest targeting defense contractor RTX.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/umass-student-suspended-after-organizing-protest-sues-university/\">UMass student suspended after organizing protest sues university</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f9e8cf416cabc7d99346340f1e21d506",
+      "summary": [
+        "Kivlighan de Montebello, a UMass student, was suspended for organizing a protest against RTX.",
+        "The protest was peaceful and aimed at raising awareness about defense contractors on campus.",
+        "De Montebello's lawsuit could impact free speech policies at UMass and similar universities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "More details emerge about children charged with murder in R.I.",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/more-details-emerge-about-children-charged-with-murder-in-r-i/",
+      "pubDate": "Sat, 31 Jan 2026 13:50:20 +0000",
+      "description": "<p>The preteens were arrested after a separate disturbance near the scene of the fatal Jan. 19 beating.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/more-details-emerge-about-children-charged-with-murder-in-r-i/\">More details emerge about children charged with murder in R.I.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0fab2052947a7a3443432aa7cd79d71a",
+      "summary": [
+        "Preteens arrested for murder after a disturbance on January 19 in Rhode Island.",
+        "The incident raises concerns about youth violence in nearby Boston communities.",
+        "Local authorities emphasize the need for increased youth intervention programs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Allandale Farm loses second Highland steer following brother\u2019s death last year",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/allandale-farm-loses-second-highland-steer-following-brothers-death-last-year/",
+      "pubDate": "Sat, 31 Jan 2026 13:13:37 +0000",
+      "description": "<p>Curtis, a longtime presence at Boston\u2019s only working farm, has died peacefully at age 16.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/allandale-farm-loses-second-highland-steer-following-brothers-death-last-year/\">Allandale Farm loses second Highland steer following brother\u2019s death last year</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d87b5f443bc2ea1aceecb87a23734a8a",
+      "summary": [
+        "Allandale Farm's Highland steer, Curtis, died peacefully at age 16.",
+        "Curtis was the second Highland steer lost in a year at the farm.",
+        "The loss affects community engagement at Boston's only working farm."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Senate passes Trump-backed government funding deal, sending to House",
+      "link": "https://www.boston.com/news/immigration/2026/01/31/senate-passes-trump-backed-government-funding-deal-sending-to-house/",
+      "pubDate": "Sat, 31 Jan 2026 13:00:16 +0000",
+      "description": "<p>Senate Democrats will not support an extension of Homeland Security funding in two weeks \u201cunless it reins in ICE and ends violence,\u201d Schumer said. </p>\n<p>The post <a href=\"https://www.boston.com/news/immigration/2026/01/31/senate-passes-trump-backed-government-funding-deal-sending-to-house/\">Senate passes Trump-backed government funding deal, sending to House</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "868384ea3e5dcb4cbf6a02c6e50a97bc",
+      "summary": [
+        "Senate passes Trump-backed funding deal, impacting Boston's federal funding.",
+        "Democrats, led by Schumer, oppose ICE funding unless reforms are made.",
+        "Potential government shutdown could affect local services in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-01-31T12:56:22.483632+00:00"
+    "timestamp": "2026-01-31T14:28:11.615655+00:00"
   }
 }
