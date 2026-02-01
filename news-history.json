@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-01-31T22:27:31.673861+00:00",
+  "lastUpdated": "2026-02-01T02:46:17.823670+00:00",
   "articles": [
+    {
+      "title": "Coast Guard suspends search for people missing from fishing vessel that sank off Cape Ann",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/coast-guard-suspends-search-for-people-missing-from-fishing-vessel-that-sank-off-cape-ann/",
+      "pubDate": "Sun, 01 Feb 2026 01:21:15 +0000",
+      "description": "<p>Crews covered about 1,000 square miles using aircraft, cutters and small boats over a 24-hour period. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/coast-guard-suspends-search-for-people-missing-from-fishing-vessel-that-sank-off-cape-ann/\">Coast Guard suspends search for people missing from fishing vessel that sank off Cape Ann</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6262c461e4b8fd3064e99abeff529237",
+      "summary": [
+        "Coast Guard suspended search for missing crew from a fishing vessel off Cape Ann.",
+        "Search covered approximately 1,000 square miles over 24 hours using various resources.",
+        "Local fishing community affected as hopes diminish for recovery of missing individuals."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Where does Milton Williams rank among Patriots\u2019 10 best free-agent signings ever?",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/31/best-free-agent-signings-patriots-history-milton-williams/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Parents navigate a fracturing vaccine landscape",
         "Details: <p>Rattled by the C.D.C.\u2019s actions and the spread ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "6 maps predicting snowfall totals from Sunday\u2019s coastal winter storm",
-      "link": "https://www.boston.com/weather/weather/2026/01/30/boston-ma-snow-maps-sunday-feb-1-2026/",
-      "pubDate": "Fri, 30 Jan 2026 13:46:15 +0000",
-      "description": "<p>\"Snow on Sunday largely confined to Cape Cod and the Islands with a whole lot of wind.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/30/boston-ma-snow-maps-sunday-feb-1-2026/\">6 maps predicting snowfall totals from Sunday&#8217;s coastal winter storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5e7bd8987e7c91d1f5a6e717398805fe",
-      "summary": [
-        "Update: 6 maps predicting snowfall totals from Sunday\u2019s co",
-        "Details: <p>\"Snow on Sunday largely confined to Cape Cod an",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
