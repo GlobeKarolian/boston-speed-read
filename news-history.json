@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-02T02:35:45.642898+00:00",
+  "lastUpdated": "2026-02-02T05:25:26.380022+00:00",
   "articles": [
+    {
+      "title": "Active-duty Boston police officer dies after more than 30 years with department, BPD says",
+      "link": "https://www.boston.com/news/local-news/2026/02/01/active-duty-boston-police-officer-dies-after-more-than-30-years-with-department-bpd-says/",
+      "pubDate": "Mon, 02 Feb 2026 03:31:39 +0000",
+      "description": "<p>Officer Scott MacIsaac has died after a battle with cancer, the organizer of a Gofundme wrote.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/01/active-duty-boston-police-officer-dies-after-more-than-30-years-with-department-bpd-says/\">Active-duty Boston police officer dies after more than 30 years with department, BPD says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c3305e3e9202fc34a002fb667e1fe460",
+      "summary": [
+        "Officer Scott MacIsaac, a Boston police officer, died after a battle with cancer.",
+        "He served over 30 years with the Boston Police Department.",
+        "His passing impacts the local community and police department morale."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Bruins\u2019 Jeremy Swayman gets into goalie fight with Andrei Vasilevskiy in outdoor game",
       "link": "https://www.boston.com/sports/boston-bruins/2026/02/01/boston-bruins-jeremy-swayman-andrei-vasilevskiy-goalie-fight-tampa-bay-lightning/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Huge cache of Epstein documents includes emails fi",
         "Details: <p>The Justice Department said it was disclosing m",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Patriots DC Terrell Williams declared cancer-free after four months battling prostate cancer",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/30/terrell-williams-cancer-free-patriots/",
-      "pubDate": "Fri, 30 Jan 2026 23:32:04 +0000",
-      "description": "<p>Head coach Mike Vrabel broke the good news to players before defeating the Texans in the divisional round two weeks ago.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/30/terrell-williams-cancer-free-patriots/\">Patriots DC Terrell Williams declared cancer-free after four months battling prostate cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bb7d2b5c4f9af66c64f3009bbe216090",
-      "summary": [
-        "Update: Patriots DC Terrell Williams declared cancer-free ",
-        "Details: <p>Head coach Mike Vrabel broke the good news to p",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
