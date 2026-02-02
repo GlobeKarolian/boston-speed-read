@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-02-02T10:51:03.815235+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-02T13:08:59.677309+00:00",
+  "articles": [
+    {
+      "title": "\u2018It\u2019s a joke\u2019: David Pastrnak, Bruins vent after controversial OT call in Stadium Series",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/02/02/boston-bruins-nhl-hockey-david-pastrnak-overtime-call-controversy-slash-tampa-bay-lightning-stadium-series/",
+      "pubDate": "Mon, 02 Feb 2026 12:59:09 +0000",
+      "description": "<p>\"It\u2019s weird. Score a goal and end up in the penalty box. Whatever.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/02/boston-bruins-nhl-hockey-david-pastrnak-overtime-call-controversy-slash-tampa-bay-lightning-stadium-series/\">&#8216;It\u2019s a joke&#8217;: David Pastrnak, Bruins vent after controversial OT call in Stadium Series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c947befb5ea29d0be9d08d5728b146c9",
+      "summary": [
+        "David Pastrnak criticized a controversial penalty call during the Bruins' Stadium Series overtime.",
+        "The call occurred after Pastrnak scored, leading to frustration among Bruins players.",
+        "Local fans express disappointment over officiating affecting the outcome of the game."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "11 takeaways from Bruins\u2019 wild shootout loss to Lightning in Stadium Series",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/02/02/boston-bruins-nhl-hockey-tampa-bay-lightning-stadium-series-swayman-pastrnak-refs/",
+      "pubDate": "Mon, 02 Feb 2026 12:55:22 +0000",
+      "description": "<p>\u201cThe way that we lost it is just brutal, spending half the game in the penalty box.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/02/boston-bruins-nhl-hockey-tampa-bay-lightning-stadium-series-swayman-pastrnak-refs/\">11 takeaways from Bruins\u2019 wild shootout loss to Lightning in Stadium Series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1a30a8f4615bde34dbd715adebb5f767",
+      "summary": [
+        "Bruins lost 5-4 in a shootout against the Lightning on February 2.",
+        "Team spent over 30 minutes in the penalty box, affecting game strategy.",
+        "Local fans express frustration over inconsistent officiating impacting Bruins' performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Former dairy farm in Dartmouth converted to $2M luxury home",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/02/02/dartmouth-massachusetts-gulf-hill-dairy-farm/",
+      "pubDate": "Mon, 02 Feb 2026 12:00:00 +0000",
+      "description": "<p>The 7,891-square-foot house retains the architectural footprint of its dairy farming past. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/02/dartmouth-massachusetts-gulf-hill-dairy-farm/\">Former dairy farm in Dartmouth converted to $2M luxury home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1ee21a1ceea24169a2514526345e5c25",
+      "summary": [
+        "Dartmouth's former Gulf Hill dairy farm transformed into a $2M luxury home.",
+        "The new home spans 7,891 square feet, preserving its agricultural architecture.",
+        "Local real estate market may see increased property values due to luxury developments."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-02-02T10:51:03.815243+00:00"
+    "timestamp": "2026-02-02T13:08:59.677332+00:00"
   }
 }
