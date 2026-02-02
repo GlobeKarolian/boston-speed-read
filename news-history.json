@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-02-02T13:08:59.678249+00:00",
+  "lastUpdated": "2026-02-02T14:44:48.481148+00:00",
   "articles": [
+    {
+      "title": "Arizona authorities search for \u2018Today\u2019 show host Savannah Guthrie\u2019s missing 84-year-old mom",
+      "link": "https://www.boston.com/news/national-news/2026/02/02/savannah-guthrie-mom-missing/",
+      "pubDate": "Mon, 02 Feb 2026 14:17:03 +0000",
+      "description": "<p>Her family reported her missing around noon Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/02/savannah-guthrie-mom-missing/\">Arizona authorities search for &#8216;Today&#8217; show host Savannah Guthrie&#8217;s missing 84-year-old mom</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aa982a2a0f31262425ace0675a3f8f96",
+      "summary": [
+        "Arizona authorities began searching for Savannah Guthrie's missing mother on Sunday.",
+        "The 84-year-old woman was reported missing around noon on February 2.",
+        "Boston residents may feel concerned about the safety of elderly family members."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Massachusetts keeps losing residents to other states, Census finds",
+      "link": "https://www.boston.com/news/local-news/2026/02/02/massachusetts-keeps-losing-residents-to-other-states-census-finds/",
+      "pubDate": "Mon, 02 Feb 2026 14:11:27 +0000",
+      "description": "<p>With a net loss of over 30,000 residents leaving for other states, experts warn that the state\u2019s workforce and tax base are at risk.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/02/massachusetts-keeps-losing-residents-to-other-states-census-finds/\">Massachusetts keeps losing residents to other states, Census finds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c31a35ba4b76a9f49ea25488543008d2",
+      "summary": [
+        "Massachusetts lost over 30,000 residents to other states, impacting local communities.",
+        "Experts warn the workforce and tax base are at risk due to this trend.",
+        "Continued outmigration may lead to reduced public services for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Photos: Day 2 at Something in the Way fest at Roadrunner",
+      "link": "https://www.boston.com/culture/concert-reviews/2026/02/02/photos-day-2-at-something-in-the-way-fest-at-roadrunner/",
+      "pubDate": "Mon, 02 Feb 2026 14:10:27 +0000",
+      "description": "<p>Photographer Ben Stas returned for Sunday's installment of the burgeoning indie musical festival in Brighton.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/02/02/photos-day-2-at-something-in-the-way-fest-at-roadrunner/\">Photos: Day 2 at Something in the Way fest at Roadrunner</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6ef713d0abcc519aef25c341f5a9d836",
+      "summary": [
+        "Photographer Ben Stas captured Day 2 of the Something in the Way fest in Brighton.",
+        "The indie music festival featured multiple artists, attracting local fans on February 2.",
+        "Residents enjoyed a vibrant cultural event, enhancing Brighton's community engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Punxsutawney Phil is said to have seen his shadow, predicting 6 more weeks of winter weather",
+      "link": "https://www.boston.com/news/national-news/2026/02/02/punxsutawney-phil-shadow-predicting-6-more-weeks-winter-weather/",
+      "pubDate": "Mon, 02 Feb 2026 13:57:07 +0000",
+      "description": "<p>The coming week\u00a0will remain cold, with below-average temperatures in the eastern United States.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/02/punxsutawney-phil-shadow-predicting-6-more-weeks-winter-weather/\">Punxsutawney Phil is said to have seen his shadow, predicting 6 more weeks of winter weather</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d11fd73ddf32070c44e90d2350e0d17a",
+      "summary": [
+        "Punxsutawney Phil predicts six more weeks of winter after seeing his shadow.",
+        "Boston residents can expect below-average temperatures next week, affecting daily activities.",
+        "Cold weather may impact local businesses and heating costs for Boston households."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "For Bourne, the new Sagamore Bridge takings echo a long past",
+      "link": "https://www.boston.com/news/local-news/2026/02/02/bourne-eminent-domain/",
+      "pubDate": "Mon, 02 Feb 2026 13:33:35 +0000",
+      "description": "<p>The state\u2019s move to acquire and demolish 13 homes stirs memories of earlier projects that carved up the town.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/02/bourne-eminent-domain/\">For Bourne, the new Sagamore Bridge takings echo a long past</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "15133c284ffb1f1c6b02ec1e8c37af90",
+      "summary": [
+        "State plans to acquire and demolish 13 homes for Sagamore Bridge project.",
+        "Previous projects in Bourne have historically displaced residents and altered the community.",
+        "Local residents express concerns over potential loss of neighborhood identity and community ties."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "\u2018It\u2019s a joke\u2019: David Pastrnak, Bruins vent after controversial OT call in Stadium Series",
       "link": "https://www.boston.com/sports/boston-bruins/2026/02/02/boston-bruins-nhl-hockey-david-pastrnak-overtime-call-controversy-slash-tampa-bay-lightning-stadium-series/",
@@ -585,71 +650,6 @@
         "Local authorities emphasize the need for increased youth intervention programs."
       ],
       "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Allandale Farm loses second Highland steer following brother\u2019s death last year",
-      "link": "https://www.boston.com/news/local-news/2026/01/31/allandale-farm-loses-second-highland-steer-following-brothers-death-last-year/",
-      "pubDate": "Sat, 31 Jan 2026 13:13:37 +0000",
-      "description": "<p>Curtis, a longtime presence at Boston\u2019s only working farm, has died peacefully at age 16.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/allandale-farm-loses-second-highland-steer-following-brothers-death-last-year/\">Allandale Farm loses second Highland steer following brother\u2019s death last year</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d87b5f443bc2ea1aceecb87a23734a8a",
-      "summary": [
-        "Allandale Farm's Highland steer, Curtis, died peacefully at age 16.",
-        "Curtis was the second Highland steer lost in a year at the farm.",
-        "The loss affects community engagement at Boston's only working farm."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Senate passes Trump-backed government funding deal, sending to House",
-      "link": "https://www.boston.com/news/immigration/2026/01/31/senate-passes-trump-backed-government-funding-deal-sending-to-house/",
-      "pubDate": "Sat, 31 Jan 2026 13:00:16 +0000",
-      "description": "<p>Senate Democrats will not support an extension of Homeland Security funding in two weeks \u201cunless it reins in ICE and ends violence,\u201d Schumer said. </p>\n<p>The post <a href=\"https://www.boston.com/news/immigration/2026/01/31/senate-passes-trump-backed-government-funding-deal-sending-to-house/\">Senate passes Trump-backed government funding deal, sending to House</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "868384ea3e5dcb4cbf6a02c6e50a97bc",
-      "summary": [
-        "Senate passes Trump-backed funding deal, impacting Boston's federal funding.",
-        "Democrats, led by Schumer, oppose ICE funding unless reforms are made.",
-        "Potential government shutdown could affect local services in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Payton Pritchard scores 29 points to lead Celtics to dominant 112-93 win over Kings",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/01/31/celtics-kings-payton-pritchard/",
-      "pubDate": "Sat, 31 Jan 2026 05:35:18 +0000",
-      "description": "<p>Neemias Queta added 10 points and 15 rebounds for Boston.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/31/celtics-kings-payton-pritchard/\">Payton Pritchard scores 29 points to lead Celtics to dominant 112-93 win over Kings</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "90c3c6b1fa168e3466b917548b8a8e94",
-      "summary": [
-        "Update: Payton Pritchard scores 29 points to lead Celtics ",
-        "Details: <p>Neemias Queta added 10 points and 15 rebounds f",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Breakout Patriots LB K\u2019Lavon Chaisson wants to re-sign with New England in free agency",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/30/klavon-chaisson-patriots-free-agent/",
-      "pubDate": "Sat, 31 Jan 2026 01:37:51 +0000",
-      "description": "<p>\u201cCall the guys and tell them I\u2019m trying to come back. Don\u2019t play. Tell them I\u2019m trying to be here.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/30/klavon-chaisson-patriots-free-agent/\">Breakout Patriots LB K\u2019Lavon Chaisson wants to re-sign with New England in free agency</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "836f4d506260eda3b45ef4d3490db295",
-      "summary": [
-        "Update: Breakout Patriots LB K\u2019Lavon Chaisson wants to re-",
-        "Details: <p>\u201cCall the guys and tell them I\u2019m trying to come",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Red Sox have reportedly discussed trading reliever Jordan Hicks in search of an infielder",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/01/30/red-sox-jordan-hicks-brayan-bello-infield/",
-      "pubDate": "Sat, 31 Jan 2026 02:57:25 +0000",
-      "description": "<p>Starters Brayan Bello and Patrick Sandoval have also reportedly come up in trade talks.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/01/30/red-sox-jordan-hicks-brayan-bello-infield/\">Red Sox have reportedly discussed trading reliever Jordan Hicks in search of an infielder</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7425f0ff512ee383279ed55cafa02489",
-      "summary": [
-        "Update: Red Sox have reportedly discussed trading reliever",
-        "Details: <p>Starters Brayan Bello and Patrick Sandoval have",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
     }
   ],
   "totalArticles": 50
