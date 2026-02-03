@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-02-03T10:45:39.303440+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-03T13:10:07.001828+00:00",
+  "articles": [
+    {
+      "title": "North Andover\u2019s Jake Bobo ready to play \u2018bad guy\u2019 against hometown Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/03/jake-bobo-new-england-patriots-nfl-football-seattle-seahawks-nfl-football/",
+      "pubDate": "Tue, 03 Feb 2026 11:28:57 +0000",
+      "description": "<p>\"That's how those guys roll. But it's my job to, like I said earlier, prevent them from going to another parade.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/03/jake-bobo-new-england-patriots-nfl-football-seattle-seahawks-nfl-football/\">North Andover\u2019s Jake Bobo ready to play \u2018bad guy\u2019 against hometown Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8462f9e16ade9bd700d7bec034f3f58d",
+      "summary": [
+        "Jake Bobo, from North Andover, aims to disrupt the Patriots' Super Bowl aspirations.",
+        "Bobo plays for the Seattle Seahawks, facing the Patriots on February 3, 2026.",
+        "His performance could affect local fans' hopes for another Patriots championship parade."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "10 Patriots takeaways from Super Bowl Opening Night",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/03/new-england-patriots-nfl-football-super-bowl-lx-opening-night-media-day/",
+      "pubDate": "Tue, 03 Feb 2026 11:22:46 +0000",
+      "description": "<p>\"I want to tell Matt Damon he\u2019s the man. \u2026 Any Pats fan \u2014 I\u2019m a fan.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/03/new-england-patriots-nfl-football-super-bowl-lx-opening-night-media-day/\">10 Patriots takeaways from Super Bowl Opening Night</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ee62bcabb8e8ddc0717f6dd002e1d9e8",
+      "summary": [
+        "Patriots fans expressed excitement during Super Bowl Opening Night on February 3, 2026.",
+        "Actor Matt Damon received praise from fans for his support of the Patriots.",
+        "Local businesses expect increased sales as fans gather for Super Bowl celebrations."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-03T10:45:39.303449+00:00"
+    "timestamp": "2026-02-03T13:10:07.001849+00:00"
   }
 }
