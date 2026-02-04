@@ -1,62 +1,9 @@
 {
-  "lastUpdated": "2026-02-04T05:11:27.787385+00:00",
-  "articles": [
-    {
-      "title": "Manhole fires on Newbury Street prompt building and street evacuations",
-      "link": "https://www.boston.com/news/local-news/2026/02/03/manhole-fires-on-newbury-street-cause-building-and-street-evacuations/",
-      "pubDate": "Wed, 04 Feb 2026 04:18:54 +0000",
-      "description": "<p>Sidewalks were evacuated from Gloucester Street to Dartmouth Street, as were four buildings, the fire department said, after six manholes exploded.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/03/manhole-fires-on-newbury-street-cause-building-and-street-evacuations/\">Manhole fires on Newbury Street prompt building and street evacuations</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a7f7974bcd548d7a16ae532b96064c56",
-      "summary": [
-        "Six manholes exploded on Newbury Street, causing immediate evacuations.",
-        "Sidewalks from Gloucester to Dartmouth Street and four buildings were evacuated.",
-        "Residents faced disruptions and potential safety hazards due to the explosions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "South Station\u2019s new fare gates still out of service more than a week after snow storm",
-      "link": "https://www.boston.com/news/local-news/2026/02/03/south-stations-new-fare-gates-still-out-of-service-more-than-a-week-after-snow-storm/",
-      "pubDate": "Wed, 04 Feb 2026 04:04:19 +0000",
-      "description": "<p>The fare gates have been out of service since last week, when Boston was hit with a major snowstorm.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/03/south-stations-new-fare-gates-still-out-of-service-more-than-a-week-after-snow-storm/\">South Station&#8217;s new fare gates still out of service more than a week after snow storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "359e1d49447650850e16d6acba79f177",
-      "summary": [
-        "South Station's new fare gates have been out of service since the snowstorm on January 26.",
-        "The malfunction affects thousands of daily commuters relying on the station for travel.",
-        "Passengers face delays and inconvenience as repairs remain unresolved over a week later."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Jaylen Brown scores 33 as Celtics beat Mavs 110-100 despite Flagg\u2019s 36 points",
-      "link": "https://www.boston.com/sports/sports/2026/02/03/jaylen-brown-scores-33-as-celtics-beat-mavs-110-100-despite-flaggs-36-points/",
-      "pubDate": "Wed, 04 Feb 2026 03:38:35 +0000",
-      "description": "<p>Jaylen Brown had 33 points and 11 rebounds, and the Boston Celtics beat Dallas 110-100, handing the Mavericks their season-worst fifth consecutive loss.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/03/jaylen-brown-scores-33-as-celtics-beat-mavs-110-100-despite-flaggs-36-points/\">Jaylen Brown scores 33 as Celtics beat Mavs 110-100 despite Flagg&#8217;s 36 points</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "29f1b6dd2e40b108b07ef69b86d41b76",
-      "summary": [
-        "Celtics defeat Mavericks 110-100 on February 3, 2026.",
-        "Jaylen Brown scored 33 points and grabbed 11 rebounds.",
-        "Mavericks suffer fifth consecutive loss, impacting their playoff chances."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Clintons finalize agreement to testify in House Epstein probe, bowing to threat of contempt vote",
-      "link": "https://www.boston.com/news/national-news/2026/02/03/clintons-finalize-agreement-to-testify-in-house-epstein-probe-bowing-to-threat-of-contempt-vote/",
-      "pubDate": "Wed, 04 Feb 2026 02:57:41 +0000",
-      "description": "<p>The arrangement comes after months of negotiating between the two sides as Republicans sought to make the Clintons a focal point in a House committee\u2019s investigation into Epstein.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/03/clintons-finalize-agreement-to-testify-in-house-epstein-probe-bowing-to-threat-of-contempt-vote/\">Clintons finalize agreement to testify in House Epstein probe, bowing to threat of contempt vote</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6e83b2af6abf88370f4be11bf8dab6a4",
-      "summary": [
-        "Clintons agree to testify in House Epstein probe after months of negotiations.",
-        "Republicans aimed to spotlight the Clintons in the investigation, intensifying political scrutiny.",
-        "Boston residents may see increased political discourse as the investigation unfolds."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-02-04T06:58:22.960953+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-02-04T05:11:27.787405+00:00"
+    "timestamp": "2026-02-04T06:58:22.960963+00:00"
   }
 }
