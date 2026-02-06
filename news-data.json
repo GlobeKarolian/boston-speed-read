@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-02-06T10:44:31.314198+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-06T13:08:59.581999+00:00",
+  "articles": [
+    {
+      "title": "Ask the remodeler: What to know about adding a deck, porch, or patio to your home",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/02/06/deck-patio-porch-remodel-home-renovation/",
+      "pubDate": "Fri, 06 Feb 2026 13:00:00 +0000",
+      "description": "<p>Don\u2019t have an outdoor gathering space? Winter is the time to start planning. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/06/deck-patio-porch-remodel-home-renovation/\">Ask the remodeler: What to know about adding a deck, porch, or patio to your home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f94d7cd4957fc34201eb4d8634c1afde",
+      "summary": [
+        "Plan outdoor spaces like decks or patios this winter for summer gatherings.",
+        "Local remodelers suggest starting projects now to avoid summer rush.",
+        "Adding outdoor areas can increase home value and enhance community engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Think you know the Patriots\u2019 Super Bowl history? Take the quiz.",
+      "link": "https://www.boston.com/community/new-england-patriots/2026/02/06/patriots-history-super-bowl-quiz/",
+      "pubDate": "Fri, 06 Feb 2026 12:42:44 +0000",
+      "description": "<p>Only true Patriots fans will know these answers.</p>\n<p>The post <a href=\"https://www.boston.com/community/new-england-patriots/2026/02/06/patriots-history-super-bowl-quiz/\">Think you know the Patriots\u2019 Super Bowl history? Take the quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "48a9ba6eb6c9d94d50ba13720a568f98",
+      "summary": [
+        "Engage with Patriots' Super Bowl history through an interactive quiz.",
+        "Test your knowledge of the team's six Super Bowl victories since 2001.",
+        "Strengthen community ties by celebrating local sports heritage and fan engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots star Christian Gonzalez has a big fan in Bruins legend Zdeno Chara",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/06/christian-gonzalez-super-bowl-lx-zdeno-chara-new-england-patriots-boston-bruins/",
+      "pubDate": "Fri, 06 Feb 2026 12:17:29 +0000",
+      "description": "<p>\"The love they show, just how we\u2019re all intertwined, and everybody has such a great relationship with everybody.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/06/christian-gonzalez-super-bowl-lx-zdeno-chara-new-england-patriots-boston-bruins/\">Patriots star Christian Gonzalez has a big fan in Bruins legend Zdeno Chara</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "47bb0fec7ce8e76c87c28a67979ba8df",
+      "summary": [
+        "Bruins legend Zdeno Chara publicly supports Patriots star Christian Gonzalez.",
+        "Chara emphasizes strong relationships among Boston sports teams and players.",
+        "This camaraderie boosts local sports culture and community pride in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Inside the origin of the Patriots\u2019 \u2018road warriors\u2019 rallying cry",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/06/new-england-patriots-super-bowl-lx-road-warriors-nfl-football-seahawks/",
+      "pubDate": "Fri, 06 Feb 2026 11:55:59 +0000",
+      "description": "<p>\"I think you embrace it when you try to build an identity, and you carry it on the road with you.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/06/new-england-patriots-super-bowl-lx-road-warriors-nfl-football-seahawks/\">Inside the origin of the Patriots\u2019 \u2018road warriors\u2019 rallying cry</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6422063e4cf54f49a84d61bd12f6718e",
+      "summary": [
+        "Patriots embrace 'road warriors' identity to strengthen team morale during away games.",
+        "The rallying cry originated during the 2026 Super Bowl preparations against the Seahawks.",
+        "This identity aims to unify Boston fans and enhance support during challenging away matches."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/02/06/greater-boston-news-quiz-february-6-2026-jeopardy-patriots-kowloon/",
+      "pubDate": "Fri, 06 Feb 2026 11:50:27 +0000",
+      "description": "<p>A looming logo, a game show guess, and an eatery expansion are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/06/greater-boston-news-quiz-february-6-2026-jeopardy-patriots-kowloon/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fa9ae09fcf107e4f6222eec1cf963020",
+      "summary": [
+        "Participate in the Greater Boston news quiz to test local knowledge.",
+        "Quiz includes questions about the Patriots and Kowloon eatery expansion.",
+        "Engagement in local news fosters community awareness and connection."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-02-06T10:44:31.314205+00:00"
+    "timestamp": "2026-02-06T13:08:59.582023+00:00"
   }
 }
