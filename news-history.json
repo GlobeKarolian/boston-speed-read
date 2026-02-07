@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-07T12:57:38.639205+00:00",
+  "lastUpdated": "2026-02-07T14:30:19.881963+00:00",
   "articles": [
+    {
+      "title": "Woman convicted of fraud after living under a stolen identity for more than 20 years",
+      "link": "https://www.boston.com/news/local-news/2026/02/07/woman-convicted-of-fraud-after-living-under-a-stolen-identity-for-more-than-20-years/",
+      "pubDate": "Sat, 07 Feb 2026 13:34:32 +0000",
+      "description": "<p>Prosecutors say Lina Maria Orovio-Hernandez collected around $400,000 in stolen benefits and obtained multiple state IDs.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/07/woman-convicted-of-fraud-after-living-under-a-stolen-identity-for-more-than-20-years/\">Woman convicted of fraud after living under a stolen identity for more than 20 years</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "796f774c8166c68054baae4e0d892477",
+      "summary": [
+        "Lina Maria Orovio-Hernandez convicted of fraud after 20 years using a stolen identity.",
+        "She collected approximately $400,000 in stolen benefits and obtained multiple state IDs.",
+        "Her conviction highlights ongoing issues with identity theft and fraud in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Celtics rally from 22 down in Vucevic\u2019s debut to beat Heat: 6 takeaways",
       "link": "https://www.boston.com/sports/boston-celtics/2026/02/07/celtics-heat-nikola-vucevics-debut-takeaways/",
@@ -635,19 +648,6 @@
         "Police cruiser struck a pedestrian at UMass Lowell on February 5, 2026.",
         "UMass officials confirmed the incident involved a serious crash.",
         "Local residents may face increased safety concerns around campus."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New Bedford police investigate after man goes missing, drowns in harbor",
-      "link": "https://www.boston.com/news/local-news/2026/02/05/new-bedford-police-investigate-after-man-goes-missing-drowns-in-harbor/",
-      "pubDate": "Fri, 06 Feb 2026 03:02:10 +0000",
-      "description": "<p>The man was last seen Jan. 28 before police found his body in New Bedford Harbor three days later, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/05/new-bedford-police-investigate-after-man-goes-missing-drowns-in-harbor/\">New Bedford police investigate after man goes missing, drowns in harbor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d20cf101de035c947e11b37ff9ea8712",
-      "summary": [
-        "New Bedford police found a man's body in the harbor on January 31.",
-        "The man was last seen on January 28 before his disappearance.",
-        "This incident raises concerns about safety in local waterways for residents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
