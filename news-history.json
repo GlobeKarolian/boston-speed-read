@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-07T06:49:25.055290+00:00",
+  "lastUpdated": "2026-02-07T12:57:38.639205+00:00",
   "articles": [
+    {
+      "title": "Celtics rally from 22 down in Vucevic\u2019s debut to beat Heat: 6 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/07/celtics-heat-nikola-vucevics-debut-takeaways/",
+      "pubDate": "Sat, 07 Feb 2026 12:43:23 +0000",
+      "description": "<p>Nikola Vucevic is going to help.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/07/celtics-heat-nikola-vucevics-debut-takeaways/\">Celtics rally from 22 down in Vucevic\u2019s debut to beat Heat: 6 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "61171cef0b2983c2bccc856995e815dc",
+      "summary": [
+        "Celtics overcame a 22-point deficit to defeat the Heat on February 6.",
+        "Nikola Vucevic made his debut, contributing significantly to the team's performance.",
+        "This victory boosts Celtics' momentum as they aim for playoff positioning."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Celtics rally from 22-point deficit to edge Heat, 98-96",
       "link": "https://www.boston.com/sports/boston-celtics/2026/02/07/celtics-heat-22-point-deficit-recap/",
@@ -635,19 +648,6 @@
         "New Bedford police found a man's body in the harbor on January 31.",
         "The man was last seen on January 28 before his disappearance.",
         "This incident raises concerns about safety in local waterways for residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cambridge brewery workers plan to unionize, file for election",
-      "link": "https://www.boston.com/news/local-news/2026/02/05/cambridge-brewery-workers-plan-to-unionize-file-for-election/",
-      "pubDate": "Fri, 06 Feb 2026 02:33:30 +0000",
-      "description": "<p>The Lamplighter Brewing Co. employees hope to be represented by United Food and Commercial Workers Local 1445.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/05/cambridge-brewery-workers-plan-to-unionize-file-for-election/\">Cambridge brewery workers plan to unionize, file for election</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "22b36d8c2b3f380bc3d97856c5290802",
-      "summary": [
-        "Lamplighter Brewing Co. employees file for union election with UFCW Local 1445.",
-        "Workers seek better representation and working conditions in Cambridge brewery.",
-        "Unionization efforts could influence labor practices across Boston's brewing industry."
       ],
       "hookType": "LOCAL_IMPACT"
     }

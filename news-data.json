@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-07T10:30:48.575665+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-07T12:57:38.638536+00:00",
+  "articles": [
+    {
+      "title": "Celtics rally from 22 down in Vucevic\u2019s debut to beat Heat: 6 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/07/celtics-heat-nikola-vucevics-debut-takeaways/",
+      "pubDate": "Sat, 07 Feb 2026 12:43:23 +0000",
+      "description": "<p>Nikola Vucevic is going to help.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/07/celtics-heat-nikola-vucevics-debut-takeaways/\">Celtics rally from 22 down in Vucevic\u2019s debut to beat Heat: 6 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "61171cef0b2983c2bccc856995e815dc",
+      "summary": [
+        "Celtics overcame a 22-point deficit to defeat the Heat on February 6.",
+        "Nikola Vucevic made his debut, contributing significantly to the team's performance.",
+        "This victory boosts Celtics' momentum as they aim for playoff positioning."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-07T10:30:48.575674+00:00"
+    "timestamp": "2026-02-07T12:57:38.638554+00:00"
   }
 }
