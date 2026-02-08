@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-07T22:30:37.802996+00:00",
+  "lastUpdated": "2026-02-08T02:51:52.397843+00:00",
   "articles": [
+    {
+      "title": "Snow totals: See how much your town received",
+      "link": "https://www.boston.com/news/weather/2026/02/07/snow-totals-see-how-much-your-town-received/",
+      "pubDate": "Sun, 08 Feb 2026 00:38:13 +0000",
+      "description": "<p>Essex County was hit the hardest.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/02/07/snow-totals-see-how-much-your-town-received/\">Snow totals: See how much your town received</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "767705e7f4542532984015451d49b6b7",
+      "summary": [
+        "Essex County received the highest snowfall totals in the region.",
+        "Boston recorded approximately 8 inches of snow on February 7, 2026.",
+        "Residents should prepare for potential travel disruptions and road conditions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "For all he\u2019s done, Mike Tirico will experience \u2018thrill of a lifetime\u2019 calling first Super Bowl for NBC",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/02/07/mike-tirico-nbc-super-bowl-lx-announcer-broadcast-patriots-seahawks/",
@@ -635,19 +648,6 @@
         "Patriots will play in their 12th Super Bowl on Sunday night against the Seahawks.",
         "This marks the 10th Super Bowl appearance for the Patriots in the 21st century.",
         "Boston residents are hopeful for a repeat of past Super Bowl successes."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "6 maps predicting snowfall totals on Saturday",
-      "link": "https://www.boston.com/weather/weather/2026/02/06/boston-ma-snow-maps-saturday-feb-6-2026/",
-      "pubDate": "Fri, 06 Feb 2026 13:25:53 +0000",
-      "description": "<p>\"A period of snow very late Friday night through Saturday with the passage of an arctic front is increasingly likely.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/06/boston-ma-snow-maps-saturday-feb-6-2026/\">6 maps predicting snowfall totals on Saturday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "04d16e3261a87f7ac7f156239fee17c1",
-      "summary": [
-        "Snowfall expected late Friday night into Saturday due to an arctic front.",
-        "Predictions indicate varying totals across Boston, with some areas receiving up to 6 inches.",
-        "Residents should prepare for potential travel disruptions and hazardous road conditions."
       ],
       "hookType": "LOCAL_IMPACT"
     }
