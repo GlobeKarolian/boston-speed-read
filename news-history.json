@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-08T14:32:18.502383+00:00",
+  "lastUpdated": "2026-02-08T16:36:36.941543+00:00",
   "articles": [
+    {
+      "title": "Healey proposes eliminating statute of limitations for rape when DNA evidence exists",
+      "link": "https://www.boston.com/news/local-news/2026/02/08/healey-proposes-eliminating-statute-of-limitations-for-rape-when-dna-evidence-exists/",
+      "pubDate": "Sun, 08 Feb 2026 16:00:31 +0000",
+      "description": "<p>The current statute of limitations in Massachusetts is the third most strict deadline in the country at 15 years.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/08/healey-proposes-eliminating-statute-of-limitations-for-rape-when-dna-evidence-exists/\">Healey proposes eliminating statute of limitations for rape when DNA evidence exists</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5bb8f0a4821af06ea3ed5204913cafa7",
+      "summary": [
+        "Healey proposes eliminating the 15-year statute of limitations for rape cases with DNA evidence.",
+        "Massachusetts currently has the third strictest statute of limitations in the U.S.",
+        "This change could provide justice for survivors by allowing prosecution regardless of time elapsed."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Watch: Patriots share hype video ahead of Super Bowl LX",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/08/patriots-hype-video-super-bowl-lx-seahawks-mike-vrabel-stefon-diggs/",
+      "pubDate": "Sun, 08 Feb 2026 14:42:42 +0000",
+      "description": "<p>The post reads: \"ONE MORE TIME FOR THE WARRIORS.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/08/patriots-hype-video-super-bowl-lx-seahawks-mike-vrabel-stefon-diggs/\">Watch: Patriots share hype video ahead of Super Bowl LX</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7ee91b10ce39b525a333e50892caa0a6",
+      "summary": [
+        "Patriots released a hype video for Super Bowl LX on February 8, 2026.",
+        "Video features key players like Mike Vrabel and Stefon Diggs.",
+        "Local fans rally around the team's spirit as they prepare for the championship."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Former employee at Mass. post office pleads guilty after secretly recording female co-workers",
       "link": "https://www.boston.com/news/crime/2026/02/08/former-employee-at-mass-post-office-pleads-guilty-after-secretly-recording-female-co-workers/",
@@ -622,32 +648,6 @@
         "Boston plans to invest $135 million in taxpayer funds for White Stadium renovations.",
         "The previous estimate was $91 million, indicating a significant budget increase.",
         "A pro women's soccer team will add $190 million to the project, enhancing local sports facilities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Where will \u2018underdog\u2019 Patriots fans watch the Super Bowl in Seattle?",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/06/patriots-fans-seattle-super-bowl/",
-      "pubDate": "Fri, 06 Feb 2026 18:01:33 +0000",
-      "description": "<p>It can be a challenge to find a Seattle restaurant to host the thousands of Washington-based Patriots fans in enemy territory. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/06/patriots-fans-seattle-super-bowl/\">Where will &#8216;underdog&#8217; Patriots fans watch the Super Bowl in Seattle?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f98e7613695701a167ee6892cb413b20",
-      "summary": [
-        "Thousands of Patriots fans in Seattle struggle to find viewing locations for the Super Bowl.",
-        "Local restaurants face high demand from Washington-based Patriots supporters during the game.",
-        "Boston residents may connect with fellow fans through social media for viewing parties."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Waymo wants to expand into Boston. Massachusetts law isn\u2019t ready.",
-      "link": "https://www.boston.com/news/business/2026/02/06/waymo-wants-to-expand-into-boston-massachusetts-law-isnt-ready/",
-      "pubDate": "Fri, 06 Feb 2026 17:49:12 +0000",
-      "description": "<p>The company has already run test vehicles on city streets, but a rollout hinges on whether the state authorizes autonomous-vehicle operations. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/02/06/waymo-wants-to-expand-into-boston-massachusetts-law-isnt-ready/\">Waymo wants to expand into Boston. Massachusetts law isn\u2019t ready.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d3e6f08a3c5f5bb0c8e943db23a2485c",
-      "summary": [
-        "Waymo has conducted autonomous vehicle tests on Boston streets.",
-        "Expansion depends on Massachusetts legislation for autonomous vehicle operations.",
-        "Local residents may face delays in accessing autonomous transportation options."
       ],
       "hookType": "LOCAL_IMPACT"
     }
