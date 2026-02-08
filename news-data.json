@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-02-08T02:51:52.397143+00:00",
+  "lastUpdated": "2026-02-08T05:24:29.495571+00:00",
   "articles": [
     {
-      "title": "Snow totals: See how much your town received",
-      "link": "https://www.boston.com/news/weather/2026/02/07/snow-totals-see-how-much-your-town-received/",
-      "pubDate": "Sun, 08 Feb 2026 00:38:13 +0000",
-      "description": "<p>Essex County was hit the hardest.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/02/07/snow-totals-see-how-much-your-town-received/\">Snow totals: See how much your town received</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "767705e7f4542532984015451d49b6b7",
+      "title": "Willie McGinest shares how his No. 55 became an iconic piece of USC, Patriots history",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/07/nfl-patriots-willie-mcginest-junior-seau-55-jersey/",
+      "pubDate": "Sun, 08 Feb 2026 03:51:14 +0000",
+      "description": "<p>McGinest originally earned the number after Junior Seau at USC. Later, the linebackers had a full circle moment with it.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/07/nfl-patriots-willie-mcginest-junior-seau-55-jersey/\">Willie McGinest shares how his No. 55 became an iconic piece of USC, Patriots history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "53602476ecf30b23c835cdae01cd17d4",
       "summary": [
-        "Essex County received the highest snowfall totals in the region.",
-        "Boston recorded approximately 8 inches of snow on February 7, 2026.",
-        "Residents should prepare for potential travel disruptions and road conditions."
+        "Willie McGinest discusses the legacy of his No. 55 jersey in Boston sports history.",
+        "McGinest originally received No. 55 at USC after legendary player Junior Seau.",
+        "The jersey symbolizes a connection between USC and the New England Patriots for fans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots\u2019 Mike Vrabel reportedly received pointers from Bill Belichick and a rival coach ahead of Super Bowl LX",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/07/patriots-mike-vrabel-bill-belichick-andy-reid-super-bowl-lx/",
+      "pubDate": "Sat, 07 Feb 2026 22:02:21 +0000",
+      "description": "<p>Vrabel is also reportedly leaning on offensive coordinator Josh McDaniels's experience. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/07/patriots-mike-vrabel-bill-belichick-andy-reid-super-bowl-lx/\">Patriots&#8217; Mike Vrabel reportedly received pointers from Bill Belichick and a rival coach ahead of Super Bowl LX</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "70998c80a54df1e4a29a556e487aaa8f",
+      "summary": [
+        "Mike Vrabel seeks advice from Bill Belichick before Super Bowl LX on February 12, 2026.",
+        "Vrabel also consults rival coach Andy Reid for strategic insights.",
+        "Josh McDaniels' experience is crucial for Vrabel's game planning, impacting local fan expectations."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-08T02:51:52.397163+00:00"
+    "timestamp": "2026-02-08T05:24:29.495591+00:00"
   }
 }
