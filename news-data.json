@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-02-09T10:57:46.974325+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-09T13:18:06.130979+00:00",
+  "articles": [
+    {
+      "title": "The 2025 Patriots season was a success. You can still feel sick about its ending.",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/09/new-england-patriots-super-bowl-lx-nfl-football-drake-maye-mike-vrabel/",
+      "pubDate": "Mon, 09 Feb 2026 12:16:13 +0000",
+      "description": "<p>\"Every year somebody is going to lose this game. We have to remember what it feels like and make sure that it\u2019s not repeated.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/09/new-england-patriots-super-bowl-lx-nfl-football-drake-maye-mike-vrabel/\">The 2025 Patriots season was a success. You can still feel sick about its ending.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a65ca149cbea3221c9bdca0f9a080f0e",
+      "summary": [
+        "Patriots' 2025 season ended in disappointment despite overall success.",
+        "Coach Mike Vrabel emphasizes learning from the Super Bowl loss.",
+        "Fans remain hopeful for future seasons after a strong performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Drake Maye admits he needed pain-killing shot for shoulder injury",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/09/drake-maye-super-bowl-lx-injury-new-england-patriots-nfl-football/",
+      "pubDate": "Mon, 09 Feb 2026 11:55:57 +0000",
+      "description": "<p>\"I was feeling good enough to be out there. If I\u2019m out there, I wouldn\u2019t put the team in harm\u2019s way to not be myself.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/09/drake-maye-super-bowl-lx-injury-new-england-patriots-nfl-football/\">Drake Maye admits he needed pain-killing shot for shoulder injury</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "92d25f2d9fe0a8f14c3a957187cd6113",
+      "summary": [
+        "Drake Maye received a pain-killing shot for his shoulder injury before the game.",
+        "Maye stated he felt good enough to play despite the injury.",
+        "His condition may affect the New England Patriots' Super Bowl strategy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What Mike Vrabel had to say about the Patriots after Super Bowl LX loss",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/09/mike-vrabel-patriots-super-bowl-lx/",
+      "pubDate": "Mon, 09 Feb 2026 11:50:02 +0000",
+      "description": "<p>\"Guys, we can try to sit here and put it all on one guy,\" said Vrabel of questions about Drake Maye's performance. \"You'll be disappointed, because that will never happen.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/09/mike-vrabel-patriots-super-bowl-lx/\">What Mike Vrabel had to say about the Patriots after Super Bowl LX loss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f3f221ea9c561de599757cde33946aee",
+      "summary": [
+        "Mike Vrabel addressed the Patriots' performance after their Super Bowl LX loss on February 9, 2026.",
+        "Vrabel emphasized that blaming one player, like Drake Maye, is misguided and unproductive.",
+        "This statement reflects ongoing challenges for the Patriots, impacting fan expectations and team dynamics."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-02-09T10:57:46.974335+00:00"
+    "timestamp": "2026-02-09T13:18:06.131000+00:00"
   }
 }
