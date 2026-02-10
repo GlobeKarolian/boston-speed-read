@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-10T10:56:28.776697+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-10T13:22:56.033725+00:00",
+  "articles": [
+    {
+      "title": "Can you find your partner on a stoop in Southie? The creator of Boston\u2019s \u2018Stoop Dating\u2019 thinks so.",
+      "link": "https://www.boston.com/news/local-news/2026/02/10/can-you-find-your-partner-on-a-stoop-in-southie-the-creator-of-bostons-stoop-dating-thinks-so/",
+      "pubDate": "Tue, 10 Feb 2026 10:00:00 +0000",
+      "description": "<p>Stoop Dating has more than 30,000 Instagram followers and more than 40,000 on TikTok.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/10/can-you-find-your-partner-on-a-stoop-in-southie-the-creator-of-bostons-stoop-dating-thinks-so/\">Can you find your partner on a stoop in Southie? The creator of Boston\u2019s &#8216;Stoop Dating&#8217; thinks so.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f54eef71f4a9d8430afaa07c830acfc0",
+      "summary": [
+        "Stoop Dating encourages social connections among Boston residents in South Boston.",
+        "The initiative has gained over 30,000 Instagram and 40,000 TikTok followers.",
+        "Participants may find romantic partners through community engagement on local stoops."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-10T10:56:28.776705+00:00"
+    "timestamp": "2026-02-10T13:22:56.033745+00:00"
   }
 }
