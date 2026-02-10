@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-02-10T19:11:37.585634+00:00",
+  "lastUpdated": "2026-02-10T20:50:31.209160+00:00",
   "articles": [
+    {
+      "title": "Boston to host FIFA World Cup Fan Fest at City Hall Plaza",
+      "link": "https://www.boston.com/sports/events/2026/02/10/boston-to-host-fifa-world-cup-fan-fest-at-city-hall-plaza/",
+      "pubDate": "Tue, 10 Feb 2026 20:44:57 +0000",
+      "description": "<p>\u201cThere\u2019s no greater sports town in all of America than Boston.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/events/2026/02/10/boston-to-host-fifa-world-cup-fan-fest-at-city-hall-plaza/\">Boston to host FIFA World Cup Fan Fest at City Hall Plaza</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "27eb965dfe4e53f2c8518a28192050b9",
+      "summary": [
+        "Boston will host a FIFA World Cup Fan Fest at City Hall Plaza in 2026.",
+        "The event aims to engage local fans and celebrate soccer culture in the city.",
+        "Residents can expect increased tourism and community activities during the World Cup."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Are MBTA commuters destined to suffer for the rest of the winter?",
+      "link": "https://www.boston.com/news/transportation/2026/02/10/are-mbta-commuters-destined-to-suffer-for-the-rest-of-the-winter/",
+      "pubDate": "Tue, 10 Feb 2026 20:29:03 +0000",
+      "description": "<p>\u201cI want riders to know that even in future storms, we will get better,\u201d MBTA General Manager Phil Eng said recently.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/02/10/are-mbta-commuters-destined-to-suffer-for-the-rest-of-the-winter/\">Are MBTA commuters destined to suffer for the rest of the winter?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1af203eaee7c0d8c09fb11aa2fad5205",
+      "summary": [
+        "MBTA General Manager Phil Eng assures improvements for riders during future winter storms.",
+        "Commuters may face continued challenges as winter weather persists in Boston.",
+        "Local residents are urged to prepare for potential delays and disruptions in transit services."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Wu says she would vote for statewide rent control through proposed ballot question",
+      "link": "https://www.boston.com/news/politics/2026/02/10/wu-says-she-would-vote-for-statewide-rent-control-through-proposed-ballot-question/",
+      "pubDate": "Tue, 10 Feb 2026 20:18:55 +0000",
+      "description": "<p>While Boston Mayor Michelle Wu would prefer a local option, she said she would not \"let perfect be the enemy of the good\" when discussing a blanket cap on rent hikes. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/02/10/wu-says-she-would-vote-for-statewide-rent-control-through-proposed-ballot-question/\">Wu says she would vote for statewide rent control through proposed ballot question</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1bddb47fab839862ae0a48fdd7d0e2c3",
+      "summary": [
+        "Mayor Michelle Wu supports statewide rent control despite preferring local options.",
+        "Wu emphasizes not letting perfect solutions hinder progress on rent cap proposals.",
+        "Statewide rent control could significantly affect Boston's housing affordability for residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Norwegian biathlon bronze medalist confesses to cheating on girlfriend in post-race interview",
+      "link": "https://www.boston.com/sports/sports/2026/02/10/norwegian-biathlon-bronze-medalist-confesses-to-cheating-on-girlfriend-in-post-race-interview/",
+      "pubDate": "Tue, 10 Feb 2026 19:26:50 +0000",
+      "description": "<p>\"I'm not quite sure what I\u2019m trying to say by saying this now, but sport has taken a back seat in recent days.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/10/norwegian-biathlon-bronze-medalist-confesses-to-cheating-on-girlfriend-in-post-race-interview/\">Norwegian biathlon bronze medalist confesses to cheating on girlfriend in post-race interview</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "512c90138e249b013eaabcd999865a46",
+      "summary": [
+        "Norwegian biathlon bronze medalist admits to infidelity during a post-race interview.",
+        "The confession raises questions about athlete conduct and personal accountability in sports.",
+        "Boston residents may discuss the implications of personal scandals on public figures."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Christian Gonzalez on Patriots extension talks: \u2018I don\u2019t want to be anywhere else\u2019",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/10/christian-gonzalez-contract-extension-talks/",
+      "pubDate": "Tue, 10 Feb 2026 19:16:41 +0000",
+      "description": "<p> \"He deserves his pay day for sure.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/10/christian-gonzalez-contract-extension-talks/\">Christian Gonzalez on Patriots extension talks: \u2018I don\u2019t want to be anywhere else\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "135b3e2b1fab6269675fba993d9570e2",
+      "summary": [
+        "Christian Gonzalez expresses desire to remain with the Patriots amid contract extension talks.",
+        "Gonzalez's performance has led to calls for a significant pay increase.",
+        "His potential extension could influence team dynamics and fan support in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Man dies after being struck by MBTA commuter rail train in Haverhill",
       "link": "https://www.boston.com/news/local-news/2026/02/10/man-dies-after-being-struck-by-mbta-commuter-rail-train-in-haverhill/",
@@ -583,71 +648,6 @@
         "Federal judge reportedly retired amid misconduct probe regarding hostile work environment allegations.",
         "The inquiry involved Judge Mark Wolf, known for his outspoken political views.",
         "Local residents may see changes in judicial leadership and court operations in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s what Boston meteorologists are saying about this week\u2019s weather, including Tuesday\u2019s snow",
-      "link": "https://www.boston.com/weather/weather/2026/02/09/heres-what-boston-meteorologists-are-saying-about-this-weeks-weather-including-tuesdays-snow/",
-      "pubDate": "Mon, 09 Feb 2026 14:34:03 +0000",
-      "description": "<p>\"Snow breaks out late tomorrow afternoon, steadiest in the evening.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/09/heres-what-boston-meteorologists-are-saying-about-this-weeks-weather-including-tuesdays-snow/\">Here&#8217;s what Boston meteorologists are saying about this week&#8217;s weather, including Tuesday&#8217;s snow</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9416ef7046582633cd3c8ba46dff1ef8",
-      "summary": [
-        "Snow expected to start late Tuesday afternoon, peaking in the evening.",
-        "Meteorologists predict significant accumulation, impacting evening commutes for Boston residents.",
-        "Residents should prepare for possible travel disruptions and hazardous road conditions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "7 days, no suspects: The disappearance of Nancy Guthrie",
-      "link": "https://www.boston.com/news/national-news/2026/02/09/7-days-no-suspects-the-disappearance-of-nancy-guthrie/",
-      "pubDate": "Mon, 09 Feb 2026 14:22:06 +0000",
-      "description": "<p>The search for Nancy Guthrie has become a sensation, fueled by her daughter Savannah Guthrie\u2019s fame as a \"Today\" show anchor and the many questions that remain.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/09/7-days-no-suspects-the-disappearance-of-nancy-guthrie/\">7 days, no suspects: The disappearance of Nancy Guthrie</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5c41369cf9595d09c614bda5ac178312",
-      "summary": [
-        "Nancy Guthrie has been missing for 7 days, raising concerns in the community.",
-        "Her daughter, Savannah Guthrie, is a well-known anchor on the 'Today' show.",
-        "The case has intensified local discussions about safety and missing persons in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Should you be worried about your roof this winter?",
-      "link": "https://www.boston.com/real-estate/real-estate/2026/02/09/roof-damage-ice-dams-snow-winter-new-england-boston/",
-      "pubDate": "Mon, 09 Feb 2026 14:18:30 +0000",
-      "description": "<p>Roofing experts break down what homeowners should be paying attention to as the snow and cold persists. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/09/roof-damage-ice-dams-snow-winter-new-england-boston/\">Should you be worried about your roof this winter?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "65c1dc31b490cab14cfaf841868fc592",
-      "summary": [
-        "Homeowners should inspect roofs for damage due to heavy snow and ice this winter.",
-        "Experts recommend clearing snow from roofs to prevent ice dams and structural issues.",
-        "Neglecting roof maintenance could lead to costly repairs for Boston residents this spring."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "4 maps predicting Tuesday snowfall totals",
-      "link": "https://www.boston.com/weather/weather/2026/02/09/4-maps-predicting-tuesday-snowfall-totals/",
-      "pubDate": "Mon, 09 Feb 2026 14:17:50 +0000",
-      "description": "<p>\"Most of this next snow will fall Tuesday late afternoon, evening &amp; night.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/09/4-maps-predicting-tuesday-snowfall-totals/\">4 maps predicting Tuesday snowfall totals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "714296e477293c38fa0ed1303609330f",
-      "summary": [
-        "Snowfall expected in Boston Tuesday afternoon through night.",
-        "Predictions indicate up to 6 inches of snow in some areas.",
-        "Residents advised to prepare for hazardous travel conditions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "US Olympians speaking up about politics at home face online backlash \u2014 including from Trump",
-      "link": "https://www.boston.com/sports/politics/2026/02/09/us-olympians-politics-online-backlash-trump/",
-      "pubDate": "Mon, 09 Feb 2026 14:16:05 +0000",
-      "description": "<p>When asked at a news conference how they feel representing the U.S. during the Trump administration\u2019s heightened immigration enforcement, several athletes said their emotions are mixed.</p>\n<p>The post <a href=\"https://www.boston.com/sports/politics/2026/02/09/us-olympians-politics-online-backlash-trump/\">US Olympians speaking up about politics at home face online backlash &mdash; including from Trump</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1b66e5acd8f9c334e4ad829b5fc368b1",
-      "summary": [
-        "US Olympians express mixed feelings about representing the country amid Trump's immigration policies.",
-        "Athletes face significant online backlash, including criticism from former President Trump.",
-        "Local Boston residents may feel divided on athletes' political statements during international competitions."
       ],
       "hookType": "LOCAL_IMPACT"
     }
