@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-02-11T13:19:16.243874+00:00",
+  "lastUpdated": "2026-02-11T14:57:31.612663+00:00",
   "articles": [
     {
-      "title": "$8M South End penthouse in converted church has views of Prudential Center",
-      "link": "https://www.boston.com/real-estate/luxury-homes/2026/02/11/south-end-boston-condord-baptist-church-penthouse/",
-      "pubDate": "Wed, 11 Feb 2026 12:00:00 +0000",
-      "description": "<p>Located in the former Concord Baptist Church, the penthouse unit is for sale for $8 million. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/02/11/south-end-boston-condord-baptist-church-penthouse/\">$8M South End penthouse in converted church has views of Prudential Center</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f062fba92ac846072a692482f3c1c38a",
+      "title": "Mass. snow totals by town: See who got the most from fast-moving overnight system",
+      "link": "https://www.boston.com/weather/weather/2026/02/11/massachusetts-snow-totals-for-feb-10-11-2026/",
+      "pubDate": "Wed, 11 Feb 2026 14:31:48 +0000",
+      "description": "<p>One Cape Ann city got the worst of it, again.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/11/massachusetts-snow-totals-for-feb-10-11-2026/\">Mass. snow totals by town: See who got the most from fast-moving overnight system</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2a99871a10f39d1eb6ca3191913b905f",
       "summary": [
-        "Converted Concord Baptist Church offers an $8 million penthouse with city views.",
-        "Penthouse features panoramic views of the Prudential Center, enhancing local luxury real estate.",
-        "Sale could influence property values and market trends in the South End neighborhood."
+        "Cape Ann city received the highest snowfall from the February 10-11 storm.",
+        "Some areas reported up to 12 inches of snow overnight.",
+        "Residents should prepare for potential disruptions in travel and services."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Team USA dominates women\u2019s hockey rival Canada, shutting out Poulin-less squad to win group",
+      "link": "https://www.boston.com/sports/sports/2026/02/11/team-usa-dominates-womens-hockey-rival-canada-shutting-out-poulin-less-squad-to-win-group/",
+      "pubDate": "Wed, 11 Feb 2026 13:40:10 +0000",
+      "description": "<p>The Americans, who have outscored and outshot their opponents by huge margins for four games, landed their first regulation Olympic win over the Canadians since 1998 \u2014 when they did it twice.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/11/team-usa-dominates-womens-hockey-rival-canada-shutting-out-poulin-less-squad-to-win-group/\">Team USA dominates women\u2019s hockey rival Canada, shutting out Poulin-less squad to win group</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b276780acd0bde547d7e672931d04561",
+      "summary": [
+        "Team USA women's hockey team shut out Canada 3-0 on February 11, 2026.",
+        "This marks the first Olympic win over Canada since 1998 for the Americans.",
+        "Boston residents celebrate as Team USA advances in the Olympic tournament with strong performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Moderna says FDA refuses its application for new mRNA flu vaccine",
+      "link": "https://www.boston.com/news/health/2026/02/11/moderna-says-fda-refuses-its-application-for-new-mrna-flu-vaccine/",
+      "pubDate": "Wed, 11 Feb 2026 13:38:16 +0000",
+      "description": "<p>The FDA cited concerns about Moderna's use of a 40,000-person clinical trial that showed improved effectiveness in adults 50 and older than a standard shot. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/02/11/moderna-says-fda-refuses-its-application-for-new-mrna-flu-vaccine/\">Moderna says FDA refuses its application for new mRNA flu vaccine</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e5f78cd2e19f6a5c11854d806aeba7d2",
+      "summary": [
+        "Moderna's application for a new mRNA flu vaccine was rejected by the FDA.",
+        "The FDA raised concerns about a 40,000-person clinical trial's effectiveness.",
+        "Boston residents may face delays in accessing improved flu vaccination options."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Catching up with Tenley Albright 70 years after her figure skating gold medal at the 1956 Cortina Olympics",
+      "link": "https://www.boston.com/sports/sports/2026/02/11/tenley-albright-70-years-figure-skating-gold-medal-1956-cortina-olympics/",
+      "pubDate": "Wed, 11 Feb 2026 13:35:51 +0000",
+      "description": "<p>\u201cI can\u2019t help feeling that I\u2019m skating every edge with the skaters as they\u2019re competing because the memories just flood your brain.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/11/tenley-albright-70-years-figure-skating-gold-medal-1956-cortina-olympics/\">Catching up with Tenley Albright 70 years after her figure skating gold medal at the 1956 Cortina Olympics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ececd56dd8756e760867c6f4fe9a21ef",
+      "summary": [
+        "Tenley Albright reflects on her 1956 Olympic gold medal in figure skating.",
+        "Albright, now 84, shares memories of competing at the Cortina Olympics.",
+        "Her legacy inspires Boston's youth in figure skating and sportsmanship."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-02-11T13:19:16.243894+00:00"
+    "timestamp": "2026-02-11T14:57:31.612684+00:00"
   }
 }
