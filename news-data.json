@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-11T08:55:01.730563+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-11T10:55:00.772414+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Feb. 11)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2026/02/11/recent-homes-sales-in-greater-boston-feb-11/",
+      "pubDate": "Wed, 11 Feb 2026 10:00:00 +0000",
+      "description": "<p>ABINGTON 144 Helen Drive. One-family raised ranch, built in 1993, 1,582 square feet, 5 rooms, 3 bedrooms, 3 baths, on 30,038-square-foot lot. $735,000 41 Clapp St. One-family Colonial, built in 1952, 1,472 square feet, 4 rooms, 2 bedrooms, 1 bath, on 7,350-square-foot lot. $550,000 20 Cleverly St. #B2 Condo/Apt, built in 1984, 1,154 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/02/11/recent-homes-sales-in-greater-boston-feb-11/\">Recent homes sales in Greater Boston (Feb. 11)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "98b0f4cec698acc187cff4a904dded40",
+      "summary": [
+        "Abington home at 144 Helen Drive sold for $735,000 on February 11.",
+        "41 Clapp St. Colonial sold for $550,000, highlighting rising property values.",
+        "Increased home sales indicate a competitive real estate market in Greater Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-11T08:55:01.730569+00:00"
+    "timestamp": "2026-02-11T10:55:00.772429+00:00"
   }
 }
