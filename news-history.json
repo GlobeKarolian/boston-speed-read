@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-02-12T17:03:37.042628+00:00",
+  "lastUpdated": "2026-02-12T19:08:22.472322+00:00",
   "articles": [
+    {
+      "title": "Massachusetts emergency room wait times rank among the longest in the U.S.",
+      "link": "https://www.boston.com/news/local-news/2026/02/12/massachusetts-ranks-emergency-room-wait-times/",
+      "pubDate": "Thu, 12 Feb 2026 18:29:57 +0000",
+      "description": "<p>Patients spend an average of 189 minutes \u2014 more than three hours \u2014 in the emergency department, and longer stays have become more common. What was your experience like? </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/12/massachusetts-ranks-emergency-room-wait-times/\">Massachusetts emergency room wait times rank among the longest in the U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "48dfe5c28a6ed376baeed78713a87686",
+      "summary": [
+        "Patients in Massachusetts wait an average of 189 minutes in emergency rooms.",
+        "Longer emergency room stays have become increasingly common across the state.",
+        "Boston residents may face delays in receiving urgent medical care due to these wait times."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Report: Retired 5x Pro Bowl left-tackle offers to help train Will Campbell",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/12/terron-armstead-will-campbell/",
+      "pubDate": "Thu, 12 Feb 2026 18:25:47 +0000",
+      "description": "<p>Terron Armstead said Campbell's technique could use some work and volunteered to help him. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/12/terron-armstead-will-campbell/\">Report: Retired 5x Pro Bowl left-tackle offers to help train Will Campbell</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e858986362c971927d60b9292084d1d7",
+      "summary": [
+        "Terron Armstead, a retired Pro Bowl left-tackle, offers training to Will Campbell.",
+        "Armstead identifies areas for improvement in Campbell's technique as he prepares for the NFL.",
+        "This mentorship could enhance Campbell's performance for the New England Patriots in upcoming seasons."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "More than 400 readers voted: $240K in-office Boston job or $120K remote?",
+      "link": "https://www.boston.com/community/readers-say/2026/02/12/remote-in-person-job-readers-respond/",
+      "pubDate": "Thu, 12 Feb 2026 18:11:54 +0000",
+      "description": "<p>Is doubling your salary worth giving up remote flexibility \u2014 especially in a city like Boston? </p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2026/02/12/remote-in-person-job-readers-respond/\">More than 400 readers voted: $240K in-office Boston job or $120K remote?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "34fbdd15767201794e55d0269052699b",
+      "summary": [
+        "Over 400 Boston readers voted on job salary preferences between in-office and remote work.",
+        "Respondents faced a choice between a $240K in-office job and a $120K remote position.",
+        "The debate highlights local concerns about salary versus work-life balance in Boston's job market."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "City councilor calls for restrictions on e-bikes and mopeds, including ban for food delivery drivers",
+      "link": "https://www.boston.com/news/local-news/2026/02/12/city-councilor-calls-for-restrictions-on-e-bikes-and-mopeds-including-ban-for-food-delivery-drivers/",
+      "pubDate": "Thu, 12 Feb 2026 18:10:36 +0000",
+      "description": "<p>Councilor Ed Flynn argued that e-bikes and other two-wheeled vehicles, often used by delivery drivers, pose a significant public health threat. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/12/city-councilor-calls-for-restrictions-on-e-bikes-and-mopeds-including-ban-for-food-delivery-drivers/\">City councilor calls for restrictions on e-bikes and mopeds, including ban for food delivery drivers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "09433dad8dbe0db2d96ee2af7434caa6",
+      "summary": [
+        "Councilor Ed Flynn proposes e-bike and moped restrictions in Boston.",
+        "Proposed ban specifically targets food delivery drivers using these vehicles.",
+        "Concerns raised about public health threats from increased two-wheeled traffic."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Wakefield\u2019s Jessie Diggins fights injury to take bronze in race dominated by Sweden at Milan Cortina Games",
+      "link": "https://www.boston.com/sports/sports/2026/02/12/jessie-diggins-bronze-medal-olympics/",
+      "pubDate": "Thu, 12 Feb 2026 16:02:26 +0000",
+      "description": "<p>\u201cI need a new body. Honestly, I think I\u2019m the happiest, most grateful bronze medalist in the whole world.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/12/jessie-diggins-bronze-medal-olympics/\">Wakefield&#8217;s Jessie Diggins fights injury to take bronze in race dominated by Sweden at Milan Cortina Games</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6aa6ea90679e5bd1ede83d97982be372",
+      "summary": [
+        "Wakefield's Jessie Diggins won a bronze medal at the Milan Cortina Games.",
+        "Diggins expressed gratitude despite battling injuries during the competition.",
+        "Her achievement boosts local pride and inspires Boston athletes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "The Patriots didn\u2019t finish the way their 2001 ancestors did. Let\u2019s hope they don\u2019t produce a similar follow-up season, either.",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/02/12/patriots-super-bowl-hangover/",
@@ -583,71 +648,6 @@
         "Enter to win tickets for 'Midwinter Break' screening in Boston.",
         "Submit a question to Love Letters for a chance to win.",
         "Local residents can enjoy a new film experience in February."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "From mom to maple syrup, ski racer Ryan Cochran-Siegle\u2019s 2nd Olympic silver traces to Vermont roots",
-      "link": "https://www.boston.com/sports/sports/2026/02/11/ryan-cochran-siegle-olympics-mom-maple-syrup-vermont/",
-      "pubDate": "Wed, 11 Feb 2026 17:02:23 +0000",
-      "description": "<p>\"I\u2019m a representation of my entire family,\u201d Cochran-Siegle said. \u201cMy mom had her success with her Olympics and her ski career, and I feel very fortunate that I was able to continue our spirit and love for skiing.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/11/ryan-cochran-siegle-olympics-mom-maple-syrup-vermont/\">From mom to maple syrup, ski racer Ryan Cochran-Siegle&#8217;s 2nd Olympic silver traces to Vermont roots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6bc7498dfe36017d22ff6856d8b85d4c",
-      "summary": [
-        "Ryan Cochran-Siegle won his second Olympic silver medal, highlighting his Vermont skiing heritage.",
-        "Cochran-Siegle's success reflects his family's Olympic legacy, particularly his mother's achievements.",
-        "Boston residents celebrate local athlete's accomplishments, fostering community pride in winter sports."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "JD Vance posted and then deleted a message referring to the \u2018Armenian genocide.\u2019 Here\u2019s why the phrase matters.",
-      "link": "https://www.boston.com/news/politics/2026/02/11/jd-vance-armenian-genocide/",
-      "pubDate": "Wed, 11 Feb 2026 16:54:43 +0000",
-      "description": "<p>The White House blamed a staff mistake.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/02/11/jd-vance-armenian-genocide/\">JD Vance posted and then deleted a message referring to the \u2018Armenian genocide.\u2019 Here&#8217;s why the phrase matters.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6cab5c13442a160822598de43088028f",
-      "summary": [
-        "JD Vance deleted a post referencing the Armenian genocide due to a White House staff mistake.",
-        "The incident highlights ongoing discussions about historical recognition and its implications for Armenian communities.",
-        "Boston residents may see increased advocacy for Armenian issues following this public controversy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018Quad God\u2019 Ilia Malinin leads after near-perfect short program",
-      "link": "https://www.boston.com/sports/sports/2026/02/11/quad-god-ilia-malinin-short-program/",
-      "pubDate": "Wed, 11 Feb 2026 16:49:17 +0000",
-      "description": "<p>The two-time reigning world champion opened with a big quad flip Tuesday night, landed a perfect triple axel \u2014 perhaps saving the quad axel only he has ever landed for the free skate \u2014 and a quad lutz-triple toe loop that scored more than 22 points by itself.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/11/quad-god-ilia-malinin-short-program/\">&#8216;Quad God&#8217; Ilia Malinin leads after near-perfect short program</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "038c6e49561eaab6bc3ac66071d2e241",
-      "summary": [
-        "Ilia Malinin leads after a near-perfect short program at the Boston competition.",
-        "He scored over 22 points for his quad lutz-triple toe loop.",
-        "Boston residents can expect increased interest in figure skating events due to Malinin's performance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston meteorologists are \u2018watching\u2019 the track of a storm for Monday",
-      "link": "https://www.boston.com/weather/weather/2026/02/11/boston-ma-monday-presidents-day-storm/",
-      "pubDate": "Wed, 11 Feb 2026 16:33:11 +0000",
-      "description": "<p>\"Do we get a storm on Monday? Maybe, maybe not.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/11/boston-ma-monday-presidents-day-storm/\">Boston meteorologists are &#8216;watching&#8217; the track of a storm for Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "61996788d9be43d3f6c64e6c0939ebaa",
-      "summary": [
-        "Meteorologists are monitoring a potential storm impacting Boston on Monday, February 13.",
-        "Forecasts indicate uncertainty about storm severity and accumulation for local residents.",
-        "Residents should prepare for possible disruptions to travel and outdoor activities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Kendrick Perkins explained why the Celtics are \u2018the most dangerous team in the NBA\u2019",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/02/11/kendrick-perkins-explained-why-the-celtics-are-the-most-dangerous-team-in-the-nba/",
-      "pubDate": "Wed, 11 Feb 2026 16:11:46 +0000",
-      "description": "<p>\"If I had to vote today, Jaylen Brown gets my vote for MVP.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/02/11/kendrick-perkins-explained-why-the-celtics-are-the-most-dangerous-team-in-the-nba/\">Kendrick Perkins explained why the Celtics are &#8216;the most dangerous team in the NBA&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1fbffdf3aca82d90c8e02c48e1dc8548",
-      "summary": [
-        "Kendrick Perkins claims Celtics are NBA's most dangerous team as of February 2026.",
-        "He endorses Jaylen Brown for MVP, highlighting his significant contributions.",
-        "Celtics' success boosts local excitement and community support in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
