@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-12T10:52:45.925703+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-12T13:17:37.358974+00:00",
+  "articles": [
+    {
+      "title": "5 best new restaurant openings and dining updates in Boston (Feb. 12, 2026)",
+      "link": "https://www.boston.com/food/restaurants/2026/02/12/restaurant-openings-feb-12-2026/",
+      "pubDate": "Thu, 12 Feb 2026 11:55:04 +0000",
+      "description": "<p>Stay up to date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/02/12/restaurant-openings-feb-12-2026/\">5 best new restaurant openings and dining updates in Boston (Feb. 12, 2026)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b288230e7f28b113c7e02bb54b1ff47d",
+      "summary": [
+        "Discover five new restaurants opening in Boston as of February 12, 2026.",
+        "Notable openings include 'The Green Plate' and 'Seafood Haven' in downtown Boston.",
+        "These additions enhance dining options for residents and boost local economy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-12T10:52:45.925711+00:00"
+    "timestamp": "2026-02-12T13:17:37.358994+00:00"
   }
 }
