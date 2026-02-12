@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-12T19:08:22.472322+00:00",
+  "lastUpdated": "2026-02-12T20:39:20.610319+00:00",
   "articles": [
+    {
+      "title": "Tom Brady roasts Logan Paul, calls wrestler\u2019s athletic abilities \u2018cute\u2019",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/12/tom-brady-logan-paul-flag-football/",
+      "pubDate": "Thu, 12 Feb 2026 19:59:53 +0000",
+      "description": "<p>Tom Brady wanted Logan Paul to know that there are levels to athletic greatness. Both Paul and Brady are set to compete in the Fanatics Flag Football Classic in Saudi Arabia next month. Paul decided to talk some trash while Brady was on set for his &#8220;IMPAULSIVE&#8221; podcast. Brady gave it right back to him. [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/12/tom-brady-logan-paul-flag-football/\">Tom Brady roasts Logan Paul, calls wrestler&#8217;s athletic abilities &#8216;cute&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bed980f2e2e20da0e7d2d70911c112fa",
+      "summary": [
+        "Tom Brady and Logan Paul will compete in the Fanatics Flag Football Classic in Saudi Arabia next month.",
+        "Brady responded to Paul's trash talk during an episode of the 'IMPAULSIVE' podcast.",
+        "Boston residents can expect increased media attention on local sports personalities like Brady."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump\u2019s EPA revokes scientific finding that underpinned US fight against climate change",
+      "link": "https://www.boston.com/news/environment/2026/02/12/trumps-epa-revokes-scientific-finding-that-underpinned-us-fight-against-climate-change/",
+      "pubDate": "Thu, 12 Feb 2026 19:29:50 +0000",
+      "description": "<p>The rule finalized by the Environmental Protection Agency rescinds a 2009 government declaration known as the endangerment finding that determined that carbon dioxide and other greenhouse gases endanger public health and welfare.</p>\n<p>The post <a href=\"https://www.boston.com/news/environment/2026/02/12/trumps-epa-revokes-scientific-finding-that-underpinned-us-fight-against-climate-change/\">Trump&#8217;s EPA revokes scientific finding that underpinned US fight against climate change</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cdd57a5aecd5a862179a0e7f6a3c2b9e",
+      "summary": [
+        "EPA revokes 2009 endangerment finding on greenhouse gases, impacting climate policy.",
+        "This decision affects Boston's air quality and public health initiatives.",
+        "Local environmental groups may face challenges in advocating for climate action."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Massachusetts emergency room wait times rank among the longest in the U.S.",
       "link": "https://www.boston.com/news/local-news/2026/02/12/massachusetts-ranks-emergency-room-wait-times/",
@@ -622,32 +648,6 @@
         "Waltham coach Ronnie Poirier collapsed from a heart attack during a game last week.",
         "Belmont coach Ian Haffer performed life-saving measures, preventing a tragedy on February 11.",
         "The incident highlights the importance of quick action and preparedness in local sports events."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Another movie theater is shutting down in Massachusetts",
-      "link": "https://www.boston.com/news/business/2026/02/11/another-movie-theater-is-shutting-down-in-massachusetts/",
-      "pubDate": "Wed, 11 Feb 2026 17:40:54 +0000",
-      "description": "<p>Showcase Cinema de Lux in Randolph will close its doors on March 1.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/02/11/another-movie-theater-is-shutting-down-in-massachusetts/\">Another movie theater is shutting down in Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fcc12874449c3052c00e9bfccd242234",
-      "summary": [
-        "Showcase Cinema de Lux in Randolph will close on March 1, 2026.",
-        "This closure adds to the growing list of theater shutdowns in Massachusetts.",
-        "Boston residents may face fewer local entertainment options as theaters continue to close."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Giveaway: Enter to win tickets to a screening of \u2018Midwinter Break\u2019",
-      "link": "https://www.boston.com/love-letters/love-letters/2026/02/11/midwinter-break-movie-giveaway/",
-      "pubDate": "Wed, 11 Feb 2026 17:36:02 +0000",
-      "description": "<p>Send a question to Love Letters for a chance to get a pair of tickets to this new Focus Features film.</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/love-letters/2026/02/11/midwinter-break-movie-giveaway/\">Giveaway: Enter to win tickets to a screening of &#8216;Midwinter Break&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2b14b28d64496fb496210f9ba82e3d6a",
-      "summary": [
-        "Enter to win tickets for 'Midwinter Break' screening in Boston.",
-        "Submit a question to Love Letters for a chance to win.",
-        "Local residents can enjoy a new film experience in February."
       ],
       "hookType": "LOCAL_IMPACT"
     }
