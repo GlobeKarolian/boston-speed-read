@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-12T13:17:37.359764+00:00",
+  "lastUpdated": "2026-02-12T14:51:35.775577+00:00",
   "articles": [
+    {
+      "title": "Boston meteorologists say Monday\u2019s storm is \u2018trending toward a miss\u2019",
+      "link": "https://www.boston.com/weather/weather/2026/02/12/boston-meteorologists-say-mondays-storm-is-trending-toward-a-miss/",
+      "pubDate": "Thu, 12 Feb 2026 14:49:07 +0000",
+      "description": "<p>\"Looking like a miss for us but not writing it off completely.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/12/boston-meteorologists-say-mondays-storm-is-trending-toward-a-miss/\">Boston meteorologists say Monday&#8217;s storm is &#8216;trending toward a miss&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "087207cd9f9fad37f7424589e9515451",
+      "summary": [
+        "Meteorologists predict Monday's storm may not impact Boston significantly.",
+        "Forecast indicates a 70% chance of missing the city entirely.",
+        "Residents can expect minimal disruptions to travel and outdoor plans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "5 best new restaurant openings and dining updates in Boston (Feb. 12, 2026)",
       "link": "https://www.boston.com/food/restaurants/2026/02/12/restaurant-openings-feb-12-2026/",
@@ -635,19 +648,6 @@
         "Converted Concord Baptist Church offers an $8 million penthouse with city views.",
         "Penthouse features panoramic views of the Prudential Center, enhancing local luxury real estate.",
         "Sale could influence property values and market trends in the South End neighborhood."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Recent homes sales in Greater Boston (Feb. 11)",
-      "link": "https://www.boston.com/real-estate/real-estate-news/2026/02/11/recent-homes-sales-in-greater-boston-feb-11/",
-      "pubDate": "Wed, 11 Feb 2026 10:00:00 +0000",
-      "description": "<p>ABINGTON 144 Helen Drive. One-family raised ranch, built in 1993, 1,582 square feet, 5 rooms, 3 bedrooms, 3 baths, on 30,038-square-foot lot. $735,000 41 Clapp St. One-family Colonial, built in 1952, 1,472 square feet, 4 rooms, 2 bedrooms, 1 bath, on 7,350-square-foot lot. $550,000 20 Cleverly St. #B2 Condo/Apt, built in 1984, 1,154 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/02/11/recent-homes-sales-in-greater-boston-feb-11/\">Recent homes sales in Greater Boston (Feb. 11)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "98b0f4cec698acc187cff4a904dded40",
-      "summary": [
-        "Abington home at 144 Helen Drive sold for $735,000 on February 11.",
-        "41 Clapp St. Colonial sold for $550,000, highlighting rising property values.",
-        "Increased home sales indicate a competitive real estate market in Greater Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
