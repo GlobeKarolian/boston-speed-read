@@ -1,49 +1,9 @@
 {
-  "lastUpdated": "2026-02-13T05:22:43.554682+00:00",
-  "articles": [
-    {
-      "title": "MBTA Hingham ferry service canceled for Feb. 13 due to ice in the harbor",
-      "link": "https://www.boston.com/travel/local-news/2026/02/12/mbta-hingham-ferry-service-canceled-for-feb-13-due-to-ice-in-the-harbor/",
-      "pubDate": "Fri, 13 Feb 2026 03:19:08 +0000",
-      "description": "<p>The ferry is experiencing more cancellations than usual this winter due to thick ice brought on by the recent snow storm.</p>\n<p>The post <a href=\"https://www.boston.com/travel/local-news/2026/02/12/mbta-hingham-ferry-service-canceled-for-feb-13-due-to-ice-in-the-harbor/\">MBTA Hingham ferry service canceled for Feb. 13 due to ice in the harbor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4ff89d8dfc764c283750425839778b0d",
-      "summary": [
-        "MBTA canceled Hingham ferry service on February 13 due to ice in the harbor.",
-        "Cancellations are increasing this winter due to thick ice from recent snow storms.",
-        "Boston residents relying on ferry service face transportation disruptions this winter."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Retired Gloucester firefighter dies days after being struck by Lowell police cruiser",
-      "link": "https://www.boston.com/news/local-news/2026/02/12/retired-gloucester-firefighter-dies-days-after-being-struck-by-lowell-police-cruiser/",
-      "pubDate": "Fri, 13 Feb 2026 03:03:39 +0000",
-      "description": "<p>Daniel Kennedy died nearly a week after he was allegedly struck by a Lowell police cruiser at UMass Lowell last Thursday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/12/retired-gloucester-firefighter-dies-days-after-being-struck-by-lowell-police-cruiser/\">Retired Gloucester firefighter dies days after being struck by Lowell police cruiser</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a02051792230db66b886de139a483ae4",
-      "summary": [
-        "Retired Gloucester firefighter Daniel Kennedy died after being struck by a police cruiser.",
-        "Kennedy was hit at UMass Lowell on February 8, 2023, and died days later.",
-        "The incident raises concerns about police vehicle safety in busy campus areas."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "5 players on Red Sox\u2019 roster bubble entering spring training",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/12/boston-red-sox-roster-bubble-mlb-spring-training-battle-casas-yoshida-campbell/",
-      "pubDate": "Fri, 13 Feb 2026 02:44:08 +0000",
-      "description": "<p>The Red Sox still have several logjams in their outfield and within their pitching corps. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/12/boston-red-sox-roster-bubble-mlb-spring-training-battle-casas-yoshida-campbell/\">5 players on Red Sox\u2019 roster bubble entering spring training</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "548366ec68e35fe45c050fe3d3414ca7",
-      "summary": [
-        "Red Sox face roster decisions as spring training approaches, impacting local fan expectations.",
-        "Five players, including Casas and Yoshida, are on the roster bubble ahead of training.",
-        "Outfield and pitching logjams could affect team performance and local game attendance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-02-13T07:04:11.104413+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-02-13T05:22:43.554695+00:00"
+    "timestamp": "2026-02-13T07:04:11.104421+00:00"
   }
 }
