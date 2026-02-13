@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-02-13T10:43:50.259611+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-13T13:09:08.881716+00:00",
+  "articles": [
+    {
+      "title": "For Sale by Owner: Should you attempt to sell your own house?",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/02/13/for-sale-by-owner-boston-massachusetts-real-estate/",
+      "pubDate": "Fri, 13 Feb 2026 12:00:00 +0000",
+      "description": "<p>FSBO, as it\u2019s known in the industry, can save sellers thousands in broker fees, but it\u2019s a complicated task  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/13/for-sale-by-owner-boston-massachusetts-real-estate/\">For Sale by Owner: Should you attempt to sell your own house?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b867e6d69474e095127f8f62116853b2",
+      "summary": [
+        "FSBO can save Boston sellers thousands in broker fees, but it's complex.",
+        "Many Boston homeowners are considering FSBO to avoid high commission costs.",
+        "Local real estate experts warn of potential pitfalls in self-selling homes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/02/13/greater-boston-news-quiz-feb-13-2026-super-bowl-boston-restaurants-affleck-dunkin/",
+      "pubDate": "Fri, 13 Feb 2026 11:32:36 +0000",
+      "description": "<p>Super Bowl fallout, an odor argument, and a Ben Affleck throwback are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/13/greater-boston-news-quiz-feb-13-2026-super-bowl-boston-restaurants-affleck-dunkin/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c4003be3e454535ea57201ebbee2fe6e",
+      "summary": [
+        "Review Super Bowl-related impacts on local businesses and restaurants in Boston.",
+        "Participate in the Greater Boston news quiz to test your local knowledge.",
+        "Engage with community discussions about recent odor issues affecting neighborhoods."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-13T10:43:50.259619+00:00"
+    "timestamp": "2026-02-13T13:09:08.881737+00:00"
   }
 }

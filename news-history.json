@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-13T05:22:43.555309+00:00",
+  "lastUpdated": "2026-02-13T13:09:08.882510+00:00",
   "articles": [
+    {
+      "title": "For Sale by Owner: Should you attempt to sell your own house?",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/02/13/for-sale-by-owner-boston-massachusetts-real-estate/",
+      "pubDate": "Fri, 13 Feb 2026 12:00:00 +0000",
+      "description": "<p>FSBO, as it\u2019s known in the industry, can save sellers thousands in broker fees, but it\u2019s a complicated task  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/13/for-sale-by-owner-boston-massachusetts-real-estate/\">For Sale by Owner: Should you attempt to sell your own house?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b867e6d69474e095127f8f62116853b2",
+      "summary": [
+        "FSBO can save Boston sellers thousands in broker fees, but it's complex.",
+        "Many Boston homeowners are considering FSBO to avoid high commission costs.",
+        "Local real estate experts warn of potential pitfalls in self-selling homes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/02/13/greater-boston-news-quiz-feb-13-2026-super-bowl-boston-restaurants-affleck-dunkin/",
+      "pubDate": "Fri, 13 Feb 2026 11:32:36 +0000",
+      "description": "<p>Super Bowl fallout, an odor argument, and a Ben Affleck throwback are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/13/greater-boston-news-quiz-feb-13-2026-super-bowl-boston-restaurants-affleck-dunkin/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c4003be3e454535ea57201ebbee2fe6e",
+      "summary": [
+        "Review Super Bowl-related impacts on local businesses and restaurants in Boston.",
+        "Participate in the Greater Boston news quiz to test your local knowledge.",
+        "Engage with community discussions about recent odor issues affecting neighborhoods."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "MBTA Hingham ferry service canceled for Feb. 13 due to ice in the harbor",
       "link": "https://www.boston.com/travel/local-news/2026/02/12/mbta-hingham-ferry-service-canceled-for-feb-13-due-to-ice-in-the-harbor/",
@@ -622,32 +648,6 @@
         "Cyclists cleared snow from Comm. Ave. bike lanes after recent storms.",
         "Advocates emphasize the need for consistent winter bike lane maintenance.",
         "Uncleared lanes pose safety risks and hinder equitable access for cyclists."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Suspect in Canada shooting is identified as an 18-year-old with history of police visits to her home",
-      "link": "https://www.boston.com/news/crime/2026/02/11/suspect-in-canada-shooting-is-identified-as-an-18-year-old-with-history-of-police-visits-to-her-home/",
-      "pubDate": "Wed, 11 Feb 2026 22:07:25 +0000",
-      "description": "<p>Police said Jesse Van Rootselaar was found dead from an apparent self-inflicted wound following the assault on a school in the small mountain community of Tumbler Ridge.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/11/suspect-in-canada-shooting-is-identified-as-an-18-year-old-with-history-of-police-visits-to-her-home/\">Suspect in Canada shooting is identified as an 18-year-old with history of police visits to her home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4dca06dc6637dbe9d0cd123c64cae9e6",
-      "summary": [
-        "Jesse Van Rootselaar, 18, was identified as the shooter in Tumbler Ridge, Canada.",
-        "Van Rootselaar had a history of police visits to her home prior to the incident.",
-        "Boston residents may be concerned about school safety and mental health resources."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "FBI combs desert terrain for clues in Nancy Guthrie\u2019s disappearance",
-      "link": "https://www.boston.com/news/crime/2026/02/11/fbi-combs-desert-terrain-for-clues-in-nancy-guthrie-disappearance/",
-      "pubDate": "Wed, 11 Feb 2026 21:56:28 +0000",
-      "description": "<p>A woman who was jogging through one neighborhood where teams were searching, said an FBI agent told her they were looking for anything that might have been tossed from a car.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/11/fbi-combs-desert-terrain-for-clues-in-nancy-guthrie-disappearance/\">FBI combs desert terrain for clues in Nancy Guthrie&#8217;s disappearance</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2e36b1f0c75a0b2217536ba2df11309f",
-      "summary": [
-        "FBI searches desert terrain for clues in Nancy Guthrie's disappearance.",
-        "Agents are investigating items potentially discarded from vehicles in the area.",
-        "Local residents remain concerned about safety following the ongoing investigation."
       ],
       "hookType": "LOCAL_IMPACT"
     }
