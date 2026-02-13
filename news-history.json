@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-02-13T14:43:56.498114+00:00",
+  "lastUpdated": "2026-02-13T16:54:05.675248+00:00",
   "articles": [
+    {
+      "title": "A popular Vermont ski resort is under new ownership",
+      "link": "https://www.boston.com/travel/skiing/2026/02/13/a-popular-vermont-ski-resort-is-under-new-ownership/",
+      "pubDate": "Fri, 13 Feb 2026 16:41:08 +0000",
+      "description": "<p>It was named the most family-friendly ski resort in the East by Ski magazine. </p>\n<p>The post <a href=\"https://www.boston.com/travel/skiing/2026/02/13/a-popular-vermont-ski-resort-is-under-new-ownership/\">A popular Vermont ski resort is under new ownership</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7c28db2cf227369d44054dd26fa51abc",
+      "summary": [
+        "Vermont's most family-friendly ski resort is now under new ownership as of February 2026.",
+        "Ski magazine recognized the resort, boosting its appeal to Boston families seeking winter activities.",
+        "Local Boston residents may benefit from improved services and packages at the resort."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. senators push bill that could allow residents to sue ICE agents",
+      "link": "https://www.boston.com/news/local-news/2026/02/13/mass-senators-push-bill-that-could-allow-residents-to-sue-ice-agents/",
+      "pubDate": "Fri, 13 Feb 2026 15:50:46 +0000",
+      "description": "<p>Lawmakers say that the bill is part of a broader effort to push back on the Trump administration's policies. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/13/mass-senators-push-bill-that-could-allow-residents-to-sue-ice-agents/\">Mass. senators push bill that could allow residents to sue ICE agents</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d2045666406a9c9d1731e015031efb8c",
+      "summary": [
+        "Massachusetts senators propose a bill allowing residents to sue ICE agents for misconduct.",
+        "The bill aims to counteract policies from the Trump administration affecting immigrant rights.",
+        "If passed, this legislation could significantly empower Boston residents facing ICE actions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston Legacy FC unveils inaugural home uniform, dubbed the \u2018First Light\u2019 kit",
+      "link": "https://www.boston.com/sports/sports/2026/02/13/boston-legacy-fc-unveils-inaugural-home-uniform-dubbed-the-first-light-kit/",
+      "pubDate": "Fri, 13 Feb 2026 15:43:20 +0000",
+      "description": "<p>The jersey features logos of the team's sponsors, and the hem tag on the bottom \u2014 two bears holding up a soccer ball \u2014 is a nod to the Franklin Park Zoo.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/13/boston-legacy-fc-unveils-inaugural-home-uniform-dubbed-the-first-light-kit/\">Boston Legacy FC unveils inaugural home uniform, dubbed the \u2018First Light\u2019 kit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "817c655ac5fdca29a1821c48ea445690",
+      "summary": [
+        "Boston Legacy FC launches its inaugural home uniform, named the 'First Light' kit.",
+        "The kit features logos from team sponsors and a design nodding to Franklin Park Zoo.",
+        "Local fans can support the team with merchandise reflecting Boston's cultural landmarks."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots\u2019 Stefon Diggs pleads not guilty to assault allegation",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/13/patriots-stefon-diggs-pleads-not-guilty-to-assault-allegation/",
+      "pubDate": "Fri, 13 Feb 2026 15:18:53 +0000",
+      "description": "<p>The arraignment at Dedham District Court was postponed until after\u00a0Super Bowl LX\u00a0so Diggs could play in the NFL championship game.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/13/patriots-stefon-diggs-pleads-not-guilty-to-assault-allegation/\">Patriots\u2019 Stefon Diggs pleads not guilty to assault allegation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c065eed73601fb37e8cc4f473d63b1e",
+      "summary": [
+        "Stefon Diggs pleads not guilty to assault charges in Dedham District Court.",
+        "Arraignment postponed until after Super Bowl LX for Diggs to participate.",
+        "Local fans await outcome as Diggs plays a pivotal role in the Patriots' championship hopes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Six arrested in Springfield drug and gun trafficking busts",
+      "link": "https://www.boston.com/news/crime/2026/02/13/six-arrested-in-springfield-drug-and-gun-trafficking-busts/",
+      "pubDate": "Fri, 13 Feb 2026 15:09:43 +0000",
+      "description": "<p>State police seized firearms, fentanyl, cocaine, and $63,000 during two coordinated operations.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/13/six-arrested-in-springfield-drug-and-gun-trafficking-busts/\">Six arrested in Springfield drug and gun trafficking busts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "429db95af948b8a25fb5762febfce532",
+      "summary": [
+        "State police arrested six individuals in Springfield for drug and gun trafficking.",
+        "Authorities seized $63,000, fentanyl, and cocaine during the coordinated operations.",
+        "The bust aims to reduce drug-related violence affecting Boston and surrounding areas."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Dropkick Murphys cut ties with Wasserman agency after CEO\u2019s name appears in Epstein files",
       "link": "https://www.boston.com/news/entertainment/2026/02/13/dropkick-murphys-cut-ties-with-wasserman-agency-after-ceos-name-appears-in-epstein-files/",
@@ -583,71 +648,6 @@
         "Commuter rail delays and cancellations affected at least 6 lines due to signal issues.",
         "The Blue Line experienced power problems, requiring shuttle service from Orient Heights to Wonderland.",
         "Boston residents faced significant disruptions in travel, impacting daily commutes and schedules."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bud Cort, who starred in 1971\u2019s \u2018Harold and Maude,\u2019 dies at 77",
-      "link": "https://www.boston.com/news/movies/2026/02/11/bud-cort-who-starred-in-1971s-harold-and-maude-dies-at-77/",
-      "pubDate": "Thu, 12 Feb 2026 02:34:55 +0000",
-      "description": "<p>The role, one of his first, made him a household name and a film idol of the anti-establishment 1970s. But it also limited his growth as an actor.</p>\n<p>The post <a href=\"https://www.boston.com/news/movies/2026/02/11/bud-cort-who-starred-in-1971s-harold-and-maude-dies-at-77/\">Bud Cort, who starred in 1971\u2019s \u2018Harold and Maude,\u2019 dies at 77</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6cf6392b985099fa313447a03e020ca1",
-      "summary": [
-        "Bud Cort, iconic actor from 'Harold and Maude,' passed away at 77 on February 11, 2026.",
-        "Cort's role in the 1971 film made him a symbol of the 1970s anti-establishment movement.",
-        "His death may resonate with Boston's film community and fans of classic cinema."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Former Worcester councilor found guilty of assault on police officer related to ICE arrest",
-      "link": "https://www.boston.com/news/local-news/2026/02/11/former-worcester-councilor-found-guilty-of-assault-on-police-officer-related-to-ice-arrest/",
-      "pubDate": "Thu, 12 Feb 2026 01:04:48 +0000",
-      "description": "<p>Etel Haxhiaj was found guilty of assault and battery of a police office but acquitted of interfering with an officer. She was sentenced to six months probation.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/11/former-worcester-councilor-found-guilty-of-assault-on-police-officer-related-to-ice-arrest/\">Former Worcester councilor found guilty of assault on police officer related to ICE arrest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6c51c6ba78068911eea71d2dd06468c8",
-      "summary": [
-        "Etel Haxhiaj was found guilty of assaulting a police officer during an ICE arrest.",
-        "She received a sentence of six months probation after the verdict.",
-        "The case highlights ongoing tensions between local officials and immigration enforcement in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "JetBlue lounge at Logan Airport will make its debut this summer",
-      "link": "https://www.boston.com/travel/travel/2026/02/11/jetblue-lounge-logan-airport-will-make-its-debut-this-summer/",
-      "pubDate": "Thu, 12 Feb 2026 00:46:44 +0000",
-      "description": "<p>The exclusive space was first announced in 2024 alongside a similar lounge at John F. Kennedy International Airport.</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2026/02/11/jetblue-lounge-logan-airport-will-make-its-debut-this-summer/\">JetBlue lounge at Logan Airport will make its debut this summer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ddeff14874de3e78d515040ba4ce7c29",
-      "summary": [
-        "JetBlue will open a new lounge at Logan Airport this summer.",
-        "The lounge was first announced in 2024, alongside JFK's similar facility.",
-        "Boston travelers will gain access to exclusive amenities and services."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "ESPN predicts Patriots will target offensive lineman with 1st-round pick in 2026 NFL Draft",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/11/new-england-patriots-mock-draft-nfl-football-offensive-lineman-caleb-lomu-utah/",
-      "pubDate": "Thu, 12 Feb 2026 00:23:55 +0000",
-      "description": "<p>\"The 6-foot-6, 304-pounder is already a solid pass protector who did not allow a single sack in 2025.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/11/new-england-patriots-mock-draft-nfl-football-offensive-lineman-caleb-lomu-utah/\">ESPN predicts Patriots will target offensive lineman with 1st-round pick in 2026 NFL Draft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9e93588497af0152d7a337b5e305ebac",
-      "summary": [
-        "ESPN predicts Patriots will select offensive lineman Caleb Lomu in 2026 NFL Draft.",
-        "Lomu, a 6-foot-6, 304-pound player, did not allow any sacks in 2025.",
-        "This pick could strengthen the Patriots' offensive line, impacting local fans and team performance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New Red Sox Caleb Durbin models his game after former Boston MVP",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/11/caleb-durbin-boston-red-sox-dustin-pedroia-mlb-baseball/",
-      "pubDate": "Thu, 12 Feb 2026 00:15:54 +0000",
-      "description": "<p>\u201cObviously, long way to go, but he was a dude that I really enjoyed watching.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/11/caleb-durbin-boston-red-sox-dustin-pedroia-mlb-baseball/\">New Red Sox Caleb Durbin models his game after former Boston MVP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1d62bbdbf63e58fbda1e4b0161fe4dcf",
-      "summary": [
-        "Caleb Durbin joins the Red Sox, aiming to emulate MVP Dustin Pedroia's playing style.",
-        "Durbin expresses admiration for Pedroia, highlighting his influence on his game.",
-        "Boston fans may see a new player inspired by a beloved local sports icon."
       ],
       "hookType": "LOCAL_IMPACT"
     }
