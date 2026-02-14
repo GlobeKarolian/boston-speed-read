@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-14T10:31:22.754903+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-14T12:57:38.271940+00:00",
+  "articles": [
+    {
+      "title": "Minnesota shooting of Venezuelan man is the latest where video evidence contradicts ICE accounts",
+      "link": "https://www.boston.com/news/crime/2026/02/14/minnesota-shooting-of-venezuelan-man-is-the-latest-where-video-evidence-contradicts-ice-accounts/",
+      "pubDate": "Sat, 14 Feb 2026 12:53:28 +0000",
+      "description": "<p>It is among at least five shootings in which initial descriptions by the immigration officials were later contradicted by\u00a0video evidence.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/14/minnesota-shooting-of-venezuelan-man-is-the-latest-where-video-evidence-contradicts-ice-accounts/\">Minnesota shooting of Venezuelan man is the latest where video evidence contradicts ICE accounts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c49d3984d4d4c0015d54d81db8c00966",
+      "summary": [
+        "Video evidence contradicts ICE accounts in recent Minnesota shooting of a Venezuelan man.",
+        "This incident is one of at least five similar cases involving ICE misstatements.",
+        "Boston residents may question ICE's credibility and accountability in local immigration enforcement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-14T10:31:22.754910+00:00"
+    "timestamp": "2026-02-14T12:57:38.271959+00:00"
   }
 }
