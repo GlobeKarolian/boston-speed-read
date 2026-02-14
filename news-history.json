@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-13T22:37:38.343748+00:00",
+  "lastUpdated": "2026-02-14T02:26:15.594615+00:00",
   "articles": [
+    {
+      "title": "Report: Patriots QBs coach Ashton Grant to stay in New England, won\u2019t take OC interviews",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/13/patriots-quarterbacks-coach-ashton-grant-drake-maye/",
+      "pubDate": "Sat, 14 Feb 2026 00:56:54 +0000",
+      "description": "<p>Grant, a former wide receiver at Assumption University, played a major role in Drake Maye\u2019s second-year jump.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/13/patriots-quarterbacks-coach-ashton-grant-drake-maye/\">Report: Patriots QBs coach Ashton Grant to stay in New England, won\u2019t take OC interviews</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d6200b53d300b54a2e48f08c2531650",
+      "summary": [
+        "Patriots QBs coach Ashton Grant will remain in New England, declining OC interviews.",
+        "Grant previously contributed to Drake Maye's development at Assumption University.",
+        "His decision supports stability for the Patriots' quarterback development in 2023."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Brighton community raises $25k for flooded barbershop",
+      "link": "https://www.boston.com/news/local-news/2026/02/13/brighton-community-raises-25k-for-flooded-barbershop/",
+      "pubDate": "Fri, 13 Feb 2026 23:46:58 +0000",
+      "description": "<p>After a burst pipe devastated Matt's Barber Shop, one customer launched a GoFundMe to help the business.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/13/brighton-community-raises-25k-for-flooded-barbershop/\">Brighton community raises $25k for flooded barbershop</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fd9f6a89dec31527469209e767915936",
+      "summary": [
+        "Brighton community raised $25,000 for Matt's Barber Shop after a burst pipe.",
+        "Customer launched a GoFundMe campaign to support the flooded business.",
+        "Funds will help restore a local business vital to the community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "5 must-watch movies & TV shows streaming right now",
       "link": "https://www.boston.com/culture/streaming/2026/02/13/new-movies-tv-shows-watch-streaming-now-february-13-2026/",
@@ -622,32 +648,6 @@
         "EPA revokes 2009 endangerment finding on greenhouse gases, impacting climate policy.",
         "This decision affects Boston's air quality and public health initiatives.",
         "Local environmental groups may face challenges in advocating for climate action."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Massachusetts emergency room wait times rank among the longest in the U.S.",
-      "link": "https://www.boston.com/news/local-news/2026/02/12/massachusetts-ranks-emergency-room-wait-times/",
-      "pubDate": "Thu, 12 Feb 2026 18:29:57 +0000",
-      "description": "<p>Patients spend an average of 189 minutes \u2014 more than three hours \u2014 in the emergency department, and longer stays have become more common. What was your experience like? </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/12/massachusetts-ranks-emergency-room-wait-times/\">Massachusetts emergency room wait times rank among the longest in the U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "48dfe5c28a6ed376baeed78713a87686",
-      "summary": [
-        "Patients in Massachusetts wait an average of 189 minutes in emergency rooms.",
-        "Longer emergency room stays have become increasingly common across the state.",
-        "Boston residents may face delays in receiving urgent medical care due to these wait times."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Report: Retired 5x Pro Bowl left-tackle offers to help train Will Campbell",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/12/terron-armstead-will-campbell/",
-      "pubDate": "Thu, 12 Feb 2026 18:25:47 +0000",
-      "description": "<p>Terron Armstead said Campbell's technique could use some work and volunteered to help him. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/12/terron-armstead-will-campbell/\">Report: Retired 5x Pro Bowl left-tackle offers to help train Will Campbell</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e858986362c971927d60b9292084d1d7",
-      "summary": [
-        "Terron Armstead, a retired Pro Bowl left-tackle, offers training to Will Campbell.",
-        "Armstead identifies areas for improvement in Campbell's technique as he prepares for the NFL.",
-        "This mentorship could enhance Campbell's performance for the New England Patriots in upcoming seasons."
       ],
       "hookType": "LOCAL_IMPACT"
     }
