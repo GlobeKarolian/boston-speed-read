@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-02-14T02:26:15.593787+00:00",
+  "lastUpdated": "2026-02-14T05:11:21.956076+00:00",
   "articles": [
     {
-      "title": "Report: Patriots QBs coach Ashton Grant to stay in New England, won\u2019t take OC interviews",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/13/patriots-quarterbacks-coach-ashton-grant-drake-maye/",
-      "pubDate": "Sat, 14 Feb 2026 00:56:54 +0000",
-      "description": "<p>Grant, a former wide receiver at Assumption University, played a major role in Drake Maye\u2019s second-year jump.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/13/patriots-quarterbacks-coach-ashton-grant-drake-maye/\">Report: Patriots QBs coach Ashton Grant to stay in New England, won\u2019t take OC interviews</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6d6200b53d300b54a2e48f08c2531650",
+      "title": "\u2018We\u2019ll see how it plays out\u2019: Caleb Durbin, Marcelo Mayer each to practice at 2B, 3B to begin spring training",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/13/red-sox-infield-caleb-durbin-marcelo-mayer-spring-training/",
+      "pubDate": "Sat, 14 Feb 2026 02:51:06 +0000",
+      "description": "<p>Manager Alex Cora reiterated that he's been \"through this dance\" last year, in regard to determining who will play third base.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/13/red-sox-infield-caleb-durbin-marcelo-mayer-spring-training/\">\u2018We\u2019ll see how it plays out\u2019: Caleb Durbin, Marcelo Mayer each to practice at 2B, 3B to begin spring training</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1551f6b5a982c1aea17517680e8893b8",
       "summary": [
-        "Patriots QBs coach Ashton Grant will remain in New England, declining OC interviews.",
-        "Grant previously contributed to Drake Maye's development at Assumption University.",
-        "His decision supports stability for the Patriots' quarterback development in 2023."
+        "Caleb Durbin and Marcelo Mayer will practice at second and third base during spring training.",
+        "Manager Alex Cora emphasizes the importance of evaluating infield positions, similar to last year's process.",
+        "Boston Red Sox fans can expect competitive infield dynamics as roster decisions unfold."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Brighton community raises $25k for flooded barbershop",
-      "link": "https://www.boston.com/news/local-news/2026/02/13/brighton-community-raises-25k-for-flooded-barbershop/",
-      "pubDate": "Fri, 13 Feb 2026 23:46:58 +0000",
-      "description": "<p>After a burst pipe devastated Matt's Barber Shop, one customer launched a GoFundMe to help the business.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/13/brighton-community-raises-25k-for-flooded-barbershop/\">Brighton community raises $25k for flooded barbershop</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fd9f6a89dec31527469209e767915936",
+      "title": "Journalist Don Lemon pleads not guilty to civil rights charges in Minnesota church protest",
+      "link": "https://www.boston.com/news/national-news/2026/02/13/journalist-don-lemon-pleads-not-guilty-to-civil-rights-charges-in-minnesota-church-protest/",
+      "pubDate": "Sat, 14 Feb 2026 02:37:18 +0000",
+      "description": "<p>Dozens of supporters gathered outside the courthouse, chanting \u201cPam Bondi has got to go\u201d and \u201cProtect the press.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/13/journalist-don-lemon-pleads-not-guilty-to-civil-rights-charges-in-minnesota-church-protest/\">Journalist Don Lemon pleads not guilty to civil rights charges in Minnesota church protest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1c0c986a053d03e84029976eca6e5e76",
       "summary": [
-        "Brighton community raised $25,000 for Matt's Barber Shop after a burst pipe.",
-        "Customer launched a GoFundMe campaign to support the flooded business.",
-        "Funds will help restore a local business vital to the community."
+        "Don Lemon pleads not guilty to civil rights charges related to a protest.",
+        "Supporters gathered outside the courthouse, chanting against Pam Bondi.",
+        "The case highlights ongoing tensions around press freedom in Boston and beyond."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Judge gives the US 2 weeks to retrieve student deported to Honduras while traveling for Thanksgiving",
+      "link": "https://www.boston.com/news/local-news/2026/02/13/judge-gives-us-2-weeks-to-retrieve-student-deported-to-honduras-while-traveling-for-thanksgiving/",
+      "pubDate": "Sat, 14 Feb 2026 02:27:51 +0000",
+      "description": "<p>Lopez Belloza, who has no criminal history, was detained at Boston's airport Nov. 20 as she prepared to fly home to Texas for the holiday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/13/judge-gives-us-2-weeks-to-retrieve-student-deported-to-honduras-while-traveling-for-thanksgiving/\">Judge gives the US 2 weeks to retrieve student deported to Honduras while traveling for Thanksgiving</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6b621ed8b5b0d73eddafce87c1927b2b",
+      "summary": [
+        "Lopez Belloza was detained at Boston's airport on November 20 while traveling for Thanksgiving.",
+        "A judge has given the US two weeks to retrieve her from Honduras.",
+        "The case highlights ongoing concerns about immigration enforcement affecting Boston students."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-02-14T02:26:15.593809+00:00"
+    "timestamp": "2026-02-14T05:11:21.956095+00:00"
   }
 }
