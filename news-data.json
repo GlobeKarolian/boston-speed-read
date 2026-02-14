@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-02-14T12:57:38.271940+00:00",
+  "lastUpdated": "2026-02-14T14:31:01.397883+00:00",
   "articles": [
     {
-      "title": "Minnesota shooting of Venezuelan man is the latest where video evidence contradicts ICE accounts",
-      "link": "https://www.boston.com/news/crime/2026/02/14/minnesota-shooting-of-venezuelan-man-is-the-latest-where-video-evidence-contradicts-ice-accounts/",
-      "pubDate": "Sat, 14 Feb 2026 12:53:28 +0000",
-      "description": "<p>It is among at least five shootings in which initial descriptions by the immigration officials were later contradicted by\u00a0video evidence.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/14/minnesota-shooting-of-venezuelan-man-is-the-latest-where-video-evidence-contradicts-ice-accounts/\">Minnesota shooting of Venezuelan man is the latest where video evidence contradicts ICE accounts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c49d3984d4d4c0015d54d81db8c00966",
+      "title": "Another child has died of the flu in Mass.",
+      "link": "https://www.boston.com/news/local-news/2026/02/14/another-child-has-died-of-the-flu-in-mass/",
+      "pubDate": "Sat, 14 Feb 2026 14:05:48 +0000",
+      "description": "<p>A total of 260 people have died from flu-related causes in Massachusetts this season.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/14/another-child-has-died-of-the-flu-in-mass/\">Another child has died of the flu in Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e9ea36316e0b066919f01a5da2e1818e",
       "summary": [
-        "Video evidence contradicts ICE accounts in recent Minnesota shooting of a Venezuelan man.",
-        "This incident is one of at least five similar cases involving ICE misstatements.",
-        "Boston residents may question ICE's credibility and accountability in local immigration enforcement."
+        "Another child has died from the flu in Massachusetts this season.",
+        "A total of 260 flu-related deaths have been reported in the state.",
+        "Residents are urged to get vaccinated to prevent further fatalities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. police department offers \u2018Valentine\u2019s Day Special\u2019 for wanted exes",
+      "link": "https://www.boston.com/news/local-news/2026/02/14/mass-police-department-offers-valentines-day-special-for-wanted-exes/",
+      "pubDate": "Sat, 14 Feb 2026 13:47:05 +0000",
+      "description": "<p>\u201cRemember \u2014 love fades. Warrants don\u2019t.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/14/mass-police-department-offers-valentines-day-special-for-wanted-exes/\">Mass. police department offers \u2018Valentine\u2019s Day Special\u2019 for wanted exes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "13c12b17414cf73b6f51789e5cab4b11",
+      "summary": [
+        "Massachusetts police offer a 'Valentine\u2019s Day Special' for apprehending wanted exes.",
+        "The campaign highlights ongoing warrants, encouraging community engagement in law enforcement.",
+        "Residents are reminded that love fades, but legal issues remain unresolved."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-14T12:57:38.271959+00:00"
+    "timestamp": "2026-02-14T14:31:01.397902+00:00"
   }
 }
