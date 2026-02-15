@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-15T05:20:38.993757+00:00",
+  "lastUpdated": "2026-02-15T13:00:07.216514+00:00",
   "articles": [
+    {
+      "title": "Four new astronauts arrive at the International Space Station to replace NASA\u2019s evacuated crew",
+      "link": "https://www.boston.com/news/science/2026/02/15/four-new-astronauts-arrive-at-the-international-space-station-to-replace-nasas-evacuated-crew/",
+      "pubDate": "Sun, 15 Feb 2026 12:30:19 +0000",
+      "description": "<p>SpaceX delivered the U.S., French and Russian astronauts a day after launching them from Cape Canaveral.</p>\n<p>The post <a href=\"https://www.boston.com/news/science/2026/02/15/four-new-astronauts-arrive-at-the-international-space-station-to-replace-nasas-evacuated-crew/\">Four new astronauts arrive at the International Space Station to replace NASA&#8217;s evacuated crew</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a784627e7c33a3b31882405b457ef117",
+      "summary": [
+        "Four astronauts arrived at the ISS on February 15, 2026, after SpaceX launch.",
+        "NASA's crew was evacuated, prompting the arrival of U.S., French, and Russian replacements.",
+        "Boston residents benefit from ongoing space research and technology advancements from the ISS."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "TSA agents are working without pay at US airports due to another shutdown",
+      "link": "https://www.boston.com/news/politics/2026/02/15/tsa-agents-are-working-without-pay-at-us-airports-due-to-another-shutdown/",
+      "pubDate": "Sun, 15 Feb 2026 12:22:10 +0000",
+      "description": "<p>TSA officers also worked through the record shutdown that ended Nov. 12, but aviation experts say this one may play out differently.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/02/15/tsa-agents-are-working-without-pay-at-us-airports-due-to-another-shutdown/\">TSA agents are working without pay at US airports due to another shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "37ee49809f03dd2d9e8462585c6a2d2a",
+      "summary": [
+        "TSA agents at Boston Logan Airport are working without pay during the current government shutdown.",
+        "This shutdown follows a record closure that ended on November 12, 2023.",
+        "Local travelers may experience longer wait times due to reduced TSA staffing."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Jeremy Swayman shares humorous response to regrettable goal in first Olympic start",
       "link": "https://www.boston.com/sports/boston-bruins/2026/02/14/team-usa-olympics-hockey-jeremy-swayman/",
@@ -622,32 +648,6 @@
         "FSBO can save Boston sellers thousands in broker fees, but it's complex.",
         "Many Boston homeowners are considering FSBO to avoid high commission costs.",
         "Local real estate experts warn of potential pitfalls in self-selling homes."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2026/02/13/greater-boston-news-quiz-feb-13-2026-super-bowl-boston-restaurants-affleck-dunkin/",
-      "pubDate": "Fri, 13 Feb 2026 11:32:36 +0000",
-      "description": "<p>Super Bowl fallout, an odor argument, and a Ben Affleck throwback are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/13/greater-boston-news-quiz-feb-13-2026-super-bowl-boston-restaurants-affleck-dunkin/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c4003be3e454535ea57201ebbee2fe6e",
-      "summary": [
-        "Review Super Bowl-related impacts on local businesses and restaurants in Boston.",
-        "Participate in the Greater Boston news quiz to test your local knowledge.",
-        "Engage with community discussions about recent odor issues affecting neighborhoods."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "MBTA Hingham ferry service canceled for Feb. 13 due to ice in the harbor",
-      "link": "https://www.boston.com/travel/local-news/2026/02/12/mbta-hingham-ferry-service-canceled-for-feb-13-due-to-ice-in-the-harbor/",
-      "pubDate": "Fri, 13 Feb 2026 03:19:08 +0000",
-      "description": "<p>The ferry is experiencing more cancellations than usual this winter due to thick ice brought on by the recent snow storm.</p>\n<p>The post <a href=\"https://www.boston.com/travel/local-news/2026/02/12/mbta-hingham-ferry-service-canceled-for-feb-13-due-to-ice-in-the-harbor/\">MBTA Hingham ferry service canceled for Feb. 13 due to ice in the harbor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4ff89d8dfc764c283750425839778b0d",
-      "summary": [
-        "MBTA canceled Hingham ferry service on February 13 due to ice in the harbor.",
-        "Cancellations are increasing this winter due to thick ice from recent snow storms.",
-        "Boston residents relying on ferry service face transportation disruptions this winter."
       ],
       "hookType": "LOCAL_IMPACT"
     }
