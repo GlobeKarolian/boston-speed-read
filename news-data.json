@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-02-15T14:31:41.302971+00:00",
+  "lastUpdated": "2026-02-15T16:36:23.045738+00:00",
   "articles": [
     {
-      "title": "As some people push to make profound autism its own diagnosis, this Ayer family is raising twins with it",
-      "link": "https://www.boston.com/news/local-news/2026/02/15/as-some-people-push-to-make-profound-autism-its-own-diagnosis-this-ayer-family-is-raising-twins-with-it/",
-      "pubDate": "Sun, 15 Feb 2026 13:58:39 +0000",
-      "description": "<p>Some in the autism community worry that a separate diagnosis would reduce attention to individuals on the broader spectrum.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/15/as-some-people-push-to-make-profound-autism-its-own-diagnosis-this-ayer-family-is-raising-twins-with-it/\">As some people push to make profound autism its own diagnosis, this Ayer family is raising twins with it</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3641d48df4ad3db17f81a4ec4c6f5a1a",
+      "title": "Whether it\u2019s a mini-sabbatical or an adult gap year, more people are taking extended work breaks",
+      "link": "https://www.boston.com/news/business/2026/02/15/whether-its-a-mini-sabbatical-or-an-adult-gap-year-more-people-are-taking-extended-work-breaks/",
+      "pubDate": "Sun, 15 Feb 2026 15:35:25 +0000",
+      "description": "<p>More companies are allowing weeks or months of paid or unpaid leave as a way to retain valued employees.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/02/15/whether-its-a-mini-sabbatical-or-an-adult-gap-year-more-people-are-taking-extended-work-breaks/\">Whether it&#8217;s a mini-sabbatical or an adult gap year, more people are taking extended work breaks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9080be19c70ea76c3f8b79ba7026015b",
       "summary": [
-        "Ayer family raises twins diagnosed with profound autism, highlighting unique challenges.",
-        "Community debates separate diagnosis for profound autism, affecting broader autism spectrum awareness.",
-        "Potential changes in diagnosis may impact resources and support for Boston families with autism."
+        "Companies in Boston are increasingly offering paid or unpaid leave to retain employees.",
+        "Extended work breaks are becoming popular among local professionals seeking better work-life balance.",
+        "This trend may lead to improved employee satisfaction and retention rates in Boston's workforce."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. men sentenced to prison for mail theft, check fraud scheme",
+      "link": "https://www.boston.com/news/crime/2026/02/15/mass-men-sentenced-to-prison-for-mail-theft-check-fraud-scheme/",
+      "pubDate": "Sun, 15 Feb 2026 15:22:31 +0000",
+      "description": "<p>The men worked with co-conspirators to steal mailed checks and redeposit them into bank accounts that they controlled.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/15/mass-men-sentenced-to-prison-for-mail-theft-check-fraud-scheme/\">Mass. men sentenced to prison for mail theft, check fraud scheme</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0569925e9bd278f3980a2a2ee8c48ae4",
+      "summary": [
+        "Two Massachusetts men were sentenced for a mail theft and check fraud scheme.",
+        "They stole checks and redeposited them into accounts they controlled, affecting local residents.",
+        "The scheme raises concerns about mail security and financial safety in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Milford teen detained by ICE last year invited to State of the Union address",
+      "link": "https://www.boston.com/news/local-news/2026/02/15/milford-teen-detained-by-ice-last-year-invited-to-state-of-the-union-address/",
+      "pubDate": "Sun, 15 Feb 2026 14:51:06 +0000",
+      "description": "<p>Rep. Seth Moulton, who invited the teen to the Capitol, said his story \u201ccaptures what\u2019s broken in our immigration system.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/15/milford-teen-detained-by-ice-last-year-invited-to-state-of-the-union-address/\">Milford teen detained by ICE last year invited to State of the Union address</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b62085a6905e905ae8e3a5d63131930b",
+      "summary": [
+        "Milford teen invited to State of the Union by Rep. Seth Moulton.",
+        "Teen's detention by ICE last year highlights immigration system issues.",
+        "Event raises awareness among Boston residents about local immigration challenges."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-02-15T14:31:41.302987+00:00"
+    "timestamp": "2026-02-15T16:36:23.045755+00:00"
   }
 }
