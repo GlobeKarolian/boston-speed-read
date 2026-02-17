@@ -1,23 +1,75 @@
 {
-  "lastUpdated": "2026-02-17T13:12:30.838960+00:00",
+  "lastUpdated": "2026-02-17T14:51:42.189886+00:00",
   "articles": [
     {
-      "title": "Former commercial building in Pittsfield is now a $325K industrial-style home for someone to \u2018love\u2019",
-      "link": "https://www.boston.com/real-estate/real-estate/2026/02/17/pittsfield-western-massachusetts-love-mural-house/",
-      "pubDate": "Tue, 17 Feb 2026 12:00:00 +0000",
-      "description": "<p>The \u201cLove\u201d mural has become a bit of a landmark, and is included on a walking tour of the downtown area.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/17/pittsfield-western-massachusetts-love-mural-house/\">Former commercial building in Pittsfield is now a $325K industrial-style home for someone to &#8216;love&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1a9c039e39ef443a8f1ba1438e931a7c",
+      "title": "Hanover, Mass. woman killed while sunbathing in Florida is identified",
+      "link": "https://www.boston.com/news/local-news/2026/02/17/hanover-mass-woman-killed-while-sunbathing-in-florida-is-identified/",
+      "pubDate": "Tue, 17 Feb 2026 14:22:20 +0000",
+      "description": "<p>Anastasia Fiona Ullman is remembered as an active member of the South Weymouth Church of the Nazarene and the Hanover Council on Aging, her obituary says.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/17/hanover-mass-woman-killed-while-sunbathing-in-florida-is-identified/\">Hanover, Mass. woman killed while sunbathing in Florida is identified</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "31527495056f03d2c8ffccd70f933b7b",
       "summary": [
-        "Pittsfield transforms a former commercial building into a $325K industrial-style home.",
-        "The 'Love' mural, a local landmark, is featured on downtown walking tours.",
-        "This renovation contributes to the revitalization of Pittsfield's downtown area."
+        "Anastasia Fiona Ullman, 62, from Hanover, was killed while sunbathing in Florida.",
+        "She was an active member of the South Weymouth Church of the Nazarene.",
+        "Her death impacts the Hanover Council on Aging and local community members."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Here\u2019s what Boston meteorologists are saying about the \u2018super active\u2019 weather pattern ahead",
+      "link": "https://www.boston.com/weather/weather/2026/02/17/heres-what-boston-meteorologists-are-saying-about-the-super-active-weather-pattern-ahead/",
+      "pubDate": "Tue, 17 Feb 2026 14:19:30 +0000",
+      "description": "<p>\"Does the weather app on your phone say snow every day?\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/17/heres-what-boston-meteorologists-are-saying-about-the-super-active-weather-pattern-ahead/\">Here&#8217;s what Boston meteorologists are saying about the &#8216;super active&#8217; weather pattern ahead</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "eda018722d41c24d068479426813cb06",
+      "summary": [
+        "Meteorologists predict a 'super active' weather pattern affecting Boston through February.",
+        "Expect multiple snow events with accumulations potentially exceeding 10 inches this month.",
+        "Residents should prepare for disruptions in travel and daily activities due to severe weather."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Tiffani Faison opens new restaurant Tigerbaby at High Street Place",
+      "link": "https://www.boston.com/food/restaurants/2026/02/17/tiffani-faison-opens-tigerbaby-high-street-place/",
+      "pubDate": "Tue, 17 Feb 2026 14:01:00 +0000",
+      "description": "<p>The counter-service restaurant serves Asian cuisine and draws inspiration from Tiger Mama, a former Faison restaurant. </p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/02/17/tiffani-faison-opens-tigerbaby-high-street-place/\">Tiffani Faison opens new restaurant Tigerbaby at High Street Place</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "223f037b3b45dc44e72acc109b54e119",
+      "summary": [
+        "Tiffani Faison opens Tigerbaby, a new Asian cuisine restaurant, at High Street Place.",
+        "Tigerbaby draws inspiration from Faison's previous restaurant, Tiger Mama, enhancing local dining options.",
+        "The counter-service format aims to provide quick, accessible meals for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "6 maps predicting Wednesday\u2019s snowfall totals",
+      "link": "https://www.boston.com/weather/weather/2026/02/17/boston-ma-snow-maps-wednesday-feb-18-2026/",
+      "pubDate": "Tue, 17 Feb 2026 14:00:13 +0000",
+      "description": "<p>\"Rain will develop around midday changing to snow from north to south and roads may get slick after dark.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/17/boston-ma-snow-maps-wednesday-feb-18-2026/\">6 maps predicting Wednesday&#8217;s snowfall totals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6eb85e716d2ae5c951110a2b91b0c949",
+      "summary": [
+        "Rain will transition to snow in Boston on Wednesday, February 18, 2026.",
+        "Snowfall predictions indicate slick roads after dark, impacting evening commutes.",
+        "Residents should prepare for hazardous driving conditions due to expected snowfall totals."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The Rev. Jesse Jackson, who led the Civil Rights Movement for decades after King, has died at 84",
+      "link": "https://www.boston.com/news/national-news/2026/02/17/rev-jesse-jackson-dies/",
+      "pubDate": "Tue, 17 Feb 2026 13:32:12 +0000",
+      "description": "<p>Jackson led a lifetime of crusades in the U.S and abroad, advocating for the poor and underrepresented on issues from voting rights and job opportunities to education and health care.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/17/rev-jesse-jackson-dies/\">The Rev. Jesse Jackson, who led the Civil Rights Movement for decades after King, has died at 84</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bd49d68fad12d7adfd1f9db7e61b6639",
+      "summary": [
+        "Rev. Jesse Jackson, a Civil Rights leader, died at 84 on February 17, 2026.",
+        "Jackson advocated for voting rights and job opportunities for marginalized communities.",
+        "His passing may impact ongoing civil rights initiatives in Boston and beyond."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-02-17T13:12:30.838978+00:00"
+    "timestamp": "2026-02-17T14:51:42.189907+00:00"
   }
 }
