@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-17T10:51:19.978679+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-17T13:12:30.838960+00:00",
+  "articles": [
+    {
+      "title": "Former commercial building in Pittsfield is now a $325K industrial-style home for someone to \u2018love\u2019",
+      "link": "https://www.boston.com/real-estate/real-estate/2026/02/17/pittsfield-western-massachusetts-love-mural-house/",
+      "pubDate": "Tue, 17 Feb 2026 12:00:00 +0000",
+      "description": "<p>The \u201cLove\u201d mural has become a bit of a landmark, and is included on a walking tour of the downtown area.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate/2026/02/17/pittsfield-western-massachusetts-love-mural-house/\">Former commercial building in Pittsfield is now a $325K industrial-style home for someone to &#8216;love&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1a9c039e39ef443a8f1ba1438e931a7c",
+      "summary": [
+        "Pittsfield transforms a former commercial building into a $325K industrial-style home.",
+        "The 'Love' mural, a local landmark, is featured on downtown walking tours.",
+        "This renovation contributes to the revitalization of Pittsfield's downtown area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-17T10:51:19.978688+00:00"
+    "timestamp": "2026-02-17T13:12:30.838978+00:00"
   }
 }
