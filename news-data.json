@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-18T08:52:35.303688+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-18T10:51:34.758111+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Feb. 18)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2026/02/18/recent-homes-sales-in-greater-boston-feb-18/",
+      "pubDate": "Wed, 18 Feb 2026 10:00:00 +0000",
+      "description": "<p>ABINGTON 840 Hancock St. One-family Colonial, built in 1984, 1,872 square feet, 7 rooms, 4 bedrooms, 3 baths, on 100,169-square-foot lot. $705,000 193 Linwood St. One-family ranch, built in 1955, 1,178 square feet, 5 rooms, 2 bedrooms, 2 baths, on 68,370-square-foot lot. $610,000 29 West St. One-family conventional, built in 1890, 1,360 square feet, 7 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/02/18/recent-homes-sales-in-greater-boston-feb-18/\">Recent homes sales in Greater Boston (Feb. 18)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c3447254ebe5bc8a79acfb34373f408e",
+      "summary": [
+        "Abington home sales included a Colonial at 840 Hancock St. for $705,000.",
+        "A ranch at 193 Linwood St. sold for $610,000, impacting local housing market dynamics.",
+        "Increased home prices may affect affordability for Boston residents seeking new properties."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-18T08:52:35.303698+00:00"
+    "timestamp": "2026-02-18T10:51:34.758131+00:00"
   }
 }
