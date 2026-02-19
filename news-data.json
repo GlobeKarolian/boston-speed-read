@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-02-19T20:37:53.971697+00:00",
+  "lastUpdated": "2026-02-19T22:36:21.746564+00:00",
   "articles": [
     {
-      "title": "Bruins, Marco Sturm must do their \u2018homework\u2019 to fix team\u2019s top flaw for stretch run",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/02/19/boston-bruins-penalty-kill-nhl-hockey-marco-sturm-penalties-playoffs/",
-      "pubDate": "Thu, 19 Feb 2026 20:04:45 +0000",
-      "description": "<p>\u201cWe\u2019re going to change [it] a little bit moving forward.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/19/boston-bruins-penalty-kill-nhl-hockey-marco-sturm-penalties-playoffs/\">Bruins, Marco Sturm must do their \u2018homework\u2019 to fix team\u2019s top flaw for stretch run</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "334db337c14eec215d1e9d08d094fe7d",
+      "title": "Boston Fleet\u2019s Megan Keller scores in OT to give the United States Olympic gold in women\u2019s hockey",
+      "link": "https://www.boston.com/sports/sports/2026/02/19/boston-fleets-megan-keller-scores-in-ot-to-give-the-united-states-olympic-gold-in-womens-hockey/",
+      "pubDate": "Thu, 19 Feb 2026 21:30:17 +0000",
+      "description": "<p>Defender Megan Keller backhanded in a shot 4:07 into overtime and the United States won its third women&#8217;s hockey gold medal with a 2-1 victory over Canada at the Milan Cortina Games to close another thrilling chapter of one of sports most heated rivalries</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/02/19/boston-fleets-megan-keller-scores-in-ot-to-give-the-united-states-olympic-gold-in-womens-hockey/\">Boston Fleet&#8217;s Megan Keller scores in OT to give the United States Olympic gold in women&#8217;s hockey</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9b64c4db929556b85262e3ccd6439e7e",
       "summary": [
-        "Bruins' Marco Sturm emphasizes improving the team's penalty kill strategy for upcoming games.",
-        "The team plans adjustments ahead of the NHL playoffs starting in April 2026.",
-        "Local fans hope these changes will enhance the Bruins' chances for a successful playoff run."
+        "Megan Keller scored in overtime, securing the U.S. women's hockey gold medal.",
+        "The victory marked the U.S.'s third gold in women's hockey at the Olympics.",
+        "Boston residents celebrate Keller's achievement, highlighting local talent on an international stage."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "This Boston Marathon bombing survivor is running with Miles for Miracles",
-      "link": "https://www.boston.com/community/boston-marathon/2026/02/19/juliana-hermenegildo-miles-for-miracles/",
-      "pubDate": "Thu, 19 Feb 2026 19:28:00 +0000",
-      "description": "<p>\"Running the Boston Marathon this year as part of the Miles for Miracles Team is my way to heal from my own trauma, and honor and support my son and the many brave little warriors at BCH.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/02/19/juliana-hermenegildo-miles-for-miracles/\">This Boston Marathon bombing survivor is running with Miles for Miracles</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "db3d61f39a07869d2da8eba122fae198",
+      "title": "Anti-abortion center\u2019s lawsuit against Mass. officials gets tossed",
+      "link": "https://www.boston.com/news/local-news/2026/02/19/anti-abortion-centers-lawsuit-mass-officials-dismissed/",
+      "pubDate": "Thu, 19 Feb 2026 21:10:35 +0000",
+      "description": "<p>Lawyers for Your Options Medical have vowed to appeal the dismissal.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/19/anti-abortion-centers-lawsuit-mass-officials-dismissed/\">Anti-abortion center&#8217;s lawsuit against Mass. officials gets tossed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "77aa63c8291342d8c0b63e36d2f528be",
       "summary": [
-        "Boston Marathon bombing survivor Juliana Hermenegildo joins Miles for Miracles team.",
-        "She aims to support Boston Children's Hospital and honor her son.",
-        "Event promotes healing and community support for local trauma survivors."
+        "Massachusetts officials dismissed a lawsuit from Your Options Medical on February 19, 2026.",
+        "Lawyers for the anti-abortion center plan to appeal the dismissal.",
+        "The ruling affects local access to reproductive health services in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump visits Georgia, a target of his election falsehoods, as Republicans look for midterm boost",
+      "link": "https://www.boston.com/news/politics/2026/02/19/trump-visits-georgia-a-target-of-his-election-falsehoods-as-republicans-look-for-midterm-boost/",
+      "pubDate": "Thu, 19 Feb 2026 21:05:47 +0000",
+      "description": "<p>In the opening minutes of his first stop at a local restaurant, the president raised the prospect of voter fraud without evidence, talked up his plan to require voters to\u00a0show identification before casting ballots, and discussed the recent FBI raid of election offices in the state's most populous county.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/02/19/trump-visits-georgia-a-target-of-his-election-falsehoods-as-republicans-look-for-midterm-boost/\">Trump visits Georgia, a target of his election falsehoods, as Republicans look for midterm boost</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "969c984d5ca29ab46cf88eaa0ce0166e",
+      "summary": [
+        "Trump visited Georgia, discussing voter ID requirements and election integrity on February 19, 2026.",
+        "He raised unfounded claims of voter fraud, impacting local perceptions of election security.",
+        "Republican strategies may influence upcoming midterm elections in Boston and statewide voter engagement."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-02-19T20:37:53.971717+00:00"
+    "timestamp": "2026-02-19T22:36:21.746584+00:00"
   }
 }
