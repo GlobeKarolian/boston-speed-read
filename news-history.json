@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-20T05:17:31.705170+00:00",
+  "lastUpdated": "2026-02-20T13:07:09.072232+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/02/20/greater-boston-news-quiz-feb-20-2026-springsteen-cape-cod-diner-kevin-lemanowicz/",
+      "pubDate": "Fri, 20 Feb 2026 11:43:53 +0000",
+      "description": "<p>A Cape institution, the return of The Boss, and a leaving meteorologist are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/20/greater-boston-news-quiz-feb-20-2026-springsteen-cape-cod-diner-kevin-lemanowicz/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e3900e9c0f4bcfdc82b8b0d63d56b173",
+      "summary": [
+        "The Boss returns to Boston for a concert this spring.",
+        "Kevin Lemanowicz, a local meteorologist, announces his departure after years on air.",
+        "Cape Cod diner, a local favorite, is reopening to serve residents again."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "\u2018Bye Bridget\u2019: Somerville bakery claps back at internet \u2018troll\u2019 with a line of merch",
       "link": "https://www.boston.com/news/local-news/2026/02/19/bye-bridget-somerville-bakery-claps-back-at-internet-troll-with-a-line-of-merch/",
@@ -635,19 +648,6 @@
         "Raiders unlikely to trade Maxx Crosby, according to Adam Schefter.",
         "Crosby would require a trade package similar to Micah Parsons.",
         "Patriots' potential trade impacts their defensive strategy for the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Fleet\u2019s Aerin Frankel, Team USA ready for yet another gold-medal showdown against Canada",
-      "link": "https://www.boston.com/sports/pwhl/2026/02/18/boston-fleet-aerin-frankel-team-usa-canada-olympics-gold-medal-preview-keller-winn/",
-      "pubDate": "Wed, 18 Feb 2026 23:29:58 +0000",
-      "description": "<p>Team USA and Canada will meet for the seventh time in an Olympics gold-medal game. </p>\n<p>The post <a href=\"https://www.boston.com/sports/pwhl/2026/02/18/boston-fleet-aerin-frankel-team-usa-canada-olympics-gold-medal-preview-keller-winn/\">Fleet\u2019s Aerin Frankel, Team USA ready for yet another gold-medal showdown against Canada</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b27a3afbd2dc11e8af7d0244680843b9",
-      "summary": [
-        "Team USA faces Canada for the seventh time in Olympic gold-medal history.",
-        "Aerin Frankel, a Boston native, represents the Fleet in this crucial match.",
-        "Victory could boost local support for women's hockey in Boston and beyond."
       ],
       "hookType": "LOCAL_IMPACT"
     }
