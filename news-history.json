@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-02-20T20:37:32.303446+00:00",
+  "lastUpdated": "2026-02-20T22:31:02.330077+00:00",
   "articles": [
+    {
+      "title": "6 maps predicting snowfall totals Sunday-Monday",
+      "link": "https://www.boston.com/weather/weather/2026/02/20/boston-ma-snow-maps-sunday-monday-feb-22-23-2026/",
+      "pubDate": "Fri, 20 Feb 2026 21:47:33 +0000",
+      "description": "<p>\"This morning's weather guidance trended toward a higher impact storm track on Sun night/Mon with the greatest impacts felt across southeast MA/RI.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/20/boston-ma-snow-maps-sunday-monday-feb-22-23-2026/\">6 maps predicting snowfall totals Sunday-Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2f43adb0e710028ecd5e7b2e777b51d6",
+      "summary": [
+        "Weather forecasts predict significant snowfall in Boston from Sunday night to Monday.",
+        "Southeast Massachusetts and Rhode Island expected to experience the highest snowfall totals.",
+        "Residents should prepare for potential travel disruptions and hazardous conditions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Lindsay Clancy appears in court for first in-person hearing since allegedly killing her children",
       "link": "https://www.boston.com/news/crime/2026/02/20/lindsay-clancy-appears-in-court-for-first-in-person-hearing-since-allegedly-killing-her-children/",
@@ -635,19 +648,6 @@
         "Three Massachusetts museums recognized for excellence by USA Today readers.",
         "Massachusetts ranks among the best for open-air and maritime museums in America.",
         "Local tourism expected to boost as residents explore these acclaimed attractions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Second worker exposed to gas at Maine pulp mill dies",
-      "link": "https://www.boston.com/news/local-news/2026/02/19/second-worker-exposed-to-gas-at-maine-pulp-mill-dies/",
-      "pubDate": "Thu, 19 Feb 2026 16:49:17 +0000",
-      "description": "<p>Allen Hornberger, 26, had been hospitalized for nearly three weeks after the Jan. 27 incident at the Baileyville plant.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/19/second-worker-exposed-to-gas-at-maine-pulp-mill-dies/\">Second worker exposed to gas at Maine pulp mill dies</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "97c7b812fed45ff7c85a64d110a741b6",
-      "summary": [
-        "Allen Hornberger, 26, died after a gas exposure incident at a Maine pulp mill.",
-        "He had been hospitalized for nearly three weeks following the January 27 incident.",
-        "This tragedy raises concerns about workplace safety for Boston-area workers."
       ],
       "hookType": "LOCAL_IMPACT"
     }
