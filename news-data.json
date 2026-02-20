@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-02-20T13:07:09.071599+00:00",
+  "lastUpdated": "2026-02-20T14:42:01.026566+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2026/02/20/greater-boston-news-quiz-feb-20-2026-springsteen-cape-cod-diner-kevin-lemanowicz/",
-      "pubDate": "Fri, 20 Feb 2026 11:43:53 +0000",
-      "description": "<p>A Cape institution, the return of The Boss, and a leaving meteorologist are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/20/greater-boston-news-quiz-feb-20-2026-springsteen-cape-cod-diner-kevin-lemanowicz/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e3900e9c0f4bcfdc82b8b0d63d56b173",
+      "title": "14-year-old arrested after man kicked into moving train at Back Bay",
+      "link": "https://www.boston.com/news/crime/2026/02/20/14-year-old-arrested-after-man-kicked-into-moving-train-at-back-bay/",
+      "pubDate": "Fri, 20 Feb 2026 13:38:49 +0000",
+      "description": "<p>Police have not publicly identified the teen, who will be charged with assault and battery with a dangerous weapon.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/20/14-year-old-arrested-after-man-kicked-into-moving-train-at-back-bay/\">14-year-old arrested after man kicked into moving train at Back Bay</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "97ccbb04b78583ef39e526e71484cd1d",
       "summary": [
-        "The Boss returns to Boston for a concert this spring.",
-        "Kevin Lemanowicz, a local meteorologist, announces his departure after years on air.",
-        "Cape Cod diner, a local favorite, is reopening to serve residents again."
+        "A 14-year-old was arrested for kicking a man into a moving train at Back Bay.",
+        "The teen faces charges of assault and battery with a dangerous weapon.",
+        "This incident raises concerns about safety at Boston's public transit stations."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jaylen Brown helps Celtics thump Steph Curry-less Warriors 121-110",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/20/jaylen-brown-helps-celtics-thump-steph-curry-less-warriors-121-110/",
+      "pubDate": "Fri, 20 Feb 2026 05:40:58 +0000",
+      "description": "<p>Kristaps Porzingis made his Warriors debut against the Celtics, who traded him away for salary cap reasons in the offseason.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/20/jaylen-brown-helps-celtics-thump-steph-curry-less-warriors-121-110/\">Jaylen Brown helps Celtics thump Steph Curry-less Warriors 121-110</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "830ec7daf5d793f38ae5d7f99104575b",
+      "summary": [
+        "Celtics defeated Warriors 121-110 on February 20, 2026.",
+        "Jaylen Brown led the team, contributing significantly to the win.",
+        "Kristaps Porzingis faced his former team, impacting local fan narratives."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-20T13:07:09.071617+00:00"
+    "timestamp": "2026-02-20T14:42:01.026582+00:00"
   }
 }

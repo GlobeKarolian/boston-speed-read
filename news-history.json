@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-20T13:07:09.072232+00:00",
+  "lastUpdated": "2026-02-20T14:42:01.027180+00:00",
   "articles": [
+    {
+      "title": "14-year-old arrested after man kicked into moving train at Back Bay",
+      "link": "https://www.boston.com/news/crime/2026/02/20/14-year-old-arrested-after-man-kicked-into-moving-train-at-back-bay/",
+      "pubDate": "Fri, 20 Feb 2026 13:38:49 +0000",
+      "description": "<p>Police have not publicly identified the teen, who will be charged with assault and battery with a dangerous weapon.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/20/14-year-old-arrested-after-man-kicked-into-moving-train-at-back-bay/\">14-year-old arrested after man kicked into moving train at Back Bay</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "97ccbb04b78583ef39e526e71484cd1d",
+      "summary": [
+        "A 14-year-old was arrested for kicking a man into a moving train at Back Bay.",
+        "The teen faces charges of assault and battery with a dangerous weapon.",
+        "This incident raises concerns about safety at Boston's public transit stations."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jaylen Brown helps Celtics thump Steph Curry-less Warriors 121-110",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/20/jaylen-brown-helps-celtics-thump-steph-curry-less-warriors-121-110/",
+      "pubDate": "Fri, 20 Feb 2026 05:40:58 +0000",
+      "description": "<p>Kristaps Porzingis made his Warriors debut against the Celtics, who traded him away for salary cap reasons in the offseason.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/20/jaylen-brown-helps-celtics-thump-steph-curry-less-warriors-121-110/\">Jaylen Brown helps Celtics thump Steph Curry-less Warriors 121-110</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "830ec7daf5d793f38ae5d7f99104575b",
+      "summary": [
+        "Celtics defeated Warriors 121-110 on February 20, 2026.",
+        "Jaylen Brown led the team, contributing significantly to the win.",
+        "Kristaps Porzingis faced his former team, impacting local fan narratives."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
       "link": "https://www.boston.com/community/quizzes/2026/02/20/greater-boston-news-quiz-feb-20-2026-springsteen-cape-cod-diner-kevin-lemanowicz/",
@@ -622,32 +648,6 @@
         "MBTA suspends service at select Orange Line and Commuter Rail stations in March.",
         "Signal and modernization work will affect multiple stations, impacting daily commuters.",
         "Residents should plan for delays and alternative transportation during this period."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Rafael Devers reacts to Red Sox exec\u2019s \u2018pick up a glove\u2019 comment",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/18/rafael-devers-giants-red-sox-glove-comments-tom-werner-mlb-baseball-san-francisco-boston/",
-      "pubDate": "Thu, 19 Feb 2026 00:45:17 +0000",
-      "description": "<p>\"Let\u2019s concentrate here and just leave the past in the past.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/18/rafael-devers-giants-red-sox-glove-comments-tom-werner-mlb-baseball-san-francisco-boston/\">Rafael Devers reacts to Red Sox exec\u2019s \u2018pick up a glove\u2019 comment</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "80709d26fa690c986c7958075037a592",
-      "summary": [
-        "Rafael Devers addresses comments from Red Sox executive Tom Werner on February 18.",
-        "Devers emphasizes focusing on the present, urging to leave past issues behind.",
-        "Local fans await Devers' performance as the Red Sox prepare for the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Adam Schefter maps out potential price for Patriots in Maxx Crosby trade",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/18/new-england-patriots-maxx-crosby-trade-rumors-nfl-football-raiders-adam-schefter/",
-      "pubDate": "Wed, 18 Feb 2026 23:57:35 +0000",
-      "description": "<p>\"I was told that the Raiders don\u2019t want to trade him and that if they even contemplated it, it would take a Micah Parsons-type package.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/18/new-england-patriots-maxx-crosby-trade-rumors-nfl-football-raiders-adam-schefter/\">Adam Schefter maps out potential price for Patriots in Maxx Crosby trade</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5c71b51d262cefa34bd08da61cfb502a",
-      "summary": [
-        "Raiders unlikely to trade Maxx Crosby, according to Adam Schefter.",
-        "Crosby would require a trade package similar to Micah Parsons.",
-        "Patriots' potential trade impacts their defensive strategy for the upcoming season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
