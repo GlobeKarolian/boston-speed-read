@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-22T02:34:26.539551+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-22T05:16:57.177036+00:00",
+  "articles": [
+    {
+      "title": "Red Sox ace Garrett Crochet weighs in on Lucas Giolito\u2019s ongoing free agency",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/21/mlb-red-sox-garrett-crochet-lucas-giolito-free-agency/",
+      "pubDate": "Sun, 22 Feb 2026 04:47:51 +0000",
+      "description": "<p>Giolito opted out of his deal with the Red Sox after a strong 2025, but hasn't landed a new contract yet.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/21/mlb-red-sox-garrett-crochet-lucas-giolito-free-agency/\">Red Sox ace Garrett Crochet weighs in on Lucas Giolito&#8217;s ongoing free agency</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f7a16a77aaad34656739bb4994b34fe6",
+      "summary": [
+        "Lucas Giolito opted out of his Red Sox contract after a strong 2025 season.",
+        "Garrett Crochet comments on Giolito's free agency status amid ongoing negotiations.",
+        "Giolito's situation affects Red Sox's roster decisions for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-22T02:34:26.539559+00:00"
+    "timestamp": "2026-02-22T05:16:57.177054+00:00"
   }
 }
