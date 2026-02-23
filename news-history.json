@@ -1,6 +1,84 @@
 {
-  "lastUpdated": "2026-02-23T17:02:56.933337+00:00",
+  "lastUpdated": "2026-02-23T19:09:45.878177+00:00",
   "articles": [
+    {
+      "title": "Wachusett delayed opening, ski resorts putting lifts on wind hold",
+      "link": "https://www.boston.com/travel/skiing/2026/02/23/are-new-england-ski-areas-open/",
+      "pubDate": "Mon, 23 Feb 2026 19:07:34 +0000",
+      "description": "<p>\"The chairs are swinging too much for comfort right now.\"</p>\n<p>The post <a href=\"https://www.boston.com/travel/skiing/2026/02/23/are-new-england-ski-areas-open/\">Wachusett delayed opening, ski resorts putting lifts on wind hold</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "be4678d3582bc74462d600745d88b0d2",
+      "summary": [
+        "Wachusett Mountain delayed its opening due to high winds affecting lift operations.",
+        "Ski resorts across New England are halting lifts for safety amid wind conditions.",
+        "Local skiers may face disruptions in winter plans as resorts adjust schedules."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Photo scroll: Blizzard whips across Mass. with heavy snow, high winds",
+      "link": "https://www.boston.com/weather/weather/2026/02/23/blizzard-photos-boston-ma/",
+      "pubDate": "Mon, 23 Feb 2026 18:57:59 +0000",
+      "description": "<p>A massive snowstorm pummeled the Northeast on Monday, with meteorologists predicting over 2 feet of snow in some areas.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/23/blizzard-photos-boston-ma/\">Photo scroll: Blizzard whips across Mass. with heavy snow, high winds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "76d45e4b69b676f5ca75cdcbbb33b92d",
+      "summary": [
+        "Massive snowstorm hit Boston on Monday, bringing heavy snow and high winds.",
+        "Meteorologists predict over 2 feet of snow in some areas, affecting travel.",
+        "Residents should prepare for potential power outages and hazardous conditions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Market Basket stores in Mass. close early Monday due to the blizzard",
+      "link": "https://www.boston.com/news/local-news/2026/02/23/market-basket-stores-in-mass-close-early-monday-due-to-the-blizzard/",
+      "pubDate": "Mon, 23 Feb 2026 18:00:13 +0000",
+      "description": "<p>The grocery chain closed the majority of its stores early, citing \u201cthe severe weather today, and for the safety of our associates and customers.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/23/market-basket-stores-in-mass-close-early-monday-due-to-the-blizzard/\">Market Basket stores in Mass. close early Monday due to the blizzard</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ed7070a0b8bb5646db086d1b1ca998e4",
+      "summary": [
+        "Market Basket stores in Massachusetts closed early on February 23 due to severe blizzard conditions.",
+        "Most locations prioritized safety for associates and customers amid the storm's impact.",
+        "Residents should plan for limited grocery access as stores resume normal hours post-blizzard."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Share your blizzard photos with Boston.com",
+      "link": "https://www.boston.com/weather/tell-us/2026/02/23/share-your-blizzard-photos-with-boston-com/",
+      "pubDate": "Mon, 23 Feb 2026 17:56:25 +0000",
+      "description": "<p>From whiteout conditions to snow-covered streets, we\u2019re collecting reader photos from across the region.</p>\n<p>The post <a href=\"https://www.boston.com/weather/tell-us/2026/02/23/share-your-blizzard-photos-with-boston-com/\">Share your blizzard photos with Boston.com</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f00e180329e0a3fdb5470f465ca08721",
+      "summary": [
+        "Boston.com invites residents to share blizzard photos from the recent snowstorm.",
+        "Photos will showcase whiteout conditions and snow-covered streets across the region.",
+        "Community engagement aims to document local experiences during the blizzard."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you have to go into work during the blizzard?",
+      "link": "https://www.boston.com/community/tell-us/2026/02/23/did-you-have-to-go-into-work-during-the-blizzard/",
+      "pubDate": "Mon, 23 Feb 2026 17:30:13 +0000",
+      "description": "<p>As Southern New England battles a major winter storm, we want to know how the blizzard is affecting your work plans.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/02/23/did-you-have-to-go-into-work-during-the-blizzard/\">Did you have to go into work during the blizzard?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4414cad81a7fc3d420b6121a8ac08e11",
+      "summary": [
+        "Boston faces a major winter storm affecting work plans for many residents.",
+        "Local businesses report increased absenteeism due to the blizzard conditions.",
+        "City officials urge residents to stay safe and avoid unnecessary travel during the storm."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. plow driver survives near-impalement when tree limb crashes through truck windshield",
+      "link": "https://www.boston.com/news/local-news/2026/02/23/mass-plow-driver-survives-near-impalement-tree-limb/",
+      "pubDate": "Mon, 23 Feb 2026 17:28:13 +0000",
+      "description": "<p>\"There is no sugar-coating this. It\u2019s bad out here. The worst in years and it\u2019s not over yet.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/23/mass-plow-driver-survives-near-impalement-tree-limb/\">Mass. plow driver survives near-impalement when tree limb crashes through truck windshield</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7e149043739e3deabfc5f9904bbc6f37",
+      "summary": [
+        "Massachusetts plow driver narrowly escaped injury from a falling tree limb on February 23.",
+        "The storm conditions are reported as the worst in years, affecting local road safety.",
+        "Residents should remain cautious as severe weather continues to pose risks."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Citing \u2018hate\u2019 and child exploitation, AG Campbell logs off X",
       "link": "https://www.boston.com/news/local-news/2026/02/23/citing-hate-and-child-exploitation-ag-campbell-logs-off-x/",
@@ -570,84 +648,6 @@
         "Boston residents can expect additional snow from Sunday into Monday.",
         "Previous snow totals varied across towns, affecting local travel conditions.",
         "Prepare for potential disruptions in public services and commuting due to snow."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "She\u2019s running the 2026 Boston Marathon for the 2013 bombing victims",
-      "link": "https://www.boston.com/community/boston-marathon/2026/02/21/shes-running-the-2026-boston-marathon-for-the-2013-bombing-victims/",
-      "pubDate": "Sat, 21 Feb 2026 17:00:00 +0000",
-      "description": "<p>\"I\u2019ll never forget that day and how my heart has ached for them ever since.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/02/21/shes-running-the-2026-boston-marathon-for-the-2013-bombing-victims/\">She&#8217;s running the 2026 Boston Marathon for the 2013 bombing victims</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5f4608ce289afa2ece4a27f78cd37bbd",
-      "summary": [
-        "Local runner honors 2013 bombing victims by participating in the 2026 Boston Marathon.",
-        "She expresses ongoing emotional connection to the victims since the tragic event.",
-        "Her run aims to raise awareness and support for the affected families in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "NH man sentenced for using $1M in COVID relief funds to buy golf course",
-      "link": "https://www.boston.com/news/local-news/2026/02/21/nh-man-sentenced-for-using-1m-in-covid-relief-funds-to-buy-golf-course/",
-      "pubDate": "Sat, 21 Feb 2026 16:59:58 +0000",
-      "description": "<p>Michael Kirouac will serve 15 months in prison after pleading guilty in October.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/21/nh-man-sentenced-for-using-1m-in-covid-relief-funds-to-buy-golf-course/\">NH man sentenced for using $1M in COVID relief funds to buy golf course</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c3b7f48ba6d0f334c7cdae6d5c3d53d6",
-      "summary": [
-        "Michael Kirouac sentenced to 15 months for misusing $1M COVID relief funds.",
-        "Funds were intended for struggling businesses, impacting local economic recovery efforts.",
-        "Sentencing highlights ongoing scrutiny of COVID relief fund misuse in New England."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Man with 25-year record charged in high-end Boston shoplifting spree",
-      "link": "https://www.boston.com/news/local-news/2026/02/21/man-with-25-year-record-charged-in-high-end-boston-shoplifting-spree/",
-      "pubDate": "Sat, 21 Feb 2026 16:47:51 +0000",
-      "description": "<p>Prosecutors say the suspect is a \u201ccommon and notorious thief.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/21/man-with-25-year-record-charged-in-high-end-boston-shoplifting-spree/\">Man with 25-year record charged in high-end Boston shoplifting spree</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c3c3519b8a54c1b0ea40be3377d646bb",
-      "summary": [
-        "Man with 25-year criminal record charged for high-end shoplifting in Boston.",
-        "Suspect's spree involved thefts from multiple luxury retailers, raising security concerns.",
-        "Prosecutors label him a 'common and notorious thief,' impacting local businesses."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Red Sox will keep Roman Anthony in leadoff spot for 2026 season. What could rest of lineup look like?",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/21/roman-anthony-red-sox-leadoff-hitter/",
-      "pubDate": "Sat, 21 Feb 2026 16:12:31 +0000",
-      "description": "<p>Anthony served as the Red Sox' leadoff hitter for the majority of the final month of his rookie season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/21/roman-anthony-red-sox-leadoff-hitter/\">Red Sox will keep Roman Anthony in leadoff spot for 2026 season. What could rest of lineup look like?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "606abaf5945eb34c8a8399f17c307280",
-      "summary": [
-        "Red Sox confirm Roman Anthony as leadoff hitter for the 2026 season.",
-        "Anthony led off for most of September during his rookie year.",
-        "Boston fans can expect a consistent batting strategy moving forward."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Margo Price talks AI, bro-country and meeting Joan Baez at the circus",
-      "link": "https://www.boston.com/culture/entertainment/2026/02/21/margo-price-talks-ai-bro-country-and-meeting-joan-baez-at-the-circus/",
-      "pubDate": "Sat, 21 Feb 2026 14:50:05 +0000",
-      "description": "<p>Ahead of her Boston show, the Grammy nominee discusses her inspirations \u2014 and reveals her unexpected Massachusetts connection.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/02/21/margo-price-talks-ai-bro-country-and-meeting-joan-baez-at-the-circus/\">Margo Price talks AI, bro-country and meeting Joan Baez at the circus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4188ad3c4bf95b78cbaf196678acfe55",
-      "summary": [
-        "Margo Price will perform in Boston, showcasing her unique musical style on February 21.",
-        "Price discusses her inspirations, including a surprising connection to Massachusetts and Joan Baez.",
-        "Boston residents can engage with contemporary country music themes like AI and bro-country."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What happens next after the Supreme Court slapped down Trump\u2019s tariffs",
-      "link": "https://www.boston.com/news/politics/2026/02/21/what-happens-next-after-the-supreme-court-slapped-down-trumps-tariffs/",
-      "pubDate": "Sat, 21 Feb 2026 14:03:05 +0000",
-      "description": "<p>Trump described the justices as \u201cfools and lapdogs\u201d who are \u201cvery unpatriotic and disloyal to our Constitution.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/02/21/what-happens-next-after-the-supreme-court-slapped-down-trumps-tariffs/\">What happens next after the Supreme Court slapped down Trump&#8217;s tariffs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "694e6b9931b0c0292526c616a0650a62",
-      "summary": [
-        "Supreme Court rejected Trump's tariffs, impacting local businesses reliant on imported goods.",
-        "Tariffs previously affected over $300 billion in imports, raising costs for Boston consumers.",
-        "Local manufacturers may see reduced prices, benefiting Boston's economy and consumers."
       ],
       "hookType": "LOCAL_IMPACT"
     }
