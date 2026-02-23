@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-02-23T13:14:13.628734+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-23T14:52:11.904836+00:00",
+  "articles": [
+    {
+      "title": "Jim Cantore experienced thundersnow live on air in Plymouth Monday morning, and freaked out",
+      "link": "https://www.boston.com/weather/weather/2026/02/23/jim-cantore-thundersnow/",
+      "pubDate": "Mon, 23 Feb 2026 14:28:19 +0000",
+      "description": "<p>The Weather Channel meteorologist is on record about loving that particular phenomenon.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/02/23/jim-cantore-thundersnow/\">Jim Cantore experienced thundersnow live on air in Plymouth Monday morning, and freaked out</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fc81c9ac95ff45e2c9ebc4e855282cfb",
+      "summary": [
+        "Jim Cantore experienced thundersnow live on air in Plymouth on February 23.",
+        "Thundersnow is a rare weather phenomenon that can impact local travel conditions.",
+        "Residents should prepare for potential disruptions due to severe winter weather."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Nearly 1,000 flights cancelled at Logan Airport due to nor\u2019easter",
+      "link": "https://www.boston.com/travel/flights/2026/02/23/nearly-1000-flights-cancelled-at-logan-airport-due-to-noreaster/",
+      "pubDate": "Mon, 23 Feb 2026 14:27:43 +0000",
+      "description": "<p>\"Passengers are advised to check with their airline on the status of their flight before coming to the airport,\" wrote Massport in a weather advisory.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/02/23/nearly-1000-flights-cancelled-at-logan-airport-due-to-noreaster/\">Nearly 1,000 flights cancelled at Logan Airport due to nor&#8217;easter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "693d75a9f1c5ec9000f1e318b3e0e011",
+      "summary": [
+        "Nearly 1,000 flights were cancelled at Logan Airport due to a nor\u2019easter.",
+        "Massport advises passengers to check flight statuses before arriving at the airport.",
+        "Travel disruptions affect thousands of Boston residents during the storm."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Map: Here\u2019s where power outages are being reported in Mass., R.I., N.H.",
+      "link": "https://www.boston.com/news/local-news/2026/02/23/power-outage-map-massachusetts-rhode-island-new-hampshire/",
+      "pubDate": "Mon, 23 Feb 2026 14:01:25 +0000",
+      "description": "<p>Keep track of\u00a0the latest power outages\u00a0around the region via the map below.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/23/power-outage-map-massachusetts-rhode-island-new-hampshire/\">Map: Here\u2019s where power outages are being reported in Mass., R.I., N.H.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "59d3d27be658ec9cf1c4843a4e548b0a",
+      "summary": [
+        "Track ongoing power outages across Massachusetts, Rhode Island, and New Hampshire.",
+        "Boston residents can view real-time outage data via the provided map.",
+        "Outages may affect local services and daily activities for residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "9 thoughts on the Red Sox, leading off with Roman Anthony\u2019s potential sophomore season",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/23/roman-anthony-red-sox-lineup/",
+      "pubDate": "Mon, 23 Feb 2026 13:29:01 +0000",
+      "description": "<p>As Boston Red Sox pin hopes on Triston Casas, a full season from Roman Anthony could define 2026 \u2014 and determine whether Boston\u2019s promise turns into power.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/23/roman-anthony-red-sox-lineup/\">9 thoughts on the Red Sox, leading off with Roman Anthony\u2019s potential sophomore season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "41c510571166dbc34d8d26c6fc845449",
+      "summary": [
+        "Boston Red Sox rely on Triston Casas and Roman Anthony for 2026 season success.",
+        "Roman Anthony's performance could significantly influence team dynamics and fan expectations.",
+        "A strong sophomore season from Anthony may enhance local support and attendance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Johnny Gaudreau\u2019s memory surrounded Team USA during run to Olympic gold",
+      "link": "https://www.boston.com/sports/sports-news/2026/02/23/johnny-gaudreau-us-hockey-gold/",
+      "pubDate": "Mon, 23 Feb 2026 13:26:56 +0000",
+      "description": "<p>\"I feel like he\u2019s following us.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/02/23/johnny-gaudreau-us-hockey-gold/\">Johnny Gaudreau\u2019s memory surrounded Team USA during run to Olympic gold</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e75393377c2ca9479ce523617d53905f",
+      "summary": [
+        "Team USA won Olympic gold, inspired by Johnny Gaudreau's memory during the tournament.",
+        "Gaudreau, a Boston native, was honored by teammates throughout the competition.",
+        "His legacy strengthens community ties among local hockey players and fans in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-02-23T13:14:13.628742+00:00"
+    "timestamp": "2026-02-23T14:52:11.904852+00:00"
   }
 }
