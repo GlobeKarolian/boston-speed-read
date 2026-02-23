@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-02-22T22:29:34.423790+00:00",
+  "lastUpdated": "2026-02-23T02:35:24.892639+00:00",
   "articles": [
     {
-      "title": "2026 NFL Mock Draft roundup: 7 names for Patriots fans to know entering combine week",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/22/2026-nfl-mock-draft-patriots-combine/",
-      "pubDate": "Sun, 22 Feb 2026 21:41:18 +0000",
-      "description": "<p>The Patriots hold the No. 31 pick in the 2026 NFL Draft. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/22/2026-nfl-mock-draft-patriots-combine/\">2026 NFL Mock Draft roundup: 7 names for Patriots fans to know entering combine week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8dab7236d57c3c0d415d9d62056a18cc",
+      "title": "Greater Boston town issues guidance after bobcat sighting",
+      "link": "https://www.boston.com/news/local-news/2026/02/22/greater-boston-town-issues-guidance-after-bobcat-sighting/",
+      "pubDate": "Mon, 23 Feb 2026 00:20:59 +0000",
+      "description": "<p>\u201cWe\u2019ve had a few documented bobcat sightings over the last several years, much like this week\u2019s sighting\u2014a bobcat, minding its own business, simply passing through a property,\u201d said Dedham Animal Control.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/22/greater-boston-town-issues-guidance-after-bobcat-sighting/\">Greater Boston town issues guidance after bobcat sighting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4232cd95e2051e2e1202b454bb94bed0",
       "summary": [
-        "Patriots hold the No. 31 pick in the 2026 NFL Draft.",
-        "Seven potential draft prospects highlighted for fans ahead of the combine.",
-        "Local fans can anticipate key player additions to strengthen the team."
+        "Dedham Animal Control reported a bobcat sighting this week, typical for the area.",
+        "Residents are advised to remain calm as bobcats are generally non-aggressive.",
+        "Guidance issued to ensure safety for pets and children in the community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Alex Cora gives an early preview of Red Sox 2026 lineup",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/22/alex-cora-boston-red-sox-mlb-baseball-lineup-roman-anthony-trevor-story/",
+      "pubDate": "Mon, 23 Feb 2026 00:13:38 +0000",
+      "description": "<p>\"It just happened that for the first time in years what you see early is what you\u2019re probably going to see on Opening Day.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/22/alex-cora-boston-red-sox-mlb-baseball-lineup-roman-anthony-trevor-story/\">Alex Cora gives an early preview of Red Sox 2026 lineup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "74bfb1f5ff4090626110c8607259947d",
+      "summary": [
+        "Alex Cora previews the Red Sox 2026 lineup, indicating stability for fans.",
+        "Cora suggests the Opening Day roster will closely resemble early spring training.",
+        "Boston residents can expect a familiar team structure for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Live updates: What to know about the nor\u2019easter hitting Massachusetts",
+      "link": "https://www.boston.com/news/weather/2026/02/22/live-updates-what-to-know-about-the-noreaster-hitting-massachusetts/",
+      "pubDate": "Mon, 23 Feb 2026 00:07:08 +0000",
+      "description": "<p>Meteorologists are predicting up to 2 feet of snow and high winds, which could affect trees and power lines.</p>\n<p>The post <a href=\"https://www.boston.com/news/weather/2026/02/22/live-updates-what-to-know-about-the-noreaster-hitting-massachusetts/\">Live updates: What to know about the nor\u2019easter hitting Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0abadcff1cdae30021f0c90683374113",
+      "summary": [
+        "Meteorologists predict up to 2 feet of snow in Boston starting February 22.",
+        "High winds may cause power outages and damage to trees and power lines.",
+        "Residents should prepare for hazardous travel conditions and potential emergency services delays."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Bruins react to McAvoy, Swayman\u2019s gold-medal win over Canada",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/02/22/boston-bruins-olympics-team-usa-charlie-mcavoy-jeremy-swayman-nhl-hockey/",
+      "pubDate": "Sun, 22 Feb 2026 23:29:43 +0000",
+      "description": "<p>\"With what he\u2019s been through this year, and a little bit of last year, very happy for him for sure.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/22/boston-bruins-olympics-team-usa-charlie-mcavoy-jeremy-swayman-nhl-hockey/\">Bruins react to McAvoy, Swayman\u2019s gold-medal win over Canada</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fac78eb816dbd8baf308a2167f69c692",
+      "summary": [
+        "Charlie McAvoy and Jeremy Swayman won gold with Team USA at the Olympics.",
+        "McAvoy's resilience this year highlights his significant personal journey.",
+        "Their victory boosts local pride and support for the Bruins in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-02-22T22:29:34.423809+00:00"
+    "timestamp": "2026-02-23T02:35:24.892654+00:00"
   }
 }
