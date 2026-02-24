@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-24T05:22:53.528399+00:00",
+  "lastUpdated": "2026-02-24T13:15:41.469230+00:00",
   "articles": [
+    {
+      "title": "4 maps predicting totals from Wednesday morning\u2019s snowfall",
+      "link": "https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/",
+      "pubDate": "Tue, 24 Feb 2026 13:09:39 +0000",
+      "description": "<p>\"A much lighter snowfall is expected Wednesday as a clipper system passes by to our north.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/\">4 maps predicting totals from Wednesday morning&#8217;s snowfall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d7c51dfc1c9d5fcf650ad09340cf328e",
+      "summary": [
+        "Expect lighter snowfall in Boston on Wednesday, February 25, 2026.",
+        "Snow totals predicted to be minimal due to a passing clipper system.",
+        "Residents should prepare for reduced visibility and slippery roads during morning commute."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "$3m glass penthouse in the heart of Portland, Maine, is the most expensive condo in the city",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/02/24/penthouse-portland-maine/",
+      "pubDate": "Tue, 24 Feb 2026 12:00:00 +0000",
+      "description": "<p>The roof terrace has real, irrigated grass that is mowed once a week.  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/02/24/penthouse-portland-maine/\">$3m glass penthouse in the heart of Portland, Maine, is the most expensive condo in the city</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "113fbb8db31b5526cbdeec98487c6f03",
+      "summary": [
+        "Portland, Maine's $3 million penthouse is now the city's most expensive condo.",
+        "The penthouse features a roof terrace with irrigated grass mowed weekly.",
+        "This luxury listing may influence Boston's real estate market trends."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Dozens of volunteers canvas Boston for homeless people outside as blizzard bears down on the city",
       "link": "https://www.boston.com/news/local-news/2026/02/23/volunteers-canvas-boston-for-homeless-people-outside-in-blizzard/",
@@ -622,32 +648,6 @@
         "New fare gates at South Station have closed twice due to winter conditions since late 2022.",
         "The gates' repeated breakdowns disrupt commuter travel for thousands of Boston residents.",
         "Harsh winter weather continues to challenge infrastructure reliability in Boston's transit system."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Watch: Jack Hughes delivers USA first Olympic gold medal in men\u2019s hockey since 1980",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/02/22/usa-canada-olympic-gold-medal-goal-hockey-video/",
-      "pubDate": "Sun, 22 Feb 2026 16:18:58 +0000",
-      "description": "<p>Team USA defeated Canada, 2-1, in Sunday's gold medal game. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/22/usa-canada-olympic-gold-medal-goal-hockey-video/\">Watch: Jack Hughes delivers USA first Olympic gold medal in men&#8217;s hockey since 1980</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3040275e6ae42fdfd96589b28f5812c2",
-      "summary": [
-        "Team USA won Olympic gold in men's hockey, defeating Canada 2-1 on February 22.",
-        "Jack Hughes, a Boston native, played a crucial role in securing the victory.",
-        "This marks the first Olympic gold for USA men's hockey since 1980, boosting local pride."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "ICE begins to purchase warehouses, but some owners are backing out of deals",
-      "link": "https://www.boston.com/news/national-news/2026/02/22/ice-begins-to-purchase-warehouses-but-some-owners-are-backing-out-of-deals/",
-      "pubDate": "Sun, 22 Feb 2026 15:53:42 +0000",
-      "description": "<p>New Hampshire Republican Gov. Kelly Ayotte sparred with federal officials after ICE disclosed plans to spend $158 million to convert a warehouse in Merrimack into a 500-bed processing center.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/22/ice-begins-to-purchase-warehouses-but-some-owners-are-backing-out-of-deals/\">ICE begins to purchase warehouses, but some owners are backing out of deals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "80586e2761b5b64a6df2d7d17e5cad65",
-      "summary": [
-        "ICE plans to spend $158 million on a 500-bed processing center in Merrimack, NH.",
-        "New Hampshire Gov. Kelly Ayotte criticized federal officials over the warehouse conversion plans.",
-        "Local property owners are reconsidering deals, impacting ICE's expansion efforts in the region."
       ],
       "hookType": "LOCAL_IMPACT"
     }

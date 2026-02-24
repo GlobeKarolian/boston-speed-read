@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-02-24T10:53:34.234070+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-24T13:15:41.468411+00:00",
+  "articles": [
+    {
+      "title": "4 maps predicting totals from Wednesday morning\u2019s snowfall",
+      "link": "https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/",
+      "pubDate": "Tue, 24 Feb 2026 13:09:39 +0000",
+      "description": "<p>\"A much lighter snowfall is expected Wednesday as a clipper system passes by to our north.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/\">4 maps predicting totals from Wednesday morning&#8217;s snowfall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d7c51dfc1c9d5fcf650ad09340cf328e",
+      "summary": [
+        "Expect lighter snowfall in Boston on Wednesday, February 25, 2026.",
+        "Snow totals predicted to be minimal due to a passing clipper system.",
+        "Residents should prepare for reduced visibility and slippery roads during morning commute."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "$3m glass penthouse in the heart of Portland, Maine, is the most expensive condo in the city",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/02/24/penthouse-portland-maine/",
+      "pubDate": "Tue, 24 Feb 2026 12:00:00 +0000",
+      "description": "<p>The roof terrace has real, irrigated grass that is mowed once a week.  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/02/24/penthouse-portland-maine/\">$3m glass penthouse in the heart of Portland, Maine, is the most expensive condo in the city</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "113fbb8db31b5526cbdeec98487c6f03",
+      "summary": [
+        "Portland, Maine's $3 million penthouse is now the city's most expensive condo.",
+        "The penthouse features a roof terrace with irrigated grass mowed weekly.",
+        "This luxury listing may influence Boston's real estate market trends."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-24T10:53:34.234079+00:00"
+    "timestamp": "2026-02-24T13:15:41.468432+00:00"
   }
 }
