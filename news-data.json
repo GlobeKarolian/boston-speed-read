@@ -1,49 +1,9 @@
 {
-  "lastUpdated": "2026-02-24T05:22:53.527485+00:00",
-  "articles": [
-    {
-      "title": "Dozens of volunteers canvas Boston for homeless people outside as blizzard bears down on the city",
-      "link": "https://www.boston.com/news/local-news/2026/02/23/volunteers-canvas-boston-for-homeless-people-outside-in-blizzard/",
-      "pubDate": "Tue, 24 Feb 2026 04:43:41 +0000",
-      "description": "<p>\u201cFortunately, they're not seeing as many people as usual on the street, so that's a good sign that people would have opted to come inside.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/23/volunteers-canvas-boston-for-homeless-people-outside-in-blizzard/\">Dozens of volunteers canvas Boston for homeless people outside as blizzard bears down on the city</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b8b63f65cd878a018dcbcae1b11a4f01",
-      "summary": [
-        "Dozens of volunteers canvassed Boston to assist homeless individuals during the blizzard.",
-        "Fewer people were seen on the streets, indicating more opted for indoor shelter.",
-        "The community effort highlights local support for vulnerable populations during severe weather."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "50 percent of departing Boston Logan Airport flights canceled Tuesday",
-      "link": "https://www.boston.com/news/local-news/2026/02/23/50-percent-of-departing-boston-logan-airport-flights-canceled-tuesday/",
-      "pubDate": "Tue, 24 Feb 2026 03:47:27 +0000",
-      "description": "<p>50 percent of flights have been canceled out of Logan Tuesday, but Amtrak is hopeful that service will return for Tuesday\u2019s morning commute.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/23/50-percent-of-departing-boston-logan-airport-flights-canceled-tuesday/\">50 percent of departing Boston Logan Airport flights canceled Tuesday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ee3eab03996b4792b8e95a5474ade527",
-      "summary": [
-        "50% of departing flights from Logan Airport were canceled on Tuesday.",
-        "Amtrak anticipates service restoration for Tuesday's morning commute.",
-        "Travel disruptions may affect Boston residents relying on air travel."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "To trade or not to trade? Bruins must make their call with Viktor Arvidsson.",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/02/23/boston-bruins-viktor-arvidsson-nhl-hockey-trade-rumors-deadline-marco-sturm/",
-      "pubDate": "Tue, 24 Feb 2026 02:58:44 +0000",
-      "description": "<p>With four games before the NHL trade deadline, the Bruins need to make a ruling on several assets. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/23/boston-bruins-viktor-arvidsson-nhl-hockey-trade-rumors-deadline-marco-sturm/\">To trade or not to trade? Bruins must make their call with Viktor Arvidsson.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f305cbcd003df3bda4deb56a2c5eb66c",
-      "summary": [
-        "Bruins face decision on trading Viktor Arvidsson before NHL deadline on March 3.",
-        "Team has four games remaining to assess player performance and trade options.",
-        "Potential trade could impact Bruins' playoff strategy and local fan engagement."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-02-24T07:05:13.794026+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-02-24T05:22:53.527507+00:00"
+    "timestamp": "2026-02-24T07:05:13.794037+00:00"
   }
 }
