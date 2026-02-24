@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-24T13:15:41.469230+00:00",
+  "lastUpdated": "2026-02-24T14:54:15.929351+00:00",
   "articles": [
+    {
+      "title": "In unprecedented decision, The Boston Globe will not print a paper for Feb. 24 delivery",
+      "link": "https://www.boston.com/news/the-boston-globe/2026/02/24/in-unprecedented-decision-the-boston-globe-will-not-print-a-paper-for-feb-24-delivery/",
+      "pubDate": "Tue, 24 Feb 2026 14:22:58 +0000",
+      "description": "<p>For more than 153 years, the press workers of The Boston Globe have overcome the elements, technical snafus, and global pandemics to print a daily newspaper. But in an unprecedented decision, executives determined that the conditions during Monday\u2019s blizzard made it impossible to print and deliver a paper Tuesday morning. A massive nor\u2019easter blasted New [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2026/02/24/in-unprecedented-decision-the-boston-globe-will-not-print-a-paper-for-feb-24-delivery/\">In unprecedented decision, The Boston Globe will not print a paper for Feb. 24 delivery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "746a1860656eadfc1a2f8b5e94c9b99b",
+      "summary": [
+        "The Boston Globe will not print for February 24 delivery due to a blizzard.",
+        "This marks the first time in 153 years the paper has missed a delivery.",
+        "Residents will lack access to the daily news amid severe weather conditions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Here\u2019s what Boston meteorologists are saying the day after the historic blizzard",
+      "link": "https://www.boston.com/weather/local-news/2026/02/24/heres-what-boston-meteorologists-are-saying-the-day-after-the-historic-blizzard/",
+      "pubDate": "Tue, 24 Feb 2026 13:43:23 +0000",
+      "description": "<p>\"The blizzard yesterday has put Boston over 60\" for the season which hasn't happened since the infamous snow blitz winter of 2015.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/02/24/heres-what-boston-meteorologists-are-saying-the-day-after-the-historic-blizzard/\">Here&#8217;s what Boston meteorologists are saying the day after the historic blizzard</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7e8d4ccf99f0cf69e8de9005401ec14a",
+      "summary": [
+        "Boston received a historic blizzard, accumulating over 60 inches of snow this season.",
+        "This snowfall marks the first time since 2015 that Boston surpassed 60 inches.",
+        "Residents should prepare for potential disruptions in transportation and daily activities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "4 maps predicting totals from Wednesday morning\u2019s snowfall",
       "link": "https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/",
@@ -622,32 +648,6 @@
         "Team USA won Olympic gold in men's hockey, defeating Canada 2-1 on February 22, 2026.",
         "Jack Hughes scored the winning goal, marking the first gold since 1980.",
         "The victory boosts local pride and inspires future hockey talent in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "5 takeaways from the Revolution\u2019s season-opening defeat in Nashville",
-      "link": "https://www.boston.com/sports/new-england-revolution/2026/02/22/revolution-takeaways-nashville-sc-2026-season-opener/",
-      "pubDate": "Sun, 22 Feb 2026 16:31:57 +0000",
-      "description": "<p>New England has a long way to go under new head coach Marko Mitrovi\u0107.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/02/22/revolution-takeaways-nashville-sc-2026-season-opener/\">5 takeaways from the Revolution&#8217;s season-opening defeat in Nashville</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "afb8005fb2ee5a00e41dfaf69928796f",
-      "summary": [
-        "New England Revolution lost 2-0 to Nashville SC in their season opener on February 22.",
-        "Head coach Marko Mitrovi\u0107 faces challenges in improving team performance this season.",
-        "Local fans express concerns about the team's competitiveness in the MLS Eastern Conference."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New Commuter Rail fare gates at South Station break down again",
-      "link": "https://www.boston.com/news/transportation/2026/02/22/new-commuter-rail-fare-gates-at-south-station-break-down-again/",
-      "pubDate": "Sun, 22 Feb 2026 16:29:15 +0000",
-      "description": "<p>The fare gates have now been closed twice due to harsh winter conditions since they opened late last year.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/02/22/new-commuter-rail-fare-gates-at-south-station-break-down-again/\">New Commuter Rail fare gates at South Station break down again</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ffa2827b511ae0d9c052cd87c23783bc",
-      "summary": [
-        "New fare gates at South Station have closed twice due to winter conditions since late 2022.",
-        "The gates' repeated breakdowns disrupt commuter travel for thousands of Boston residents.",
-        "Harsh winter weather continues to challenge infrastructure reliability in Boston's transit system."
       ],
       "hookType": "LOCAL_IMPACT"
     }

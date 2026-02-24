@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-02-24T13:15:41.468411+00:00",
+  "lastUpdated": "2026-02-24T14:54:15.928615+00:00",
   "articles": [
     {
-      "title": "4 maps predicting totals from Wednesday morning\u2019s snowfall",
-      "link": "https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/",
-      "pubDate": "Tue, 24 Feb 2026 13:09:39 +0000",
-      "description": "<p>\"A much lighter snowfall is expected Wednesday as a clipper system passes by to our north.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/02/24/boston-ma-snow-maps-wednesday-feb-25-2026/\">4 maps predicting totals from Wednesday morning&#8217;s snowfall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d7c51dfc1c9d5fcf650ad09340cf328e",
+      "title": "In unprecedented decision, The Boston Globe will not print a paper for Feb. 24 delivery",
+      "link": "https://www.boston.com/news/the-boston-globe/2026/02/24/in-unprecedented-decision-the-boston-globe-will-not-print-a-paper-for-feb-24-delivery/",
+      "pubDate": "Tue, 24 Feb 2026 14:22:58 +0000",
+      "description": "<p>For more than 153 years, the press workers of The Boston Globe have overcome the elements, technical snafus, and global pandemics to print a daily newspaper. But in an unprecedented decision, executives determined that the conditions during Monday\u2019s blizzard made it impossible to print and deliver a paper Tuesday morning. A massive nor\u2019easter blasted New [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2026/02/24/in-unprecedented-decision-the-boston-globe-will-not-print-a-paper-for-feb-24-delivery/\">In unprecedented decision, The Boston Globe will not print a paper for Feb. 24 delivery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "746a1860656eadfc1a2f8b5e94c9b99b",
       "summary": [
-        "Expect lighter snowfall in Boston on Wednesday, February 25, 2026.",
-        "Snow totals predicted to be minimal due to a passing clipper system.",
-        "Residents should prepare for reduced visibility and slippery roads during morning commute."
+        "The Boston Globe will not print for February 24 delivery due to a blizzard.",
+        "This marks the first time in 153 years the paper has missed a delivery.",
+        "Residents will lack access to the daily news amid severe weather conditions."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "$3m glass penthouse in the heart of Portland, Maine, is the most expensive condo in the city",
-      "link": "https://www.boston.com/real-estate/luxury-homes/2026/02/24/penthouse-portland-maine/",
-      "pubDate": "Tue, 24 Feb 2026 12:00:00 +0000",
-      "description": "<p>The roof terrace has real, irrigated grass that is mowed once a week.  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/02/24/penthouse-portland-maine/\">$3m glass penthouse in the heart of Portland, Maine, is the most expensive condo in the city</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "113fbb8db31b5526cbdeec98487c6f03",
+      "title": "Here\u2019s what Boston meteorologists are saying the day after the historic blizzard",
+      "link": "https://www.boston.com/weather/local-news/2026/02/24/heres-what-boston-meteorologists-are-saying-the-day-after-the-historic-blizzard/",
+      "pubDate": "Tue, 24 Feb 2026 13:43:23 +0000",
+      "description": "<p>\"The blizzard yesterday has put Boston over 60\" for the season which hasn't happened since the infamous snow blitz winter of 2015.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/02/24/heres-what-boston-meteorologists-are-saying-the-day-after-the-historic-blizzard/\">Here&#8217;s what Boston meteorologists are saying the day after the historic blizzard</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7e8d4ccf99f0cf69e8de9005401ec14a",
       "summary": [
-        "Portland, Maine's $3 million penthouse is now the city's most expensive condo.",
-        "The penthouse features a roof terrace with irrigated grass mowed weekly.",
-        "This luxury listing may influence Boston's real estate market trends."
+        "Boston received a historic blizzard, accumulating over 60 inches of snow this season.",
+        "This snowfall marks the first time since 2015 that Boston surpassed 60 inches.",
+        "Residents should prepare for potential disruptions in transportation and daily activities."
       ],
       "hookType": "LOCAL_IMPACT"
     }
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-24T13:15:41.468432+00:00"
+    "timestamp": "2026-02-24T14:54:15.928635+00:00"
   }
 }
