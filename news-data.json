@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-02-25T08:55:44.915180+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-25T10:54:19.657013+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Feb. 25)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2026/02/25/recent-homes-sales-in-greater-boston-feb-25/",
+      "pubDate": "Wed, 25 Feb 2026 10:00:00 +0000",
+      "description": "<p>ACTON 246 Main St. #6 Condo Town House, built in 2004, 1,040 square feet, 4 rooms, 2 bedrooms, 2 baths. $450,000 11 Davis Road #A5 Condo/Apt, built in 1976, 869 square feet, 2 bedrooms, 2 baths. $270,000 AMESBURY 486 Main St. One-family conventional, built in 1850, 1,771 square feet, 7 rooms, 3 bedrooms, 3 baths, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/02/25/recent-homes-sales-in-greater-boston-feb-25/\">Recent homes sales in Greater Boston (Feb. 25)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c0ae91dd070bd2de27d1164276d1afe",
+      "summary": [
+        "Acton condo at 246 Main St. sold for $450,000 on February 25.",
+        "Amesbury home at 486 Main St. sold for $450,000, impacting local housing market.",
+        "Recent sales indicate rising property values in Greater Boston, affecting affordability."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-02-25T08:55:44.915190+00:00"
+    "timestamp": "2026-02-25T10:54:19.657034+00:00"
   }
 }
