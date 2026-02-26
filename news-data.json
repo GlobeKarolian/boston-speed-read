@@ -1,62 +1,9 @@
 {
-  "lastUpdated": "2026-02-26T05:20:58.382899+00:00",
-  "articles": [
-    {
-      "title": "Third victim reportedly dies after Pawtucket ice rink shooting",
-      "link": "https://www.boston.com/news/crime/2026/02/26/third-victim-reportedly-dies-after-pawtucket-ice-rink-shooting/",
-      "pubDate": "Thu, 26 Feb 2026 05:03:42 +0000",
-      "description": "<p>Gerald Dorgan, 75, died after being hospitalized in critical condition following the Feb. 16 shooting, according to reports. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/26/third-victim-reportedly-dies-after-pawtucket-ice-rink-shooting/\">Third victim reportedly dies after Pawtucket ice rink shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "eb75ee9d6cfeafe853af1e0c1e245610",
-      "summary": [
-        "Gerald Dorgan, 75, died after the February 16 Pawtucket ice rink shooting.",
-        "This marks the third fatality linked to the shooting incident.",
-        "Boston residents are concerned about safety at public events following this tragedy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cat saved after days stuck in a tree following the blizzard that blanketed Rhode Island",
-      "link": "https://www.boston.com/news/local-news/2026/02/25/cat-saved-after-days-stuck-in-a-tree-following-the-blizzard-that-blanketed-rhode-island/",
-      "pubDate": "Thu, 26 Feb 2026 04:17:19 +0000",
-      "description": "<p>Matt Lyons said he climbed 40 to 50 feet to save Pixie, who was stuck up in a tree during Rhode Island's record snowstorm.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/25/cat-saved-after-days-stuck-in-a-tree-following-the-blizzard-that-blanketed-rhode-island/\">Cat saved after days stuck in a tree following the blizzard that blanketed Rhode Island</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8a49538da3d073d5e1b0d0ab4b491781",
-      "summary": [
-        "Matt Lyons rescued Pixie, a cat, after it was stuck in a tree for days.",
-        "Lyons climbed 40 to 50 feet during Rhode Island's record snowstorm to save the cat.",
-        "The incident highlights community efforts and concern for pets during severe weather events."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "4 questions facing Bruins as they return from Olympic break",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/02/25/boston-bruins-questions-storylines-trade-deadline-nhl-roster-stanley-cup-playoffs/",
-      "pubDate": "Thu, 26 Feb 2026 03:22:33 +0000",
-      "description": "<p>The Bruins have to play 25 games over the final eight weeks of the 2025-26 season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/25/boston-bruins-questions-storylines-trade-deadline-nhl-roster-stanley-cup-playoffs/\">4 questions facing Bruins as they return from Olympic break</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "75a80bd70ac624a8833d5dcee583d95c",
-      "summary": [
-        "Bruins resume play with 25 games in eight weeks post-Olympic break.",
-        "Team faces critical decisions ahead of the trade deadline on March 3.",
-        "Local fans anticipate playoff positioning as Bruins aim for Stanley Cup contention."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Fire erupts at MCI-Norfolk prison, no major injuries reported",
-      "link": "https://www.boston.com/news/local-news/2026/02/25/fire-erupts-at-mci-norfolk-prison-no-major-injuries-reported/",
-      "pubDate": "Thu, 26 Feb 2026 02:52:25 +0000",
-      "description": "<p>Three incarcerated individuals were treated for smoke inhalation, and one staff member went to the hospital as a precautionary measure.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/25/fire-erupts-at-mci-norfolk-prison-no-major-injuries-reported/\">Fire erupts at MCI-Norfolk prison, no major injuries reported</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "49e824172348650b1438d871c47f7418",
-      "summary": [
-        "Fire broke out at MCI-Norfolk prison on February 25, 2026.",
-        "Three incarcerated individuals received treatment for smoke inhalation; one staff member hospitalized as precaution.",
-        "No major injuries reported, ensuring safety for surrounding community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-02-26T07:05:18.673199+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-02-26T05:20:58.382916+00:00"
+    "timestamp": "2026-02-26T07:05:18.673208+00:00"
   }
 }
