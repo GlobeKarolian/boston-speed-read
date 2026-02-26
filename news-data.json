@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-02-26T10:52:16.193777+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-26T13:15:31.273706+00:00",
+  "articles": [
+    {
+      "title": "How to come up with a down payment in the Boston area: \u2018Things have never cost more\u2019",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/02/26/down-payment-home-buying-boston-massachusetts/",
+      "pubDate": "Thu, 26 Feb 2026 12:00:00 +0000",
+      "description": "<p>Experts offer advice for first-time home buyers in Massachusetts. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/02/26/down-payment-home-buying-boston-massachusetts/\">How to come up with a down payment in the Boston area: \u2018Things have never cost more\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "15e8207871e2b133a12b2b53e773e99a",
+      "summary": [
+        "Experts advise Boston first-time home buyers on down payment strategies amid rising costs.",
+        "Massachusetts home prices have surged, making down payments more challenging for buyers.",
+        "Increased housing costs could delay homeownership for many Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Nikola Joki\u0107 has 30 points and 12 rebounds in the Nuggets\u2019 103-84 win over the Celtics",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/26/nikola-jokic-celtics-nuggets-recap/",
+      "pubDate": "Thu, 26 Feb 2026 05:40:19 +0000",
+      "description": "<p>Jaylen Brown had 23 points for the Celtics, who finished 3-1 on a Western Conference trip.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/26/nikola-jokic-celtics-nuggets-recap/\">Nikola Joki\u0107 has 30 points and 12 rebounds in the Nuggets&#8217; 103-84 win over the Celtics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1496afdff6ca81105f7fa047e635b722",
+      "summary": [
+        "Nuggets defeated Celtics 103-84 on February 26, 2026.",
+        "Jaylen Brown scored 23 points, contributing to Celtics' 3-1 record on their trip.",
+        "Celtics' loss may affect their playoff positioning in the Eastern Conference."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-26T10:52:16.193788+00:00"
+    "timestamp": "2026-02-26T13:15:31.273727+00:00"
   }
 }
