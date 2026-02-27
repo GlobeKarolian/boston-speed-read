@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-02-27T10:42:03.927483+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-27T13:07:38.567568+00:00",
+  "articles": [
+    {
+      "title": "Amid trying year, Olympic gold shone even brighter for Charlie McAvoy and his family",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/02/27/boston-bruins-charlie-mcavoy-nhl-hockey-olympics-family-injury-team-usa/",
+      "pubDate": "Fri, 27 Feb 2026 12:47:43 +0000",
+      "description": "<p>\"I kept telling them, 'We did it. We did it.' Because you can't do it by yourself.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/02/27/boston-bruins-charlie-mcavoy-nhl-hockey-olympics-family-injury-team-usa/\">Amid trying year, Olympic gold shone even brighter for Charlie McAvoy and his family</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "59d70b855ea8af8a0c8c7e0b1bfe69fb",
+      "summary": [
+        "Charlie McAvoy won Olympic gold with Team USA in 2022, boosting local pride.",
+        "McAvoy emphasized teamwork, stating, 'We did it' to his family after the win.",
+        "His victory comes after a challenging year, inspiring Boston residents facing adversity."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The hidden costs of buying and owning a home in Boston and beyond",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/02/27/hidden-costs-home-buying-maintenance-fees/",
+      "pubDate": "Fri, 27 Feb 2026 12:00:00 +0000",
+      "description": "<p>\u201cBoston\u2019s climate plays a big role in why home maintenance costs run above the national average,\u201d said Morgan Olsen, a home expert at Thumbtack.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/02/27/hidden-costs-home-buying-maintenance-fees/\">The hidden costs of buying and owning a home in Boston and beyond</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6ce94247bc8590d7727b0d9181d347b3",
+      "summary": [
+        "Boston's home maintenance costs exceed the national average due to local climate factors.",
+        "Morgan Olsen from Thumbtack highlights increased expenses for homeowners in Boston.",
+        "Residents should budget for higher upkeep costs when purchasing homes in the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/02/27/greater-boston-news-quiz-feb-27-2026-blizzard-snow-dunkin-mall-takeovers/",
+      "pubDate": "Fri, 27 Feb 2026 11:35:04 +0000",
+      "description": "<p>A surfeit of snow, takeover troubles, and a Dunkin\u2019 development are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/02/27/greater-boston-news-quiz-feb-27-2026-blizzard-snow-dunkin-mall-takeovers/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c74d265706a5194cde5d65facd7bc7f1",
+      "summary": [
+        "Boston experienced heavy snowfall this week, affecting travel and local businesses.",
+        "Dunkin' announced a new store opening in the Greater Boston area by March 2026.",
+        "Local businesses face challenges due to recent takeover troubles impacting the community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-02-27T10:42:03.927492+00:00"
+    "timestamp": "2026-02-27T13:07:38.567582+00:00"
   }
 }
