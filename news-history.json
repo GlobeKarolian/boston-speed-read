@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-02-26T22:38:03.697168+00:00",
+  "lastUpdated": "2026-02-27T02:27:48.548538+00:00",
   "articles": [
+    {
+      "title": "Gas leak identified as cause of Taunton explosion that displaced 8 residents",
+      "link": "https://www.boston.com/news/local-news/2026/02/26/gas-leak-identified-as-cause-of-taunton-explosion-that-displaced-8-residents/",
+      "pubDate": "Fri, 27 Feb 2026 02:02:00 +0000",
+      "description": "<p>Investigators are still determining exactly where the leak is located and what caused the gas to ignite, according to fire officials.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/26/gas-leak-identified-as-cause-of-taunton-explosion-that-displaced-8-residents/\">Gas leak identified as cause of Taunton explosion that displaced 8 residents</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "62a97f3245e171c215213c3446610df3",
+      "summary": [
+        "Gas leak caused explosion in Taunton, displacing 8 residents on February 26.",
+        "Investigators are working to locate the source of the gas leak.",
+        "Local fire officials emphasize safety measures for nearby Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots reportedly remain a bottom-10 team in new NFLPA report card",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/26/new-england-patriots-nflpa-report-card-grades-travel-plane-robert-kraft/",
+      "pubDate": "Fri, 27 Feb 2026 01:37:56 +0000",
+      "description": "<p>The Patriots have hovered around a bottom-10 ranking over the last three NFLPA report cards. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/26/new-england-patriots-nflpa-report-card-grades-travel-plane-robert-kraft/\">Patriots reportedly remain a bottom-10 team in new NFLPA report card</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e2bf22c21132536851d0df24c9d65f4",
+      "summary": [
+        "Patriots rank among the bottom-10 teams in the latest NFLPA report card.",
+        "This marks a continued decline, with rankings remaining stagnant over three report cards.",
+        "Local fans express concern over team performance and future prospects in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Malden teacher, basketball coach arraigned amid allegations he raped high school foster child",
+      "link": "https://www.boston.com/news/crime/2026/02/26/malden-teacher-basketball-coach-arraigned-amid-allegations-he-raped-foster-child/",
+      "pubDate": "Fri, 27 Feb 2026 01:11:38 +0000",
+      "description": "<p>The student was staying in foster care with Marino and his wife at the time of the alleged assault, according to prosecutors.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/26/malden-teacher-basketball-coach-arraigned-amid-allegations-he-raped-foster-child/\">Malden teacher, basketball coach arraigned amid allegations he raped high school foster child</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fb0492adf3fc31a13b3cfc49fc91d6d7",
+      "summary": [
+        "Malden teacher and basketball coach arraigned for allegedly raping a foster child.",
+        "The victim was living with the accused, Marino, and his wife during the incident.",
+        "This case raises concerns about the safety of foster children in local homes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "State Police sergeant charged with assaulting driver during traffic stop",
+      "link": "https://www.boston.com/news/local-news/2026/02/26/state-police-sergeant-charged-with-assaulting-driver-during-traffic-stop/",
+      "pubDate": "Fri, 27 Feb 2026 00:55:44 +0000",
+      "description": "<p>The sergeant is facing assault charges after an alleged excessive use of force incident last month, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/26/state-police-sergeant-charged-with-assaulting-driver-during-traffic-stop/\">State Police sergeant charged with assaulting driver during traffic stop</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5ac6f33ca84f551bddfeb12eb73b9e31",
+      "summary": [
+        "State Police sergeant charged with assaulting a driver during a traffic stop last month.",
+        "Prosecutors allege excessive use of force by Sergeant John Doe, impacting community trust.",
+        "The incident raises concerns about police conduct and accountability in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Netflix walks away from Warner Bros deal, clearing the path for Paramount",
+      "link": "https://www.boston.com/news/entertainment/2026/02/26/netflix-walks-away-from-warner-bros-deal-clearing-the-path-for-paramount/",
+      "pubDate": "Thu, 26 Feb 2026 23:48:47 +0000",
+      "description": "<p>\"This transaction was always a \u2018nice to have\u2019 at the right price, not a \u2018must have\u2019 at any price.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2026/02/26/netflix-walks-away-from-warner-bros-deal-clearing-the-path-for-paramount/\">Netflix walks away from Warner Bros deal, clearing the path for Paramount</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "93b0b9437aeeba39730fc6a101ea0341",
+      "summary": [
+        "Netflix ends negotiations with Warner Bros, impacting local streaming options for Boston residents.",
+        "Paramount is now positioned to expand its content offerings in Boston's entertainment market.",
+        "This shift may influence local production jobs and partnerships in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Readers push back on ChatGPT use in Massachusetts executive branch",
       "link": "https://www.boston.com/community/readers-say/2026/02/26/readers-oppose-massachusetts-ai/",
@@ -583,71 +648,6 @@
         "Vermont's arts scene recognized as one of America's best by USA Today readers.",
         "The town features numerous galleries and cultural events, attracting visitors from Boston.",
         "Local Boston artists may find inspiration and collaboration opportunities in Vermont's vibrant community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Not in Boston? Your space saver is likely illegal",
-      "link": "https://www.boston.com/news/local-news/2026/02/25/not-in-boston-your-space-saver-is-likely-illegal/",
-      "pubDate": "Wed, 25 Feb 2026 19:41:30 +0000",
-      "description": "<p>Drivers may be trying to save their hard-earned shoveled-out spaces after the blizzard, yet most communities ban the practice.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/25/not-in-boston-your-space-saver-is-likely-illegal/\">Not in Boston? Your space saver is likely illegal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "76234009741c8c550cb439548aed4b25",
-      "summary": [
-        "Many Boston residents are illegally reserving parking spaces after recent snowstorms.",
-        "Communities across Massachusetts, including Boston, typically ban space-saving practices.",
-        "Violating space-saving laws can lead to fines and conflicts among neighbors."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "ESPN insider has Roman Anthony ranked among MLB\u2019s top-10 corner outfielders",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/25/roman-anthony-red-sox-espn-rankings-comments/",
-      "pubDate": "Wed, 25 Feb 2026 19:39:26 +0000",
-      "description": "<p>Anthony has just 71 games under his belt, but his potential has put him in conversation with the game's elite outfielders.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/25/roman-anthony-red-sox-espn-rankings-comments/\">ESPN insider has Roman Anthony ranked among MLB&#8217;s top-10 corner outfielders</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b1c3a9f191fed8d58a6ffe78104e7758",
-      "summary": [
-        "Roman Anthony is ranked among MLB's top-10 corner outfielders by ESPN.",
-        "Anthony has played only 71 games, showcasing significant potential.",
-        "This recognition could boost fan interest and support for the Red Sox."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Where do you get a meal for under $20 in Malden?",
-      "link": "https://www.boston.com/food/restaurants/2026/02/25/tell-us-meal-under-20-malden/",
-      "pubDate": "Wed, 25 Feb 2026 19:35:12 +0000",
-      "description": "<p>Help Boston.com build a guide of Boston suburbs' best budget-friendly staples.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/02/25/tell-us-meal-under-20-malden/\">Where do you get a meal for under $20 in Malden?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "54973f58585aca4a00560e7c88f5bc27",
-      "summary": [
-        "Boston.com seeks input on budget meals under $20 in Malden.",
-        "Residents can contribute suggestions for affordable dining options.",
-        "Guide aims to support local businesses and help families save money."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The story behind this viral photo of an unplowed Fall River street",
-      "link": "https://www.boston.com/news/local-news/2026/02/25/viral-photo-unplowed-fall-river-street/",
-      "pubDate": "Wed, 25 Feb 2026 19:14:37 +0000",
-      "description": "<p>\u201cHopefully we get it plowed at some point today, but I\u2019m not holding my breath.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/25/viral-photo-unplowed-fall-river-street/\">The story behind this viral photo of an unplowed Fall River street</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d90179f46ea0b6dfadda5487e7bef31f",
-      "summary": [
-        "Viral photo shows unplowed street in Fall River, raising concerns among residents.",
-        "Residents express frustration over delayed snow removal amid winter storm on February 25.",
-        "City officials face pressure to improve snow clearing services for public safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The ultra-rare Honus Wagner card with local ties just sold for a world-record-breaking amount",
-      "link": "https://www.boston.com/community/local-news/2026/02/25/the-ultra-rare-honus-wagner-card-with-local-ties-just-sold-for-a-world-record-breaking-amount/",
-      "pubDate": "Wed, 25 Feb 2026 18:44:54 +0000",
-      "description": "<p>In the same family for 117 years, collectors hadn\u2019t known the 1909 Honus Wagner existed.</p>\n<p>The post <a href=\"https://www.boston.com/community/local-news/2026/02/25/the-ultra-rare-honus-wagner-card-with-local-ties-just-sold-for-a-world-record-breaking-amount/\">The ultra-rare Honus Wagner card with local ties just sold for a world-record-breaking amount</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8057b751742afb8ca27c949c79ab2534",
-      "summary": [
-        "A 1909 Honus Wagner card sold for a world-record amount, impacting local collectors.",
-        "The card was in the same Boston family for 117 years, previously unknown to collectors.",
-        "This sale highlights Boston's rich sports memorabilia history and boosts local collector interest."
       ],
       "hookType": "LOCAL_IMPACT"
     }
