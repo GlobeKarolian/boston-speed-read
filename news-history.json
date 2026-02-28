@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-02-28T12:54:02.814500+00:00",
+  "lastUpdated": "2026-02-28T14:26:45.078511+00:00",
   "articles": [
+    {
+      "title": "Beware the birds: Bird flu confirmed in Boston",
+      "link": "https://www.boston.com/news/local-news/2026/02/28/beware-the-birds-bird-flu-confirmed-in-boston/",
+      "pubDate": "Sat, 28 Feb 2026 13:53:56 +0000",
+      "description": "<p>Health officials say the risk to the public remains low after infected birds were confirmed in the Emerald Necklace.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/28/beware-the-birds-bird-flu-confirmed-in-boston/\">Beware the birds: Bird flu confirmed in Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "825f8efe452aff7a0a545b8ee934f672",
+      "summary": [
+        "Bird flu confirmed in Boston's Emerald Necklace area, raising health concerns.",
+        "Health officials report low risk to the public despite the confirmed cases.",
+        "Residents advised to avoid contact with wild birds to prevent potential spread."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Read President Trump\u2019s statement on Iran in full",
+      "link": "https://www.boston.com/news/world-news/2026/02/28/read-president-trumps-statement-on-iran-in-full/",
+      "pubDate": "Sat, 28 Feb 2026 13:24:12 +0000",
+      "description": "<p>\"Now is the time to seize control of your destiny, and to unleash the prosperous and glorious future that is close within your reach.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/read-president-trumps-statement-on-iran-in-full/\">Read President Trump&rsquo;s statement on Iran in full</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3e04e24a311052e3a402b23d6b8a2c65",
+      "summary": [
+        "President Trump urges Iranians to seize control of their future in recent statement.",
+        "Statement emphasizes prosperity and a glorious future for Iran, affecting local Iranian communities.",
+        "Potential shifts in U.S.-Iran relations may impact Boston's diplomatic and economic landscape."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "What to know about U.S.-Israel attacks on Iran",
       "link": "https://www.boston.com/news/world-news/2026/02/28/what-to-know-about-u-s-israel-attacks-on-iran/",
@@ -622,32 +648,6 @@
         "Gas leak caused explosion in Taunton, displacing 8 residents on February 26.",
         "Investigators are working to locate the source of the gas leak.",
         "Local fire officials emphasize safety measures for nearby Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots reportedly remain a bottom-10 team in new NFLPA report card",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/26/new-england-patriots-nflpa-report-card-grades-travel-plane-robert-kraft/",
-      "pubDate": "Fri, 27 Feb 2026 01:37:56 +0000",
-      "description": "<p>The Patriots have hovered around a bottom-10 ranking over the last three NFLPA report cards. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/26/new-england-patriots-nflpa-report-card-grades-travel-plane-robert-kraft/\">Patriots reportedly remain a bottom-10 team in new NFLPA report card</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2e2bf22c21132536851d0df24c9d65f4",
-      "summary": [
-        "Patriots rank among the bottom-10 teams in the latest NFLPA report card.",
-        "This marks a continued decline, with rankings remaining stagnant over three report cards.",
-        "Local fans express concern over team performance and future prospects in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Malden teacher, basketball coach arraigned amid allegations he raped high school foster child",
-      "link": "https://www.boston.com/news/crime/2026/02/26/malden-teacher-basketball-coach-arraigned-amid-allegations-he-raped-foster-child/",
-      "pubDate": "Fri, 27 Feb 2026 01:11:38 +0000",
-      "description": "<p>The student was staying in foster care with Marino and his wife at the time of the alleged assault, according to prosecutors.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/02/26/malden-teacher-basketball-coach-arraigned-amid-allegations-he-raped-foster-child/\">Malden teacher, basketball coach arraigned amid allegations he raped high school foster child</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fb0492adf3fc31a13b3cfc49fc91d6d7",
-      "summary": [
-        "Malden teacher and basketball coach arraigned for allegedly raping a foster child.",
-        "The victim was living with the accused, Marino, and his wife during the incident.",
-        "This case raises concerns about the safety of foster children in local homes."
       ],
       "hookType": "LOCAL_IMPACT"
     }
