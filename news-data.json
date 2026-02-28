@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-02-28T10:28:14.976453+00:00",
-  "articles": [],
+  "lastUpdated": "2026-02-28T12:54:02.813548+00:00",
+  "articles": [
+    {
+      "title": "What to know about U.S.-Israel attacks on Iran",
+      "link": "https://www.boston.com/news/world-news/2026/02/28/what-to-know-about-u-s-israel-attacks-on-iran/",
+      "pubDate": "Sat, 28 Feb 2026 12:48:52 +0000",
+      "description": "<p>One of the first strikes hit near the offices of Supreme Leader Ayatollah Ali Khamenei. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/what-to-know-about-u-s-israel-attacks-on-iran/\">What to know about U.S.-Israel attacks on Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a89996b938eeafb6ae79a986ab9a7a15",
+      "summary": [
+        "U.S.-Israel strikes targeted Iran, impacting regional security and stability.",
+        "Attacks occurred near Ayatollah Ali Khamenei's offices, escalating tensions in the Middle East.",
+        "Boston residents may face increased geopolitical tensions affecting local security policies."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The Latest: US and Israel attack Iran as Trump says US begins \u2018major combat operations\u2019",
+      "link": "https://www.boston.com/news/world-news/2026/02/28/the-latest-us-and-israel-attack-iran-as-trump-says-us-begins-major-combat-operations/",
+      "pubDate": "Sat, 28 Feb 2026 12:38:45 +0000",
+      "description": "<p>Iran\u2019s Foreign Ministry responded to the joint strikes Saturday, saying that the country \u201cwill not hesitate\u201d in its response to the renewed military aggression.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/the-latest-us-and-israel-attack-iran-as-trump-says-us-begins-major-combat-operations/\">The Latest: US and Israel attack Iran as Trump says US begins &#8216;major combat operations&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56a4074841f47e39aa2bb27eec3e5560",
+      "summary": [
+        "US and Israel launched strikes on Iran amid escalating tensions on February 28.",
+        "Iran's Foreign Ministry vowed a strong response to the military actions.",
+        "Boston residents may face increased security measures and potential economic impacts from the conflict."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-28T10:28:14.976462+00:00"
+    "timestamp": "2026-02-28T12:54:02.813571+00:00"
   }
 }
