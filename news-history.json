@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-02-28T14:26:45.078511+00:00",
+  "lastUpdated": "2026-02-28T16:31:49.600429+00:00",
   "articles": [
+    {
+      "title": "What Paramount\u2019s pending purchase of Warner Bros. Discovery means for sports fans",
+      "link": "https://www.boston.com/sports/sports-news/2026/02/28/paramount-warner-bros-discovery-sports/",
+      "pubDate": "Sat, 28 Feb 2026 15:56:44 +0000",
+      "description": "<p>Most notably, the deal will likely result in CBS (owned by Paramount) and TNT/TBS (owned by Warner Bros. Discovery) being at least partially integrated.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/02/28/paramount-warner-bros-discovery-sports/\">What Paramount&#8217;s pending purchase of Warner Bros. Discovery means for sports fans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "80a42b62de98107ce5e899321bd9ca02",
+      "summary": [
+        "Paramount's purchase of Warner Bros. Discovery will integrate CBS and TNT/TBS for sports broadcasts.",
+        "This integration may enhance sports viewing options for Boston residents starting in 2024.",
+        "Local fans could see improved access to major sporting events through combined streaming services."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots reportedly interested in A.J. Brown, but not at Eagles\u2019 current asking price",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/28/patriots-aj-brown-eagles-asking-price-nfl-trade-rumors/",
+      "pubDate": "Sat, 28 Feb 2026 15:55:56 +0000",
+      "description": "<p>The Patriots have been linked to Brown for quite some time, but the rumors seemed to hit their peak this week. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/28/patriots-aj-brown-eagles-asking-price-nfl-trade-rumors/\">Patriots reportedly interested in A.J. Brown, but not at Eagles&#8217; current asking price</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "212484efb4d992db11291fc6e2b1fefd",
+      "summary": [
+        "Patriots express interest in A.J. Brown amid trade rumors this week.",
+        "Eagles currently demand a high asking price for Brown, hindering negotiations.",
+        "Potential trade could significantly impact Patriots' offensive strategy for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Bye-bye transponders: E-ZPass switching to stickers",
+      "link": "https://www.boston.com/news/local-news/2026/02/28/bye-bye-transponders-e-zpass-switching-to-stickers/",
+      "pubDate": "Sat, 28 Feb 2026 15:47:43 +0000",
+      "description": "<p>State officials estimate the new toll tags will save the state $7.4 million annually.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/28/bye-bye-transponders-e-zpass-switching-to-stickers/\">Bye-bye transponders: E-ZPass switching to stickers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f4ff0499dbc06f81e5ae42475ff51893",
+      "summary": [
+        "Massachusetts transitions E-ZPass from transponders to stickers starting February 2026.",
+        "State officials project annual savings of $7.4 million from the new toll tags.",
+        "Boston residents will benefit from reduced toll costs and improved efficiency."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Video shows nearly blind refugee being released by Border Patrol, 5 days before his death",
+      "link": "https://www.boston.com/news/national-news/2026/02/28/video-shows-nearly-blind-refugee-being-released-by-border-patrol-5-days-before-his-death/",
+      "pubDate": "Sat, 28 Feb 2026 15:04:50 +0000",
+      "description": "<p>He was dropped off at the Tim Hortons that night after federal authorities determined he wasn't eligible for deportation.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/28/video-shows-nearly-blind-refugee-being-released-by-border-patrol-5-days-before-his-death/\">Video shows nearly blind refugee being released by Border Patrol, 5 days before his death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ec7cf88d4061ed2db2a894039235d558",
+      "summary": [
+        "Border Patrol released a nearly blind refugee at Tim Hortons in Boston on February 23.",
+        "The refugee died just five days later, raising concerns about treatment of vulnerable individuals.",
+        "Local advocates call for improved support systems for refugees in Boston to prevent similar tragedies."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Woburn man charged with evading $1.2 million in income tax",
+      "link": "https://www.boston.com/news/local-news/2026/02/28/woburn-man-charged-with-evading-1-2-million-in-income-tax/",
+      "pubDate": "Sat, 28 Feb 2026 14:41:22 +0000",
+      "description": "<p>The janitorial business owner has pleaded not guilty to 10 tax charges, including tax evasion and filing false returns.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/28/woburn-man-charged-with-evading-1-2-million-in-income-tax/\">Woburn man charged with evading $1.2 million in income tax</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f6226bfe411c1950f540d94ad3ff8be5",
+      "summary": [
+        "Woburn janitorial business owner charged with evading $1.2 million in income tax.",
+        "Owner pleaded not guilty to 10 charges, including tax evasion and false returns.",
+        "Local taxpayers may face increased scrutiny as authorities tackle tax evasion cases."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Beware the birds: Bird flu confirmed in Boston",
       "link": "https://www.boston.com/news/local-news/2026/02/28/beware-the-birds-bird-flu-confirmed-in-boston/",
@@ -583,71 +648,6 @@
         "N.H. woman arrested for allegedly murdering her baby after 11-month investigation.",
         "Infant's body was discovered in Pine Island Pond on March 27, 2025.",
         "The case raises concerns about child safety and support services in the Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Police video shows Vince McMahon\u2019s 100 mph car crash in Connecticut",
-      "link": "https://www.boston.com/news/national-news/2026/02/26/police-video-shows-vince-mcmahons-100-mph-car-crash-in-connecticut/",
-      "pubDate": "Fri, 27 Feb 2026 03:09:41 +0000",
-      "description": "<p>McMahon, now 80, was driving his 2024 Bentley Continental GT at more than 100 mph when he crashed in the town of Westport, according to state police.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/02/26/police-video-shows-vince-mcmahons-100-mph-car-crash-in-connecticut/\">Police video shows Vince McMahon&#8217;s 100 mph car crash in Connecticut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "41eb8b35912317152349b7bf3cf9d4ab",
-      "summary": [
-        "Vince McMahon crashed his 2024 Bentley at over 100 mph in Westport, Connecticut.",
-        "The 80-year-old WWE executive was involved in a serious car accident on February 26.",
-        "Local authorities are investigating the incident, raising concerns about speeding in residential areas."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Way overdue on checking a car\u2019s transmission fluid",
-      "link": "https://www.boston.com/cars/how-to/2026/02/26/car-doctor-way-overdue-on-checking-a-cars-transmission-fluid/",
-      "pubDate": "Fri, 27 Feb 2026 02:56:09 +0000",
-      "description": "<p>John Paul, AAA Northeast's Car Doctor, hears from a reader worried they may have waited a bit too long to have their car\u2019s transmission fluid checked.</p>\n<p>The post <a href=\"https://www.boston.com/cars/how-to/2026/02/26/car-doctor-way-overdue-on-checking-a-cars-transmission-fluid/\">Way overdue on checking a car\u2019s transmission fluid</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f6e5da235c0b3f1bf71669ef091d349b",
-      "summary": [
-        "John Paul advises Boston drivers to regularly check transmission fluid to prevent costly repairs.",
-        "AAA Northeast emphasizes the importance of timely maintenance for vehicle longevity and safety.",
-        "Neglecting fluid checks can lead to transmission failure, affecting daily commutes for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "South Shore school evacuated after snow causes \u2018structural stress\u2019 on roof",
-      "link": "https://www.boston.com/news/local-news/2026/02/26/south-shore-school-evacuated-after-snow-causes-structural-stress-on-roof/",
-      "pubDate": "Fri, 27 Feb 2026 02:53:02 +0000",
-      "description": "<p>\"Roofing specialists were contracted earlier in the week and have been on site to support snow removal and a structural engineer is coming in to assess,\" the school said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/26/south-shore-school-evacuated-after-snow-causes-structural-stress-on-roof/\">South Shore school evacuated after snow causes &#8216;structural stress&#8217; on roof</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "757db084bbc0f240effa12f3acec1e4f",
-      "summary": [
-        "South Shore school evacuated due to snow causing structural stress on the roof.",
-        "Roofing specialists were contracted earlier this week for snow removal and assessment.",
-        "Local students and staff affected by evacuation as safety measures are implemented."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "David Ortiz changes his tune on Rafael Devers after previous criticism",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/26/david-ortiz-rafael-devers-mlb-baseball-interview-boston-red-sox-trade/",
-      "pubDate": "Fri, 27 Feb 2026 02:29:04 +0000",
-      "description": "<p>\"Things happen in the game. Other than that, that\u2019s my boy. That\u2019s a kid I got to meet when he was 15.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/26/david-ortiz-rafael-devers-mlb-baseball-interview-boston-red-sox-trade/\">David Ortiz changes his tune on Rafael Devers after previous criticism</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c77f02c7ce71f266d7666eef8da5a6c8",
-      "summary": [
-        "David Ortiz praises Rafael Devers, stating, 'that\u2019s my boy' after earlier criticism.",
-        "Ortiz met Devers when he was just 15 years old, highlighting their connection.",
-        "Ortiz's support may boost Devers' morale among Boston Red Sox fans and players."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Gas leak identified as cause of Taunton explosion that displaced 8 residents",
-      "link": "https://www.boston.com/news/local-news/2026/02/26/gas-leak-identified-as-cause-of-taunton-explosion-that-displaced-8-residents/",
-      "pubDate": "Fri, 27 Feb 2026 02:02:00 +0000",
-      "description": "<p>Investigators are still determining exactly where the leak is located and what caused the gas to ignite, according to fire officials.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/26/gas-leak-identified-as-cause-of-taunton-explosion-that-displaced-8-residents/\">Gas leak identified as cause of Taunton explosion that displaced 8 residents</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "62a97f3245e171c215213c3446610df3",
-      "summary": [
-        "Gas leak caused explosion in Taunton, displacing 8 residents on February 26.",
-        "Investigators are working to locate the source of the gas leak.",
-        "Local fire officials emphasize safety measures for nearby Boston residents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
