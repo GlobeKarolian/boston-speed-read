@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-03-01T20:31:46.678826+00:00",
+  "lastUpdated": "2026-03-01T22:28:56.935442+00:00",
   "articles": [
     {
-      "title": "Insider: Patriots probably won\u2019t make a \u2018Micah Parsons-type\u2019 trade this offseason",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/01/patriots-nfl-trade-rumors-aj-brown-maxx-crosby/",
-      "pubDate": "Sun, 01 Mar 2026 20:05:39 +0000",
-      "description": "<p>It's the latest report to suggest the Patriots won't make a big splash this offseason.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/01/patriots-nfl-trade-rumors-aj-brown-maxx-crosby/\">Insider: Patriots probably won&#8217;t make a &#8216;Micah Parsons-type&#8217; trade this offseason</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b68bb3d45aec38819d447ba846a1f035",
+      "title": "10 combine standouts that could make sense for Patriots to select in April\u2019s NFL Draft",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/01/patriots-nfl-combine-standouts-draft/",
+      "pubDate": "Sun, 01 Mar 2026 21:40:07 +0000",
+      "description": "<p>The weekend showed the depth at a few of the Patriots' biggest positions of need. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/01/patriots-nfl-combine-standouts-draft/\">10 combine standouts that could make sense for Patriots to select in April&#8217;s NFL Draft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "080beab097c89c3ff14cc85edebbd85e",
       "summary": [
-        "Patriots unlikely to pursue major trades this offseason, affecting team strategy.",
-        "Insider reports suggest no 'Micah Parsons-type' moves, limiting roster upgrades.",
-        "Boston fans may see a quieter offseason with fewer high-profile acquisitions."
+        "Patriots identified key positions of need during the NFL Combine weekend.",
+        "Ten standout players could significantly enhance the team's roster in April's draft.",
+        "Local fans anticipate potential improvements to the team's performance next season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "3 US troops killed and 5 are seriously wounded during Iran attacks, military says",
+      "link": "https://www.boston.com/news/politics/2026/03/01/3-us-troops-killed-and-5-are-seriously-wounded-during-iran-attacks-military-says/",
+      "pubDate": "Sun, 01 Mar 2026 21:05:10 +0000",
+      "description": "<p>U.S. Central Command, which oversees the Middle East, announced the deaths in a post on X but did not say when and where they occurred. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/01/3-us-troops-killed-and-5-are-seriously-wounded-during-iran-attacks-military-says/\">3 US troops killed and 5 are seriously wounded during Iran attacks, military says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de804c2f523c12e4edde91881e4cb441",
+      "summary": [
+        "Three U.S. troops killed and five seriously wounded in recent Iran attacks.",
+        "U.S. Central Command confirmed the casualties but did not disclose specific location or date.",
+        "Local Boston military families may face increased anxiety and concern over troop safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "White House official: Iran suggests it\u2019s open to talks and Trump says he\u2019s \u2018eventually\u2019 willing",
+      "link": "https://www.boston.com/news/politics/2026/03/01/white-house-official-iran-suggests-its-open-to-talks-and-trump-says-hes-eventually-willing/",
+      "pubDate": "Sun, 01 Mar 2026 20:40:38 +0000",
+      "description": "<p>The official, who spoke on condition of anonymity to discuss internal administration deliberations, said President Donald Trump says he is \u201ceventually\u201d willing to talk but that for now the military operation \u201ccontinues unabated.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/01/white-house-official-iran-suggests-its-open-to-talks-and-trump-says-hes-eventually-willing/\">White House official: Iran suggests it&#8217;s open to talks and Trump says he&#8217;s &#8216;eventually&#8217; willing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f2e6176a7268f3ff193d58ecfd76ba07",
+      "summary": [
+        "President Trump indicates willingness to negotiate with Iran, impacting U.S. foreign policy.",
+        "Military operations against Iran continue without pause, affecting regional stability.",
+        "Boston residents may face economic implications from ongoing military engagements abroad."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-03-01T20:31:46.678843+00:00"
+    "timestamp": "2026-03-01T22:28:56.935463+00:00"
   }
 }
