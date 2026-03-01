@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-02-28T22:27:08.019060+00:00",
+  "lastUpdated": "2026-03-01T02:41:45.913143+00:00",
   "articles": [
     {
-      "title": "Jarren Duran\u2019s hot start to spring training continues, hitting 2 homers vs. Twins. What could it mean for Red Sox\u2019 lineup?",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/02/28/jarren-duran-red-sox-lineup-spring-training/",
-      "pubDate": "Sat, 28 Feb 2026 22:08:03 +0000",
-      "description": "<p>Duran's hit three homers in the first week of spring training, including two against lefties.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/02/28/jarren-duran-red-sox-lineup-spring-training/\">Jarren Duran&#8217;s hot start to spring training continues, hitting 2 homers vs. Twins. What could it mean for Red Sox&#8217; lineup?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "061c879fa1aef30f4df8545b13d603af",
+      "title": "Iran\u2019s supreme leader has been killed during major attack, Trump says",
+      "link": "https://www.boston.com/news/world-news/2026/02/28/irans-supreme-leader-has-been-killed-during-major-attack-trump-says/",
+      "pubDate": "Sun, 01 Mar 2026 00:16:04 +0000",
+      "description": "<p>\u201cKhamenei, one of the most evil people in History, is dead,\u201d Trump wrote in a social media post. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/irans-supreme-leader-has-been-killed-during-major-attack-trump-says/\">Iran&rsquo;s supreme leader has been killed during major attack, Trump says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7a13acc0e736706d0143ff5719cc89e9",
       "summary": [
-        "Jarren Duran hit three homers in the first week of spring training.",
-        "Duran's two homers against lefties indicate potential lineup changes for the Red Sox.",
-        "His performance could boost the team's offensive strategy for the upcoming season."
+        "Iran's supreme leader, Ayatollah Khamenei, reportedly killed during a major attack.",
+        "Former President Trump announced Khamenei's death on social media, calling him 'evil'.",
+        "Potential geopolitical shifts may affect Boston's Iranian community and local businesses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jayson Tatum won\u2019t make return from Achilles tear in Celtics\u2019 matchup vs. 76ers",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/28/jayson-tatum-joel-embiid-injury-report-celtics-76ers/",
+      "pubDate": "Sat, 28 Feb 2026 22:26:39 +0000",
+      "description": "<p>76er star Joel Embiid will also miss Sunday's game with an oblique strain. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/28/jayson-tatum-joel-embiid-injury-report-celtics-76ers/\">Jayson Tatum won&#8217;t make return from Achilles tear in Celtics&#8217; matchup vs. 76ers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1b0ee9e4293ce59b166cd3f152baf20a",
+      "summary": [
+        "Jayson Tatum will not return from his Achilles tear for the Celtics' game on February 28.",
+        "76ers' star Joel Embiid will also miss the game due to an oblique strain.",
+        "Celtics face a challenging matchup without Tatum, impacting their playoff positioning."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-02-28T22:27:08.019079+00:00"
+    "timestamp": "2026-03-01T02:41:45.913164+00:00"
   }
 }
