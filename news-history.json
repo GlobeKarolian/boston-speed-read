@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-02T16:54:48.597757+00:00",
+  "lastUpdated": "2026-03-02T18:55:38.233560+00:00",
   "articles": [
+    {
+      "title": "Mass. police dispatcher injured in Iran conflict",
+      "link": "https://www.boston.com/news/local-news/2026/03/02/mass-police-dispatcher-injured-in-iran-conflict/",
+      "pubDate": "Mon, 02 Mar 2026 18:52:57 +0000",
+      "description": "<p>The Sudbury police dispatcher reportedly suffered minor injuries while serving overseas with the U.S. Navy.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/02/mass-police-dispatcher-injured-in-iran-conflict/\">Mass. police dispatcher injured in Iran conflict</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e3352153216af004a2138bf4b7077142",
+      "summary": [
+        "Sudbury police dispatcher injured while serving with U.S. Navy in Iran conflict.",
+        "Dispatcher sustained minor injuries during deployment; specific details on injuries not disclosed.",
+        "Local community in Sudbury expresses support for the dispatcher and their family."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What Baylor Scheierman said about his fractured thumb",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/02/baylor-scheierman-thumb-injury-update-celtics-comments/",
+      "pubDate": "Mon, 02 Mar 2026 18:30:52 +0000",
+      "description": "<p>\"We're kind of just evaluating it as it goes,\" Scheierman said. \"But felt good enough to be out there so it's just how it's going to be.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/02/baylor-scheierman-thumb-injury-update-celtics-comments/\">What Baylor Scheierman said about his fractured thumb</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "188e42c640189bfa8b5b0d504bbb8cb2",
+      "summary": [
+        "Baylor Scheierman is evaluating his fractured thumb injury day by day.",
+        "Scheierman felt good enough to participate in practice despite the injury.",
+        "His recovery status may affect the Boston Celtics' lineup decisions moving forward."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018It feels like home\u2019: Chinatown celebrates the Year of the Horse",
+      "link": "https://www.boston.com/culture/festivals-expos/2026/03/02/it-feels-like-home-chinatown-celebrates-the-year-of-the-horse/",
+      "pubDate": "Mon, 02 Mar 2026 17:31:42 +0000",
+      "description": "<p>Snow or shine, Chinatown\u2019s annual Lunar New Year parade returned Sunday as about 10 lion dance troupes wove through the neighborhood.</p>\n<p>The post <a href=\"https://www.boston.com/culture/festivals-expos/2026/03/02/it-feels-like-home-chinatown-celebrates-the-year-of-the-horse/\">\u2018It feels like home\u2019: Chinatown celebrates the Year of the Horse\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "41fe900768464b6bf367ffd72d965075",
+      "summary": [
+        "Chinatown's Lunar New Year parade celebrated the Year of the Horse on Sunday.",
+        "Approximately 10 lion dance troupes participated in the festivities.",
+        "The event fosters community spirit and cultural pride among Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston 25 News promotes Shiri Spear to chief meteorologist",
+      "link": "https://www.boston.com/news/media/2026/03/02/boston-25-news-chief-meterologist/",
+      "pubDate": "Mon, 02 Mar 2026 17:25:10 +0000",
+      "description": "<p>\"Her deep knowledge of the weather, commitment to keeping our community safe, and her genuine care for the community make her the perfect choice for Chief Meteorologist.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/media/2026/03/02/boston-25-news-chief-meterologist/\">Boston 25 News promotes Shiri Spear to chief meteorologist</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "89340dcd83f6fdfdd69125035a8e0f03",
+      "summary": [
+        "Boston 25 News promotes Shiri Spear to chief meteorologist effective immediately.",
+        "Spear's extensive weather knowledge aims to enhance community safety for Boston residents.",
+        "Her promotion reflects a commitment to local weather reporting and community engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "R.I. prosecutor who told police \u2018I\u2019m an AG\u2019 during arrest is back at work",
+      "link": "https://www.boston.com/news/local-news/2026/03/02/r-i-prosecutor-who-told-police-im-an-ag-during-arrest-is-back-at-work/",
+      "pubDate": "Mon, 02 Mar 2026 16:55:45 +0000",
+      "description": "<p>Devon Flanagan had been on unpaid leave since August, when she pleaded no contest to a misdemeanor trespassing charge.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/02/r-i-prosecutor-who-told-police-im-an-ag-during-arrest-is-back-at-work/\">R.I. prosecutor who told police \u2018I\u2019m an AG\u2019 during arrest is back at work</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6df48cf486288f00c0e7d22ad57e76ae",
+      "summary": [
+        "Devon Flanagan returns to work after unpaid leave since August 2023.",
+        "She pleaded no contest to a misdemeanor trespassing charge.",
+        "Her return may affect public trust in Rhode Island's legal system."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Should pajamas be banned at Logan Airport? Here\u2019s what readers said.",
       "link": "https://www.boston.com/community/readers-say/2026/03/02/readers-react-ban-pajamas-at-logan-airport/",
@@ -583,71 +648,6 @@
         "Woburn janitorial business owner charged with evading $1.2 million in income tax.",
         "Owner pleaded not guilty to 10 charges, including tax evasion and false returns.",
         "Local taxpayers may face increased scrutiny as authorities tackle tax evasion cases."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Beware the birds: Bird flu confirmed in Boston",
-      "link": "https://www.boston.com/news/local-news/2026/02/28/beware-the-birds-bird-flu-confirmed-in-boston/",
-      "pubDate": "Sat, 28 Feb 2026 13:53:56 +0000",
-      "description": "<p>Health officials say the risk to the public remains low after infected birds were confirmed in the Emerald Necklace.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/28/beware-the-birds-bird-flu-confirmed-in-boston/\">Beware the birds: Bird flu confirmed in Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "825f8efe452aff7a0a545b8ee934f672",
-      "summary": [
-        "Bird flu confirmed in Boston's Emerald Necklace area, raising health concerns.",
-        "Health officials report low risk to the public despite the confirmed cases.",
-        "Residents advised to avoid contact with wild birds to prevent potential spread."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Read President Trump\u2019s statement on Iran in full",
-      "link": "https://www.boston.com/news/world-news/2026/02/28/read-president-trumps-statement-on-iran-in-full/",
-      "pubDate": "Sat, 28 Feb 2026 13:24:12 +0000",
-      "description": "<p>\"Now is the time to seize control of your destiny, and to unleash the prosperous and glorious future that is close within your reach.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/read-president-trumps-statement-on-iran-in-full/\">Read President Trump&rsquo;s statement on Iran in full</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3e04e24a311052e3a402b23d6b8a2c65",
-      "summary": [
-        "President Trump urges Iranians to seize control of their future in recent statement.",
-        "Statement emphasizes prosperity and a glorious future for Iran, affecting local Iranian communities.",
-        "Potential shifts in U.S.-Iran relations may impact Boston's diplomatic and economic landscape."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What to know about U.S.-Israel attacks on Iran",
-      "link": "https://www.boston.com/news/world-news/2026/02/28/what-to-know-about-u-s-israel-attacks-on-iran/",
-      "pubDate": "Sat, 28 Feb 2026 12:48:52 +0000",
-      "description": "<p>One of the first strikes hit near the offices of Supreme Leader Ayatollah Ali Khamenei. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/what-to-know-about-u-s-israel-attacks-on-iran/\">What to know about U.S.-Israel attacks on Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a89996b938eeafb6ae79a986ab9a7a15",
-      "summary": [
-        "U.S.-Israel strikes targeted Iran, impacting regional security and stability.",
-        "Attacks occurred near Ayatollah Ali Khamenei's offices, escalating tensions in the Middle East.",
-        "Boston residents may face increased geopolitical tensions affecting local security policies."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The Latest: US and Israel attack Iran as Trump says US begins \u2018major combat operations\u2019",
-      "link": "https://www.boston.com/news/world-news/2026/02/28/the-latest-us-and-israel-attack-iran-as-trump-says-us-begins-major-combat-operations/",
-      "pubDate": "Sat, 28 Feb 2026 12:38:45 +0000",
-      "description": "<p>Iran\u2019s Foreign Ministry responded to the joint strikes Saturday, saying that the country \u201cwill not hesitate\u201d in its response to the renewed military aggression.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/02/28/the-latest-us-and-israel-attack-iran-as-trump-says-us-begins-major-combat-operations/\">The Latest: US and Israel attack Iran as Trump says US begins &#8216;major combat operations&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "56a4074841f47e39aa2bb27eec3e5560",
-      "summary": [
-        "US and Israel launched strikes on Iran amid escalating tensions on February 28.",
-        "Iran's Foreign Ministry vowed a strong response to the military actions.",
-        "Boston residents may face increased security measures and potential economic impacts from the conflict."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Celtics post one of NBA\u2019s best offensive performances as they await Jayson Tatum\u2019s possible return",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/02/28/celtics-nets-recap-jayson-tatum/",
-      "pubDate": "Sat, 28 Feb 2026 05:45:50 +0000",
-      "description": "<p>Boston will now wait to see if Sunday night\u2019s home matchup with the Philadelphia 76ers will mark the return of Tatum.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/28/celtics-nets-recap-jayson-tatum/\">Celtics post one of NBA&#8217;s best offensive performances as they await Jayson Tatum&#8217;s possible return</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a702ed4ddfa507999c681cd5e5ec849f",
-      "summary": [
-        "Celtics showcased one of the NBA's top offensive performances recently.",
-        "Boston awaits Jayson Tatum's potential return for the February 28 game against Philadelphia.",
-        "Tatum's return could significantly boost the team's chances in the playoffs."
       ],
       "hookType": "LOCAL_IMPACT"
     }
