@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-02T05:16:18.421160+00:00",
+  "lastUpdated": "2026-03-02T10:49:27.668826+00:00",
   "articles": [
+    {
+      "title": "Parole rate is up in Mass., including for people with life sentences",
+      "link": "https://www.boston.com/news/local-news/2026/03/02/parole-rate-is-up-in-mass-including-for-people-with-life-sentences/",
+      "pubDate": "Mon, 02 Mar 2026 10:00:00 +0000",
+      "description": "<p>\u201cA different group of people are coming before the Parole Board, largely because of the Mattis decision,\u201d said lawyer Ryan Schiff.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/02/parole-rate-is-up-in-mass-including-for-people-with-life-sentences/\">Parole rate is up in Mass., including for people with life sentences</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de7de64d62fd723fa59031271ee1dd86",
+      "summary": [
+        "Parole rates in Massachusetts have increased, affecting life sentence inmates significantly.",
+        "Lawyer Ryan Schiff attributes this change to the recent Mattis decision.",
+        "Boston residents may see more formerly incarcerated individuals reintegrating into the community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "New photo released in unsolved 1997 homicide of a N.H. woman",
       "link": "https://www.boston.com/news/local-news/2026/03/01/new-photo-released-in-unsolved-1997-homicide-of-a-n-h-woman/",
@@ -635,19 +648,6 @@
         "Alex Cora pledges $20,000 to the Jimmy Fund for each player hitting 20 home runs in 2026.",
         "This initiative directly supports cancer research and patient care in Boston.",
         "The donation aims to engage Red Sox fans in supporting a local charity."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "N.H. House advances bill targeting \u2018indoctrination\u2019 in public schools",
-      "link": "https://www.boston.com/news/education/2026/02/27/new-hampshire-house-bill-bans-public-school-indoctrination/",
-      "pubDate": "Fri, 27 Feb 2026 21:19:16 +0000",
-      "description": "<p>The \"CHARLIE Act\" would bar instruction about critical race theory and LGBTQ+ issues in classrooms.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2026/02/27/new-hampshire-house-bill-bans-public-school-indoctrination/\">N.H. House advances bill targeting &#8216;indoctrination&#8217; in public schools</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f73ee15f42f623b6036ab8aa5a05643a",
-      "summary": [
-        "New Hampshire House advances the 'CHARLIE Act' to restrict school curriculum.",
-        "The bill prohibits teaching critical race theory and LGBTQ+ topics in public schools.",
-        "Boston educators may face challenges adapting to changes in neighboring state's education policies."
       ],
       "hookType": "LOCAL_IMPACT"
     }

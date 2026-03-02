@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-02T08:51:56.514202+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-02T10:49:27.668302+00:00",
+  "articles": [
+    {
+      "title": "Parole rate is up in Mass., including for people with life sentences",
+      "link": "https://www.boston.com/news/local-news/2026/03/02/parole-rate-is-up-in-mass-including-for-people-with-life-sentences/",
+      "pubDate": "Mon, 02 Mar 2026 10:00:00 +0000",
+      "description": "<p>\u201cA different group of people are coming before the Parole Board, largely because of the Mattis decision,\u201d said lawyer Ryan Schiff.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/02/parole-rate-is-up-in-mass-including-for-people-with-life-sentences/\">Parole rate is up in Mass., including for people with life sentences</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de7de64d62fd723fa59031271ee1dd86",
+      "summary": [
+        "Parole rates in Massachusetts have increased, affecting life sentence inmates significantly.",
+        "Lawyer Ryan Schiff attributes this change to the recent Mattis decision.",
+        "Boston residents may see more formerly incarcerated individuals reintegrating into the community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-02T08:51:56.514209+00:00"
+    "timestamp": "2026-03-02T10:49:27.668317+00:00"
   }
 }
