@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-03T14:49:34.508254+00:00",
+  "lastUpdated": "2026-03-03T16:55:23.728712+00:00",
   "articles": [
+    {
+      "title": "\u2018You should\u2019ve been a Celtic\u2019: Julius Erving on Red Auerbach, rivalry with the Celtics",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/03/03/julius-erving-celtics-red-auerbach-larry-bird/",
+      "pubDate": "Tue, 03 Mar 2026 16:21:11 +0000",
+      "description": "<p>\"He didn't say, 'You've got a great game' or anything, nothing complimentary. It was just, 'You should've been a Celtic.'\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/03/03/julius-erving-celtics-red-auerbach-larry-bird/\">&#8216;You should&#8217;ve been a Celtic&#8217;: Julius Erving on Red Auerbach, rivalry with the Celtics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2faa5449d5bb92e87577f46add27ec86",
+      "summary": [
+        "Julius Erving recalls Red Auerbach's remark, highlighting Celtics' historical rivalry.",
+        "Erving's comment reflects on the competitive spirit between the Celtics and 76ers.",
+        "Local fans appreciate the legacy of Celtics' rivalries in Boston's sports culture."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston named finalist to host 2028 Democratic National Convention",
+      "link": "https://www.boston.com/news/politics/2026/03/03/boston-named-finalist-to-host-2028-democratic-national-convention/",
+      "pubDate": "Tue, 03 Mar 2026 16:20:02 +0000",
+      "description": "<p>Party officials will conduct site visits in Boston and four other cities this spring before making a final decision on the 2028 convention.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/03/boston-named-finalist-to-host-2028-democratic-national-convention/\">Boston named finalist to host 2028 Democratic National Convention</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2f8055269237fd55d51c22b51dce921b",
+      "summary": [
+        "Boston is a finalist to host the 2028 Democratic National Convention.",
+        "Site visits by party officials will occur this spring in five cities.",
+        "Hosting could boost local economy and tourism for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston-area hospitals rank among the world\u2019s best, Newsweek says",
+      "link": "https://www.boston.com/news/health/2026/03/03/boston-area-hospitals-rank-among-the-worlds-best-newsweek-says/",
+      "pubDate": "Tue, 03 Mar 2026 16:09:16 +0000",
+      "description": "<p>Fourteen Massachusetts hospitals made the global list, including two that landed in the top 20.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/03/03/boston-area-hospitals-rank-among-the-worlds-best-newsweek-says/\">Boston-area hospitals rank among the world\u2019s best, Newsweek says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7511dea40d45ed23c1188fee18d87b77",
+      "summary": [
+        "Fourteen Massachusetts hospitals ranked among the world's best by Newsweek.",
+        "Two Boston-area hospitals placed in the top 20 globally.",
+        "Local residents benefit from high-quality healthcare services and recognition."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Here\u2019s what Jon Stewart said about Trump\u2019s decision to go to war with Iran",
+      "link": "https://www.boston.com/news/politics/2026/03/03/heres-what-jon-stewart-said-about-trumps-decision-to-go-to-war-with-iran/",
+      "pubDate": "Tue, 03 Mar 2026 15:41:01 +0000",
+      "description": "<p>\"How quickly the right has gone from peace through strength to peace through war.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/03/heres-what-jon-stewart-said-about-trumps-decision-to-go-to-war-with-iran/\">Here&#8217;s what Jon Stewart said about Trump&#8217;s decision to go to war with Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "55ac6db00dcbd4fbb1f775a53156f28d",
+      "summary": [
+        "Update: Here\u2019s what Jon Stewart said about Trump\u2019s decisio",
+        "Details: <p>\"How quickly the right has gone from peace thro",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Southwest just launched a 3-day sale with $59 one-way flights",
+      "link": "https://www.boston.com/travel/flights/2026/03/03/southwest-just-launched-a-3-day-sale-with-59-one-way-flights/",
+      "pubDate": "Tue, 03 Mar 2026 15:07:48 +0000",
+      "description": "<p>The sale ends March 5.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/03/03/southwest-just-launched-a-3-day-sale-with-59-one-way-flights/\">Southwest just launched a 3-day sale with $59 one-way flights</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fe7d41d3393c5f1b9210744f9a8ff70b",
+      "summary": [
+        "Southwest Airlines launched a 3-day sale for Boston residents.",
+        "One-way flights are available for as low as $59.",
+        "Sale ends on March 5, encouraging early travel planning."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Paramount beat Netflix for Warner Bros. Now what?",
       "link": "https://www.boston.com/culture/the-queue/2026/03/03/paramount-beat-netflix-for-warner-bros-now-what/",
@@ -583,71 +648,6 @@
         "Bruins considering trade for Robert Thomas from St. Louis Blues.",
         "Trade could require multiple draft picks and top prospects.",
         "Potential trade impacts Bruins' future roster and development strategy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "FBI probes Texas bar shooting that killed 2 and wounded 14 as possible terrorist act",
-      "link": "https://www.boston.com/news/crime/2026/03/01/fbi-probes-texas-bar-shooting-that-killed-2-and-wounded-14-as-possible-terrorist-act/",
-      "pubDate": "Mon, 02 Mar 2026 01:35:38 +0000",
-      "description": "<p>Police in Austin shot and killed the gunman, who used both a pistol and a rifle to carry out the attack, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/01/fbi-probes-texas-bar-shooting-that-killed-2-and-wounded-14-as-possible-terrorist-act/\">FBI probes Texas bar shooting that killed 2 and wounded 14 as possible terrorist act</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9591bed4bc3e8c946e60e01712aab8f0",
-      "summary": [
-        "FBI investigates Texas bar shooting that killed 2 and injured 14 as a potential terrorist act.",
-        "Gunman, armed with a pistol and rifle, was shot dead by police in Austin.",
-        "Boston residents urged to remain vigilant amid rising concerns over similar violent incidents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cher\u2019s son charged with simple assault and trespassing at New Hampshire private school",
-      "link": "https://www.boston.com/news/crime/2026/03/01/chers-son-charged-with-simple-assault-and-trespassing-at-new-hampshire-private-school/",
-      "pubDate": "Mon, 02 Mar 2026 00:08:41 +0000",
-      "description": "<p>Elijah Allman, 49, was charged with four misdemeanors: two counts of simple assault, criminal trespass and criminal threatening.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/01/chers-son-charged-with-simple-assault-and-trespassing-at-new-hampshire-private-school/\">Cher&#8217;s son charged with simple assault and trespassing at New Hampshire private school</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c4c66b882c6e215193f9e7d1a60cb86c",
-      "summary": [
-        "Elijah Allman, 49, charged with four misdemeanors at a New Hampshire school.",
-        "Charges include two counts of simple assault and criminal trespass.",
-        "Incident raises concerns about safety at private institutions near Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "An update: Did a Brooklyn couple kill a neighbor\u2019s trees for a better view in Maine?",
-      "link": "https://www.boston.com/news/local-news/2026/03/01/an-update-did-a-brooklyn-couple-kill-a-neighbors-trees-for-a-better-view-in-maine/",
-      "pubDate": "Sun, 01 Mar 2026 23:59:07 +0000",
-      "description": "<p>The state approved a settlement that included a $3,000 fine but no acknowledgment of guilt for a tree poisoning that riled people in scenic Rockport, Maine.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/01/an-update-did-a-brooklyn-couple-kill-a-neighbors-trees-for-a-better-view-in-maine/\">An update: Did a Brooklyn couple kill a neighbor\u2019s trees for a better view in Maine?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "00871f5d2f29c004b40614a5ff18ae95",
-      "summary": [
-        "Maine state approved a $3,000 fine for tree poisoning incident in Rockport.",
-        "The couple involved, from Brooklyn, did not admit guilt in the settlement.",
-        "Local residents remain concerned about property rights and environmental impacts."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "10 combine standouts that could make sense for Patriots to select in April\u2019s NFL Draft",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/01/patriots-nfl-combine-standouts-draft/",
-      "pubDate": "Sun, 01 Mar 2026 21:40:07 +0000",
-      "description": "<p>The weekend showed the depth at a few of the Patriots' biggest positions of need. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/01/patriots-nfl-combine-standouts-draft/\">10 combine standouts that could make sense for Patriots to select in April&#8217;s NFL Draft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "080beab097c89c3ff14cc85edebbd85e",
-      "summary": [
-        "Patriots identified key positions of need during the NFL Combine weekend.",
-        "Ten standout players could significantly enhance the team's roster in April's draft.",
-        "Local fans anticipate potential improvements to the team's performance next season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "3 US troops killed and 5 are seriously wounded during Iran attacks, military says",
-      "link": "https://www.boston.com/news/politics/2026/03/01/3-us-troops-killed-and-5-are-seriously-wounded-during-iran-attacks-military-says/",
-      "pubDate": "Sun, 01 Mar 2026 21:05:10 +0000",
-      "description": "<p>U.S. Central Command, which oversees the Middle East, announced the deaths in a post on X but did not say when and where they occurred. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/01/3-us-troops-killed-and-5-are-seriously-wounded-during-iran-attacks-military-says/\">3 US troops killed and 5 are seriously wounded during Iran attacks, military says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "de804c2f523c12e4edde91881e4cb441",
-      "summary": [
-        "Three U.S. troops killed and five seriously wounded in recent Iran attacks.",
-        "U.S. Central Command confirmed the casualties but did not disclose specific location or date.",
-        "Local Boston military families may face increased anxiety and concern over troop safety."
       ],
       "hookType": "LOCAL_IMPACT"
     }
