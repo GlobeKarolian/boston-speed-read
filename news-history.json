@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-04T13:05:31.095971+00:00",
+  "lastUpdated": "2026-03-04T14:39:54.179840+00:00",
   "articles": [
+    {
+      "title": "Home of the Week: Brand new single-family house in West Roxbury for $1.65m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/03/04/west-roxbury-boston-preserve-cardinal-hill/",
+      "pubDate": "Wed, 04 Mar 2026 14:22:08 +0000",
+      "description": "<p>The home is located in The Preserve at Cardinal Hill, a new subdivision. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/03/04/west-roxbury-boston-preserve-cardinal-hill/\">Home of the Week: Brand new single-family house in West Roxbury for $1.65m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0ca08943f676450830e1767417c6869",
+      "summary": [
+        "New single-family house listed for $1.65 million in West Roxbury.",
+        "Located in The Preserve at Cardinal Hill subdivision.",
+        "Potential increase in local property values and neighborhood development."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston\u2019s innovation economy hits a new milestone in global rankings",
+      "link": "https://www.boston.com/news/business/2026/03/04/bostons-innovation-economy-hits-a-new-milestone-in-global-rankings/",
+      "pubDate": "Wed, 04 Mar 2026 13:30:14 +0000",
+      "description": "<p>A record number of Boston-area firms were named on the LexisNexis list.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/04/bostons-innovation-economy-hits-a-new-milestone-in-global-rankings/\">Boston\u2019s innovation economy hits a new milestone in global rankings</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "86521d9100a1cde44227bc8556d36313",
+      "summary": [
+        "Boston-area firms achieved record representation on the LexisNexis global rankings list.",
+        "Over 50 local companies were recognized for their innovation contributions.",
+        "This milestone boosts Boston's reputation as a leading hub for technology and entrepreneurship."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Is Scituate native Conor Garland a worthwhile trade target for Bruins?",
       "link": "https://www.boston.com/sports/boston-bruins/2026/03/04/conor-garland-boston-bruins-nhl-trade-rumors-vancouver-canucks/",
@@ -622,32 +648,6 @@
         "US attacks on Iran expected to intensify over the coming weeks.",
         "Iranian Supreme Leader Ayatollah Ali Khamenei killed, escalating regional tensions.",
         "Local Boston residents may face increased security measures and economic impacts."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "NFL insider: Maxx Crosby trade could happen \u2018this week\u2019",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/02/nfl-insider-maxx-crosby-trade-could-happen-this-week/",
-      "pubDate": "Tue, 03 Mar 2026 00:39:14 +0000",
-      "description": "<p>\"I\u2019d lean toward a Maxx Crosby trade happening, and maybe this week,\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/02/nfl-insider-maxx-crosby-trade-could-happen-this-week/\">NFL insider: Maxx Crosby trade could happen &#8216;this week&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d96e9ac66991163f1957968783a259a3",
-      "summary": [
-        "NFL insider predicts Maxx Crosby trade could occur this week.",
-        "Crosby, a key player, may impact the Patriots' defensive strategy.",
-        "Boston fans should watch for potential roster changes affecting team performance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Quincy man sentenced in fatal St. Patrick\u2019s Day assault in downtown Boston",
-      "link": "https://www.boston.com/news/local-news/2026/03/02/quincy-man-sentenced-in-fatal-st-patricks-day-assault-in-downtown-boston/",
-      "pubDate": "Tue, 03 Mar 2026 00:09:30 +0000",
-      "description": "<p>\u201cSome bad decisions nearly three years ago resulted in one person losing his life, another person losing his freedom and many friends and family members left with eternal loss and sadness,\u201d the Suffolk Count District Attorney said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/02/quincy-man-sentenced-in-fatal-st-patricks-day-assault-in-downtown-boston/\">Quincy man sentenced in fatal St. Patrick\u2019s Day assault in downtown Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c4079e9285303ef2d7999532dfdee0c6",
-      "summary": [
-        "Quincy man sentenced to 10 years for fatal St. Patrick's Day assault in Boston.",
-        "Incident occurred nearly three years ago, resulting in one death and significant community grief.",
-        "Suffolk County DA highlights lasting impact on victims' families and friends."
       ],
       "hookType": "LOCAL_IMPACT"
     }
