@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-04T08:44:55.666211+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-04T10:40:56.102276+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Mar. 4)",
+      "link": "https://www.boston.com/real-estate/real-estate-news/2026/03/04/recent-homes-sales-in-greater-boston-mar-4/",
+      "pubDate": "Wed, 04 Mar 2026 10:00:00 +0000",
+      "description": "<p>ABINGTON 1210 Washington St. One-family Colonial, built in 1950, 1,040 square feet, 6 rooms, 2 bedrooms, 2 baths, on 14,792-square-foot lot. $500,000 61 Monroe St. One-family Colonial, built in 1901, 1,358 square feet, 6 rooms, 3 bedrooms, 2 baths, on 9,375-square-foot lot. $363,581 ACTON 7 Concetta Circle. One-family Colonial, built in 1988, 2,726 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/real-estate-news/2026/03/04/recent-homes-sales-in-greater-boston-mar-4/\">Recent homes sales in Greater Boston (Mar. 4)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c85556340bd4c51b9075f9fa88d4a28",
+      "summary": [
+        "Abington home sales include a Colonial for $500,000 on Washington St.",
+        "Acton features a 2,726-square-foot Colonial sold recently, enhancing local property values.",
+        "Increased home sales indicate a competitive real estate market in Greater Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-04T08:44:55.666220+00:00"
+    "timestamp": "2026-03-04T10:40:56.102297+00:00"
   }
 }
