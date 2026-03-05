@@ -1,62 +1,9 @@
 {
-  "lastUpdated": "2026-03-05T05:14:34.732873+00:00",
-  "articles": [
-    {
-      "title": "Boston police seeking suspect in armed robbery",
-      "link": "https://www.boston.com/news/crime/2026/03/04/boston-police-seeking-suspect-in-armed-robbery/",
-      "pubDate": "Thu, 05 Mar 2026 03:42:23 +0000",
-      "description": "<p>The suspect is alleged to have robbed multiple victims at gunpoint in Dorchester on the afternoon of Jan. 22.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/04/boston-police-seeking-suspect-in-armed-robbery/\">Boston police seeking suspect in armed robbery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a9e23b24e98ba4408f1356bbb9b6660a",
-      "summary": [
-        "Boston police are investigating an armed robbery incident in Dorchester on January 22.",
-        "Multiple victims were robbed at gunpoint, raising safety concerns in the community.",
-        "Residents are urged to report any information to assist in apprehending the suspect."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "No license yet for World Cup games as Foxborough asks for public safety funding up front",
-      "link": "https://www.boston.com/news/local-news/2026/03/04/no-license-yet-for-world-cup-games-as-foxborough-asks-for-public-safety-funding-up-front/",
-      "pubDate": "Thu, 05 Mar 2026 03:11:35 +0000",
-      "description": "<p>\u201cIt\u2019s not acceptable for us,\u201d Foxborough Select Board Chair Bill Yukna told lawyers for the Boston hosting committee Tuesday night.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/04/no-license-yet-for-world-cup-games-as-foxborough-asks-for-public-safety-funding-up-front/\">No license yet for World Cup games as Foxborough asks for public safety funding up front</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6851ca8e6dbdb5e9d255112728f46eb7",
-      "summary": [
-        "Foxborough Select Board Chair Bill Yukna demands upfront public safety funding for World Cup games.",
-        "No license has been issued yet for the 2026 World Cup events in Foxborough.",
-        "Delay in licensing could affect local businesses and public safety preparations for the event."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Whose airstrike hit a girls school in Iran? The US says it\u2019s still investigating.",
-      "link": "https://www.boston.com/news/world-news/2026/03/04/whose-airstrike-hit-a-girls-school-in-iran-the-us-says-its-still-investigating/",
-      "pubDate": "Thu, 05 Mar 2026 02:51:55 +0000",
-      "description": "<p>The strike killed at least 175 people, most of whom were likely children, according to state media and health officials.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/03/04/whose-airstrike-hit-a-girls-school-in-iran-the-us-says-its-still-investigating/\">Whose airstrike hit a girls school in Iran? The US says it\u2019s still investigating.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b1a1dd995dcf5a31a64fbff854382674",
-      "summary": [
-        "US investigates airstrike that killed at least 175 people, mostly children, in Iran.",
-        "The strike targeted a girls school, raising concerns about civilian safety.",
-        "Boston residents may face increased discussions on international military actions and their consequences."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Wu to host first-ever \u2018office hours\u2019 for residents to speak with her directly",
-      "link": "https://www.boston.com/news/local-news/2026/03/04/wu-to-host-first-ever-office-hours-for-residents-to-speak-with-her-directly/",
-      "pubDate": "Thu, 05 Mar 2026 02:33:11 +0000",
-      "description": "<p>Thursday\u2019s event will give Bostonians a chance to tell Wu directly what they think is and isn\u2019t working about the city.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/04/wu-to-host-first-ever-office-hours-for-residents-to-speak-with-her-directly/\">Wu to host first-ever &#8216;office hours&#8217; for residents to speak with her directly</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "82038671e093130a4179a9aeeb8c4969",
-      "summary": [
-        "Mayor Michelle Wu will host her first office hours on Thursday for direct resident feedback.",
-        "Residents can share their thoughts on city issues directly with Wu during the event.",
-        "This initiative aims to enhance community engagement and address local concerns effectively."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-03-05T06:58:22.807337+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-03-05T05:14:34.732895+00:00"
+    "timestamp": "2026-03-05T06:58:22.807345+00:00"
   }
 }
