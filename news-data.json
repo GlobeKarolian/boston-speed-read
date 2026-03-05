@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-03-05T10:45:31.822323+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-05T13:09:22.587401+00:00",
+  "articles": [
+    {
+      "title": "3 reasons for optimism and 3 causes for concern as the Red Sox approach a new season",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/05/red-sox-mlb-preview-optimism-concern-roman-anthony-garrett-crochet/",
+      "pubDate": "Thu, 05 Mar 2026 11:34:35 +0000",
+      "description": "<p>Roman Anthony is just scratching the surface and could blossom into one of the faces of the sport.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/05/red-sox-mlb-preview-optimism-concern-roman-anthony-garrett-crochet/\">3 reasons for optimism and 3 causes for concern as the Red Sox approach a new season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "86a0a83706201d36801ef7737e1cf027",
+      "summary": [
+        "Roman Anthony shows potential to become a key player for the Red Sox.",
+        "Garrett Crochet's performance will be crucial for the team's pitching depth this season.",
+        "Boston fans are hopeful for a competitive season starting March 2026."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Kon Knueppel scores 20, Hornets beat Celtics 118-89 to earn 6th straight win",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/04/kon-knueppel-celtics-hornets-score/",
+      "pubDate": "Thu, 05 Mar 2026 02:58:02 +0000",
+      "description": "<p>LaMelo Ball and the Hornets moved above .500 with Wednesday's win over the higher- seeded Celtics.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/04/kon-knueppel-celtics-hornets-score/\">Kon Knueppel scores 20, Hornets beat Celtics 118-89 to earn 6th straight win</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5479de8a6e823052b6afaaa137cdfe5d",
+      "summary": [
+        "Hornets defeated Celtics 118-89 on March 4, marking their sixth consecutive win.",
+        "Kon Knueppel scored 20 points, contributing significantly to the Hornets' victory.",
+        "Celtics' loss impacts their playoff positioning as they struggle against lower-seeded teams."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-05T10:45:31.822331+00:00"
+    "timestamp": "2026-03-05T13:09:22.587419+00:00"
   }
 }
