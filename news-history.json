@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-06T10:39:50.397787+00:00",
+  "lastUpdated": "2026-03-06T13:04:44.382991+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/03/06/greater-boston-news-quiz-march-6-2026-dunkin-world-cup-patriots/",
+      "pubDate": "Fri, 06 Mar 2026 12:03:39 +0000",
+      "description": "<p>A Patriots party, a World Cup controversy, and a Dunkin\u2019 dis all figure into this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/03/06/greater-boston-news-quiz-march-6-2026-dunkin-world-cup-patriots/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "38ce3c0ddba9ca5f234dd246a12b3665",
+      "summary": [
+        "Participate in the Greater Boston news quiz to test your local knowledge.",
+        "The quiz includes recent events like a Patriots party and Dunkin' controversy.",
+        "Stay informed on local issues affecting Boston residents this week."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Citywide needle pickup requests fluctuated from 2020 to 2025, but surged in these neighborhoods",
       "link": "https://www.boston.com/news/local-news/2026/03/06/citywide-needle-pickup-requests-fluctuated-from-2020-to-2025-but-surged-in-these-neighborhoods/",
@@ -635,19 +648,6 @@
         "18-year-old Amanda Lewis runs the Boston Marathon to honor her childhood friend battling cancer.",
         "She trains to cope with discomfort, reflecting her commitment to the cause.",
         "Her efforts raise awareness and support for cancer research at Dana-Farber Cancer Institute."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Fall River man sentenced for raping woman when she refused to take naked pictures of young daughter",
-      "link": "https://www.boston.com/news/local-news/2026/03/04/fall-river-man-sentenced-for-raping-woman-when-she-refused-to-take-naked-pictures-of-young-daughter/",
-      "pubDate": "Thu, 05 Mar 2026 00:17:46 +0000",
-      "description": "<p>The man pleaded guilty to rape and child pornography charges on Monday, the DA said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/04/fall-river-man-sentenced-for-raping-woman-when-she-refused-to-take-naked-pictures-of-young-daughter/\">Fall River man sentenced for raping woman when she refused to take naked pictures of young daughter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5b9d95a194b63e966bac70f27c5d631c",
-      "summary": [
-        "Fall River man sentenced for rape and child pornography on March 4, 2026.",
-        "The man pleaded guilty to multiple charges, impacting community safety.",
-        "Victims and families in Boston face increased awareness of sexual violence."
       ],
       "hookType": "LOCAL_IMPACT"
     }
