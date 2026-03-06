@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T13:04:44.382235+00:00",
-  "articles": [
-    {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2026/03/06/greater-boston-news-quiz-march-6-2026-dunkin-world-cup-patriots/",
-      "pubDate": "Fri, 06 Mar 2026 12:03:39 +0000",
-      "description": "<p>A Patriots party, a World Cup controversy, and a Dunkin\u2019 dis all figure into this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/03/06/greater-boston-news-quiz-march-6-2026-dunkin-world-cup-patriots/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "38ce3c0ddba9ca5f234dd246a12b3665",
-      "summary": [
-        "Participate in the Greater Boston news quiz to test your local knowledge.",
-        "The quiz includes recent events like a Patriots party and Dunkin' controversy.",
-        "Stay informed on local issues affecting Boston residents this week."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-03-06T14:40:01.643468+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-03-06T13:04:44.382255+00:00"
+    "timestamp": "2026-03-06T14:40:01.643498+00:00"
   }
 }
