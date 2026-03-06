@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-06T08:43:32.915090+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-06T10:39:50.397012+00:00",
+  "articles": [
+    {
+      "title": "Citywide needle pickup requests fluctuated from 2020 to 2025, but surged in these neighborhoods",
+      "link": "https://www.boston.com/news/local-news/2026/03/06/citywide-needle-pickup-requests-fluctuated-from-2020-to-2025-but-surged-in-these-neighborhoods/",
+      "pubDate": "Fri, 06 Mar 2026 10:00:00 +0000",
+      "description": "<p>One Boston neighborhood saw a 149 percent increase in needles reported to the city through 311 over the last five years.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/06/citywide-needle-pickup-requests-fluctuated-from-2020-to-2025-but-surged-in-these-neighborhoods/\">Citywide needle pickup requests fluctuated from 2020 to 2025, but surged in these neighborhoods</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "415f218e945b08268bb6cb3ccc1be98b",
+      "summary": [
+        "Needle pickup requests in Boston increased significantly from 2020 to 2025.",
+        "One neighborhood reported a 149% rise in needles reported via 311.",
+        "Residents face heightened safety concerns due to increased needle presence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-06T08:43:32.915099+00:00"
+    "timestamp": "2026-03-06T10:39:50.397033+00:00"
   }
 }

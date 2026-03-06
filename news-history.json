@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-06T05:11:30.175499+00:00",
+  "lastUpdated": "2026-03-06T10:39:50.397787+00:00",
   "articles": [
+    {
+      "title": "Citywide needle pickup requests fluctuated from 2020 to 2025, but surged in these neighborhoods",
+      "link": "https://www.boston.com/news/local-news/2026/03/06/citywide-needle-pickup-requests-fluctuated-from-2020-to-2025-but-surged-in-these-neighborhoods/",
+      "pubDate": "Fri, 06 Mar 2026 10:00:00 +0000",
+      "description": "<p>One Boston neighborhood saw a 149 percent increase in needles reported to the city through 311 over the last five years.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/06/citywide-needle-pickup-requests-fluctuated-from-2020-to-2025-but-surged-in-these-neighborhoods/\">Citywide needle pickup requests fluctuated from 2020 to 2025, but surged in these neighborhoods</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "415f218e945b08268bb6cb3ccc1be98b",
+      "summary": [
+        "Needle pickup requests in Boston increased significantly from 2020 to 2025.",
+        "One neighborhood reported a 149% rise in needles reported via 311.",
+        "Residents face heightened safety concerns due to increased needle presence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Kaity Cimo is running the Boston Marathon for the Alzheimer\u2019s Association with her mother in mind",
       "link": "https://www.boston.com/community/boston-marathon/2026/03/05/kaity-cimo-alzheimersassociation/",
@@ -635,19 +648,6 @@
         "Fall River man sentenced for rape and child pornography on March 4, 2026.",
         "The man pleaded guilty to multiple charges, impacting community safety.",
         "Victims and families in Boston face increased awareness of sexual violence."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What\u2019s next for Patriots\u2019 offense after releasing Stefon Diggs?",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/04/new-england-patriots-stefon-diggs-trade-free-agents-rumors-nfl-offseason-aj-brown-alec-pierce/",
-      "pubDate": "Wed, 04 Mar 2026 23:49:33 +0000",
-      "description": "<p>The Patriots could pivot to other WR targets like Alec Pierce or A.J. Brown moving forward. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/04/new-england-patriots-stefon-diggs-trade-free-agents-rumors-nfl-offseason-aj-brown-alec-pierce/\">What\u2019s next for Patriots\u2019 offense after releasing Stefon Diggs?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0037baf3171fab14440a66d60b592456",
-      "summary": [
-        "Patriots released wide receiver Stefon Diggs, impacting their offensive strategy.",
-        "Potential new targets include Alec Pierce and A.J. Brown for the upcoming season.",
-        "This shift may affect local fans' expectations for the team's performance in 2026."
       ],
       "hookType": "LOCAL_IMPACT"
     }
