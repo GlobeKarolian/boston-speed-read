@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-07T12:55:53.920714+00:00",
+  "lastUpdated": "2026-03-07T14:28:16.976745+00:00",
   "articles": [
+    {
+      "title": "Jayson Tatum also makes a return in his comeback from Achilles tear",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/07/jayson-tatum-fashion-celtics/",
+      "pubDate": "Sat, 07 Mar 2026 14:26:38 +0000",
+      "description": "<p>Tatum served up a sophisticated layering of Parisian luxury, 90s nostalgia, street swagger, and fire footwear in the tunnel prior to Friday's game.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/07/jayson-tatum-fashion-celtics/\">Jayson Tatum also makes a return in his comeback from Achilles tear</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e760f8122ae9f48d2a3767baadc48892",
+      "summary": [
+        "Jayson Tatum returned to play after recovering from an Achilles tear.",
+        "Tatum showcased a unique fashion style before the game on March 7.",
+        "His return boosts the Celtics' chances in the upcoming playoff race."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Videos show US citizen\u2019s shooting death in Texas last year by federal immigration agent",
+      "link": "https://www.boston.com/news/immigration/2026/03/07/videos-show-us-citizens-shooting-death-in-texas-last-year-by-federal-immigration-agent/",
+      "pubDate": "Sat, 07 Mar 2026 14:07:58 +0000",
+      "description": "<p>Th death was the earliest of at least six fatal shootings by federal agents since President Donald Trump launched a\u00a0nationwide immigration crackdown.</p>\n<p>The post <a href=\"https://www.boston.com/news/immigration/2026/03/07/videos-show-us-citizens-shooting-death-in-texas-last-year-by-federal-immigration-agent/\">Videos show US citizen&#8217;s shooting death in Texas last year by federal immigration agent</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2dbe924782f997e329e99f0623f59c3a",
+      "summary": [
+        "US citizen shot by federal immigration agent in Texas last year, raising concerns over enforcement practices.",
+        "This incident is part of at least six fatal shootings by federal agents since Trump's immigration crackdown.",
+        "Boston residents may face increased scrutiny and fear regarding immigration enforcement in their communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump will join grieving families for the return of soldiers killed in Iran war",
+      "link": "https://www.boston.com/news/national-news/2026/03/07/trump-will-join-grieving-families-for-the-return-of-soldiers-killed-in-iran-war/",
+      "pubDate": "Sat, 07 Mar 2026 13:40:27 +0000",
+      "description": "<p>The six members of the Army Reserve, who were killed by a drone strike at a command center in Kuwait, were all from the 103rd Sustainment Command based in Des Moines, Iowa.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/07/trump-will-join-grieving-families-for-the-return-of-soldiers-killed-in-iran-war/\">Trump will join grieving families for the return of soldiers killed in Iran war</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f247f6a64630682648a4ae701bfc98c5",
+      "summary": [
+        "Trump will attend a memorial for six soldiers killed in a drone strike in Kuwait.",
+        "The soldiers were part of the 103rd Sustainment Command, based in Des Moines, Iowa.",
+        "The event highlights the ongoing impact of military actions on families in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The Latest: Trump says he\u2019ll hit Iran harder as Iranian president apologizes to neighbors",
+      "link": "https://www.boston.com/news/world-news/2026/03/07/the-latest-israel-hammers-beirut-and-tehran/",
+      "pubDate": "Sat, 07 Mar 2026 13:23:53 +0000",
+      "description": "<p>Iranian president apologizes to Gulf neighbors after attacks.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/03/07/the-latest-israel-hammers-beirut-and-tehran/\">The Latest: Trump says he&rsquo;ll hit Iran harder as Iranian president apologizes to neighbors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "059cdf6e69a8a63488db57c3e734e565",
+      "summary": [
+        "Iranian president apologizes to Gulf neighbors following recent attacks on March 7.",
+        "Former President Trump vows to intensify actions against Iran amid rising tensions.",
+        "Boston residents may face increased geopolitical instability affecting oil prices and security."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "She survived a brain tumor. Now she\u2019s running the Boston Marathon.",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/07/tracy-haisley-boston-public-library/",
+      "pubDate": "Sat, 07 Mar 2026 13:00:00 +0000",
+      "description": "<p>\"This is my chance to honor my journey, inspire others, and make a difference for a cause that aligns with my story.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/07/tracy-haisley-boston-public-library/\">She survived a brain tumor. Now she&#8217;s running the Boston Marathon.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "30bff35c3e07fd2f7b0853dd77bfd2ad",
+      "summary": [
+        "Tracy Haisley, a brain tumor survivor, will run the Boston Marathon on April 17, 2023.",
+        "Haisley aims to inspire others and raise awareness for brain tumor research.",
+        "Her participation highlights the resilience of Boston residents facing health challenges."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "What Jaylen Brown said of Jayson Tatum\u2019s return to Celtics",
       "link": "https://www.boston.com/sports/boston-celtics/2026/03/07/what-jaylen-brown-said-of-jayson-tatums-return-to-celtics/",
@@ -583,71 +648,6 @@
         "Bruins lose to Nashville, worsening their road record to 11-14-4 this season.",
         "Trade deadline approaches, raising concerns about team performance and potential acquisitions.",
         "Local fans worry about the team's competitiveness and playoff chances amid ongoing struggles."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Judge pauses deportation of Boston area Irish man held in custody for 6 months",
-      "link": "https://www.boston.com/news/local-news/2026/03/05/judge-pauses-deportation-of-boston-area-irish-man-held-in-custody-for-6-months/",
-      "pubDate": "Fri, 06 Mar 2026 04:23:43 +0000",
-      "description": "<p>A U.S. Court of Appeals judge granted Seanys Culleton\u2019s stay of removal pending the resolution of his petition for review.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/05/judge-pauses-deportation-of-boston-area-irish-man-held-in-custody-for-6-months/\">Judge pauses deportation of Boston area Irish man held in custody for 6 months</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "86f2713a0833eb282c07ebbd4636d76d",
-      "summary": [
-        "U.S. Court of Appeals pauses deportation of Seanys Culleton for review.",
-        "Culleton has been in custody for 6 months awaiting resolution.",
-        "This decision affects Boston's Irish community and immigration policy discussions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Victim in early morning Foxborough fire identified",
-      "link": "https://www.boston.com/news/local-news/2026/03/05/victim-in-early-morning-foxborough-fire-identified/",
-      "pubDate": "Fri, 06 Mar 2026 03:47:43 +0000",
-      "description": "<p>The fire broke out early Tuesday morning and killed a man in his 80s and his dog, according to fire officials.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/05/victim-in-early-morning-foxborough-fire-identified/\">Victim in early morning Foxborough fire identified</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f01e3b22ae7d5e4092ef196c60ec735a",
-      "summary": [
-        "Fire in Foxborough early Tuesday morning killed a man in his 80s and his dog.",
-        "Victim identified as a local resident, highlighting fire safety concerns in the area.",
-        "Incident raises awareness about fire prevention measures for Boston-area residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston tree canopy has expanded, in step with plans for a cleaner, greener city",
-      "link": "https://www.boston.com/news/local-news/2026/03/05/boston-tree-canopy-has-expanded-in-step-with-plans-for-a-cleaner-greener-city/",
-      "pubDate": "Fri, 06 Mar 2026 03:37:11 +0000",
-      "description": "<p>A new report unveiled Thursday shows that the city\u2019s tree coverage expanded by more than 150 acres between 2019 and 2024.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/05/boston-tree-canopy-has-expanded-in-step-with-plans-for-a-cleaner-greener-city/\">Boston tree canopy has expanded, in step with plans for a cleaner, greener city</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a0b84738693ac75cc102e5d520cfa880",
-      "summary": [
-        "Boston's tree coverage increased by over 150 acres from 2019 to 2024.",
-        "This expansion supports the city's initiative for a cleaner, greener environment.",
-        "Residents can expect improved air quality and enhanced urban aesthetics."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Kraft agrees to help cover World Cup security costs, but Foxbourough leaders still unsatisfied",
-      "link": "https://www.boston.com/news/local-news/2026/03/05/kraft-agrees-to-help-cover-world-cup-security-costs-but-foxbourough-leaders-still-unsatisfied/",
-      "pubDate": "Fri, 06 Mar 2026 03:22:28 +0000",
-      "description": "<p>\"Any suggestion that BS26 or the Kraft Group have adequately addressed the Town's concerns is false,\" Foxborough Select Board Chair Bill Yukna said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/05/kraft-agrees-to-help-cover-world-cup-security-costs-but-foxbourough-leaders-still-unsatisfied/\">Kraft agrees to help cover World Cup security costs, but Foxbourough leaders still unsatisfied</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e26724d1b379baaeae3aae9f149932b4",
-      "summary": [
-        "Kraft Group will assist with World Cup security costs for Foxborough.",
-        "Foxborough Select Board Chair Bill Yukna claims concerns remain unaddressed.",
-        "Local leaders express dissatisfaction, impacting community trust in event management."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Two Saints Tavern, a familiar bar for Northeastern students, is closing after 10 years in Fenway",
-      "link": "https://www.boston.com/news/local-news/2026/03/05/two-saints-tavern-a-familiar-bar-for-northeastern-students-is-closing-after-10-years-in-fenway/",
-      "pubDate": "Fri, 06 Mar 2026 03:00:54 +0000",
-      "description": "<p>\u201cThe system is broken, but it\u2019s not their fault,\u201d the bar's managing partner said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/05/two-saints-tavern-a-familiar-bar-for-northeastern-students-is-closing-after-10-years-in-fenway/\">Two Saints Tavern, a familiar bar for Northeastern students, is closing after 10 years in Fenway</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "86330ac5fea1c742ae04a7685524606a",
-      "summary": [
-        "Two Saints Tavern will close after 10 years serving Northeastern students in Fenway.",
-        "The bar's managing partner cited systemic issues as a reason for the closure.",
-        "Local students will lose a popular gathering spot in the Fenway area."
       ],
       "hookType": "LOCAL_IMPACT"
     }
