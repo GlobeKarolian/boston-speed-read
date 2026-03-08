@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-03-08T10:29:35.159861+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-08T12:57:18.118968+00:00",
+  "articles": [
+    {
+      "title": "Oil and gas prices rapidly rise as Iran war shows no signs of letting up",
+      "link": "https://www.boston.com/news/business/2026/03/08/oil-and-gas-prices-rapidly-rise-as-iran-war-shows-no-signs-of-letting-up/",
+      "pubDate": "Sun, 08 Mar 2026 12:33:09 +0000",
+      "description": "<p>Oil prices surpassed $90 a barrel Friday, with American crude settling at $90.90, up 36% from a week ago.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/08/oil-and-gas-prices-rapidly-rise-as-iran-war-shows-no-signs-of-letting-up/\">Oil and gas prices rapidly rise as Iran war shows no signs of letting up</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "743c8f28064af0009dfaef08e27cd36e",
+      "summary": [
+        "Oil prices exceeded $90 a barrel, impacting local gas prices for Boston residents.",
+        "American crude rose 36% in just one week, affecting transportation costs.",
+        "Rising fuel costs may lead to increased prices for goods and services in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The Latest: Iran accused of attacks in UAE and Bahrain, smoke blankets Tehran from Israeli strikes",
+      "link": "https://www.boston.com/news/world-news/2026/03/08/the-latest-iran-accused-of-attacks-in-uae-and-bahrain-smoke-blankets-tehran-from-israeli-strikes/",
+      "pubDate": "Sun, 08 Mar 2026 12:22:14 +0000",
+      "description": "<p>An Israeli attack on oil storage sites in Tehran sent up pillars of fire that could be seen in Associated Press video as a glow against the Saturday night sky.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/03/08/the-latest-iran-accused-of-attacks-in-uae-and-bahrain-smoke-blankets-tehran-from-israeli-strikes/\">The Latest: Iran accused of attacks in UAE and Bahrain, smoke blankets Tehran from Israeli strikes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0224ba6e44b6e93f235749790cb93e87",
+      "summary": [
+        "Israeli airstrikes on Tehran oil sites caused visible fires Saturday night.",
+        "Iran accused of launching attacks in UAE and Bahrain amid rising tensions.",
+        "Boston residents may face increased gas prices due to Middle East oil supply disruptions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump encourages Latin American leaders to use military action to help US fight cartels",
+      "link": "https://www.boston.com/news/politics/2026/03/08/trump-encourages-latin-american-leaders-to-use-military-action-to-help-us-fight-cartels/",
+      "pubDate": "Sun, 08 Mar 2026 12:10:15 +0000",
+      "description": "<p>\u201cThe only way to defeat these enemies is by unleashing the power of our militaries,\" Trump said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/08/trump-encourages-latin-american-leaders-to-use-military-action-to-help-us-fight-cartels/\">Trump encourages Latin American leaders to use military action to help US fight cartels</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fac0415ba9584e07485574c44d9bbbf7",
+      "summary": [
+        "Trump advocates for military action against cartels, urging Latin American leaders to collaborate.",
+        "This strategy could affect local law enforcement resources in Boston as federal priorities shift.",
+        "Increased military involvement may lead to heightened tensions and security concerns in the region."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ford recalls 1.74 million of its cars over rearview display issues",
+      "link": "https://www.boston.com/news/business/2026/03/08/ford-recalls-1-74-million-of-its-cars-over-rearview-display-issues/",
+      "pubDate": "Sun, 08 Mar 2026 12:00:46 +0000",
+      "description": "<p>The recalls cover 849,310 Broncos and Edges as well as 889,950 Escapes, Corsairs, Aviators and Explorers.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/08/ford-recalls-1-74-million-of-its-cars-over-rearview-display-issues/\">Ford recalls 1.74 million of its cars over rearview display issues</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "690df7b0714e9517e2574f0a94fba6ff",
+      "summary": [
+        "Ford recalls 1.74 million vehicles due to rearview display issues affecting safety.",
+        "849,310 Broncos and Edges, plus 889,950 Escapes and Explorers are included in the recall.",
+        "Boston residents owning these models should check for potential safety risks and recall notifications."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Families with missing loved ones like Nancy Guthrie face ambiguous loss. It freezes grief.",
+      "link": "https://www.boston.com/news/national-news/2026/03/08/families-with-missing-loved-ones-like-nancy-guthrie-face-ambiguous-loss-it-freezes-grief/",
+      "pubDate": "Sun, 08 Mar 2026 11:53:45 +0000",
+      "description": "<p>\u201cThere's no clear resolution from it. We know from research that ambiguous loss is the most psychologically painful kind of loss because of that.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/08/families-with-missing-loved-ones-like-nancy-guthrie-face-ambiguous-loss-it-freezes-grief/\">Families with missing loved ones like Nancy Guthrie face ambiguous loss. It freezes grief.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7f5386aa71b5086b21cd61f0d4279b7c",
+      "summary": [
+        "Families in Boston face unresolved grief due to missing loved ones like Nancy Guthrie.",
+        "Research indicates ambiguous loss is the most psychologically painful type of loss.",
+        "Local support systems are crucial for families dealing with this prolonged grief."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-03-08T10:29:35.159871+00:00"
+    "timestamp": "2026-03-08T12:57:18.118990+00:00"
   }
 }
