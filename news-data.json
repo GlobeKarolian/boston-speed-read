@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-03-08T18:39:59.357314+00:00",
+  "lastUpdated": "2026-03-08T20:31:31.229658+00:00",
   "articles": [
     {
-      "title": "Here\u2019s why a trade for Brian Thomas Jr. would be a home run move for the Patriots",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/08/nfl-trade-rumors-brian-thomas-jr-patriots/",
-      "pubDate": "Sun, 08 Mar 2026 17:47:21 +0000",
-      "description": "<p>Thomas might have had a down year in 2025, but he has major upside if he becomes available.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/08/nfl-trade-rumors-brian-thomas-jr-patriots/\">Here&#8217;s why a trade for Brian Thomas Jr. would be a home run move for the Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d9b6c40d03cb6282cfd42c1e8890c20d",
+      "title": "Rumored Patriots target Alec Pierce reportedly expected to make at least $27M per year, might not hit free agency",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/08/patriots-alec-pierce-nfl-free-agency-rumors/",
+      "pubDate": "Sun, 08 Mar 2026 20:21:35 +0000",
+      "description": "<p>The Colts opted not to place the franchise tag on Pierce this past week, opening up the possibility he could leave in free agency. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/08/patriots-alec-pierce-nfl-free-agency-rumors/\">Rumored Patriots target Alec Pierce reportedly expected to make at least $27M per year, might not hit free agency</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dc077d1979690a17f80f6ebedfbaf014",
       "summary": [
-        "Patriots eye trade for Brian Thomas Jr. to enhance their roster.",
-        "Thomas, despite a down 2025 season, shows significant potential for improvement.",
-        "Acquiring Thomas could boost Patriots' performance in upcoming NFL seasons."
+        "Colts did not franchise tag Alec Pierce, increasing free agency speculation.",
+        "Pierce is projected to earn at least $27M per year if he enters free agency.",
+        "Potential signing by the Patriots could impact their receiving corps and local fan interest."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018Reading felt impossible\u2019: Why she\u2019s running the Boston Marathon for BPL",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/08/marguerite-flynn-boston-public-library/",
+      "pubDate": "Sun, 08 Mar 2026 19:30:12 +0000",
+      "description": "<p>\"Libraries were never just buildings to me. They were sanctuaries that supported and encouraged me.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/08/marguerite-flynn-boston-public-library/\">&#8216;Reading felt impossible&#8217;: Why she\u2019s running the Boston Marathon for BPL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b38cb70ad09cbc035bea53d9ac53ff43",
+      "summary": [
+        "Marguerite Flynn is running the Boston Marathon to support the Boston Public Library.",
+        "She views libraries as vital sanctuaries for community support and education.",
+        "Flynn's efforts aim to raise awareness about the importance of public libraries in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "She\u2019s running the 2026 Boston Marathon for her patient",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/08/amy-comander-ellie-fund/",
+      "pubDate": "Sun, 08 Mar 2026 19:23:50 +0000",
+      "description": "<p>\"Running Boston for her is truly a privilege and we are both honored to support the Ellie Fund.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/08/amy-comander-ellie-fund/\">She&#8217;s running the 2026 Boston Marathon for her patient</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1ab6af4ee3135b5cfa0b1011ae2927ba",
+      "summary": [
+        "Amy Comander will run the 2026 Boston Marathon to support her patient.",
+        "Comander is raising funds for the Ellie Fund, aiding breast cancer patients.",
+        "The marathon participation highlights local support for cancer awareness in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Masataka Yoshida\u2019s late HR lifts Japan over Australia to take first place in group at World Baseball Classic",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/08/mastaka-yoshida-japan-world-baseball-classic-red-sox/",
+      "pubDate": "Sun, 08 Mar 2026 16:31:23 +0000",
+      "description": "<p>Yoshida hit a two-run homer in the seventh inning to help Japan beat Australia, 4-3. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/08/mastaka-yoshida-japan-world-baseball-classic-red-sox/\">Masataka Yoshida&#8217;s late HR lifts Japan over Australia to take first place in group at World Baseball Classic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45167a277554ad5d3b179eca3972ebed",
+      "summary": [
+        "Masataka Yoshida hit a two-run homer in the seventh inning.",
+        "Japan defeated Australia 4-3, securing first place in their group.",
+        "Yoshida's performance boosts local interest in the Red Sox ahead of the season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-03-08T18:39:59.357334+00:00"
+    "timestamp": "2026-03-08T20:31:31.229680+00:00"
   }
 }
