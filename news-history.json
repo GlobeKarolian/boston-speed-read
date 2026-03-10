@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-10T02:25:15.640499+00:00",
+  "lastUpdated": "2026-03-10T05:11:45.464793+00:00",
   "articles": [
+    {
+      "title": "MBTA announces schedule changes, detours as nearly 1 million expected to attend Sunday\u2019s St. Patrick\u2019s Day parade",
+      "link": "https://www.boston.com/news/local-news/2026/03/09/mbta-announces-schedule-changes-detours-as-nearly-1-million-expected-to-attend-sundays-st-patricks-day-parade/",
+      "pubDate": "Tue, 10 Mar 2026 03:45:04 +0000",
+      "description": "<p>\u201cThe MBTA takes great pride as we continue to improve daily service for the public to use 365 days a year and to ensure everyone can participate and enjoy special events like St. Patrick\u2019s Day festivities,\" MBTA General Manager Phillip Eng said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/09/mbta-announces-schedule-changes-detours-as-nearly-1-million-expected-to-attend-sundays-st-patricks-day-parade/\">MBTA announces schedule changes, detours as nearly 1 million expected to attend Sunday\u2019s St. Patrick&#8217;s Day parade</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d8a173e09a8d2f2c8ea9298697a4cf94",
+      "summary": [
+        "MBTA implements schedule changes for St. Patrick's Day parade on March 12.",
+        "Nearly 1 million attendees expected, affecting local transportation services.",
+        "Detours and adjustments aim to enhance public access to festivities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Boston Public Schools graduation rate reached all-time high last year, still lags behind state average",
       "link": "https://www.boston.com/news/local-news/2026/03/09/boston-public-schools-graduation-rate-reached-all-time-high-last-year-still-lags-behind-state-average/",
@@ -635,19 +648,6 @@
         "Amy Comander will run the 2026 Boston Marathon to support her patient.",
         "Comander is raising funds for the Ellie Fund, aiding breast cancer patients.",
         "The marathon participation highlights local support for cancer awareness in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Masataka Yoshida\u2019s late HR lifts Japan over Australia to take first place in group at World Baseball Classic",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/08/mastaka-yoshida-japan-world-baseball-classic-red-sox/",
-      "pubDate": "Sun, 08 Mar 2026 16:31:23 +0000",
-      "description": "<p>Yoshida hit a two-run homer in the seventh inning to help Japan beat Australia, 4-3. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/08/mastaka-yoshida-japan-world-baseball-classic-red-sox/\">Masataka Yoshida&#8217;s late HR lifts Japan over Australia to take first place in group at World Baseball Classic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "45167a277554ad5d3b179eca3972ebed",
-      "summary": [
-        "Masataka Yoshida hit a two-run homer in the seventh inning.",
-        "Japan defeated Australia 4-3, securing first place in their group.",
-        "Yoshida's performance boosts local interest in the Red Sox ahead of the season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
