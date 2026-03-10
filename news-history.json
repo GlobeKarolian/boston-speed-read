@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-10T16:58:35.266286+00:00",
+  "lastUpdated": "2026-03-10T18:56:25.268064+00:00",
   "articles": [
+    {
+      "title": "Fundraiser launched for Reddit tipster who helped identify suspect in Brown shooting",
+      "link": "https://www.boston.com/news/local-news/2026/03/10/fundraiser-launched-for-reddit-tipster-who-helped-identify-suspect-in-brown-shooting/",
+      "pubDate": "Tue, 10 Mar 2026 18:18:36 +0000",
+      "description": "<p>Organizers say the anonymous tipster who helped investigators track the suspect is currently without permanent housing. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/10/fundraiser-launched-for-reddit-tipster-who-helped-identify-suspect-in-brown-shooting/\">Fundraiser launched for Reddit tipster who helped identify suspect in Brown shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a776ab88e42953c5f4e347c574bed660",
+      "summary": [
+        "Organizers launched a fundraiser for the anonymous Reddit tipster aiding in the Brown shooting case.",
+        "The tipster is currently without permanent housing, highlighting local homelessness issues.",
+        "Funds raised aim to support the tipster's immediate needs and promote community safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Joe Mazzulla praises Baylor Scheierman\u2019s work ethic",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-praises-baylor-scheierman/",
+      "pubDate": "Tue, 10 Mar 2026 18:02:58 +0000",
+      "description": "<p>\"He doesn\u2019t care about anything except competing, and that doesn\u2019t get rewarded enough.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-praises-baylor-scheierman/\">Joe Mazzulla praises Baylor Scheierman\u2019s work ethic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d4a8cde93011e038c935e2cfe92959c1",
+      "summary": [
+        "Joe Mazzulla commends Baylor Scheierman's dedication to competition in recent statements.",
+        "Mazzulla highlights Scheierman's work ethic as crucial for team success this season.",
+        "Local fans can expect increased performance from the Celtics due to Scheierman's influence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Alexander brothers are convicted of sex trafficking in case that shocked the real estate world",
+      "link": "https://www.boston.com/news/crime/2026/03/10/alexander-brothers-are-convicted-of-sex-trafficking-in-case-that-shocked-the-real-estate-world/",
+      "pubDate": "Tue, 10 Mar 2026 17:26:24 +0000",
+      "description": "<p>The verdict came after 11 women testified in Manhattan federal court they were sexually assaulted by one or more of the brothers: twins Oren and Alon Alexander, 38, and Tal Alexander, 39. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/10/alexander-brothers-are-convicted-of-sex-trafficking-in-case-that-shocked-the-real-estate-world/\">Alexander brothers are convicted of sex trafficking in case that shocked the real estate world</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3cfcb8ae69d94c94815ffa28dfd70c11",
+      "summary": [
+        "Oren, Alon, and Tal Alexander convicted of sex trafficking in Manhattan federal court.",
+        "Eleven women testified against the brothers, revealing extensive sexual assault allegations.",
+        "The case raises concerns about safety and accountability in Boston's real estate sector."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Police are searching for North Shore suspect in string of indecent assaults",
+      "link": "https://www.boston.com/news/local-news/2026/03/10/police-are-searching-for-north-shore-suspect-in-string-of-indecent-assaults/",
+      "pubDate": "Tue, 10 Mar 2026 17:21:01 +0000",
+      "description": "<p>Investigators say there were three separate incidents where the suspect inappropriately touched female victims from behind before fleeing. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/10/police-are-searching-for-north-shore-suspect-in-string-of-indecent-assaults/\">Police are searching for North Shore suspect in string of indecent assaults</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3670446ba106b693c8ad179b63fe2b74",
+      "summary": [
+        "Police investigate three indecent assaults involving a North Shore suspect targeting women.",
+        "Victims reported being inappropriately touched from behind before the suspect fled.",
+        "Residents urged to remain vigilant and report any suspicious activity to authorities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Wu announces millions in new funding for immigrant services",
+      "link": "https://www.boston.com/news/local-news/2026/03/10/wu-announces-millions-in-new-funding-for-immigrant-services/",
+      "pubDate": "Tue, 10 Mar 2026 17:06:53 +0000",
+      "description": "<p>Three major philanthropic organizations are committing to a public-private partnership that will help immigrants get legal services, basic necessities, and more. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/10/wu-announces-millions-in-new-funding-for-immigrant-services/\">Wu announces millions in new funding for immigrant services</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d7910288f13a1a0396a49cf44acff5f",
+      "summary": [
+        "Mayor Wu announces millions in funding for immigrant services in Boston.",
+        "Three philanthropic organizations join a public-private partnership to support immigrants.",
+        "Funding will provide legal services and basic necessities for Boston's immigrant community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Report: Flag football game featuring Tom Brady moved out of Saudi Arabia",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/03/10/tom-brady-fanatics-flag-football-classic-saudi-arabia-relocation/",
@@ -583,71 +648,6 @@
         "Conde Nast Traveler highlights Massachusetts as a top Memorial Day weekend destination.",
         "Local attractions offer various activities for families during the three-day weekend.",
         "Boston residents can enjoy a convenient getaway with minimal travel time."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston\u2019s Patricia Cornwell sees her books land on screen with \u2018Scarpetta\u2019",
-      "link": "https://www.boston.com/community/media/2026/03/09/bostons-patricia-cornwell-sees-her-books-land-on-screen-with-scarpetta/",
-      "pubDate": "Mon, 09 Mar 2026 13:51:00 +0000",
-      "description": "<p>The Boston author talks filming with Nicole Kidman, her upcoming brutally candid memoir, and more.</p>\n<p>The post <a href=\"https://www.boston.com/community/media/2026/03/09/bostons-patricia-cornwell-sees-her-books-land-on-screen-with-scarpetta/\">Boston\u2019s Patricia Cornwell sees her books land on screen with \u2018Scarpetta\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7b2adb2856487a4bdfe76dc593d90ede",
-      "summary": [
-        "Boston author Patricia Cornwell's book 'Scarpetta' is being adapted into a film.",
-        "Nicole Kidman stars in the adaptation, enhancing Boston's cultural landscape.",
-        "Cornwell plans to release a candid memoir, impacting local literary discussions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018We\u2019re not concerned about Boston\u2019: Pistons\u2019 head coach referenced Celtics amid four-game losing streak",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/03/09/pistons-celtics-jb-bickerstaff-comments-boston/",
-      "pubDate": "Mon, 09 Mar 2026 14:44:51 +0000",
-      "description": "<p>Detroit's Eastern Conference lead has dwindled while Boston now has Jayson Tatum back in the lineup.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/03/09/pistons-celtics-jb-bickerstaff-comments-boston/\">&#8216;We\u2019re not concerned about Boston&#8217;: Pistons&#8217; head coach referenced Celtics amid four-game losing streak</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "719fac83d1f53e939e4354842e8a9547",
-      "summary": [
-        "Pistons' coach downplayed concerns about the Celtics during their four-game losing streak.",
-        "Boston's Jayson Tatum has returned to the lineup, boosting team morale.",
-        "Celtics' improved performance could affect playoff standings in the Eastern Conference."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots free agency live updates: Tracking New England\u2019s top offseason pickups",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/09/patriots-offseason-signings-free-agency-live-updates-tracker-news-new-england-nfl-football-offseason/",
-      "pubDate": "Mon, 09 Mar 2026 11:46:35 +0000",
-      "description": "<p>The Patriots have over $50 million in cap space to shore up several areas of their roster. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/09/patriots-offseason-signings-free-agency-live-updates-tracker-news-new-england-nfl-football-offseason/\">Patriots free agency live updates: Tracking New England\u2019s top offseason pickups</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7e16675a0192fc25d2a7d987eae6aff9",
-      "summary": [
-        "Patriots have over $50 million in cap space for offseason improvements.",
-        "Team aims to address key roster areas through strategic free agency signings.",
-        "Local fans can expect enhanced team performance in the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston Marathon runner aims to complete marathons in all 50 states",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/09/zara-harding-dana-farber/",
-      "pubDate": "Mon, 09 Mar 2026 11:00:00 +0000",
-      "description": "<p>Zara Harding has run more than a dozen marathons since her cancer diagnosis. After Boston, she only has 10 to go.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/09/zara-harding-dana-farber/\">Boston Marathon runner aims to complete marathons in all 50 states</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "62e6b08d53258008098e938bdcb3022a",
-      "summary": [
-        "Zara Harding, a Boston Marathon runner, has completed over a dozen marathons since her cancer diagnosis.",
-        "After the Boston Marathon, Harding will have 10 states left to complete her goal of 50 marathons.",
-        "Her journey inspires Boston residents and highlights the resilience of cancer survivors in the community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Judge dismisses lawsuit of Babson College student mistakenly deported to Honduras",
-      "link": "https://www.boston.com/news/local-news/2026/03/08/judge-dismisses-lawsuit-of-babson-college-student-mistakenly-deported-to-honduras/",
-      "pubDate": "Mon, 09 Mar 2026 03:57:32 +0000",
-      "description": "<p>\u201cThe sad truth is that when Any declined the flight she also waived this court's only remaining basis for jurisdiction,\u201d the judge ruled.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/08/judge-dismisses-lawsuit-of-babson-college-student-mistakenly-deported-to-honduras/\">Judge dismisses lawsuit of Babson College student mistakenly deported to Honduras</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b5ffc5d826f354c1154bec88fe0e9c46",
-      "summary": [
-        "Judge dismisses lawsuit of Babson College student Any after deportation to Honduras.",
-        "Court ruled Any waived jurisdiction by declining the flight back to the U.S.",
-        "Decision highlights legal vulnerabilities for international students in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
