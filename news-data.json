@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-03-11T08:49:50.320293+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-11T10:44:55.973502+00:00",
+  "articles": [
+    {
+      "title": "Victor Wembanyama shines, Jaylen Brown is ejected as Celtics drop chaotic loss to Spurs: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/11/celtics-spurs-score-recap-wemby/",
+      "pubDate": "Wed, 11 Mar 2026 10:27:01 +0000",
+      "description": "<p>Celtics coach Joe Mazzulla dared Wemby to burn them from the 3-point line, and the Spurs star did just that.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/11/celtics-spurs-score-recap-wemby/\">Victor Wembanyama shines, Jaylen Brown is ejected as Celtics drop chaotic loss to Spurs: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c6e453ab255f3e4984889e7b80b33fee",
+      "summary": [
+        "Celtics lost to Spurs 115-104 on March 11, 2023.",
+        "Jaylen Brown was ejected in the third quarter for two technical fouls.",
+        "Victor Wembanyama scored 36 points, highlighting concerns for Boston's defense."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Recent homes sales in Greater Boston (March 11)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/03/11/recent-homes-sales-in-greater-boston-march-11/",
+      "pubDate": "Wed, 11 Mar 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 353 Plymouth St. One-family Colonial, built in 1900, 1,609 square feet, 7 rooms, 3 bedrooms, 1 bath, on 26,553-square-foot lot. $555,000 42 Norton Ave. One-family ranch, built in 1968, 1,556 square feet, 4 rooms, 2 bedrooms, 2 baths, on 33,087-square-foot lot. $550,000 19 Bank St. One-family conventional, built in 1901, 1,110 square feet, 6 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/03/11/recent-homes-sales-in-greater-boston-march-11/\">Recent homes sales in Greater Boston (March 11)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0d701a3f3fa9a1293f891ce686997388",
+      "summary": [
+        "Abington homes sold include a Colonial for $555,000 and a ranch for $550,000.",
+        "Recent sales reflect ongoing demand in Greater Boston's real estate market.",
+        "Home prices indicate a competitive market, affecting affordability for local buyers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-11T08:49:50.320301+00:00"
+    "timestamp": "2026-03-11T10:44:55.973517+00:00"
   }
 }
