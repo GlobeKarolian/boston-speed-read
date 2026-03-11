@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-03-11T20:38:13.283245+00:00",
+  "lastUpdated": "2026-03-11T22:30:39.731717+00:00",
   "articles": [
     {
-      "title": "Boston Marathon race director to run with his 3 kids \u2014 and astronaut Sunita Williams",
-      "link": "https://www.boston.com/news/boston-marathon/2026/03/11/dave-mcgillivray-sunita-williams/",
-      "pubDate": "Wed, 11 Mar 2026 19:51:36 +0000",
-      "description": "<p>Dave McGillivray will run his 54th Boston Marathon with three of his kids and longtime friend, retired astronaut Sunita Williams.</p>\n<p>The post <a href=\"https://www.boston.com/news/boston-marathon/2026/03/11/dave-mcgillivray-sunita-williams/\">Boston Marathon race director to run with his 3 kids \u2014 and astronaut Sunita Williams</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ebba91e6f0da49aac191ae3f0c2c638c",
+      "title": "Samuel Adams launches new \u2018Our City. Our Beer.\u2019 variety pack inspired by Boston sports stars",
+      "link": "https://www.boston.com/food/food-news/2026/03/11/samuel-adams-launches-sports-stars-beer-variety-pack/",
+      "pubDate": "Wed, 11 Mar 2026 21:00:08 +0000",
+      "description": "<p>The new pack features four beers inspired by Derrick White, Garrett Crochet, Julian Edelman, and Zdeno Chara.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/11/samuel-adams-launches-sports-stars-beer-variety-pack/\">Samuel Adams launches new &#8216;Our City. Our Beer.&#8217; variety pack inspired by Boston sports stars</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9bc03fc899da43af7beac280e90227b0",
       "summary": [
-        "Dave McGillivray will run his 54th Boston Marathon on April 17, 2023.",
-        "He will be joined by his three children and astronaut Sunita Williams.",
-        "This event highlights family participation and community spirit in Boston's iconic race."
+        "Samuel Adams introduces \u2018Our City. Our Beer.\u2019 variety pack featuring four local sports stars.",
+        "Beers inspired by Derrick White, Garrett Crochet, Julian Edelman, and Zdeno Chara launched on March 11, 2026.",
+        "Local residents can celebrate Boston sports culture through unique beer flavors and community engagement."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Jayson Tatum, Derrick White sound off on \u2018ridiculous\u2019 Jaylen Brown ejection",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/03/11/jayson-tatum-derrick-white-jaylen-brown-ejection/",
-      "pubDate": "Wed, 11 Mar 2026 19:08:07 +0000",
-      "description": "<p>\"He definitely earned the first one,\" White said. \"I thought the second one was [expletive], honestly.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/11/jayson-tatum-derrick-white-jaylen-brown-ejection/\">Jayson Tatum, Derrick White sound off on &#8216;ridiculous&#8217; Jaylen Brown ejection</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d3de99ea499009d054f17a2cd5a32642",
+      "title": "Court hearing for Cher\u2019s son on charges he broke into a New Hampshire home canceled",
+      "link": "https://www.boston.com/news/crime/2026/03/11/court-hearing-for-chers-son-on-charges-he-broke-into-a-new-hampshire-home-canceled/",
+      "pubDate": "Wed, 11 Mar 2026 20:50:09 +0000",
+      "description": "<p>Elijah Allman\u2019s arrest on March 1 was his second in New Hampshire in a matter of days.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/11/court-hearing-for-chers-son-on-charges-he-broke-into-a-new-hampshire-home-canceled/\">Court hearing for Cher&#8217;s son on charges he broke into a New Hampshire home canceled</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4ae337bab4776eb6dafecfafc78eb6a7",
       "summary": [
-        "Jaylen Brown was ejected during a recent game, sparking controversy among teammates.",
-        "Derrick White criticized the second ejection, calling it 'ridiculous' on March 11, 2026.",
-        "The ejection could affect team morale and performance in upcoming games for Boston fans."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "He\u2019s running Boston to honor of his mother\u2019s adventurous spirit",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/11/james-hebert/",
-      "pubDate": "Wed, 11 Mar 2026 19:00:00 +0000",
-      "description": "<p>\"She inspired me to realize that life only stops being an adventure when you stop dreaming and believing.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/11/james-hebert/\">He&#8217;s running Boston to honor of his mother&#8217;s adventurous spirit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4cee4146a7f1c36167b3bb0c2d677929",
-      "summary": [
-        "James Hebert is running the Boston Marathon to honor his mother's adventurous spirit.",
-        "Hebert's mother inspired him to pursue dreams and embrace life's adventures.",
-        "The marathon on April 17, 2023, highlights local stories of resilience and inspiration."
+        "Court hearing for Elijah Allman, Cher's son, was canceled on March 11.",
+        "Allman was arrested on March 1 for breaking into a New Hampshire home.",
+        "This incident marks Allman's second arrest in New Hampshire within days."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-11T20:38:13.283263+00:00"
+    "timestamp": "2026-03-11T22:30:39.731738+00:00"
   }
 }

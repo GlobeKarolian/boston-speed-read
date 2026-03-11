@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-11T20:38:13.284019+00:00",
+  "lastUpdated": "2026-03-11T22:30:39.732500+00:00",
   "articles": [
+    {
+      "title": "Samuel Adams launches new \u2018Our City. Our Beer.\u2019 variety pack inspired by Boston sports stars",
+      "link": "https://www.boston.com/food/food-news/2026/03/11/samuel-adams-launches-sports-stars-beer-variety-pack/",
+      "pubDate": "Wed, 11 Mar 2026 21:00:08 +0000",
+      "description": "<p>The new pack features four beers inspired by Derrick White, Garrett Crochet, Julian Edelman, and Zdeno Chara.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/11/samuel-adams-launches-sports-stars-beer-variety-pack/\">Samuel Adams launches new &#8216;Our City. Our Beer.&#8217; variety pack inspired by Boston sports stars</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9bc03fc899da43af7beac280e90227b0",
+      "summary": [
+        "Samuel Adams introduces \u2018Our City. Our Beer.\u2019 variety pack featuring four local sports stars.",
+        "Beers inspired by Derrick White, Garrett Crochet, Julian Edelman, and Zdeno Chara launched on March 11, 2026.",
+        "Local residents can celebrate Boston sports culture through unique beer flavors and community engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Court hearing for Cher\u2019s son on charges he broke into a New Hampshire home canceled",
+      "link": "https://www.boston.com/news/crime/2026/03/11/court-hearing-for-chers-son-on-charges-he-broke-into-a-new-hampshire-home-canceled/",
+      "pubDate": "Wed, 11 Mar 2026 20:50:09 +0000",
+      "description": "<p>Elijah Allman\u2019s arrest on March 1 was his second in New Hampshire in a matter of days.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/11/court-hearing-for-chers-son-on-charges-he-broke-into-a-new-hampshire-home-canceled/\">Court hearing for Cher&#8217;s son on charges he broke into a New Hampshire home canceled</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4ae337bab4776eb6dafecfafc78eb6a7",
+      "summary": [
+        "Court hearing for Elijah Allman, Cher's son, was canceled on March 11.",
+        "Allman was arrested on March 1 for breaking into a New Hampshire home.",
+        "This incident marks Allman's second arrest in New Hampshire within days."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Boston Marathon race director to run with his 3 kids \u2014 and astronaut Sunita Williams",
       "link": "https://www.boston.com/news/boston-marathon/2026/03/11/dave-mcgillivray-sunita-williams/",
@@ -622,32 +648,6 @@
         "Tom Brady's flag football game relocated to Los Angeles due to Middle East tensions.",
         "The event was originally scheduled for Riyadh, Saudi Arabia.",
         "Boston fans miss a chance to see Brady play in an international setting."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Tell us: What\u2019s been Joe Mazzulla\u2019s best soundbite?",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-best-soundbite-celtics-history/",
-      "pubDate": "Tue, 10 Mar 2026 16:15:55 +0000",
-      "description": "<p>The quotable Celtics coach has produced some memorable lines in his Boston tenure, but which one stands out?</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-best-soundbite-celtics-history/\">Tell us: What&#8217;s been Joe Mazzulla&#8217;s best soundbite?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "57fdb4208d8624bea25c16c0e6d69953",
-      "summary": [
-        "Celtics coach Joe Mazzulla has delivered memorable quotes during his tenure.",
-        "Fans are encouraged to vote for their favorite Mazzulla soundbite.",
-        "The discussion highlights Mazzulla's influence on Boston's sports culture."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Why this Boston Marathon qualifier is running for the American Heart Association",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/10/blake-smith-american-heart-association/",
-      "pubDate": "Tue, 10 Mar 2026 16:00:00 +0000",
-      "description": "<p>\"This cause is personal \u2014 and I\u2019m running for every heartbeat that matters.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/10/blake-smith-american-heart-association/\">Why this Boston Marathon qualifier is running for the American Heart Association</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d25187b54f5bbf572e96f73477cb25b6",
-      "summary": [
-        "Blake Smith is running the Boston Marathon to support the American Heart Association.",
-        "He aims to raise awareness for heart health, impacting local Boston residents.",
-        "Smith's personal connection emphasizes the importance of heart disease prevention in the community."
       ],
       "hookType": "LOCAL_IMPACT"
     }
