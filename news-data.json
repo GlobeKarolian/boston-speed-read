@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-12T08:51:01.370558+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-12T10:43:32.685129+00:00",
+  "articles": [
+    {
+      "title": "10 predictions for the Red Sox this season",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/12/red-sox-predictions-season-preview-garrett-crochet-roman-anthony/",
+      "pubDate": "Thu, 12 Mar 2026 10:23:55 +0000",
+      "description": "<p>First prediction: Garrett Crochet wins the Cy Young Award.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/12/red-sox-predictions-season-preview-garrett-crochet-roman-anthony/\">10 predictions for the Red Sox this season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dbefd720c1eb50209556496903b1c398",
+      "summary": [
+        "Garrett Crochet is predicted to win the Cy Young Award this season.",
+        "Roman Anthony is expected to make a significant impact on the team's performance.",
+        "Local fans can anticipate an exciting season with potential playoff implications."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-12T08:51:01.370567+00:00"
+    "timestamp": "2026-03-12T10:43:32.685148+00:00"
   }
 }
