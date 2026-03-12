@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-03-12T10:43:32.685129+00:00",
+  "lastUpdated": "2026-03-12T13:09:53.190018+00:00",
   "articles": [
     {
-      "title": "10 predictions for the Red Sox this season",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/12/red-sox-predictions-season-preview-garrett-crochet-roman-anthony/",
-      "pubDate": "Thu, 12 Mar 2026 10:23:55 +0000",
-      "description": "<p>First prediction: Garrett Crochet wins the Cy Young Award.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/12/red-sox-predictions-season-preview-garrett-crochet-roman-anthony/\">10 predictions for the Red Sox this season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dbefd720c1eb50209556496903b1c398",
+      "title": "Kraft Group, Foxborough announce World Cup funding deal for Gillette Stadium security",
+      "link": "https://www.boston.com/sports/sports-news/2026/03/12/kraft-group-foxborough-announce-world-cup-funding-deal-for-gillette-stadium-security/",
+      "pubDate": "Thu, 12 Mar 2026 11:36:39 +0000",
+      "description": "<p>\"As part of this arrangement, the Town of Foxborough will not incur any cost or financial burden related to the FIFA World Cup.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/12/kraft-group-foxborough-announce-world-cup-funding-deal-for-gillette-stadium-security/\">Kraft Group, Foxborough announce World Cup funding deal for Gillette Stadium security</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e9a889278e2901cf44eaa90d17499f40",
       "summary": [
-        "Garrett Crochet is predicted to win the Cy Young Award this season.",
-        "Roman Anthony is expected to make a significant impact on the team's performance.",
-        "Local fans can anticipate an exciting season with potential playoff implications."
+        "Kraft Group and Foxborough secure funding for Gillette Stadium's World Cup security.",
+        "Foxborough will not incur any costs for the FIFA World Cup in 2026.",
+        "Local residents benefit from reduced financial burden during the World Cup event."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Natick mom to run the 2026 Boston Marathon for kinder communities",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/12/danica-champion-spark-kindness-inc/",
+      "pubDate": "Thu, 12 Mar 2026 11:00:00 +0000",
+      "description": "<p>Danica Champion, a Natick mother of two and ESL teacher,  is running her first marathon to support Spark Kindness.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/12/danica-champion-spark-kindness-inc/\">Natick mom to run the 2026 Boston Marathon for kinder communities</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5291a569264c111c8e99cad571761660",
+      "summary": [
+        "Natick mom Danica Champion will run the 2026 Boston Marathon.",
+        "She is raising funds for Spark Kindness, a local nonprofit.",
+        "Funds will support initiatives promoting kindness in Boston communities."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-12T10:43:32.685148+00:00"
+    "timestamp": "2026-03-12T13:09:53.190036+00:00"
   }
 }
