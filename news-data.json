@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-03-14T14:33:58.425765+00:00",
+  "lastUpdated": "2026-03-14T16:36:25.982960+00:00",
   "articles": [
     {
-      "title": "Brookline schools would see more than 200 layoffs if override fails, officials say",
-      "link": "https://www.boston.com/news/local-news/2026/03/14/brookline-schools-would-see-more-than-200-layoffs-if-override-fails-officials-say/",
-      "pubDate": "Sat, 14 Mar 2026 14:13:05 +0000",
-      "description": "<p>District leaders warn schools could become \"unrecognizable\" in three years if a funding measure isn't passed.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/14/brookline-schools-would-see-more-than-200-layoffs-if-override-fails-officials-say/\">Brookline schools would see more than 200 layoffs if override fails, officials say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c0fd0b01061695c6e14ddf61a7658caf",
+      "title": "He\u2019s running Boston to support people like him with Type 1 diabetes",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/14/collin-bennett-beth-israel/",
+      "pubDate": "Sat, 14 Mar 2026 16:00:00 +0000",
+      "description": "<p>\"Joslin Diabetes Center was the reason I did not lose hope.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/14/collin-bennett-beth-israel/\">He&#8217;s running Boston to support people like him with Type 1 diabetes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ee42b737f63d4b9442748a2bb29bb8ef",
       "summary": [
-        "Brookline schools face over 200 layoffs if funding override fails.",
-        "District leaders warn schools could become 'unrecognizable' within three years.",
-        "Local students and families may experience significant educational disruptions."
+        "Collin Bennett is running the Boston Marathon to raise awareness for Type 1 diabetes.",
+        "Bennett credits Joslin Diabetes Center for his hope and support in managing his condition.",
+        "His efforts aim to inspire Boston residents living with diabetes to seek help and stay active."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "What to know about the PETS Act aimed at protecting dogs and cats in Mass.",
-      "link": "https://www.boston.com/news/local-news/2026/03/14/what-to-know-about-the-pets-act-aimed-at-protecting-dogs-and-cats-in-mass/",
-      "pubDate": "Sat, 14 Mar 2026 13:40:51 +0000",
-      "description": "<p>Lawmakers say the proposal would reduce puppy mill sales while expanding protections for pets and their owners.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/14/what-to-know-about-the-pets-act-aimed-at-protecting-dogs-and-cats-in-mass/\">What to know about the PETS Act aimed at protecting dogs and cats in Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5003fed2527cd053996e0fdf4b0eb820",
+      "title": "Springfield native Ruth E. Carter keeps making Oscars history",
+      "link": "https://www.boston.com/news/local-news/2026/03/14/springfield-native-ruth-e-carter-keeps-making-oscars-history/",
+      "pubDate": "Sat, 14 Mar 2026 15:18:42 +0000",
+      "description": "<p>Ahead of Sunday\u2019s ceremony, Carter talks Springfield, \u201cSeinfeld\u201d \u2014 and the Massachusetts connection to \u201cSinners\u201d costumes.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/14/springfield-native-ruth-e-carter-keeps-making-oscars-history/\">Springfield native Ruth E. Carter keeps making Oscars history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dd44f4f7a848eeb3df33a1e728c1d8f4",
       "summary": [
-        "Lawmakers propose the PETS Act to protect pets and reduce puppy mill sales in Massachusetts.",
-        "The act aims to expand protections for pets and their owners statewide.",
-        "Boston residents could see improved pet welfare and reduced unethical breeding practices."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "As snow melts, drought still a big issue for Mass.",
-      "link": "https://www.boston.com/news/local-news/2026/03/14/as-snow-melts-drought-still-a-big-issue-for-mass/",
-      "pubDate": "Sat, 14 Mar 2026 13:07:04 +0000",
-      "description": "<p>State officials are urging water conservation amid persistent precipitation deficits despite heavy winter snowfall.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/14/as-snow-melts-drought-still-a-big-issue-for-mass/\">As snow melts, drought still a big issue for Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6dfdb9afb400d56c1df9bd75c4d150ce",
-      "summary": [
-        "State officials urge Boston residents to conserve water amid ongoing drought conditions.",
-        "Massachusetts faces significant precipitation deficits despite heavy snowfall this winter.",
-        "Water conservation measures are critical for local communities facing potential water shortages."
+        "Ruth E. Carter, a Springfield native, continues to break records at the Oscars.",
+        "Carter's work on 'Sinners' showcases Massachusetts talent in costume design.",
+        "Her achievements inspire local artists and highlight Springfield's cultural contributions."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-14T14:33:58.425785+00:00"
+    "timestamp": "2026-03-14T16:36:25.982980+00:00"
   }
 }
