@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-14T20:33:31.299527+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-14T22:30:41.148342+00:00",
+  "articles": [
+    {
+      "title": "Review and setlist: Dropkick Murphys fires up crowd, flames ICE at St. Paddy\u2019s Day kickoff show",
+      "link": "https://www.boston.com/culture/concert-reviews/2026/03/14/review-setlist-dropkick-murphys-at-mgm-music-hall-3-13-26/",
+      "pubDate": "Sat, 14 Mar 2026 21:38:33 +0000",
+      "description": "<p>\u201cThis weekend makes us a better band because we have to play so many songs. Thanks for giving a s\u2014t.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/03/14/review-setlist-dropkick-murphys-at-mgm-music-hall-3-13-26/\">Review and setlist: Dropkick Murphys fires up crowd, flames ICE at St. Paddy\u2019s Day kickoff show</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "711efac94f054c965f4c8826cf61f9bf",
+      "summary": [
+        "Dropkick Murphys performed at MGM Music Hall on March 13, 2026, for St. Paddy's Day.",
+        "The band emphasized their commitment to social issues, notably criticizing ICE during the show.",
+        "Local fans enjoyed a high-energy performance, enhancing Boston's vibrant St. Patrick's Day celebrations."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-14T20:33:31.299535+00:00"
+    "timestamp": "2026-03-14T22:30:41.148355+00:00"
   }
 }
