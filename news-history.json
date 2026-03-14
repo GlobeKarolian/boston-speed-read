@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-14T02:26:40.452264+00:00",
+  "lastUpdated": "2026-03-14T13:01:02.868385+00:00",
   "articles": [
+    {
+      "title": "US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department",
+      "link": "https://www.boston.com/news/national-news/2026/03/14/us-faces-elevated-terrorism-threats-against-backdrop-of-iran-war-and-cuts-at-fbi-justice-department/",
+      "pubDate": "Sat, 14 Mar 2026 12:46:25 +0000",
+      "description": "<p>The three acts of violence in the last week have laid bare a heightened terrorism threat unfolding against the backdrop of the U.S. war with Iran.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/14/us-faces-elevated-terrorism-threats-against-backdrop-of-iran-war-and-cuts-at-fbi-justice-department/\">US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "75b5ca55ce30b907266e3afc48ad9d03",
+      "summary": [
+        "Heightened terrorism threats reported in the U.S. amid ongoing conflict with Iran.",
+        "Three violent incidents occurred last week, raising concerns for local safety.",
+        "Boston residents may experience increased security measures and vigilance from law enforcement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "From rockets to cancer research, here\u2019s how the number pi is embedded in our lives",
+      "link": "https://www.boston.com/news/technology/2026/03/14/from-rockets-to-cancer-research-heres-how-the-number-pi-is-embedded-in-our-lives/",
+      "pubDate": "Sat, 14 Mar 2026 12:38:15 +0000",
+      "description": "<p>Here are a few ways pi is being used on the cutting edge of science.</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2026/03/14/from-rockets-to-cancer-research-heres-how-the-number-pi-is-embedded-in-our-lives/\">From rockets to cancer research, here&#8217;s how the number pi is embedded in our lives</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6b4735912f5c0201a175fac9b0206c31",
+      "summary": [
+        "Researchers at MIT utilize pi in advanced cancer research techniques.",
+        "NASA's use of pi aids in rocket design, impacting local aerospace jobs.",
+        "Boston's educational institutions incorporate pi in STEM programs for students."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Why some women are hiding their boyfriends online",
+      "link": "https://www.boston.com/love-letters/relationships/2026/03/14/why-some-women-are-hiding-their-boyfriends-online/",
+      "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000",
+      "description": "<p>A conversation with Chant\u00e9 Joseph about why straight women are rethinking how much they want to center men in their lives.</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/relationships/2026/03/14/why-some-women-are-hiding-their-boyfriends-online/\">Why some women are hiding their boyfriends online</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f587ff65378ad04fc7b89bacf8aab64c",
+      "summary": [
+        "Chant\u00e9 Joseph discusses women reassessing online relationship visibility in Boston.",
+        "Recent trends show increased privacy among women regarding their partners on social media.",
+        "This shift may affect local dating dynamics and social interactions in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "He\u2019s running the Boston Marathon for a camp \u2018where illness takes a back seat to fun\u2019",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/14/griffin-oneill-hole-in-the-wall-gang-camp/",
+      "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000",
+      "description": "<p>The Hole in the Wall Gang Camp is an organization that gives children with serious medical conditions the chance to simply be kids, in a medically safe environment.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/14/griffin-oneill-hole-in-the-wall-gang-camp/\">He&#8217;s running the Boston Marathon for a camp &#8216;where illness takes a back seat to fun&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dcc4f0f3719ab0dab58037cab8a26117",
+      "summary": [
+        "Griffin O'Neill is running the Boston Marathon to support The Hole in the Wall Gang Camp.",
+        "The camp provides a safe environment for children with serious medical conditions.",
+        "Funds raised will enhance recreational opportunities for Boston's youth facing health challenges."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Eagles reportedly \u2018will not trade A.J. Brown at this time\u2019 amid Patriots\u2019 continued interest",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/14/patriots-eagles-aj-brown-trade-reports/",
+      "pubDate": "Sat, 14 Mar 2026 11:49:18 +0000",
+      "description": "<p>However, trade discussions could resume once salary cap relief on June 1 approaches.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/14/patriots-eagles-aj-brown-trade-reports/\">Eagles reportedly \u2018will not trade A.J. Brown at this time\u2019 amid Patriots\u2019 continued interest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bad8ff372246f960be3ed4e9f10e5f30",
+      "summary": [
+        "Eagles confirm A.J. Brown will not be traded amid Patriots' interest.",
+        "Trade talks may resume after June 1 salary cap relief.",
+        "Patriots' pursuit of Brown could affect local fan expectations for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Jayson Tatum set to return vs. Wizards after injury management off-day",
       "link": "https://www.boston.com/sports/boston-celtics/2026/03/13/jayson-tatum-available-injury-report-celtics-wizards/",
@@ -583,71 +648,6 @@
         "NFL insiders predict A.J. Brown will be traded to the Patriots.",
         "Eagles may reduce their asking price for Brown, enhancing trade feasibility.",
         "Acquiring Brown could significantly boost the Patriots' offensive capabilities this season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Truck catches fire on Mass. Pike during early-morning commute, causing lane shutdowns",
-      "link": "https://www.boston.com/news/local-news/2026/03/12/truck-catches-fire-on-mass-pike-during-early-morning-commute-causing-lane-shutdowns/",
-      "pubDate": "Thu, 12 Mar 2026 23:48:59 +0000",
-      "description": "<p>Emergency crews responded to the Westborough fire at about 8 a.m. Thursday morning and quickly got it under control.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/12/truck-catches-fire-on-mass-pike-during-early-morning-commute-causing-lane-shutdowns/\">Truck catches fire on Mass. Pike during early-morning commute, causing lane shutdowns</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "85bf106da9d0dcf9eb7668c60aedc431",
-      "summary": [
-        "Truck fire on Mass. Pike caused lane shutdowns during morning commute.",
-        "Emergency crews responded at 8 a.m. Thursday to control the fire.",
-        "Commuters faced delays due to lane closures affecting traffic flow."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New Patriots WR Romeo Doubs explains why he chose New England in free agency",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/12/new-england-patriots-romeo-doubs-wide-receiver-green-bay-packers-free-agency/",
-      "pubDate": "Thu, 12 Mar 2026 23:43:46 +0000",
-      "description": "<p>\"It was a great opportunity I felt like I couldn\u2019t pass on.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/12/new-england-patriots-romeo-doubs-wide-receiver-green-bay-packers-free-agency/\">New Patriots WR Romeo Doubs explains why he chose New England in free agency</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cc38f622f87ce721a35ee7cb55f21b0d",
-      "summary": [
-        "New Patriots WR Romeo Doubs signed with the team during free agency.",
-        "Doubs cited a 'great opportunity' as his reason for choosing New England.",
-        "His addition aims to strengthen the Patriots' receiving corps for the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "US military refueling plane goes down in Iraq and rescue is underway",
-      "link": "https://www.boston.com/news/world-news/2026/03/12/us-military-refueling-plane-goes-down-in-iraq-and-rescue-is-underway/",
-      "pubDate": "Thu, 12 Mar 2026 23:29:45 +0000",
-      "description": "<p>The KC-135 aircraft was part of the operation against Iran, but the crash was not due to hostile fire or friendly fire, the military said in a statement.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/03/12/us-military-refueling-plane-goes-down-in-iraq-and-rescue-is-underway/\">US military refueling plane goes down in Iraq and rescue is underway</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a592b952f10a701c35ff23d96c3df9ec",
-      "summary": [
-        "KC-135 military refueling plane crashed in Iraq; rescue operations are currently underway.",
-        "The crash was not caused by hostile or friendly fire, according to military officials.",
-        "Boston residents may feel the impact of ongoing military operations in the region."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "SUV owner experiences a serious \u2013 and not uncommon \u2013 engine issue",
-      "link": "https://www.boston.com/cars/how-to/2026/03/12/car-doctor-suv-owner-experiences-a-serious-and-not-uncommon-engine-issue/",
-      "pubDate": "Thu, 12 Mar 2026 23:13:30 +0000",
-      "description": "<p>John Paul, AAA Northeast's Car Doctor, hears from a reader whose 2018 vehicle ended up needing a completely new engine.</p>\n<p>The post <a href=\"https://www.boston.com/cars/how-to/2026/03/12/car-doctor-suv-owner-experiences-a-serious-and-not-uncommon-engine-issue/\">SUV owner experiences a serious \u2013 and not uncommon \u2013 engine issue</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "180613c4d888466611561662c22f93f8",
-      "summary": [
-        "John Paul, AAA Northeast's Car Doctor, addresses common engine issues in 2018 SUVs.",
-        "A Boston reader faced a complete engine replacement, highlighting potential repair costs.",
-        "Local SUV owners should be aware of this issue to avoid unexpected expenses."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "After running 19 marathons, he\u2019s making the 2026 Boston Marathon his 20th",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/12/harry-cicma-steppingstrongcharity/",
-      "pubDate": "Thu, 12 Mar 2026 22:56:15 +0000",
-      "description": "<p>\"This will be my 20th career marathon, and there is nothing like the finish line on Boylston Street.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/12/harry-cicma-steppingstrongcharity/\">After running 19 marathons, he&#8217;s making the 2026 Boston Marathon his 20th</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f9d1106d088a3523d30fd3699dad7040",
-      "summary": [
-        "Harry Cicma will run his 20th marathon at the 2026 Boston Marathon.",
-        "Cicma has completed 19 marathons, highlighting his dedication to the sport.",
-        "The event on Boylston Street draws local runners and boosts community spirit."
       ],
       "hookType": "LOCAL_IMPACT"
     }

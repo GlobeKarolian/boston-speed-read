@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-03-14T10:32:50.357951+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-14T13:01:02.867615+00:00",
+  "articles": [
+    {
+      "title": "US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department",
+      "link": "https://www.boston.com/news/national-news/2026/03/14/us-faces-elevated-terrorism-threats-against-backdrop-of-iran-war-and-cuts-at-fbi-justice-department/",
+      "pubDate": "Sat, 14 Mar 2026 12:46:25 +0000",
+      "description": "<p>The three acts of violence in the last week have laid bare a heightened terrorism threat unfolding against the backdrop of the U.S. war with Iran.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/14/us-faces-elevated-terrorism-threats-against-backdrop-of-iran-war-and-cuts-at-fbi-justice-department/\">US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "75b5ca55ce30b907266e3afc48ad9d03",
+      "summary": [
+        "Heightened terrorism threats reported in the U.S. amid ongoing conflict with Iran.",
+        "Three violent incidents occurred last week, raising concerns for local safety.",
+        "Boston residents may experience increased security measures and vigilance from law enforcement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "From rockets to cancer research, here\u2019s how the number pi is embedded in our lives",
+      "link": "https://www.boston.com/news/technology/2026/03/14/from-rockets-to-cancer-research-heres-how-the-number-pi-is-embedded-in-our-lives/",
+      "pubDate": "Sat, 14 Mar 2026 12:38:15 +0000",
+      "description": "<p>Here are a few ways pi is being used on the cutting edge of science.</p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2026/03/14/from-rockets-to-cancer-research-heres-how-the-number-pi-is-embedded-in-our-lives/\">From rockets to cancer research, here&#8217;s how the number pi is embedded in our lives</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6b4735912f5c0201a175fac9b0206c31",
+      "summary": [
+        "Researchers at MIT utilize pi in advanced cancer research techniques.",
+        "NASA's use of pi aids in rocket design, impacting local aerospace jobs.",
+        "Boston's educational institutions incorporate pi in STEM programs for students."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Why some women are hiding their boyfriends online",
+      "link": "https://www.boston.com/love-letters/relationships/2026/03/14/why-some-women-are-hiding-their-boyfriends-online/",
+      "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000",
+      "description": "<p>A conversation with Chant\u00e9 Joseph about why straight women are rethinking how much they want to center men in their lives.</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/relationships/2026/03/14/why-some-women-are-hiding-their-boyfriends-online/\">Why some women are hiding their boyfriends online</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f587ff65378ad04fc7b89bacf8aab64c",
+      "summary": [
+        "Chant\u00e9 Joseph discusses women reassessing online relationship visibility in Boston.",
+        "Recent trends show increased privacy among women regarding their partners on social media.",
+        "This shift may affect local dating dynamics and social interactions in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "He\u2019s running the Boston Marathon for a camp \u2018where illness takes a back seat to fun\u2019",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/14/griffin-oneill-hole-in-the-wall-gang-camp/",
+      "pubDate": "Sat, 14 Mar 2026 12:00:00 +0000",
+      "description": "<p>The Hole in the Wall Gang Camp is an organization that gives children with serious medical conditions the chance to simply be kids, in a medically safe environment.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/14/griffin-oneill-hole-in-the-wall-gang-camp/\">He&#8217;s running the Boston Marathon for a camp &#8216;where illness takes a back seat to fun&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dcc4f0f3719ab0dab58037cab8a26117",
+      "summary": [
+        "Griffin O'Neill is running the Boston Marathon to support The Hole in the Wall Gang Camp.",
+        "The camp provides a safe environment for children with serious medical conditions.",
+        "Funds raised will enhance recreational opportunities for Boston's youth facing health challenges."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Eagles reportedly \u2018will not trade A.J. Brown at this time\u2019 amid Patriots\u2019 continued interest",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/14/patriots-eagles-aj-brown-trade-reports/",
+      "pubDate": "Sat, 14 Mar 2026 11:49:18 +0000",
+      "description": "<p>However, trade discussions could resume once salary cap relief on June 1 approaches.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/14/patriots-eagles-aj-brown-trade-reports/\">Eagles reportedly \u2018will not trade A.J. Brown at this time\u2019 amid Patriots\u2019 continued interest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bad8ff372246f960be3ed4e9f10e5f30",
+      "summary": [
+        "Eagles confirm A.J. Brown will not be traded amid Patriots' interest.",
+        "Trade talks may resume after June 1 salary cap relief.",
+        "Patriots' pursuit of Brown could affect local fan expectations for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-03-14T10:32:50.357961+00:00"
+    "timestamp": "2026-03-14T13:01:02.867635+00:00"
   }
 }
