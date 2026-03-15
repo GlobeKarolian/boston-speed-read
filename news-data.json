@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-03-15T18:45:54.255174+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-15T20:34:38.792775+00:00",
+  "articles": [
+    {
+      "title": "US routs Canada in Para ice hockey final to complete historic clean sweep in Olympics, Paralympics",
+      "link": "https://www.boston.com/sports/sports-news/2026/03/15/us-routs-canada-in-para-ice-hockey-final-to-complete-historic-clean-sweep-in-olympics-paralympics/",
+      "pubDate": "Sun, 15 Mar 2026 20:31:36 +0000",
+      "description": "<p>\u201cI\u2019m glad we got it done because I think there\u2019s a little bit more pressure with the men and women getting the golds too,\u201d captain Josh Pauls said. </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/15/us-routs-canada-in-para-ice-hockey-final-to-complete-historic-clean-sweep-in-olympics-paralympics/\">US routs Canada in Para ice hockey final to complete historic clean sweep in Olympics, Paralympics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "16b315ab6e80996b36da20bdd83c991d",
+      "summary": [
+        "US Para ice hockey team defeats Canada, achieving a historic clean sweep in 2026.",
+        "Captain Josh Pauls emphasizes pressure from previous gold medals in Olympics and Paralympics.",
+        "Boston residents celebrate the US team's success, boosting local pride and sports engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "FCC chair threatens to revoke broadcasters\u2019 licenses over war coverage",
+      "link": "https://www.boston.com/news/politics/2026/03/15/fcc-chair-threatens-to-revoke-broadcasters-licenses-over-war-coverage/",
+      "pubDate": "Sun, 15 Mar 2026 20:20:42 +0000",
+      "description": "<p>The comment from Brendan Carr came on the heels of a social media message from President Trump criticizing the news media\u2019s coverage of the war with Iran.            </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/15/fcc-chair-threatens-to-revoke-broadcasters-licenses-over-war-coverage/\">FCC chair threatens to revoke broadcasters\u2019 licenses over war coverage</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f7857a0b7e440bf08f14b371390b602f",
+      "summary": [
+        "FCC Chair Brendan Carr threatens to revoke licenses for biased war coverage.",
+        "Threat follows President Trump's criticism of media's reporting on the Iran conflict.",
+        "Boston broadcasters may face scrutiny over compliance with federal coverage standards."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Anti-Muslim rhetoric rises among Republicans with little pushback from GOP leadership",
+      "link": "https://www.boston.com/news/politics/2026/03/15/anti-muslim-rhetoric-rises-among-republicans-with-little-pushback-from-gop-leadership/",
+      "pubDate": "Sun, 15 Mar 2026 20:00:38 +0000",
+      "description": "<p>The derogatory language has been percolating among Republican officials for months, often prominent when criticizing New York Mayor Zohran Mamdani, who is Muslim.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/15/anti-muslim-rhetoric-rises-among-republicans-with-little-pushback-from-gop-leadership/\">Anti-Muslim rhetoric rises among Republicans with little pushback from GOP leadership</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7b81ebeffb18f687640d3c96df446d14",
+      "summary": [
+        "Anti-Muslim rhetoric has increased among Republican officials, affecting community relations in Boston.",
+        "Criticism has been particularly directed at New York Mayor Zohran Mamdani, a Muslim leader.",
+        "Lack of GOP leadership pushback may embolden similar sentiments in local political discourse."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-03-15T18:45:54.255183+00:00"
+    "timestamp": "2026-03-15T20:34:38.792788+00:00"
   }
 }
