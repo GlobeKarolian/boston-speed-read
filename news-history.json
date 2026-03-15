@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-15T13:02:10.325623+00:00",
+  "lastUpdated": "2026-03-15T14:34:58.375252+00:00",
   "articles": [
+    {
+      "title": "Former Boston Public Schools teacher sentenced to 10 years in prison for child exploitation",
+      "link": "https://www.boston.com/news/crime/2026/03/15/former-boston-public-schools-teacher-sentenced-to-10-years-in-prison-for-child-exploitation/",
+      "pubDate": "Sun, 15 Mar 2026 13:53:49 +0000",
+      "description": "<p>The former science teacher used a Discord account to have sexualized conversations with minors and receive sexually explicit images.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/15/former-boston-public-schools-teacher-sentenced-to-10-years-in-prison-for-child-exploitation/\">Former Boston Public Schools teacher sentenced to 10 years in prison for child exploitation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "98ef607839afa979ced0e8b8ba4d66a7",
+      "summary": [
+        "Former Boston Public Schools teacher sentenced to 10 years for child exploitation.",
+        "Teacher used Discord to engage with minors, receiving explicit images.",
+        "Case raises concerns about online safety for Boston students and families."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "From slavery to the White House, the Ficklin family served presidents for nearly 8 decades",
+      "link": "https://www.boston.com/news/national-news/2026/03/15/from-slavery-to-the-white-house-the-ficklin-family-served-presidents-for-nearly-8-decades/",
+      "pubDate": "Sun, 15 Mar 2026 13:22:10 +0000",
+      "description": "<p>One family by the president\u2019s side for one-third of America\u2019s 250-year existence.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/15/from-slavery-to-the-white-house-the-ficklin-family-served-presidents-for-nearly-8-decades/\">From slavery to the White House, the Ficklin family served presidents for nearly 8 decades</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "27767006c6bf24f44d8697a8815c9efc",
+      "summary": [
+        "The Ficklin family served U.S. presidents for nearly 80 years, highlighting their historical significance.",
+        "Their service spans from slavery to the White House, reflecting America's complex history.",
+        "Boston residents can learn about this legacy at local museums and cultural events."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
       "link": "https://www.boston.com/news/world-news/2026/03/15/us-china-trade-talks-open-in-paris-paving-the-way-for-trump-xi-summit/",
@@ -622,32 +648,6 @@
         "South Boston officials will enforce stricter public drinking laws during the St. Patrick's Day parade.",
         "Boston Police Department warns attendees to safeguard drinks against potential spiking incidents.",
         "Last year's chaos prompts increased security measures to ensure safety for local residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "For $575,000, a historic New Hampshire home with seven laying hens",
-      "link": "https://www.boston.com/real-estate/home-buying/2026/03/13/for-575000-a-historic-new-hampshire-home-with-seven-laying-hens/",
-      "pubDate": "Fri, 13 Mar 2026 13:01:27 +0000",
-      "description": "<p>The birds are optional at this antique brick home.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/03/13/for-575000-a-historic-new-hampshire-home-with-seven-laying-hens/\">For $575,000, a historic New Hampshire home with seven laying hens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6362b8ece612af5a18de8c7c7a0bd5e9",
-      "summary": [
-        "Historic New Hampshire home listed for $575,000 includes optional seven laying hens.",
-        "Home features antique brick architecture, appealing to Boston residents seeking unique properties.",
-        "Potential buyers can enjoy rural living just a short drive from Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A longtime Cape Cod restaurant has closed",
-      "link": "https://www.boston.com/food/restaurants/2026/03/13/cape-cod-restaurant-closed/",
-      "pubDate": "Fri, 13 Mar 2026 12:58:58 +0000",
-      "description": "<p>\"While this chapter is coming to an end, our story certainly isn\u2019t.\"</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/03/13/cape-cod-restaurant-closed/\">A longtime Cape Cod restaurant has closed</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "50a1b70e1844dfe7ad4f1d1f22e3b6b5",
-      "summary": [
-        "A popular Cape Cod restaurant has permanently closed its doors as of March 2026.",
-        "The restaurant had served the community for over 30 years, impacting local dining options.",
-        "Residents may need to seek alternative dining experiences as a result of this closure."
       ],
       "hookType": "LOCAL_IMPACT"
     }
