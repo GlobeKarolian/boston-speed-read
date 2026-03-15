@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-03-15T10:35:03.974366+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-15T13:02:10.324741+00:00",
+  "articles": [
+    {
+      "title": "US-China trade talks open in Paris, paving the way for Trump-Xi summit",
+      "link": "https://www.boston.com/news/world-news/2026/03/15/us-china-trade-talks-open-in-paris-paving-the-way-for-trump-xi-summit/",
+      "pubDate": "Sun, 15 Mar 2026 12:49:13 +0000",
+      "description": "<p>China\u2019s commerce ministry said Friday the two sides are set to discuss \u201ctrade and economic issues of mutual concern.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/03/15/us-china-trade-talks-open-in-paris-paving-the-way-for-trump-xi-summit/\">US-China trade talks open in Paris, paving the way for Trump-Xi summit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6224188f4a9d38e5e50d3229f8d7a5b4",
+      "summary": [
+        "US-China trade talks commenced in Paris, focusing on mutual economic concerns.",
+        "Discussions may influence tariffs affecting Boston's import-export businesses.",
+        "Potential outcomes could impact local job markets and consumer prices in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Construction finishes on a major offshore wind farm, the first during Trump\u2019s tenure",
+      "link": "https://www.boston.com/news/environment/2026/03/15/construction-finishes-on-a-major-offshore-wind-farm-the-first-during-trumps-tenure/",
+      "pubDate": "Sun, 15 Mar 2026 12:44:49 +0000",
+      "description": "<p>Offshore construction was completed Friday night on Vineyard Wind with the installation of the final blades, Craig Gilvarg, a spokesperson for the project, said Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/news/environment/2026/03/15/construction-finishes-on-a-major-offshore-wind-farm-the-first-during-trumps-tenure/\">Construction finishes on a major offshore wind farm, the first during Trump&#8217;s tenure</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1fd2ff1d67a50243c9b3da528aa28798",
+      "summary": [
+        "Construction on Vineyard Wind offshore wind farm completed on March 15, 2026.",
+        "Final blades installed, marking a significant milestone for renewable energy in Massachusetts.",
+        "Project expected to boost local jobs and provide clean energy to thousands of Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 unsigned free agents that would be possible fits for Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/15/nfl-free-agency-patriots-possible-targets-latest/",
+      "pubDate": "Sun, 15 Mar 2026 11:53:09 +0000",
+      "description": "<p>New England has already added multiple positions of need in the first week of free agency.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/15/nfl-free-agency-patriots-possible-targets-latest/\">5 unsigned free agents that would be possible fits for Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "99d747c75379ab1608403f6fe6552f70",
+      "summary": [
+        "Patriots have addressed multiple positions during the first week of free agency.",
+        "Five unsigned free agents are identified as potential fits for the team.",
+        "These additions could enhance the Patriots' competitiveness in the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Neemias Queta dominates in Celtics win over Wizards: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/15/nba-celtics-wizards-takeaways-neemias-queta-jayson-tatum/",
+      "pubDate": "Sun, 15 Mar 2026 11:38:47 +0000",
+      "description": "<p>Queta led Boston with 24 points Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/15/nba-celtics-wizards-takeaways-neemias-queta-jayson-tatum/\">Neemias Queta dominates in Celtics win over Wizards: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5cbf57c73000f185912a852f48cecf46",
+      "summary": [
+        "Neemias Queta scored 24 points, leading the Celtics to victory over the Wizards.",
+        "Celtics' win on March 15 enhances their playoff positioning in the Eastern Conference.",
+        "Queta's performance boosts local excitement for the team's upcoming games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Photos: Highlights from Dropkick Murphys\u2019 St. Patrick\u2019s Day kickoff at MGM Music Hall",
+      "link": "https://www.boston.com/culture/concerts/2026/03/15/photos-highlights-from-dropkick-murphys-st-patricks-day-kickoff-at-mgm-music-hall/",
+      "pubDate": "Sun, 15 Mar 2026 11:17:19 +0000",
+      "description": "<p>See all the greatest moments from the band\u2019s March 13 show, plus openers The Vigilantes, Haywire, and Showcase Showdown.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concerts/2026/03/15/photos-highlights-from-dropkick-murphys-st-patricks-day-kickoff-at-mgm-music-hall/\">Photos: Highlights from Dropkick Murphys\u2019 St. Patrick\u2019s Day kickoff at MGM Music Hall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d0874b7a900da67eebc9c39511b57ba3",
+      "summary": [
+        "Dropkick Murphys performed at MGM Music Hall on March 13, celebrating St. Patrick's Day.",
+        "Openers included The Vigilantes, Haywire, and Showcase Showdown, enhancing the local music scene.",
+        "The concert attracted Boston residents, boosting local tourism and community engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-03-15T10:35:03.974375+00:00"
+    "timestamp": "2026-03-15T13:02:10.324761+00:00"
   }
 }
