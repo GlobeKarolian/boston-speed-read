@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-03-16T15:04:26.790144+00:00",
+  "lastUpdated": "2026-03-16T17:06:04.133367+00:00",
   "articles": [
     {
-      "title": "Hundreds of flights delayed or cancelled at Logan Airport",
-      "link": "https://www.boston.com/travel/flights/2026/03/16/hundreds-of-flights-delayed-or-cancelled-at-logan-airport/",
-      "pubDate": "Mon, 16 Mar 2026 14:56:13 +0000",
-      "description": "<p>Airlines are allowing itinerary changes.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/03/16/hundreds-of-flights-delayed-or-cancelled-at-logan-airport/\">Hundreds of flights delayed or cancelled at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "49055bfc277199d531a38932ab9242c9",
+      "title": "Here\u2019s what meteorologists are saying about heavy rain, damaging winds on Monday",
+      "link": "https://www.boston.com/weather/local-news/2026/03/16/boston-ma-heavy-rain-damaging-winds-coming-monday/",
+      "pubDate": "Mon, 16 Mar 2026 16:51:37 +0000",
+      "description": "<p>\"Widespread showers and embedded t-storms through tonight will bring heavy rainfall and possible flooding.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/03/16/boston-ma-heavy-rain-damaging-winds-coming-monday/\">Here&#8217;s what meteorologists are saying about heavy rain, damaging winds on Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1e96a4d8c3156dcd996643f5e051e6c6",
       "summary": [
-        "Hundreds of flights were delayed or cancelled at Logan Airport on March 16.",
-        "Airlines are permitting itinerary changes for affected passengers.",
-        "Boston residents may face travel disruptions and longer wait times."
+        "Meteorologists predict heavy rain and thunderstorms for Boston on Monday evening.",
+        "Rainfall may exceed 2 inches, increasing flood risks in low-lying areas.",
+        "Damaging winds could reach up to 40 mph, posing hazards to residents."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "11 charged after allegedly staging robberies to claim victim status on immigration applications",
-      "link": "https://www.boston.com/news/crime/2026/03/16/11-charged-after-allegedly-staging-robberies-to-claim-victim-status-on-immigration-applications/",
-      "pubDate": "Mon, 16 Mar 2026 14:41:31 +0000",
-      "description": "<p>Officials say Mass. convenience store clerks posed as armed robbery victims to support their U Visa applications. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/16/11-charged-after-allegedly-staging-robberies-to-claim-victim-status-on-immigration-applications/\">11 charged after allegedly staging robberies to claim victim status on immigration applications</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0b80399c557807952bf2c16c762291d2",
+      "title": "Firefighter suffers cardiac arrest during Hyde Park blaze",
+      "link": "https://www.boston.com/news/local-news/2026/03/16/firefighter-suffers-cardiac-arrest-during-hyde-park-blaze/",
+      "pubDate": "Mon, 16 Mar 2026 16:48:03 +0000",
+      "description": "<p>A medical emergency was reported as crews battled a fire that spread across a warehouse roof, authorities say.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/16/firefighter-suffers-cardiac-arrest-during-hyde-park-blaze/\">Firefighter suffers cardiac arrest during Hyde Park blaze</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "eab22c79da9423e05d47630d010f47cb",
       "summary": [
-        "Eleven Massachusetts convenience store clerks staged robberies to support U Visa applications.",
-        "Charges include conspiracy and false reporting, impacting local law enforcement resources.",
-        "The case raises concerns about immigration fraud in Boston's immigrant communities."
+        "Firefighter suffered cardiac arrest while battling a warehouse fire in Hyde Park.",
+        "The blaze spread across the roof, prompting a significant emergency response.",
+        "Local residents may experience increased fire safety measures following this incident."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. native\u2019s 44-point performance helped Penn reach NCAA Tournament in dramatic fashion",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/03/16/tj-powers-penn-ncaa-tournament/",
+      "pubDate": "Mon, 16 Mar 2026 15:29:18 +0000",
+      "description": "<p>T.J. Power, a former Massachusetts Gatorade Player of the Year, scored 44 points as Penn upset Yale.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/03/16/tj-powers-penn-ncaa-tournament/\">Mass. native&#8217;s 44-point performance helped Penn reach NCAA Tournament in dramatic fashion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d641b8ac959f7c9a321681731b1460ad",
+      "summary": [
+        "T.J. Power scored 44 points, leading Penn to upset Yale in the Ivy League tournament.",
+        "Power, a Massachusetts native, was the Gatorade Player of the Year before joining Penn.",
+        "This victory secures Penn's spot in the NCAA Tournament, boosting local pride in Massachusetts athletes."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-03-16T15:04:26.790165+00:00"
+    "timestamp": "2026-03-16T17:06:04.133387+00:00"
   }
 }
