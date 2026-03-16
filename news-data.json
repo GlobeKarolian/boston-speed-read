@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-03-16T13:22:02.274108+00:00",
+  "lastUpdated": "2026-03-16T15:04:26.790144+00:00",
   "articles": [
     {
-      "title": "One injured in South End shooting",
-      "link": "https://www.boston.com/news/crime/2026/03/16/one-injured-in-south-end-shooting/",
-      "pubDate": "Mon, 16 Mar 2026 13:12:21 +0000",
-      "description": "<p>Police still have not made any arrests in connection with the incident. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/16/one-injured-in-south-end-shooting/\">One injured in South End shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6be324e34c6efd59efece736bc52543c",
+      "title": "Hundreds of flights delayed or cancelled at Logan Airport",
+      "link": "https://www.boston.com/travel/flights/2026/03/16/hundreds-of-flights-delayed-or-cancelled-at-logan-airport/",
+      "pubDate": "Mon, 16 Mar 2026 14:56:13 +0000",
+      "description": "<p>Airlines are allowing itinerary changes.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/03/16/hundreds-of-flights-delayed-or-cancelled-at-logan-airport/\">Hundreds of flights delayed or cancelled at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "49055bfc277199d531a38932ab9242c9",
       "summary": [
-        "One person injured in a shooting in the South End neighborhood.",
-        "Police have not made any arrests related to the March 16 incident.",
-        "Residents are concerned about safety following the ongoing violence."
+        "Hundreds of flights were delayed or cancelled at Logan Airport on March 16.",
+        "Airlines are permitting itinerary changes for affected passengers.",
+        "Boston residents may face travel disruptions and longer wait times."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Red Sox\u2019 Roman Anthony is emerging as a superstar at World Baseball Classic",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/16/boston-red-sox-wbc-roman-anthony-world-baseball-classic-mlb-usa-us/",
-      "pubDate": "Mon, 16 Mar 2026 12:20:18 +0000",
-      "description": "<p>\"Whether it\u2019s Joe DiMaggio or Ted Williams or Derek Jeter or Big Papi, there are some people that just have the \u2018It Factor.'\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/16/boston-red-sox-wbc-roman-anthony-world-baseball-classic-mlb-usa-us/\">Red Sox\u2019 Roman Anthony is emerging as a superstar at World Baseball Classic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c62aa0198c73f4f6082a194e65dac505",
+      "title": "11 charged after allegedly staging robberies to claim victim status on immigration applications",
+      "link": "https://www.boston.com/news/crime/2026/03/16/11-charged-after-allegedly-staging-robberies-to-claim-victim-status-on-immigration-applications/",
+      "pubDate": "Mon, 16 Mar 2026 14:41:31 +0000",
+      "description": "<p>Officials say Mass. convenience store clerks posed as armed robbery victims to support their U Visa applications. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/16/11-charged-after-allegedly-staging-robberies-to-claim-victim-status-on-immigration-applications/\">11 charged after allegedly staging robberies to claim victim status on immigration applications</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0b80399c557807952bf2c16c762291d2",
       "summary": [
-        "Roman Anthony showcases talent at the World Baseball Classic, drawing comparisons to legends.",
-        "The 20-year-old Red Sox prospect is gaining national attention for his performance.",
-        "Boston fans may see Anthony as a future star, enhancing local team pride."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "5 Boston sports moments that just missed out on the Soundbites Bracket",
-      "link": "https://www.boston.com/sports/sports-news/2026/03/16/boston-sports-moments-left-out-of-soundbites-bracket/",
-      "pubDate": "Mon, 16 Mar 2026 12:07:25 +0000",
-      "description": "<p>Here's a look back at a few soundbites that were almost too good to pass up.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/16/boston-sports-moments-left-out-of-soundbites-bracket/\">5 Boston sports moments that just missed out on the Soundbites Bracket</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c6421e22c94da3a5a71cfecbfdfb9d2f",
-      "summary": [
-        "Highlighting five Boston sports moments that were excluded from the Soundbites Bracket.",
-        "Moments include iconic plays from the Red Sox and Celtics, showcasing local sports history.",
-        "These exclusions spark discussions among Boston fans about memorable sports highlights."
+        "Eleven Massachusetts convenience store clerks staged robberies to support U Visa applications.",
+        "Charges include conspiracy and false reporting, impacting local law enforcement resources.",
+        "The case raises concerns about immigration fraud in Boston's immigrant communities."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-16T13:22:02.274142+00:00"
+    "timestamp": "2026-03-16T15:04:26.790165+00:00"
   }
 }

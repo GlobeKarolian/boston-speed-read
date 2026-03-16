@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-16T13:22:02.275446+00:00",
+  "lastUpdated": "2026-03-16T15:04:26.790981+00:00",
   "articles": [
+    {
+      "title": "Hundreds of flights delayed or cancelled at Logan Airport",
+      "link": "https://www.boston.com/travel/flights/2026/03/16/hundreds-of-flights-delayed-or-cancelled-at-logan-airport/",
+      "pubDate": "Mon, 16 Mar 2026 14:56:13 +0000",
+      "description": "<p>Airlines are allowing itinerary changes.</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/03/16/hundreds-of-flights-delayed-or-cancelled-at-logan-airport/\">Hundreds of flights delayed or cancelled at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "49055bfc277199d531a38932ab9242c9",
+      "summary": [
+        "Hundreds of flights were delayed or cancelled at Logan Airport on March 16.",
+        "Airlines are permitting itinerary changes for affected passengers.",
+        "Boston residents may face travel disruptions and longer wait times."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "11 charged after allegedly staging robberies to claim victim status on immigration applications",
+      "link": "https://www.boston.com/news/crime/2026/03/16/11-charged-after-allegedly-staging-robberies-to-claim-victim-status-on-immigration-applications/",
+      "pubDate": "Mon, 16 Mar 2026 14:41:31 +0000",
+      "description": "<p>Officials say Mass. convenience store clerks posed as armed robbery victims to support their U Visa applications. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/16/11-charged-after-allegedly-staging-robberies-to-claim-victim-status-on-immigration-applications/\">11 charged after allegedly staging robberies to claim victim status on immigration applications</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0b80399c557807952bf2c16c762291d2",
+      "summary": [
+        "Eleven Massachusetts convenience store clerks staged robberies to support U Visa applications.",
+        "Charges include conspiracy and false reporting, impacting local law enforcement resources.",
+        "The case raises concerns about immigration fraud in Boston's immigrant communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "One injured in South End shooting",
       "link": "https://www.boston.com/news/crime/2026/03/16/one-injured-in-south-end-shooting/",
@@ -622,32 +648,6 @@
         "Lawmakers are debating ending Massachusetts' biannual clock changes.",
         "Public opinion is being gathered on this potential change.",
         "Eliminating clock changes could affect local businesses and daily routines."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston Pride For The People announces 2026 parade and festival date",
-      "link": "https://www.boston.com/news/local-news/2026/03/13/boston-pride-2026/",
-      "pubDate": "Fri, 13 Mar 2026 19:23:06 +0000",
-      "description": "<p>The volunteer-led group says this year\u2019s celebration will return June 6 with a parade, festival, and more Pride Month events.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/13/boston-pride-2026/\">Boston Pride For The People announces 2026 parade and festival date</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c695def5abe98803bd6e9d88667f5299",
-      "summary": [
-        "Boston Pride For The People announces parade and festival on June 6, 2026.",
-        "The event will feature a parade, festival, and additional Pride Month activities.",
-        "Local businesses and community groups can participate, enhancing Boston's cultural diversity."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Feds release teen detained by ICE in Marlborough",
-      "link": "https://www.boston.com/news/local-news/2026/03/13/feds-release-teen-detained-by-ice-in-marlborough/",
-      "pubDate": "Fri, 13 Mar 2026 19:13:11 +0000",
-      "description": "<p>A federal judge ordered that the girl be released, and she was reportedly driven back from New York to Massachusetts by federal officials.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/13/feds-release-teen-detained-by-ice-in-marlborough/\">Feds release teen detained by ICE in Marlborough</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "afa9c75cc8947f8c271cd5ba84e3d483",
-      "summary": [
-        "Federal judge ordered the release of a detained teen from Marlborough.",
-        "Teen was transported back to Massachusetts from New York by federal officials.",
-        "Release highlights ongoing immigration issues affecting local families in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
