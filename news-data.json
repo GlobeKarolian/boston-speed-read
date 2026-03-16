@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-03-16T10:56:57.644667+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-16T13:22:02.274108+00:00",
+  "articles": [
+    {
+      "title": "One injured in South End shooting",
+      "link": "https://www.boston.com/news/crime/2026/03/16/one-injured-in-south-end-shooting/",
+      "pubDate": "Mon, 16 Mar 2026 13:12:21 +0000",
+      "description": "<p>Police still have not made any arrests in connection with the incident. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/16/one-injured-in-south-end-shooting/\">One injured in South End shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6be324e34c6efd59efece736bc52543c",
+      "summary": [
+        "One person injured in a shooting in the South End neighborhood.",
+        "Police have not made any arrests related to the March 16 incident.",
+        "Residents are concerned about safety following the ongoing violence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox\u2019 Roman Anthony is emerging as a superstar at World Baseball Classic",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/16/boston-red-sox-wbc-roman-anthony-world-baseball-classic-mlb-usa-us/",
+      "pubDate": "Mon, 16 Mar 2026 12:20:18 +0000",
+      "description": "<p>\"Whether it\u2019s Joe DiMaggio or Ted Williams or Derek Jeter or Big Papi, there are some people that just have the \u2018It Factor.'\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/16/boston-red-sox-wbc-roman-anthony-world-baseball-classic-mlb-usa-us/\">Red Sox\u2019 Roman Anthony is emerging as a superstar at World Baseball Classic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c62aa0198c73f4f6082a194e65dac505",
+      "summary": [
+        "Roman Anthony showcases talent at the World Baseball Classic, drawing comparisons to legends.",
+        "The 20-year-old Red Sox prospect is gaining national attention for his performance.",
+        "Boston fans may see Anthony as a future star, enhancing local team pride."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 Boston sports moments that just missed out on the Soundbites Bracket",
+      "link": "https://www.boston.com/sports/sports-news/2026/03/16/boston-sports-moments-left-out-of-soundbites-bracket/",
+      "pubDate": "Mon, 16 Mar 2026 12:07:25 +0000",
+      "description": "<p>Here's a look back at a few soundbites that were almost too good to pass up.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/16/boston-sports-moments-left-out-of-soundbites-bracket/\">5 Boston sports moments that just missed out on the Soundbites Bracket</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c6421e22c94da3a5a71cfecbfdfb9d2f",
+      "summary": [
+        "Highlighting five Boston sports moments that were excluded from the Soundbites Bracket.",
+        "Moments include iconic plays from the Red Sox and Celtics, showcasing local sports history.",
+        "These exclusions spark discussions among Boston fans about memorable sports highlights."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-03-16T10:56:57.644676+00:00"
+    "timestamp": "2026-03-16T13:22:02.274142+00:00"
   }
 }
