@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-03-18T17:05:59.829191+00:00",
+  "lastUpdated": "2026-03-18T19:06:32.692940+00:00",
   "articles": [
     {
-      "title": "Man found dead in Brockton was in fight, then run over, DA says",
-      "link": "https://www.boston.com/news/local-news/2026/03/18/man-found-dead-in-brockton-was-in-fight-then-run-over-da-says/",
-      "pubDate": "Wed, 18 Mar 2026 16:49:27 +0000",
-      "description": "<p>Lianes Brandao worked as a forklift driver and enjoyed playing soccer and spending time with friends, according to his obituary.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/18/man-found-dead-in-brockton-was-in-fight-then-run-over-da-says/\">Man found dead in Brockton was in fight, then run over, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cc16ed1b05a06ab3428f1ca40947b095",
+      "title": "Tom Brady brought jokes, nostalgia, and a comeback tease to Jimmy Fallon ahead of flag football debut",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/18/tom-brady-brought-jokes-nostalgia-and-a-comeback-tease-to-jimmy-fallon-ahead-of-flag-football-debut/",
+      "pubDate": "Wed, 18 Mar 2026 18:33:53 +0000",
+      "description": "<p>The former Patriots star previewed his flag football debut, reflected on life after football, and showed off his arm on late-night TV. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/18/tom-brady-brought-jokes-nostalgia-and-a-comeback-tease-to-jimmy-fallon-ahead-of-flag-football-debut/\">Tom Brady brought jokes, nostalgia, and a comeback tease to Jimmy Fallon ahead of flag football debut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0edf87c137928e916ad398520f74d180",
       "summary": [
-        "Lianes Brandao, 30, was found dead in Brockton after a fight and being run over.",
-        "Brandao worked as a forklift driver and was known for his love of soccer.",
-        "The incident raises concerns about safety and violence in local communities."
+        "Tom Brady previewed his flag football debut on Jimmy Fallon, entertaining Boston fans.",
+        "Brady showcased his arm strength, reminiscing about his Patriots days on March 18.",
+        "Local residents are excited for Brady's return to sports, boosting community engagement."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Pregnant, battling cancer \u2014 now she\u2019s running the 2026 Boston Marathon",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/18/jennifer-capone-haberek-ellie-fund/",
-      "pubDate": "Wed, 18 Mar 2026 16:12:41 +0000",
-      "description": "<p>After a harrowing diagnosis during pregnancy, the New Hampshire mom is running to give back to the Ellie Fund that supported her family. </p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/18/jennifer-capone-haberek-ellie-fund/\">Pregnant, battling cancer \u2014 now she\u2019s running the 2026 Boston Marathon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "16c989be3175313d59a35f3dd40fc664",
+      "title": "This is the current state of the TSA at Logan Airport",
+      "link": "https://www.boston.com/news/local-news/2026/03/18/this-is-the-current-state-of-the-tsa-at-logan-airport/",
+      "pubDate": "Wed, 18 Mar 2026 17:44:34 +0000",
+      "description": "<p>So far, so good, as the majority of TSA agents continue to work despite missing their first paycheck. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/18/this-is-the-current-state-of-the-tsa-at-logan-airport/\">This is the current state of the TSA at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5aa0be50e991b542c6709385736f0df4",
       "summary": [
-        "New Hampshire mom Jennifer Capone-Haberek is running the 2026 Boston Marathon.",
-        "She was diagnosed with cancer during her pregnancy and received support from the Ellie Fund.",
-        "Her marathon run aims to raise awareness and funds for cancer support in the community."
+        "TSA agents at Logan Airport continue working despite missing their first paycheck.",
+        "Majority of TSA staff remain on duty, ensuring minimal disruption for travelers.",
+        "Local travelers may experience smoother security processes during this period."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "An AI-rendered Val Kilmer will posthumously appear in a new film",
+      "link": "https://www.boston.com/culture/entertainment/2026/03/18/an-ai-rendered-val-kilmer-will-posthumously-appear-in-a-new-film/",
+      "pubDate": "Wed, 18 Mar 2026 17:38:32 +0000",
+      "description": "<p>First Line Films announced Wednesday that Kilmer has posthumously joined the cast of a film titled \u201cAs Deep as the Grave.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/03/18/an-ai-rendered-val-kilmer-will-posthumously-appear-in-a-new-film/\">An AI-rendered Val Kilmer will posthumously appear in a new film</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "10103da01c775f5c8f8c59abc06369b8",
+      "summary": [
+        "First Line Films announced Val Kilmer's posthumous role in 'As Deep as the Grave'.",
+        "The film utilizes AI technology to recreate Kilmer's likeness for the project.",
+        "Boston residents may see a resurgence of interest in local film production and technology."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-03-18T17:05:59.829208+00:00"
+    "timestamp": "2026-03-18T19:06:32.692961+00:00"
   }
 }
