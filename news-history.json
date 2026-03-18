@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-18T05:27:34.731900+00:00",
+  "lastUpdated": "2026-03-18T10:55:38.885631+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Mar. 18)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/03/18/recent-homes-sales-in-greater-boston-mar-18/",
+      "pubDate": "Wed, 18 Mar 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 91 Rice St. One-family ranch, built in 1951, 704 square feet, 4 rooms, 2 bedrooms, 1 bath, on 7,235-square-foot lot. $460,000 ACTON 49 Quarry Road. Condo. $1,200,000 1 Beth Circle. Condo. $500,000 19 Railroad St. #D2 Condo Town House, built in 2006, 910 square feet, 4 rooms, 2 bedrooms, 2 baths. $405,000 19 Railroad [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/03/18/recent-homes-sales-in-greater-boston-mar-18/\">Recent homes sales in Greater Boston (Mar. 18)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4991985b34e2e37b14b9b72239663825",
+      "summary": [
+        "Abington home at 91 Rice St. sold for $460,000 on March 18.",
+        "Acton condos sold for $1,200,000 and $500,000, impacting local market dynamics.",
+        "Recent sales indicate rising property values in Greater Boston, affecting affordability."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "3 things the Bruins must fix if they want to punch their ticket to the playoffs",
       "link": "https://www.boston.com/sports/boston-bruins/2026/03/17/boston-bruins-nhl-hockey-struggles-power-play-morgan-geekie-elias-lindholm/",
@@ -635,19 +648,6 @@
         "Lou Gorman's approach helped manage tensions during Roger Clemens' departure from the Red Sox.",
         "Gorman served as Red Sox GM from 1984 to 1993, influencing team culture.",
         "His wisdom continues to resonate with Boston fans, emphasizing resilience in sports."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "She\u2019s running the Boston Marathon for her former patient with Morquio syndrome",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/16/erin-donnelly-franciscanchildrenshopital/",
-      "pubDate": "Tue, 17 Mar 2026 02:53:16 +0000",
-      "description": "<p>\"I always told Gio he could do hard things, so now I do hard things for him,\" Donnelly said.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/16/erin-donnelly-franciscanchildrenshopital/\">She&#8217;s running the Boston Marathon for her former patient with Morquio syndrome</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "974c1e7e7e4e35df6547f097cacb7a3d",
-      "summary": [
-        "Erin Donnelly is running the Boston Marathon to support her former patient, Gio.",
-        "Gio has Morquio syndrome, a rare genetic disorder affecting his mobility.",
-        "Donnelly's run raises awareness for rare diseases among Boston residents."
       ],
       "hookType": "LOCAL_IMPACT"
     }

@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-18T08:55:49.856979+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-18T10:55:38.884810+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Mar. 18)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/03/18/recent-homes-sales-in-greater-boston-mar-18/",
+      "pubDate": "Wed, 18 Mar 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 91 Rice St. One-family ranch, built in 1951, 704 square feet, 4 rooms, 2 bedrooms, 1 bath, on 7,235-square-foot lot. $460,000 ACTON 49 Quarry Road. Condo. $1,200,000 1 Beth Circle. Condo. $500,000 19 Railroad St. #D2 Condo Town House, built in 2006, 910 square feet, 4 rooms, 2 bedrooms, 2 baths. $405,000 19 Railroad [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/03/18/recent-homes-sales-in-greater-boston-mar-18/\">Recent homes sales in Greater Boston (Mar. 18)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4991985b34e2e37b14b9b72239663825",
+      "summary": [
+        "Abington home at 91 Rice St. sold for $460,000 on March 18.",
+        "Acton condos sold for $1,200,000 and $500,000, impacting local market dynamics.",
+        "Recent sales indicate rising property values in Greater Boston, affecting affordability."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-18T08:55:49.856988+00:00"
+    "timestamp": "2026-03-18T10:55:38.884831+00:00"
   }
 }
