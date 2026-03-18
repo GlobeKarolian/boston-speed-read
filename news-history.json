@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-18T15:07:32.191284+00:00",
+  "lastUpdated": "2026-03-18T17:05:59.829893+00:00",
   "articles": [
+    {
+      "title": "Man found dead in Brockton was in fight, then run over, DA says",
+      "link": "https://www.boston.com/news/local-news/2026/03/18/man-found-dead-in-brockton-was-in-fight-then-run-over-da-says/",
+      "pubDate": "Wed, 18 Mar 2026 16:49:27 +0000",
+      "description": "<p>Lianes Brandao worked as a forklift driver and enjoyed playing soccer and spending time with friends, according to his obituary.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/18/man-found-dead-in-brockton-was-in-fight-then-run-over-da-says/\">Man found dead in Brockton was in fight, then run over, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cc16ed1b05a06ab3428f1ca40947b095",
+      "summary": [
+        "Lianes Brandao, 30, was found dead in Brockton after a fight and being run over.",
+        "Brandao worked as a forklift driver and was known for his love of soccer.",
+        "The incident raises concerns about safety and violence in local communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Pregnant, battling cancer \u2014 now she\u2019s running the 2026 Boston Marathon",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/18/jennifer-capone-haberek-ellie-fund/",
+      "pubDate": "Wed, 18 Mar 2026 16:12:41 +0000",
+      "description": "<p>After a harrowing diagnosis during pregnancy, the New Hampshire mom is running to give back to the Ellie Fund that supported her family. </p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/18/jennifer-capone-haberek-ellie-fund/\">Pregnant, battling cancer \u2014 now she\u2019s running the 2026 Boston Marathon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "16c989be3175313d59a35f3dd40fc664",
+      "summary": [
+        "New Hampshire mom Jennifer Capone-Haberek is running the 2026 Boston Marathon.",
+        "She was diagnosed with cancer during her pregnancy and received support from the Ellie Fund.",
+        "Her marathon run aims to raise awareness and funds for cancer support in the community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "A Korean trio of restaurants heads to Allston, starting with Sanbada",
       "link": "https://www.boston.com/food/food-news/2026/03/18/korean-restaurants-allston-sanbada/",
@@ -622,32 +648,6 @@
         "Young Boston voters express regret over Trump's policies affecting college affordability.",
         "Many report feeling financially burdened, unable to buy homes or pay for education.",
         "Local youth engagement in politics may shift as dissatisfaction grows among this demographic."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Jaylen Brown describes \u2018surreal\u2019 experience at his first St. Patrick\u2019s Day parade in South Boston",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/03/17/celtics-jaylen-brown-st-patricks-day-parade-south-boston/",
-      "pubDate": "Tue, 17 Mar 2026 15:26:38 +0000",
-      "description": "<p>\"It was cold, and it was early, and it felt like the whole city was drunk.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/17/celtics-jaylen-brown-st-patricks-day-parade-south-boston/\">Jaylen Brown describes &#8216;surreal&#8217; experience at his first St. Patrick&#8217;s Day parade in South Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "212384f658f956813aae02c47020bccb",
-      "summary": [
-        "Jaylen Brown attended his first St. Patrick's Day parade in South Boston on March 17.",
-        "He described the atmosphere as 'cold' and 'surreal' with a lively crowd.",
-        "Brown's participation highlights the Celtics' connection to local traditions and community events."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Suspected mortar shell brought into Essex police station prompts evacuation",
-      "link": "https://www.boston.com/news/local-news/2026/03/17/suspected-mortar-shell-brought-into-essex-police-station-prompts-evacuation/",
-      "pubDate": "Tue, 17 Mar 2026 14:50:17 +0000",
-      "description": "<p>A bomb squad later determined the device was a harmless, empty canister, authorities say.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/17/suspected-mortar-shell-brought-into-essex-police-station-prompts-evacuation/\">Suspected mortar shell brought into Essex police station prompts evacuation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bd3454563b6b394d8f7f88126bd602c7",
-      "summary": [
-        "Authorities evacuated Essex police station after a suspected mortar shell was brought in.",
-        "Bomb squad determined the device was a harmless, empty canister, ensuring public safety.",
-        "Local residents experienced temporary disruption due to the police station evacuation."
       ],
       "hookType": "LOCAL_IMPACT"
     }
