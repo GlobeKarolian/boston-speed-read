@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-03-19T10:45:58.732767+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-19T13:14:27.541400+00:00",
+  "articles": [
+    {
+      "title": "5 best new restaurant openings and dining updates in Boston (March 19, 2026)",
+      "link": "https://www.boston.com/food/restaurants/2026/03/19/restaurant-openings-march-19-2026/",
+      "pubDate": "Thu, 19 Mar 2026 13:09:02 +0000",
+      "description": "<p>Stay up-to-date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/03/19/restaurant-openings-march-19-2026/\">5 best new restaurant openings and dining updates in Boston (March 19, 2026)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a59a84bedcb37944be5f2d8ff2f309b2",
+      "summary": [
+        "Five new restaurants opened in Greater Boston as of March 19, 2026.",
+        "Notable openings include 'Taste of Italy' and 'Seafood Haven' in downtown Boston.",
+        "Residents can enjoy diverse dining options, enhancing the local food scene."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston Globe columnist Dan Shaughnessy wins 2026 Red Smith Award",
+      "link": "https://www.boston.com/sports/sports-news/2026/03/19/dan-shaughnessy-wins-2026-red-smith-award/",
+      "pubDate": "Thu, 19 Mar 2026 12:59:51 +0000",
+      "description": "<p>\"He views himself as the ombudsman for the fans,\" a fellow Globe columnist says of Shaughnessy. </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/19/dan-shaughnessy-wins-2026-red-smith-award/\">Boston Globe columnist Dan Shaughnessy wins 2026 Red Smith Award</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e3230a92a32376e7b8189790bbc9a6be",
+      "summary": [
+        "Boston Globe columnist Dan Shaughnessy wins the 2026 Red Smith Award for sports journalism.",
+        "Shaughnessy is recognized for his role as an ombudsman for Boston sports fans.",
+        "The award highlights Boston's commitment to quality sports reporting and local journalism."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Watch: Stephen Curry wasn\u2019t thrilled about a fan grabbing his arm at TD Garden",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/19/celtics-warriors-fan-grabs-stephen-curry-td-garden-video/",
+      "pubDate": "Thu, 19 Mar 2026 12:40:47 +0000",
+      "description": "<p>An X user said the fan was booted from the arena. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/19/celtics-warriors-fan-grabs-stephen-curry-td-garden-video/\">Watch: Stephen Curry wasn&#8217;t thrilled about a fan grabbing his arm at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8a7f4c8e818102c10011187961e298fd",
+      "summary": [
+        "Fan grabbed Stephen Curry's arm during game at TD Garden.",
+        "The fan was reportedly removed from the arena by security.",
+        "Incident raises concerns about fan behavior at Boston sports events."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jaylen Brown, Jayson Tatum show what\u2019s possible in Celtics\u2019 win over Warriors: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/19/jaylen-brown-jayson-tatum-show-whats-possible-in-celtics-win-over-warriors-7-takeaways/",
+      "pubDate": "Thu, 19 Mar 2026 12:12:19 +0000",
+      "description": "<p>\u201cI knew I was going to get a nice ovation,\u201d Kristaps Porzingis said. \u201cI had a great time here, a great couple of years. I know the fans have appreciated me and it was good to be back here, honestly.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/19/jaylen-brown-jayson-tatum-show-whats-possible-in-celtics-win-over-warriors-7-takeaways/\">Jaylen Brown, Jayson Tatum show what\u2019s possible in Celtics\u2019 win over Warriors: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e57fa4d05ba082863c181ecd9d94713f",
+      "summary": [
+        "Celtics defeated Warriors, showcasing strong performances from Jaylen Brown and Jayson Tatum.",
+        "Kristaps Porzingis received a warm welcome from fans during his return to Boston.",
+        "Victory boosts Celtics' confidence as they aim for playoff positioning in the upcoming weeks."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-03-19T10:45:58.732776+00:00"
+    "timestamp": "2026-03-19T13:14:27.541452+00:00"
   }
 }
