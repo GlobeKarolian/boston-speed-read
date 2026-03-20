@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-03-20T10:42:06.797671+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-20T13:08:31.878561+00:00",
+  "articles": [
+    {
+      "title": "Investing in quality: The benefits of well-made furniture and art",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/03/20/investing-in-quality-the-benefits-of-well-made-furniture-and-art/",
+      "pubDate": "Fri, 20 Mar 2026 11:25:09 +0000",
+      "description": "<p>Massachusetts designer Kate Maloney relies on locally made, quality pieces that can move from house to house. Here\u2019s where to find some.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/03/20/investing-in-quality-the-benefits-of-well-made-furniture-and-art/\">Investing in quality: The benefits of well-made furniture and art</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "25240d97ce9508df518d09825b2c5ee7",
+      "summary": [
+        "Massachusetts designer Kate Maloney promotes locally made furniture for sustainability and quality.",
+        "Residents can find quality pieces that last and adapt to different homes.",
+        "Investing in local craftsmanship supports Boston's economy and reduces environmental impact."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018He drives them\u2019: New Bruins forward Lukas Reichel made an instant impact at TD Garden",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/03/20/boston-bruins-lukas-reichel-nhl-hockey-marco-sturm-geekie-lindholm/",
+      "pubDate": "Fri, 20 Mar 2026 11:24:27 +0000",
+      "description": "<p>\u201cI think that was the goal, bringing this guy in today to drive Elias and Geeks so you can push them a little bit more forward.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/20/boston-bruins-lukas-reichel-nhl-hockey-marco-sturm-geekie-lindholm/\">\u2018He drives them\u2019: New Bruins forward Lukas Reichel made an instant impact at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "db662a9fda6ceb61d07f2c7bd376ffd6",
+      "summary": [
+        "New Bruins forward Lukas Reichel debuted at TD Garden, enhancing team dynamics.",
+        "Reichel aims to elevate teammates Elias Lindholm and Geekie for improved performance.",
+        "His arrival is expected to boost Bruins' competitiveness in the ongoing season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "From every angle, this $1.175m Boxborough contemporary shines",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/03/20/boxborough-contemporary-shines/",
+      "pubDate": "Fri, 20 Mar 2026 11:10:52 +0000",
+      "description": "<p>This 4-bedroom, 2\u00bd-bath home has windows from top to bottom to welcome the sun.  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/03/20/boxborough-contemporary-shines/\">From every angle, this $1.175m Boxborough contemporary shines</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e248bf7e1e3164ab23f639be683bee20",
+      "summary": [
+        "Boxborough home listed at $1.175 million features 4 bedrooms and 2\u00bd baths.",
+        "Property boasts extensive windows for natural light, enhancing living space appeal.",
+        "Local real estate market sees rising prices, impacting affordability for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ask the Remodeler: How to keep melted snow out of your basement",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/03/20/ask-the-remodeler-how-to-keep-melted-snow-out-of-your-basement/",
+      "pubDate": "Fri, 20 Mar 2026 11:06:39 +0000",
+      "description": "<p>A few expert tips for keeping your basement dry this spring.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/03/20/ask-the-remodeler-how-to-keep-melted-snow-out-of-your-basement/\">Ask the Remodeler: How to keep melted snow out of your basement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "879f00d31cc478222a3af5437e33c4ef",
+      "summary": [
+        "Experts recommend sealing cracks to prevent melted snow from entering basements this spring.",
+        "Install sump pumps and drainage systems to manage water effectively during snowmelt.",
+        "Homeowners can avoid costly water damage by implementing these preventative measures."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/03/20/greater-boston-news-quiz-march-20-2026-tsa-parade-bulger/",
+      "pubDate": "Fri, 20 Mar 2026 10:48:18 +0000",
+      "description": "<p>TSA troubles, parade problems, and a Bulger discovery are all covered in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/03/20/greater-boston-news-quiz-march-20-2026-tsa-parade-bulger/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f01408b164700496b52ee6427d9fc037",
+      "summary": [
+        "TSA issues reported at Boston Logan Airport affecting travel times.",
+        "Parade disruptions occurred during the St. Patrick's Day celebrations in March 2026.",
+        "Discovery related to Whitey Bulger raises concerns about local crime history."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-03-20T10:42:06.797680+00:00"
+    "timestamp": "2026-03-20T13:08:31.878580+00:00"
   }
 }
