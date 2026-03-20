@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-03-20T20:37:31.264671+00:00",
+  "lastUpdated": "2026-03-20T22:33:09.465355+00:00",
   "articles": [
     {
-      "title": "He\u2019s running Boston to support kids and families at MGH",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/20/andrew-mahr-mass-general-hospital/",
-      "pubDate": "Fri, 20 Mar 2026 19:56:16 +0000",
-      "description": "<p>After witnessing the strength of young patients on the course in 2014, he is taking on Boston again to help fund pediatric cancer care and research.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/20/andrew-mahr-mass-general-hospital/\">He\u2019s running Boston to support kids and families at MGH</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ecb5707290de9485ed6d17424be72c0e",
+      "title": "Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide",
+      "link": "https://www.boston.com/news/business/2026/03/20/brent-crude-briefly-tops-119-per-barrel-before-receding-and-shakes-stock-markets-worldwide/",
+      "pubDate": "Fri, 20 Mar 2026 22:06:01 +0000",
+      "description": "<p>Uncertainty about what will happen in the war has led to manic back-and-forth swings in the oil and stock markets since the war began nearly three weeks ago. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/20/brent-crude-briefly-tops-119-per-barrel-before-receding-and-shakes-stock-markets-worldwide/\">Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3bc7f635e351a32564aba1c73bd3c9b4",
       "summary": [
-        "Andrew Mahr is running the Boston Marathon to support pediatric cancer care at MGH.",
-        "Mahr was inspired by young patients he met during the 2014 marathon.",
-        "Funds raised will directly benefit families and children receiving treatment at MGH."
+        "Brent crude oil prices peaked at $119 per barrel, causing market volatility.",
+        "Stock markets worldwide experienced significant fluctuations due to ongoing war uncertainty.",
+        "Boston residents may face higher fuel prices and increased cost of living."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "\u2018More money in my pocket is a no-brainer\u2019: Readers weigh in on proposed income tax cut",
-      "link": "https://www.boston.com/community/readers-say/2026/03/20/proposed-massachusetts-income-tax-cut/",
-      "pubDate": "Fri, 20 Mar 2026 19:25:05 +0000",
-      "description": "<p>A recent analysis estimates a tax cut would reduce state revenue by roughly $5.1 billion per year, while saving the median Massachusetts household around $1,250 annually.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2026/03/20/proposed-massachusetts-income-tax-cut/\">&#8216;More money in my pocket is a no-brainer&#8217;: Readers weigh in on proposed income tax cut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "670202b6b7bc22add4238b2d844314b4",
+      "title": "The Bruins\u2019 second line isn\u2019t just a pleasant surprise. They\u2019ve been one of the NHL\u2019s best this year.",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/03/20/boston-bruins-viktor-arvidsson-pavel-zacha-casey-mittelstadt-nhl-hockey/",
+      "pubDate": "Fri, 20 Mar 2026 20:43:38 +0000",
+      "description": "<p>\u201cWe\u2019re never happy with a shift. We just want to be better and better.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/20/boston-bruins-viktor-arvidsson-pavel-zacha-casey-mittelstadt-nhl-hockey/\">The Bruins\u2019 second line isn\u2019t just a pleasant surprise. They\u2019ve been one of the NHL&#8217;s best this year.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1bd478c6fb78e9d3565ecf85a6da5a18",
       "summary": [
-        "Proposed income tax cut could save median Massachusetts household $1,250 annually.",
-        "Tax cut may reduce state revenue by approximately $5.1 billion each year.",
-        "Residents express support for tax relief, emphasizing financial benefits for local families."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A voodoo doll, a love triangle, and an alleged poisoning: Testimony begins in Salisbury antifreeze murder trial",
-      "link": "https://www.boston.com/news/crime/2026/03/20/salisbury-antifreeze-murder-case-judy-church/",
-      "pubDate": "Fri, 20 Mar 2026 19:18:49 +0000",
-      "description": "<p>Months before her boyfriend died from ethylene glycol poisoning, Judy Church allegedly told a family friend, \u201cIf he ever cheats on me, I\u2019ll poison him.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/20/salisbury-antifreeze-murder-case-judy-church/\">A voodoo doll, a love triangle, and an alleged poisoning: Testimony begins in Salisbury antifreeze murder trial</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a523d058085c1ae53ad53383dfa807aa",
-      "summary": [
-        "Judy Church allegedly threatened to poison her boyfriend if he cheated.",
-        "Testimony in the trial began on March 20, 2026.",
-        "The case raises concerns about domestic violence in the Boston area."
+        "The Bruins' second line ranks among the NHL's best this season.",
+        "Viktor Arvidsson, Pavel Zacha, and Casey Mittelstadt lead the charge.",
+        "Their performance boosts Boston's playoff hopes as the season progresses."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-20T20:37:31.264690+00:00"
+    "timestamp": "2026-03-20T22:33:09.465373+00:00"
   }
 }
