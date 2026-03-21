@@ -1,62 +1,23 @@
 {
-  "lastUpdated": "2026-03-21T14:31:13.654005+00:00",
+  "lastUpdated": "2026-03-21T16:35:07.612418+00:00",
   "articles": [
     {
-      "title": "Markey presses Meta on facial recognition risks in smart glasses",
-      "link": "https://www.boston.com/news/local-news/2026/03/21/markey-presses-meta-on-facial-recognition-risks-in-smart-glasses/",
-      "pubDate": "Sat, 21 Mar 2026 14:27:38 +0000",
-      "description": "<p>Senators warn that the technology could threaten privacy and discourage public protest.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/21/markey-presses-meta-on-facial-recognition-risks-in-smart-glasses/\">Markey presses Meta on facial recognition risks in smart glasses</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0a997ffe232bec841b9294bae9e59f0a",
+      "title": "Cancer couldn\u2019t stop her. Now she\u2019s running the Boston Marathon again.",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/21/stephanie-mchugh-new-england-patriots-foundation/",
+      "pubDate": "Sat, 21 Mar 2026 15:00:00 +0000",
+      "description": "<p>Stephanie McHugh is running the 2026 Boston Marathon for the New England Patriots Foundation. </p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/21/stephanie-mchugh-new-england-patriots-foundation/\">Cancer couldn\u2019t stop her. Now she\u2019s running the Boston Marathon again.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0ee856afc4e1e974527e4a8544f7c616",
       "summary": [
-        "Senator Ed Markey questions Meta about facial recognition in smart glasses.",
-        "Markey highlights risks to privacy and public protest on March 21, 2026.",
-        "Concerns raised could affect Boston residents' safety and civil liberties."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Debate in Quincy over funding for new firefighting gear after current gear tests positive for PFAS",
-      "link": "https://www.boston.com/news/local-news/2026/03/21/debate-in-quincy-over-funding-for-new-firefighting-gear-after-current-gear-tests-positive-for-pfas/",
-      "pubDate": "Sat, 21 Mar 2026 13:52:10 +0000",
-      "description": "<p>Quincy's city council delayed a vote on a $2.65 million plan to replace firefighter gear that contains harmful chemicals.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/21/debate-in-quincy-over-funding-for-new-firefighting-gear-after-current-gear-tests-positive-for-pfas/\">Debate in Quincy over funding for new firefighting gear after current gear tests positive for PFAS</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7f5a6b81dd21ef28639a6d3ac39b3e79",
-      "summary": [
-        "Quincy's city council postponed a vote on $2.65 million firefighter gear funding.",
-        "Current gear tested positive for PFAS, raising health concerns for firefighters.",
-        "Delayed funding may prolong exposure risks for Quincy firefighters and impact public safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The battle over the aging Attleboro Zoo is getting wild",
-      "link": "https://www.boston.com/news/local-news/2026/03/21/the-battle-over-the-aging-attleboro-zoo-is-getting-wild/",
-      "pubDate": "Sat, 21 Mar 2026 13:24:18 +0000",
-      "description": "<p>City proposal would transform Capron Park Zoo into a nature reserve.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/21/the-battle-over-the-aging-attleboro-zoo-is-getting-wild/\">The battle over the aging Attleboro Zoo is getting wild</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2e9ddf8210ce049a7f3b5f7d6389a4f4",
-      "summary": [
-        "City plans to transform Capron Park Zoo into a nature reserve for wildlife conservation.",
-        "Proposal aims to enhance local biodiversity and attract more visitors to Attleboro.",
-        "Residents may see increased recreational opportunities and educational programs by 2026."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "BTS returns with comeback concert in Seoul after 4-year hiatus",
-      "link": "https://www.boston.com/culture/entertainment/2026/03/21/bts-returns-with-comeback-concert-in-seoul-after-4-year-hiatus/",
-      "pubDate": "Sat, 21 Mar 2026 13:05:14 +0000",
-      "description": "<p>The performance at Gwanghwamun Square launches a\u00a0global tour\u00a0spanning dozens of shows across the United States, Europe and Asia.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/03/21/bts-returns-with-comeback-concert-in-seoul-after-4-year-hiatus/\">BTS returns with comeback concert in Seoul after 4-year hiatus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6b852d4e0293d3111f0d85d2056bf5b5",
-      "summary": [
-        "BTS launched a global tour with a concert in Seoul on March 21, 2026.",
-        "The tour includes dozens of shows across the U.S., Europe, and Asia.",
-        "Boston residents can expect BTS concerts in local venues as part of the tour."
+        "Stephanie McHugh will run the 2026 Boston Marathon after overcoming cancer.",
+        "She is raising funds for the New England Patriots Foundation.",
+        "Her story inspires Boston residents facing similar challenges."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-21T14:31:13.654018+00:00"
+    "timestamp": "2026-03-21T16:35:07.612442+00:00"
   }
 }
