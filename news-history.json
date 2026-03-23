@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-23T02:38:39.967833+00:00",
+  "lastUpdated": "2026-03-23T05:41:11.776727+00:00",
   "articles": [
+    {
+      "title": "Will President Trump send ICE agents to Boston\u2019s Logan Airport?",
+      "link": "https://www.boston.com/news/local-news/2026/03/22/will-president-trump-send-ice-agents-to-bostons-logan-airport/",
+      "pubDate": "Mon, 23 Mar 2026 02:50:03 +0000",
+      "description": "<p>\u201cWe have not heard anything official from TSA leadership that ICE would be coming to any airport in New England.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/22/will-president-trump-send-ice-agents-to-bostons-logan-airport/\">Will President Trump send ICE agents to Boston&#8217;s Logan Airport?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3f9d932e23dc26a09058e279ec9a9c03",
+      "summary": [
+        "TSA has not confirmed any ICE presence at Logan Airport in Boston.",
+        "No official announcements from TSA leadership regarding ICE deployment in New England.",
+        "Potential ICE operations could affect Boston residents traveling through Logan Airport."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Minnesota Wild reporter Jessi Pierce and her 3 children found dead in house fire, league says",
       "link": "https://www.boston.com/news/national-news/2026/03/22/minnesota-wild-reporter-jessi-pierce-and-her-3-children-found-dead-in-house-fire-league-says/",
@@ -635,19 +648,6 @@
         "Andrew Mahr is running the Boston Marathon to support pediatric cancer care at MGH.",
         "Mahr was inspired by young patients he met during the 2014 marathon.",
         "Funds raised will directly benefit families and children receiving treatment at MGH."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018More money in my pocket is a no-brainer\u2019: Readers weigh in on proposed income tax cut",
-      "link": "https://www.boston.com/community/readers-say/2026/03/20/proposed-massachusetts-income-tax-cut/",
-      "pubDate": "Fri, 20 Mar 2026 19:25:05 +0000",
-      "description": "<p>A recent analysis estimates a tax cut would reduce state revenue by roughly $5.1 billion per year, while saving the median Massachusetts household around $1,250 annually.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2026/03/20/proposed-massachusetts-income-tax-cut/\">&#8216;More money in my pocket is a no-brainer&#8217;: Readers weigh in on proposed income tax cut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "670202b6b7bc22add4238b2d844314b4",
-      "summary": [
-        "Proposed income tax cut could save median Massachusetts household $1,250 annually.",
-        "Tax cut may reduce state revenue by approximately $5.1 billion each year.",
-        "Residents express support for tax relief, emphasizing financial benefits for local families."
       ],
       "hookType": "LOCAL_IMPACT"
     }
