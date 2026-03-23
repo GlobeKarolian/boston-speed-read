@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-03-23T05:41:11.776060+00:00",
-  "articles": [
-    {
-      "title": "Will President Trump send ICE agents to Boston\u2019s Logan Airport?",
-      "link": "https://www.boston.com/news/local-news/2026/03/22/will-president-trump-send-ice-agents-to-bostons-logan-airport/",
-      "pubDate": "Mon, 23 Mar 2026 02:50:03 +0000",
-      "description": "<p>\u201cWe have not heard anything official from TSA leadership that ICE would be coming to any airport in New England.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/22/will-president-trump-send-ice-agents-to-bostons-logan-airport/\">Will President Trump send ICE agents to Boston&#8217;s Logan Airport?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3f9d932e23dc26a09058e279ec9a9c03",
-      "summary": [
-        "TSA has not confirmed any ICE presence at Logan Airport in Boston.",
-        "No official announcements from TSA leadership regarding ICE deployment in New England.",
-        "Potential ICE operations could affect Boston residents traveling through Logan Airport."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-03-23T07:16:41.500278+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-03-23T05:41:11.776075+00:00"
+    "timestamp": "2026-03-23T07:16:41.500289+00:00"
   }
 }
