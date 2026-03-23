@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-22T22:30:24.558777+00:00",
+  "lastUpdated": "2026-03-23T02:38:39.967833+00:00",
   "articles": [
+    {
+      "title": "Minnesota Wild reporter Jessi Pierce and her 3 children found dead in house fire, league says",
+      "link": "https://www.boston.com/news/national-news/2026/03/22/minnesota-wild-reporter-jessi-pierce-and-her-3-children-found-dead-in-house-fire-league-says/",
+      "pubDate": "Mon, 23 Mar 2026 02:00:10 +0000",
+      "description": "<p>\u201cThe entire NHL.com team is devastated and heartbroken by the loss of Jessi and her children,\u201d said Bill Price, vice president and editor-in-chief of NHL.com, in a statement.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/22/minnesota-wild-reporter-jessi-pierce-and-her-3-children-found-dead-in-house-fire-league-says/\">Minnesota Wild reporter Jessi Pierce and her 3 children found dead in house fire, league says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "094a428922807571a39deb68f54ee929",
+      "summary": [
+        "Jessi Pierce, a Minnesota Wild reporter, and her three children died in a house fire.",
+        "The NHL community mourns the loss, expressing deep sorrow for the family.",
+        "This tragedy highlights the importance of fire safety awareness for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Is Bruins goalie Jeremy Swayman a legitimate Vezina candidate? The numbers speak for themselves.",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/03/22/boston-bruins-jeremy-swayman-nhl-hockey-vezina-trophy-goalie/",
+      "pubDate": "Mon, 23 Mar 2026 01:50:33 +0000",
+      "description": "<p> \u201cI mean, he\u2019s been our best player all year.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/22/boston-bruins-jeremy-swayman-nhl-hockey-vezina-trophy-goalie/\">Is Bruins goalie Jeremy Swayman a legitimate Vezina candidate? The numbers speak for themselves.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "11f4115fc6e37f7e4707a673638804e5",
+      "summary": [
+        "Bruins goalie Jeremy Swayman is being considered for the Vezina Trophy this season.",
+        "Swayman has been recognized as the Bruins' best player throughout the year.",
+        "His performance could enhance Boston's chances in the playoffs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Celtics legend Paul Pierce continues to make a case for Jaylen Brown as NBA MVP",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/22/jaylen-brown-nba-basketball-boston-celtics-paul-pierce-mvp-league/",
+      "pubDate": "Mon, 23 Mar 2026 00:05:56 +0000",
+      "description": "<p>\"There's gonna be some animosity there. Some resentment toward us.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/22/jaylen-brown-nba-basketball-boston-celtics-paul-pierce-mvp-league/\">Celtics legend Paul Pierce continues to make a case for Jaylen Brown as NBA MVP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4c9673141a604640365b54d6876ae2fa",
+      "summary": [
+        "Paul Pierce advocates for Jaylen Brown as NBA MVP, highlighting his contributions to the Celtics.",
+        "Brown's performance could influence Celtics' playoff positioning as the season progresses.",
+        "Increased recognition for Brown may boost local support and fan engagement in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Plymouth police officer on paid leave amid criminal investigation",
+      "link": "https://www.boston.com/news/crime/2026/03/22/plymouth-police-officer-on-paid-leave-amid-criminal-investigation/",
+      "pubDate": "Sun, 22 Mar 2026 23:50:40 +0000",
+      "description": "<p>\"Violations of department policy or state law will not be tolerated,\" Plymouth police said after State Police launched the criminal investigation.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/22/plymouth-police-officer-on-paid-leave-amid-criminal-investigation/\">Plymouth police officer on paid leave amid criminal investigation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "33dde933f81e8272c7d7919fe6f2aa58",
+      "summary": [
+        "Plymouth police officer placed on paid leave due to ongoing criminal investigation by State Police.",
+        "Investigation initiated following reported violations of department policy or state law.",
+        "Local residents concerned about police accountability and potential impacts on community trust."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Meteorite crashes through roof of house near Houston",
+      "link": "https://www.boston.com/news/national-news/2026/03/22/meteorite-crashes-through-roof-of-house-near-houston/",
+      "pubDate": "Sun, 22 Mar 2026 22:31:50 +0000",
+      "description": "<p>No one was injured, but a woman was startled on Saturday when a meteorite pierced the roof of her home, ricocheted off the floor, and struck a bedroom ceiling.            </p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/22/meteorite-crashes-through-roof-of-house-near-houston/\">Meteorite crashes through roof of house near Houston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6db9188fd20ac8b12c27581fc9e52eb1",
+      "summary": [
+        "Meteorite crashed through a woman's home near Houston on Saturday.",
+        "No injuries reported; the meteorite struck the bedroom ceiling after ricocheting.",
+        "Residents should be aware of rare meteorite incidents affecting local safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "MLB writer predicts Roman Anthony will win AL MVP this season",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/03/22/roman-anthony-mlb-baseball-al-mvp-boston-red-sox-the-athletic/",
@@ -583,71 +648,6 @@
         "Proposed income tax cut could save median Massachusetts household $1,250 annually.",
         "Tax cut may reduce state revenue by approximately $5.1 billion each year.",
         "Residents express support for tax relief, emphasizing financial benefits for local families."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A voodoo doll, a love triangle, and an alleged poisoning: Testimony begins in Salisbury antifreeze murder trial",
-      "link": "https://www.boston.com/news/crime/2026/03/20/salisbury-antifreeze-murder-case-judy-church/",
-      "pubDate": "Fri, 20 Mar 2026 19:18:49 +0000",
-      "description": "<p>Months before her boyfriend died from ethylene glycol poisoning, Judy Church allegedly told a family friend, \u201cIf he ever cheats on me, I\u2019ll poison him.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/20/salisbury-antifreeze-murder-case-judy-church/\">A voodoo doll, a love triangle, and an alleged poisoning: Testimony begins in Salisbury antifreeze murder trial</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a523d058085c1ae53ad53383dfa807aa",
-      "summary": [
-        "Judy Church allegedly threatened to poison her boyfriend if he cheated.",
-        "Testimony in the trial began on March 20, 2026.",
-        "The case raises concerns about domestic violence in the Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Healey pushes to get rid of Sunday hunting ban",
-      "link": "https://www.boston.com/news/local-news/2026/03/20/healey-pushes-to-get-rid-of-sunday-hunting-ban/",
-      "pubDate": "Fri, 20 Mar 2026 18:40:34 +0000",
-      "description": "<p>The proposed legislation would also allow all hunters to use crossbows and reduce setback distances for bowhunting. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/20/healey-pushes-to-get-rid-of-sunday-hunting-ban/\">Healey pushes to get rid of Sunday hunting ban</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7712ee4e0e4bbb3066e162ba4186b399",
-      "summary": [
-        "Governor Healey proposes legislation to eliminate the Sunday hunting ban in Massachusetts.",
-        "Legislation would allow crossbow use and reduce bowhunting setback distances.",
-        "Changes could increase hunting opportunities for Boston residents and local wildlife management."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cape Cod magnet fisher pulls \u2018pristine-looking\u2019 derringer pistol from Bridgewater river",
-      "link": "https://www.boston.com/news/local-news/2026/03/20/cape-cod-magnet-fisher-pulls-pristine-looking-derringer-pistol-from-bridgewater-river/",
-      "pubDate": "Fri, 20 Mar 2026 18:20:36 +0000",
-      "description": "<p>The YouTuber says he found the derringer in a case that looked \u201cbrand new,\u201d drawing attention online.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/20/cape-cod-magnet-fisher-pulls-pristine-looking-derringer-pistol-from-bridgewater-river/\">Cape Cod magnet fisher pulls \u2018pristine-looking\u2019 derringer pistol from Bridgewater river</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7a7d21ac3d1be8097e1dd815b279a7c2",
-      "summary": [
-        "YouTuber discovers a 'pristine-looking' derringer pistol in Bridgewater River.",
-        "The pistol was found in a case that appeared brand new.",
-        "This find raises concerns about safety and river debris in the Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Teen charged with murder after stabbing in Chelsea",
-      "link": "https://www.boston.com/news/crime/2026/03/20/teen-charged-with-murder-after-stabbing-in-chelsea/",
-      "pubDate": "Fri, 20 Mar 2026 18:10:14 +0000",
-      "description": "<p>Officers found \"multiple stabbing victims\" upon arriving on scene, with one who succumbed to injuries later during surgery.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/20/teen-charged-with-murder-after-stabbing-in-chelsea/\">Teen charged with murder after stabbing in Chelsea</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "285b8ba17d9df3c9485c17c4531348e8",
-      "summary": [
-        "Teen charged with murder following a stabbing incident in Chelsea.",
-        "One victim died from injuries after surgery; multiple others were injured.",
-        "Increased community concern over safety following violent crime in the area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Two officers injured in struggle with knife-wielding man at Forest Hills station, police say",
-      "link": "https://www.boston.com/news/local-news/2026/03/20/two-officers-injured-in-struggle-with-knife-wielding-man-at-forest-hills-station-police-say/",
-      "pubDate": "Fri, 20 Mar 2026 18:02:17 +0000",
-      "description": "<p>The man was threatening people with a butcher's knife before police intervened, officials said. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/20/two-officers-injured-in-struggle-with-knife-wielding-man-at-forest-hills-station-police-say/\">Two officers injured in struggle with knife-wielding man at Forest Hills station, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ab3325e7a1004428ad5acb3e6023480c",
-      "summary": [
-        "Police intervened as a man threatened people with a butcher's knife at Forest Hills station.",
-        "Two officers were injured during the struggle with the suspect on March 20, 2026.",
-        "Local residents are concerned about safety following this violent incident in a public space."
       ],
       "hookType": "LOCAL_IMPACT"
     }
