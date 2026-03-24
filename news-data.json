@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-03-24T10:54:54.157712+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-24T13:20:54.934219+00:00",
+  "articles": [
+    {
+      "title": "Where to find the best food under $20 in Malden",
+      "link": "https://www.boston.com/food/restaurants/2026/03/24/best-food-under-20-malden/",
+      "pubDate": "Tue, 24 Mar 2026 13:00:00 +0000",
+      "description": "<p>In this economy, we could all use a budget-friendly guide to area restaurants.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/03/24/best-food-under-20-malden/\">Where to find the best food under $20 in Malden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4e56dee874ebffb5e1f108a2b9bce736",
+      "summary": [
+        "Explore budget-friendly dining options in Malden, with meals under $20.",
+        "Discover 10 recommended restaurants, including local favorites like The Pita and Malden Diner.",
+        "Support local businesses while enjoying affordable meals amid rising food costs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Home of the Week: Medfield four-bedroom w/ADU offers a piece of Boston\u2019s music history for $1.5m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/03/24/medfield-house-charles-martin-loeffler-composer/",
+      "pubDate": "Tue, 24 Mar 2026 11:00:00 +0000",
+      "description": "<p>Composer Charles Martin Loeffler, who worked with the Boston Symphony Orchestra, moved to this house to be a \"gentleman farmer.\"</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/03/24/medfield-house-charles-martin-loeffler-composer/\">Home of the Week: Medfield four-bedroom w/ADU offers a piece of Boston\u2019s music history for $1.5m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1fabe4dddefb654ed302c194c07a7a5e",
+      "summary": [
+        "Medfield home listed for $1.5 million features a four-bedroom layout and an ADU.",
+        "Home was once owned by composer Charles Martin Loeffler, linked to Boston Symphony Orchestra.",
+        "Purchase supports local real estate market and preserves Boston's musical heritage."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-24T10:54:54.157724+00:00"
+    "timestamp": "2026-03-24T13:20:54.934235+00:00"
   }
 }
