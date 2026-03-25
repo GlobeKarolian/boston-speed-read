@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-25T10:52:48.220104+00:00",
+  "lastUpdated": "2026-03-25T13:20:19.075425+00:00",
   "articles": [
+    {
+      "title": "Police release photo of \u2018person of interest\u2019 in Boston shooting",
+      "link": "https://www.boston.com/news/crime/2026/03/25/police-release-photo-of-person-of-interest-in-boston-shooting/",
+      "pubDate": "Wed, 25 Mar 2026 13:14:49 +0000",
+      "description": "<p>The suspect is seen on surveillance footage discarding clothing before fleeing the scene, police say. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/police-release-photo-of-person-of-interest-in-boston-shooting/\">Police release photo of &#8216;person of interest&#8217; in Boston shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "43085b9402d0687ad0edc5f7dc182abc",
+      "summary": [
+        "Police released a photo of a person of interest in a Boston shooting.",
+        "The suspect was seen discarding clothing before fleeing the scene.",
+        "Residents are urged to remain vigilant as the investigation continues."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Why did Kelsey Fitzsimmons choose to have a judge decide her fate?",
+      "link": "https://www.boston.com/news/crime/2026/03/25/kelsey-fitzsimmons-judge-bench-trial/",
+      "pubDate": "Wed, 25 Mar 2026 13:11:23 +0000",
+      "description": "<p>Fitzsimmons is standing trial for assault in a case fraught with emotions and conflicting narratives.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/kelsey-fitzsimmons-judge-bench-trial/\">Why did Kelsey Fitzsimmons choose to have a judge decide her fate?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "df3994dbe47d13ab2e193a447b8f9ad7",
+      "summary": [
+        "Kelsey Fitzsimmons is on trial for assault, with a judge presiding over the case.",
+        "Fitzsimmons opted for a bench trial instead of a jury trial for strategic reasons.",
+        "The trial's outcome could influence local perceptions of assault cases in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The road is only going to get harder for Bruins after \u2019embarrassing\u2019 loss to Leafs",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/03/25/boston-bruins-toronto-maple-leafs-loss-playoff-race-standings-points/",
+      "pubDate": "Wed, 25 Mar 2026 11:36:40 +0000",
+      "description": "<p>\"You get spoiled by our goalies. Hopefully it's going to be a little bit of a wakeup call.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/25/boston-bruins-toronto-maple-leafs-loss-playoff-race-standings-points/\">The road is only going to get harder for Bruins after &#8217;embarrassing&#8217; loss to Leafs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1b2cd5470adea798d09af9b6a5eef301",
+      "summary": [
+        "Bruins suffered a significant loss to the Maple Leafs, raising concerns about playoff performance.",
+        "Goalie performance has been inconsistent, prompting calls for improvement ahead of upcoming games.",
+        "This loss impacts Bruins' standings, making the playoff race more challenging for Boston fans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Adam Schefter: No \u2018under-the-table\u2019 A.J. Brown trade in place for Patriots, Eagles",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/25/new-england-patriots-philadelphia-eagles-a-j-brown-trade-rumors-adam-schefter-espn/",
+      "pubDate": "Wed, 25 Mar 2026 11:23:21 +0000",
+      "description": "<p>\"What we don\u2019t know is what\u2019s going to happen with New England from now until June 1st.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/25/new-england-patriots-philadelphia-eagles-a-j-brown-trade-rumors-adam-schefter-espn/\">Adam Schefter: No \u2018under-the-table\u2019 A.J. Brown trade in place for Patriots, Eagles\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c5f9ff925bbd8e96e4fafa2e707ce3eb",
+      "summary": [
+        "Adam Schefter confirms no trade for A.J. Brown between Patriots and Eagles.",
+        "Patriots have until June 1st to make roster changes or trades.",
+        "Boston fans may need to adjust expectations for upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "This police officer is running Boston to support self-defense training",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/25/caroline-butts-vanessa-marcotte-foundation/",
+      "pubDate": "Wed, 25 Mar 2026 11:00:00 +0000",
+      "description": "<p>\"As a female police officer, I am truly inspired by the mission that is at the forefront of this organization.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/25/caroline-butts-vanessa-marcotte-foundation/\">This police officer is running Boston to support self-defense training</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f8a0dd07f1cfddccbfde6dd8175e2154",
+      "summary": [
+        "Boston police officer Caroline Butts is running to support self-defense training programs.",
+        "The initiative is backed by the Vanessa Marcotte Foundation, focusing on women's safety.",
+        "Funds raised will enhance self-defense training opportunities for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Recent homes sales in Greater Boston (Mar. 25)",
       "link": "https://www.boston.com/real-estate/latest-sales/2026/03/25/recent-homes-sales-in-greater-boston-mar-25/",
@@ -583,71 +648,6 @@
         "Explore budget-friendly dining options in Malden, with meals under $20.",
         "Discover 10 recommended restaurants, including local favorites like The Pita and Malden Diner.",
         "Support local businesses while enjoying affordable meals amid rising food costs."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Home of the Week: Medfield four-bedroom w/ADU offers a piece of Boston\u2019s music history for $1.5m",
-      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/03/24/medfield-house-charles-martin-loeffler-composer/",
-      "pubDate": "Tue, 24 Mar 2026 11:00:00 +0000",
-      "description": "<p>Composer Charles Martin Loeffler, who worked with the Boston Symphony Orchestra, moved to this house to be a \"gentleman farmer.\"</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/03/24/medfield-house-charles-martin-loeffler-composer/\">Home of the Week: Medfield four-bedroom w/ADU offers a piece of Boston\u2019s music history for $1.5m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1fabe4dddefb654ed302c194c07a7a5e",
-      "summary": [
-        "Medfield home listed for $1.5 million features a four-bedroom layout and an ADU.",
-        "Home was once owned by composer Charles Martin Loeffler, linked to Boston Symphony Orchestra.",
-        "Purchase supports local real estate market and preserves Boston's musical heritage."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bruins\u2019 prospect James Hagens turns pro, will begin career in Providence",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/03/23/boston-bruins-james-hagens-bc-college-contract-pro-roster-entry-level-contract-providence/",
-      "pubDate": "Tue, 24 Mar 2026 03:31:26 +0000",
-      "description": "<p>Hagens is coming off a sophomore season at Boston College where he posted 47 points in 34 games.  </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/23/boston-bruins-james-hagens-bc-college-contract-pro-roster-entry-level-contract-providence/\">Bruins\u2019 prospect James Hagens turns pro, will begin career in Providence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c3312384eea26808d8086d5a28c75de3",
-      "summary": [
-        "James Hagens signs entry-level contract with Bruins, starting pro career in Providence.",
-        "Hagens scored 47 points in 34 games during his sophomore season at Boston College.",
-        "His transition to Providence strengthens the Bruins' development pipeline for local talent."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "7 X-factors on 2026 Red Sox roster",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/23/boston-red-sox-roster-x-factor-mlb-baseball-marcelo-mayer-brayan-bello-mlb-baseball-durbin-roman-anthony/",
-      "pubDate": "Tue, 24 Mar 2026 02:47:12 +0000",
-      "description": "<p>Boston's ceiling may not be reached this season if the Red Sox don't get key contributions from players like Marcelo Mayer, Brayan Bello, and others. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/23/boston-red-sox-roster-x-factor-mlb-baseball-marcelo-mayer-brayan-bello-mlb-baseball-durbin-roman-anthony/\">7 X-factors on 2026 Red Sox roster</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6989bc94378f4dfba006c64e6346593b",
-      "summary": [
-        "Red Sox may struggle to reach their potential without key players contributing this season.",
-        "Marcelo Mayer and Brayan Bello are identified as crucial for the team's success.",
-        "Local fans should monitor these players' performances for the team's future prospects."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Senate confirms Markwayne Mullin to lead Homeland Security as TSA standoff deepens",
-      "link": "https://www.boston.com/news/politics/2026/03/23/senate-confirms-markwayne-mullin-to-lead-homeland-security-as-tsa-standoff-deepens/",
-      "pubDate": "Tue, 24 Mar 2026 01:21:23 +0000",
-      "description": "<p>Mullin, a Republican senator from Oklahoma known for his close friendship with Trump, has tried to present himself as a steady hand, saying his goal as secretary would be to get the department off the front page of the news.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/23/senate-confirms-markwayne-mullin-to-lead-homeland-security-as-tsa-standoff-deepens/\">Senate confirms Markwayne Mullin to lead Homeland Security as TSA standoff deepens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b4a2f79b715141fa903848152a72a6db",
-      "summary": [
-        "Senate confirms Markwayne Mullin as Homeland Security Secretary on March 23, 2026.",
-        "Mullin aims to stabilize TSA amid ongoing operational challenges affecting travelers.",
-        "Boston residents may experience improved airport security and reduced travel disruptions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "State House Minority Leader opts not to run again after 32 years in office",
-      "link": "https://www.boston.com/news/local-news/2026/03/23/state-house-minority-leader-opts-not-to-run-again-after-32-years-in-office/",
-      "pubDate": "Tue, 24 Mar 2026 01:05:38 +0000",
-      "description": "<p>\u201cServing as State Representative has been a tremendously meaningful part of my life, and while difficult to leave behind, I eagerly look forward to my next chapter,\u201d the representative said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/23/state-house-minority-leader-opts-not-to-run-again-after-32-years-in-office/\">State House Minority Leader opts not to run again after 32 years in office</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2c1599f0c169adb8b2507b52f37a9979",
-      "summary": [
-        "State House Minority Leader opts not to seek re-election after 32 years in office.",
-        "Representative expressed gratitude for his tenure, emphasizing its significance in his life.",
-        "His departure may open opportunities for new leadership in Boston's legislative landscape."
       ],
       "hookType": "LOCAL_IMPACT"
     }
