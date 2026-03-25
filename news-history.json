@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-25T05:24:46.771970+00:00",
+  "lastUpdated": "2026-03-25T10:52:48.220104+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Mar. 25)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/03/25/recent-homes-sales-in-greater-boston-mar-25/",
+      "pubDate": "Wed, 25 Mar 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 333 Groveland St. Three-family family flat, built in 1900, 4,248 square feet, 15 rooms, 9 bedrooms, 3 baths, on 104,090-square-foot lot. $875,000 67 Beaver Lane. One-family raised ranch, built in 1976, 1,685 square feet, 6 rooms, 3 bedrooms, 2 baths, on 22,197-square-foot lot. $750,000 135 Bank St. One-family conventional, built in 1901, 1,413 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/03/25/recent-homes-sales-in-greater-boston-mar-25/\">Recent homes sales in Greater Boston (Mar. 25)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e622326542ba983a758f914284e2e870",
+      "summary": [
+        "Recent home sales in Greater Boston include a three-family flat in Abington for $875,000.",
+        "A one-family raised ranch on Beaver Lane sold for $750,000, reflecting market trends.",
+        "These sales indicate ongoing demand for diverse housing options in the Greater Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Man convicted more than 3 decades after raping 2 women at gunpoint in Framingham store",
       "link": "https://www.boston.com/news/local-news/2026/03/24/man-convicted-more-than-3-decades-after-raping-2-women-at-gunpoint-in-framingham-store/",
@@ -635,19 +648,6 @@
         "State House Minority Leader opts not to seek re-election after 32 years in office.",
         "Representative expressed gratitude for his tenure, emphasizing its significance in his life.",
         "His departure may open opportunities for new leadership in Boston's legislative landscape."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "No ICE agents at Logan Airport yet as agents deploy to busy airports",
-      "link": "https://www.boston.com/news/local-news/2026/03/23/no-ice-agents-at-logan-airport-yet-as-agents-deploy-to-busy-airports/",
-      "pubDate": "Tue, 24 Mar 2026 00:12:37 +0000",
-      "description": "<p>ICE agents were not deployed to any New England airport, the TSA union president told Boston.com, but could come next week.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/23/no-ice-agents-at-logan-airport-yet-as-agents-deploy-to-busy-airports/\">No ICE agents at Logan Airport yet as agents deploy to busy airports</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9390bc3dce1f65041f94f15ad7e32bd5",
-      "summary": [
-        "ICE agents have not yet been deployed to Logan Airport as of now.",
-        "TSA union president indicated agents could arrive next week.",
-        "Boston residents may face increased scrutiny at airports if ICE agents deploy."
       ],
       "hookType": "LOCAL_IMPACT"
     }
