@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-26T13:26:43.332440+00:00",
+  "lastUpdated": "2026-03-26T15:08:38.015150+00:00",
   "articles": [
+    {
+      "title": "Back Bay restaurant named among The Hollywood Reporter\u2019s most anticipated global openings for 2026",
+      "link": "https://www.boston.com/food/food-news/2026/03/26/rosa-y-marigold-hollywood-reporters-most-anticipated-openings-2026/",
+      "pubDate": "Thu, 26 Mar 2026 14:19:37 +0000",
+      "description": "<p>The restaurant was the only New England entry on the publication\u2019s list of buzzworthy hotel and restaurant debuts.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/26/rosa-y-marigold-hollywood-reporters-most-anticipated-openings-2026/\">Back Bay restaurant named among The Hollywood Reporter\u2019s most anticipated global openings for 2026</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5199883e87bf0865077b1199f395e1a6",
+      "summary": [
+        "Back Bay restaurant Rosa y Marigold recognized by The Hollywood Reporter for 2026 opening.",
+        "It is the only New England restaurant featured on the global list.",
+        "The anticipated opening could boost local tourism and dining economy in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Rep. Moulton prohibits staff from prediction market betting",
+      "link": "https://www.boston.com/news/politics/2026/03/26/rep-moulton-prohibits-staff-from-prediction-market-betting/",
+      "pubDate": "Thu, 26 Mar 2026 14:12:21 +0000",
+      "description": "<p>The Massachusetts congressman cites ethics concerns and risks of insider influence as reasons to ban prediction market platforms. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/26/rep-moulton-prohibits-staff-from-prediction-market-betting/\">Rep. Moulton prohibits staff from prediction market betting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "40a554458d35e52cf4456a44b9fe43f9",
+      "summary": [
+        "Rep. Seth Moulton bans staff from using prediction market platforms due to ethics concerns.",
+        "The ban addresses risks of insider influence in political decision-making.",
+        "Boston residents may see increased transparency and integrity in local governance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Livestream: Closing arguments in the Kelsey Fitzsimmons trial",
       "link": "https://www.boston.com/news/crime/2026/03/26/livestream-closing-arguments-in-the-kelsey-fitzsimmons-trial/",
@@ -622,32 +648,6 @@
         "Heather Diamond runs the Boston Marathon to honor her brother lost to suicide.",
         "She supports Home Base, a program by Massachusetts General Hospital and The Red Sox Foundation.",
         "Her efforts aim to raise awareness and aid fellow veterans in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Savannah Guthrie sits down for first interview, with colleague Hoda Kotb",
-      "link": "https://www.boston.com/news/crime/2026/03/25/savannah-guthrie-interview-hoda-kotb/",
-      "pubDate": "Wed, 25 Mar 2026 13:40:47 +0000",
-      "description": "<p>\u201cWe are in agony.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/savannah-guthrie-interview-hoda-kotb/\">Savannah Guthrie sits down for first interview, with colleague Hoda Kotb</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f44efbcb2ed1a21b6bc13dfb86acf26a",
-      "summary": [
-        "Savannah Guthrie discusses personal challenges in her first interview with Hoda Kotb.",
-        "Guthrie expresses deep emotional pain, stating, 'We are in agony.'",
-        "Local viewers may relate to Guthrie's struggles, fostering community support."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Aerin Frankel posts PWHL single-season record sixth shutout as Fleet blank Goldeneyes",
-      "link": "https://www.boston.com/sports/pwhl/2026/03/25/aerin-frankel-posts-pwhl-single-season-record-sixth-shutout-as-fleet-blank-goldeneyes/",
-      "pubDate": "Wed, 25 Mar 2026 13:27:28 +0000",
-      "description": "<p>The \u201cFran-kel, Fran-kel\u201d chants at Tsongas Center eventually gave way to a familiar \u201cM-V-P\u201d refrain by the middle of the third period.</p>\n<p>The post <a href=\"https://www.boston.com/sports/pwhl/2026/03/25/aerin-frankel-posts-pwhl-single-season-record-sixth-shutout-as-fleet-blank-goldeneyes/\">Aerin Frankel posts PWHL single-season record sixth shutout as Fleet blank Goldeneyes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "38e98e1949b057be51f469e2c685649c",
-      "summary": [
-        "Aerin Frankel achieved a PWHL record with her sixth shutout on March 25.",
-        "The Fleet defeated the Goldeneyes, enhancing their playoff positioning.",
-        "Local fans celebrated Frankel's performance, boosting community support for women's hockey."
       ],
       "hookType": "LOCAL_IMPACT"
     }
