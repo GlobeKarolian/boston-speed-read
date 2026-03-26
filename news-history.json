@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-26T17:07:31.914322+00:00",
+  "lastUpdated": "2026-03-26T19:13:30.018815+00:00",
   "articles": [
+    {
+      "title": "With travel concerns rising, are you rethinking flights?",
+      "link": "https://www.boston.com/community/tell-us/2026/03/26/are-you-rethinking-flying/",
+      "pubDate": "Thu, 26 Mar 2026 19:11:14 +0000",
+      "description": "<p>With concerns growing over TSA staffing at Logan Airport and broader air travel safety, tell us if you\u2019re worried about upcoming trips. </p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/03/26/are-you-rethinking-flying/\">With travel concerns rising, are you rethinking flights?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4f140de71051f15e5935012e797effa2",
+      "summary": [
+        "Logan Airport faces TSA staffing concerns affecting travel safety for Boston residents.",
+        "Travel safety worries are rising as more locals reconsider upcoming flights.",
+        "Potential delays and increased wait times may impact Boston travelers this season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "This Boston hotel is giving music lovers a reason to travel",
+      "link": "https://www.boston.com/travel/scenic-six/2026/03/26/this-boston-hotel-is-giving-music-lovers-a-reason-to-travel/",
+      "pubDate": "Thu, 26 Mar 2026 18:41:47 +0000",
+      "description": "<p>A look at Boston\u2019s rising concert travel trend, a new biometric system at Logan, and a standout botanical garden in Maine. </p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/03/26/this-boston-hotel-is-giving-music-lovers-a-reason-to-travel/\">This Boston hotel is giving music lovers a reason to travel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7259f84d8acd14f3e0f9cad0d21ba949",
+      "summary": [
+        "Boston hotel promotes concert travel, attracting music lovers to the city.",
+        "Logan Airport introduces a new biometric system to enhance traveler experience.",
+        "Increased tourism from concert-goers benefits local businesses and the economy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Tom Brady reveals that he has \u2018explored a lot of different things\u2019 about making an NFL comeback",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/26/patriots-tom-brady-comeback-comments-cnbc-interview/",
+      "pubDate": "Thu, 26 Mar 2026 17:40:25 +0000",
+      "description": "<p>The 48-year-old QB says he's happily retired, but admits he couldn't help but look into what the NFL rules say about a possible return. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/26/patriots-tom-brady-comeback-comments-cnbc-interview/\">Tom Brady reveals that he has &#8216;explored a lot of different things&#8217; about making an NFL comeback</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c4ac2577b2c6fe4713e8b79d66172322",
+      "summary": [
+        "Tom Brady, 48, considers NFL comeback despite being happily retired.",
+        "Brady explored NFL rules regarding a potential return to the league.",
+        "Boston fans remain hopeful for Brady's return to the New England Patriots."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Police release bodycam footage of Plymouth butcher knife standoff",
+      "link": "https://www.boston.com/news/local-news/2026/03/26/police-release-bodycam-footage-of-plymouth-butcher-knife-standoff/",
+      "pubDate": "Thu, 26 Mar 2026 17:40:08 +0000",
+      "description": "<p>The video shows an armed man holding a woman at knifepoint as officers negotiate.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/26/police-release-bodycam-footage-of-plymouth-butcher-knife-standoff/\">Police release bodycam footage of Plymouth butcher knife standoff</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "db6715e613bf8961110e37d42f326cb2",
+      "summary": [
+        "Police released bodycam footage of a standoff involving a man with a butcher knife.",
+        "The incident occurred in Plymouth, involving a woman held at knifepoint during negotiations.",
+        "Local residents are concerned about safety following this violent encounter in their community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "MLB debuts automated strike challenge system for 2026 season. Here\u2019s what you need to know.",
+      "link": "https://www.boston.com/sports/mlb/2026/03/26/mlb-debuts-automated-strike-challenge-system-for-2026-season-heres-what-you-need-to-know/",
+      "pubDate": "Thu, 26 Mar 2026 17:16:41 +0000",
+      "description": "<p>The Automated Ball-Strike Challenge System lets players appeal umpire calls, aiming to add accuracy and strategy to the game. </p>\n<p>The post <a href=\"https://www.boston.com/sports/mlb/2026/03/26/mlb-debuts-automated-strike-challenge-system-for-2026-season-heres-what-you-need-to-know/\">MLB debuts automated strike challenge system for 2026 season. Here\u2019s what you need to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0e8500328d4bcabbb4e3fb945c1255db",
+      "summary": [
+        "MLB introduces Automated Ball-Strike Challenge System for 2026 season to enhance game accuracy.",
+        "Players can appeal umpire calls, increasing strategic options during games.",
+        "Boston fans may see more accurate calls, potentially influencing game outcomes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Livestream: Judge to announce verdict in the Kelsey Fitzsimmons trial",
       "link": "https://www.boston.com/news/crime/2026/03/26/kelsey-fitzsimmons-trial-verdict/",
@@ -583,71 +648,6 @@
         "Kenneth Beltrame charged with the murder of his 61-year-old sister, Jennifer Beltrame.",
         "Arraignment scheduled for Wednesday at Barnstable District Court.",
         "This incident raises concerns about domestic violence in Cape Cod communities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "No one can use a gas-powered leaf blower in these 2 Mass. towns, thanks to new laws",
-      "link": "https://www.boston.com/news/local-news/2026/03/25/no-one-can-use-a-gas-powered-leaf-blower-in-these-2-mass-towns-thanks-to-new-laws/",
-      "pubDate": "Wed, 25 Mar 2026 16:42:10 +0000",
-      "description": "<p>Arlington and Lexington restrict use to electric models, citing noise and environmental concerns. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/no-one-can-use-a-gas-powered-leaf-blower-in-these-2-mass-towns-thanks-to-new-laws/\">No one can use a gas-powered leaf blower in these 2 Mass. towns, thanks to new laws</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0be3c75230d035982bcb0c3fb6853e21",
-      "summary": [
-        "Arlington and Lexington ban gas-powered leaf blowers, promoting electric alternatives.",
-        "New laws address noise and environmental concerns effective immediately.",
-        "Residents must transition to electric models, impacting landscaping services and homeowners."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Fenway Park offers 4 new food concessions, including lobster poutine",
-      "link": "https://www.boston.com/food/food-news/2026/03/25/food-concessions-fenway-park-2026/",
-      "pubDate": "Wed, 25 Mar 2026 16:28:17 +0000",
-      "description": "<p>Aramark announced the new concessions ahead of Red Sox Opening Day on Thursday. </p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/25/food-concessions-fenway-park-2026/\">Fenway Park offers 4 new food concessions, including lobster poutine</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ce7a83ad990633d860bcf7fe10c1ba0d",
-      "summary": [
-        "Aramark introduces four new food concessions at Fenway Park for Red Sox Opening Day.",
-        "New offerings include lobster poutine, enhancing dining options for fans.",
-        "Changes aim to improve the game day experience for Boston residents attending games."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "3 arrested in \u2018highly coordinated\u2019 break-in scheme that targeted Indian, East Asian residents",
-      "link": "https://www.boston.com/news/crime/2026/03/25/3-arrested-in-highly-coordinated-break-in-scheme-that-targeted-indian-east-asian-residents/",
-      "pubDate": "Wed, 25 Mar 2026 16:24:12 +0000",
-      "description": "<p>The \u201csophisticated\u201d crime ring allegedly made off with vast amounts of cash, jewelry, and heirlooms, according to Middlesex District Attorney Marian Ryan.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/3-arrested-in-highly-coordinated-break-in-scheme-that-targeted-indian-east-asian-residents/\">3 arrested in \u2018highly coordinated\u2019 break-in scheme that targeted Indian, East Asian residents</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "79396d5a2eecbdc9d887bf7ebb6894c3",
-      "summary": [
-        "Three suspects arrested for a coordinated break-in targeting Indian and East Asian residents.",
-        "The crime ring stole significant amounts of cash, jewelry, and heirlooms, according to DA Marian Ryan.",
-        "Residents are urged to enhance security measures following these targeted home invasions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s where experts rank the Red Sox entering the 2026 season",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/25/heres-where-experts-rank-the-red-sox-entering-the-2026-season/",
-      "pubDate": "Wed, 25 Mar 2026 16:14:09 +0000",
-      "description": "<p>Boston lands in the top 10 across most preseason MLB power rankings. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/25/heres-where-experts-rank-the-red-sox-entering-the-2026-season/\">Here\u2019s where experts rank the Red Sox entering the 2026 season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fa54db0538e87c552f36e2d30c9628b9",
-      "summary": [
-        "Red Sox rank in the top 10 of MLB preseason power rankings for 2026.",
-        "Experts highlight Boston's strong roster and potential for playoff contention.",
-        "Local fans can expect an exciting season with increased ticket demand."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Report: Celtics signing Charles Bassey to another 10-day contract",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/03/25/celtics-charles-bassey-contract-report-comments/",
-      "pubDate": "Wed, 25 Mar 2026 16:06:36 +0000",
-      "description": "<p>Bassey has earned some more time with the Celtics. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/25/celtics-charles-bassey-contract-report-comments/\">Report: Celtics signing Charles Bassey to another 10-day contract</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f349dabd18f23f436e4e43c9a14cd442",
-      "summary": [
-        "Celtics sign Charles Bassey to a 10-day contract effective March 25, 2026.",
-        "Bassey aims to contribute to the team's playoff push this season.",
-        "Local fans anticipate increased bench depth and performance from Bassey."
       ],
       "hookType": "LOCAL_IMPACT"
     }
