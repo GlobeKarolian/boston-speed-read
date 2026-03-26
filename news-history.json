@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-25T22:41:20.672292+00:00",
+  "lastUpdated": "2026-03-26T02:42:30.847761+00:00",
   "articles": [
+    {
+      "title": "2 Boston men accused of assaulting man who hit their car while trying to park",
+      "link": "https://www.boston.com/news/crime/2026/03/25/2-boston-men-accused-of-assaulting-man-who-hit-their-car-while-trying-to-park/",
+      "pubDate": "Thu, 26 Mar 2026 01:58:54 +0000",
+      "description": "<p>The two suspects allegedly followed the man who hit their car, smashed his window, and viciously beat him, according to witnesses.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/2-boston-men-accused-of-assaulting-man-who-hit-their-car-while-trying-to-park/\">2 Boston men accused of assaulting man who hit their car while trying to park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "187d4ce1b4ec966e52207771e5db35cd",
+      "summary": [
+        "Two Boston men allegedly assaulted a man after he hit their car while parking.",
+        "Witnesses reported the suspects smashed the victim's window and beat him on March 25.",
+        "This incident raises concerns about road rage and public safety in Boston neighborhoods."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2026 Red Sox\u00a0preview: 4 questions facing Alex Cora\u2019s club",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/25/boston-red-sox-2026-preview-alex-cora-roman-anthony-mlb-baseball-defense-duran/",
+      "pubDate": "Thu, 26 Mar 2026 01:34:14 +0000",
+      "description": "<p>The Red Sox face questions about their lineup, bullpen, and more entering a promising new season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/25/boston-red-sox-2026-preview-alex-cora-roman-anthony-mlb-baseball-defense-duran/\">2026 Red Sox\u00a0preview: 4 questions facing Alex Cora&#8217;s club</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "328c7e2c6cbf9f4c5eb52a2dd467ab12",
+      "summary": [
+        "Red Sox face lineup and bullpen questions as 2026 season approaches.",
+        "Manager Alex Cora must address team weaknesses before opening day on March 30.",
+        "Local fans hope for improved performance to boost attendance at Fenway Park."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Healey announces kickoff of public safety initiative for 2026 World Cup",
+      "link": "https://www.boston.com/sports/world-cup/2026/03/25/healey-announces-kickoff-of-public-safety-initiative-for-2026-world-cup/",
+      "pubDate": "Thu, 26 Mar 2026 01:20:12 +0000",
+      "description": "<p>Thursday\u2019s friendly match in Foxborough will act as a trial run for the state\u2019s safety plan during the seven scheduled summer matches.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/03/25/healey-announces-kickoff-of-public-safety-initiative-for-2026-world-cup/\">Healey announces kickoff of public safety initiative for 2026 World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c7a7160c163ebcc76f46ac784cb68d5d",
+      "summary": [
+        "Healey launches public safety initiative for 2026 World Cup in Boston.",
+        "Thursday's match in Foxborough will test safety measures for seven summer matches.",
+        "Residents can expect enhanced security protocols during the World Cup events."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Kraft-owned New England Revolution backing White Stadium renovation",
+      "link": "https://www.boston.com/news/sports-news/2026/03/25/kraft-owned-new-england-revolution-backing-white-stadium-renovation/",
+      "pubDate": "Thu, 26 Mar 2026 01:03:57 +0000",
+      "description": "<p>\u201cThe New England Revolution knows well the benefits that public-private stadium projects deliver to local communities.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/sports-news/2026/03/25/kraft-owned-new-england-revolution-backing-white-stadium-renovation/\">Kraft-owned New England Revolution backing White Stadium renovation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56e9a28797aa8dacef8e33506532cd02",
+      "summary": [
+        "New England Revolution supports renovation of White Stadium to enhance community facilities.",
+        "Kraft Group emphasizes public-private partnerships for local development and economic growth.",
+        "Renovation aims to improve sports access for Boston residents and boost local engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Maine man in critical condition after stopping to help stranded driver",
+      "link": "https://www.boston.com/news/local-news/2026/03/25/maine-man-in-critical-condition-after-stopping-to-help-stranded-driver/",
+      "pubDate": "Thu, 26 Mar 2026 00:29:56 +0000",
+      "description": "<p>The man may have attempted to shield the driver from an oncoming car, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/maine-man-in-critical-condition-after-stopping-to-help-stranded-driver/\">Maine man in critical condition after stopping to help stranded driver</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0521baf8459e4708814e4a829ba1975",
+      "summary": [
+        "Maine man critically injured while assisting a stranded driver on the highway.",
+        "Police report the man attempted to shield the driver from an oncoming vehicle.",
+        "Incident raises awareness about roadside safety for Boston area drivers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "State Police searching for Berkshire County man after suspicious early-morning fire",
       "link": "https://www.boston.com/news/local-news/2026/03/25/state-police-searching-for-berkshire-county-man-after-suspicious-early-morning-fire/",
@@ -583,71 +648,6 @@
         "Alex Castrichini will run the 2026 Boston Marathon to support children in foster care.",
         "He emphasizes the importance of chosen family for kids in need of support.",
         "Funds raised will directly benefit local foster care programs in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018Children\u2019s lives are at stake\u2019: Boston teachers protest staffing cuts",
-      "link": "https://www.boston.com/news/local-news/2026/03/24/childrens-lives-are-at-stake-boston-teachers-protest-staffing-cuts/",
-      "pubDate": "Wed, 25 Mar 2026 03:01:47 +0000",
-      "description": "<p>\u201cWe're losing support staff,\" a South End educator said. \"If anything, you should be putting more supports in these classes, not taking away.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/24/childrens-lives-are-at-stake-boston-teachers-protest-staffing-cuts/\">&#8216;Children&#8217;s lives are at stake&#8217;: Boston teachers protest staffing cuts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2fc0ce634b23c86cebc3dad97efdab4d",
-      "summary": [
-        "Boston teachers protested staffing cuts affecting student support services on March 24.",
-        "South End educator emphasized the need for more support staff in classrooms.",
-        "Reduced staffing may negatively impact children's education and well-being in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bruins fall to Maple Leafs 4-2 at TD Garden",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/03/24/bruins-fall-to-maple-leafs-4-2-at-td-garden/",
-      "pubDate": "Wed, 25 Mar 2026 02:44:04 +0000",
-      "description": "<p>Jeremy Swayman had 31 saves for the Bruins, who lost at home for just the second time in their last 16 games.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/24/bruins-fall-to-maple-leafs-4-2-at-td-garden/\">Bruins fall to Maple Leafs 4-2 at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3f2ac9189ce919b0be8591380fcb95b6",
-      "summary": [
-        "Bruins lost 4-2 to Maple Leafs at TD Garden on March 24.",
-        "Jeremy Swayman recorded 31 saves during the game.",
-        "This marks the Bruins' second home loss in 16 games."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Where \u2018No Kings\u2019 protests are happening around Massachusetts this Saturday",
-      "link": "https://www.boston.com/news/local-news/2026/03/24/no-kings-protests-massachusetts-march-2026/",
-      "pubDate": "Wed, 25 Mar 2026 02:36:41 +0000",
-      "description": "<p>From Boston Common to nearby suburbs, here\u2019s where and when rallies are scheduled for March 28\u2019s \u201cNo Kings\u201d protests.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/24/no-kings-protests-massachusetts-march-2026/\">Where \u2018No Kings\u2019 protests are happening around Massachusetts this Saturday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c364e5e56cf3ecb73056515b191f1863",
-      "summary": [
-        "Protests against monarchy scheduled in Boston Common and suburbs on March 28.",
-        "Rallies will occur at multiple locations across Massachusetts, mobilizing local residents.",
-        "Participants aim to raise awareness about democratic values and local governance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "ESPN\u2019s \u2018Pardon The Interruption\u2019 hosts believe Jaylen Brown should win NBA MVP",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/03/24/jaylen-brown-nba-basketball-mvp-vote-boston-celtics-espn-pardon-the-interruption/",
-      "pubDate": "Wed, 25 Mar 2026 02:19:04 +0000",
-      "description": "<p>\"Jaylen Brown has been so resolute and dependable in the absence of Jayson Tatum and Boston is in second place in the East.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/24/jaylen-brown-nba-basketball-mvp-vote-boston-celtics-espn-pardon-the-interruption/\">ESPN&#8217;s &#8216;Pardon The Interruption&#8217; hosts believe Jaylen Brown should win NBA MVP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b7a534707b810894c609ff8aabeb27f5",
-      "summary": [
-        "ESPN hosts argue Jaylen Brown deserves NBA MVP for his performance.",
-        "Brown's contributions have kept the Celtics in second place in the East.",
-        "His potential MVP win could boost Boston's sports morale and fan engagement."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Marshfield police searching for missing 8-year-old boy",
-      "link": "https://www.boston.com/news/local-news/2026/03/24/marshfield-police-searching-for-missing-8-year-old-boy/",
-      "pubDate": "Wed, 25 Mar 2026 02:03:18 +0000",
-      "description": "<p>The boy was last seen Tuesday evening near Moraine Street wearing a black sweatshirt and black sweatpants, according to police.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/24/marshfield-police-searching-for-missing-8-year-old-boy/\">Marshfield police searching for missing 8-year-old boy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c8469134ef3437de0e8291c900bb9474",
-      "summary": [
-        "Marshfield police are searching for an 8-year-old boy missing since Tuesday evening.",
-        "The boy was last seen near Moraine Street wearing a black sweatshirt and sweatpants.",
-        "Residents are urged to report any sightings to assist in the search efforts."
       ],
       "hookType": "LOCAL_IMPACT"
     }
