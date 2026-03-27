@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-27T20:43:17.987207+00:00",
+  "lastUpdated": "2026-03-27T22:37:41.291639+00:00",
   "articles": [
+    {
+      "title": "Wall Street drops again to close its 5th straight losing week",
+      "link": "https://www.boston.com/news/business/2026/03/27/wall-street-drops-again-to-close-its-5th-straight-losing-week/",
+      "pubDate": "Fri, 27 Mar 2026 22:25:54 +0000",
+      "description": "<p>Most stocks fell, including three out of every four in the S&amp;P 500. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/27/wall-street-drops-again-to-close-its-5th-straight-losing-week/\">Wall Street drops again to close its 5th straight losing week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "343fdf081b9f24dcbd4bbe632fd0d20d",
+      "summary": [
+        "Wall Street experienced its fifth consecutive week of losses, affecting local investors.",
+        "Three out of four S&P 500 stocks declined, indicating broad market weakness.",
+        "Boston residents may face economic uncertainty as market downturn impacts local businesses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Tiger Woods arrested at crash scene on suspicion of DUI, sheriff says",
+      "link": "https://www.boston.com/news/cars/2026/03/27/tiger-woods-arrested-at-crash-scene-on-suspicion-of-dui-sheriff-says/",
+      "pubDate": "Fri, 27 Mar 2026 22:14:44 +0000",
+      "description": "<p>Tiger Woods showed signs of impairment and was arrested Friday at the scene of a car crash.</p>\n<p>The post <a href=\"https://www.boston.com/news/cars/2026/03/27/tiger-woods-arrested-at-crash-scene-on-suspicion-of-dui-sheriff-says/\">Tiger Woods arrested at crash scene on suspicion of DUI, sheriff says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0e43e3e4b7dddbdd71c54e4d02406eb",
+      "summary": [
+        "Tiger Woods was arrested for DUI at a crash scene on March 27.",
+        "Woods showed signs of impairment, raising concerns about public safety.",
+        "Local authorities may increase DUI checkpoints following this incident."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "NBA shares some anti-tanking concepts with owners, AP sources say",
+      "link": "https://www.boston.com/sports/nba/2026/03/27/nba-shares-some-anti-tanking-concepts-with-owners/",
+      "pubDate": "Fri, 27 Mar 2026 21:34:25 +0000",
+      "description": "<p>The 10 teams that don't make the playoffs and the eight teams that reach the play-in tournament all would be headed to the lottery.</p>\n<p>The post <a href=\"https://www.boston.com/sports/nba/2026/03/27/nba-shares-some-anti-tanking-concepts-with-owners/\">NBA shares some anti-tanking concepts with owners, AP sources say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "29ffbdc05dccf6f1b3effbcfcd1e6cf0",
+      "summary": [
+        "NBA proposes changes to lottery system affecting 18 teams, including Celtics.",
+        "Ten non-playoff teams and eight play-in teams would enter the lottery.",
+        "Potential impact on Celtics' future draft strategies and roster development."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Celtics\u2019 Jaylen Brown (left Achilles tendinitis) out vs. Hawks",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/03/27/jaylen-brown-achilles-injury-celtics-hawks/",
+      "pubDate": "Fri, 27 Mar 2026 21:23:16 +0000",
+      "description": "<p>Joe Mazzulla said Brown is \"day-to-day\".</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/27/jaylen-brown-achilles-injury-celtics-hawks/\">Celtics&#8217; Jaylen Brown (left Achilles tendinitis) out vs. Hawks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "477498c36242f0c6b272bac886cea9df",
+      "summary": [
+        "Celtics' Jaylen Brown will miss the game against the Hawks due to left Achilles tendinitis.",
+        "Coach Joe Mazzulla stated Brown is currently considered 'day-to-day' for recovery.",
+        "Brown's absence may affect the Celtics' performance in the playoff race."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018Where does it end?\u2019: Readers react to gas-powered leaf blower bans",
+      "link": "https://www.boston.com/community/readers-say/2026/03/27/readers-react-to-gas-powered-leaf-blower-bans/",
+      "pubDate": "Fri, 27 Mar 2026 20:58:28 +0000",
+      "description": "<p>After Arlington and Lexington moved to phase out gas-powered leaf blowers, we asked readers where they stand on the bans.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2026/03/27/readers-react-to-gas-powered-leaf-blower-bans/\">&#8216;Where does it end?&#8217;: Readers react to gas-powered leaf blower bans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fede26c2ffdae9a4eb11d7e638af2eec",
+      "summary": [
+        "Arlington and Lexington are phasing out gas-powered leaf blowers to reduce emissions.",
+        "Residents express mixed feelings about the bans in a recent Boston.com survey.",
+        "Local landscapers may face challenges adapting to electric alternatives amid the bans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "What to know about the highly mutated new COVID strain found in Mass. wastewater",
       "link": "https://www.boston.com/news/health/2026/03/27/highly-mutated-covid-strain-massachusetts-wastewater/",
@@ -583,71 +648,6 @@
         "Massachusetts' minor league ballpark ranked among the best in America by USA Today readers.",
         "Opening day is set for March 27, attracting local fans and families.",
         "Recognition boosts local tourism and community pride in Boston's sports culture."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "5 best new restaurant openings and dining updates in Boston (March 26, 2026)",
-      "link": "https://www.boston.com/food/restaurants/2026/03/26/restaurant-openings-march-26-2026/",
-      "pubDate": "Thu, 26 Mar 2026 19:51:29 +0000",
-      "description": "<p>Stay up-to-date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/03/26/restaurant-openings-march-26-2026/\">5 best new restaurant openings and dining updates in Boston (March 26, 2026)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3aa3711474ae21bfea942a9e9c15a158",
-      "summary": [
-        "Five new restaurants opened in Greater Boston as of March 26, 2026.",
-        "Notable openings include 'The Green Fork' and 'Sea Breeze Grill'.",
-        "These additions enhance dining options for Boston residents and boost local economy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "State Police Sgt. Scott Quigley indicted in deadly Woburn crash",
-      "link": "https://www.boston.com/news/crime/2026/03/26/state-police-sgt-scott-quigley-indicted-in-deadly-woburn-crash/",
-      "pubDate": "Thu, 26 Mar 2026 19:31:40 +0000",
-      "description": "<p>The deadly collision saw renewed attention earlier this year after concerns about Quigley\u2019s past delayed the retrial of an unrelated murder case he investigated.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/26/state-police-sgt-scott-quigley-indicted-in-deadly-woburn-crash/\">State Police Sgt. Scott Quigley indicted in deadly Woburn crash</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "358b2b4456d80a55cc649c15475a802d",
-      "summary": [
-        "State Police Sgt. Scott Quigley indicted for a deadly crash in Woburn.",
-        "The incident has raised concerns about Quigley's past investigations.",
-        "This case may affect public trust in local law enforcement."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Framingham\u2019s iconic \u2018castle\u2019 hotel has entered a new era. Take a look inside.",
-      "link": "https://www.boston.com/travel/new-england-travel/2026/03/26/framingham-castle-hotel-entered-new-era/",
-      "pubDate": "Thu, 26 Mar 2026 19:16:43 +0000",
-      "description": "<p>The building originally opened in the 1970s as the Sheraton Tara Hotel. </p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/03/26/framingham-castle-hotel-entered-new-era/\">Framingham&#8217;s iconic &#8216;castle&#8217; hotel has entered a new era. Take a look inside.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3f253a01b32c1e44c187a03d643980e5",
-      "summary": [
-        "Framingham's Sheraton Tara Hotel, opened in the 1970s, has undergone significant renovations.",
-        "The hotel is now rebranded and aims to attract more local visitors and events.",
-        "New amenities and services are expected to boost local tourism and economy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "With travel concerns rising, are you rethinking flights?",
-      "link": "https://www.boston.com/community/tell-us/2026/03/26/are-you-rethinking-flying/",
-      "pubDate": "Thu, 26 Mar 2026 19:11:14 +0000",
-      "description": "<p>With concerns growing over TSA staffing at Logan Airport and broader air travel safety, tell us if you\u2019re worried about upcoming trips. </p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/03/26/are-you-rethinking-flying/\">With travel concerns rising, are you rethinking flights?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4f140de71051f15e5935012e797effa2",
-      "summary": [
-        "Logan Airport faces TSA staffing concerns affecting travel safety for Boston residents.",
-        "Travel safety worries are rising as more locals reconsider upcoming flights.",
-        "Potential delays and increased wait times may impact Boston travelers this season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "This Boston hotel is giving music lovers a reason to travel",
-      "link": "https://www.boston.com/travel/scenic-six/2026/03/26/this-boston-hotel-is-giving-music-lovers-a-reason-to-travel/",
-      "pubDate": "Thu, 26 Mar 2026 18:41:47 +0000",
-      "description": "<p>A look at Boston\u2019s rising concert travel trend, a new biometric system at Logan, and a standout botanical garden in Maine. </p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/03/26/this-boston-hotel-is-giving-music-lovers-a-reason-to-travel/\">This Boston hotel is giving music lovers a reason to travel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7259f84d8acd14f3e0f9cad0d21ba949",
-      "summary": [
-        "Boston hotel promotes concert travel, attracting music lovers to the city.",
-        "Logan Airport introduces a new biometric system to enhance traveler experience.",
-        "Increased tourism from concert-goers benefits local businesses and the economy."
       ],
       "hookType": "LOCAL_IMPACT"
     }
