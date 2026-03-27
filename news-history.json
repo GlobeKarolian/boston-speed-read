@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-27T02:45:03.432144+00:00",
+  "lastUpdated": "2026-03-27T05:43:38.339350+00:00",
   "articles": [
+    {
+      "title": "Red Sox took advantage of MLB\u2019s new automated strike challenge rules on Opening Day",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/26/boston-red-sox-abs-strike-ball-challenge-robot-umps-umpire-strikeout-roman-anthony/",
+      "pubDate": "Fri, 27 Mar 2026 03:21:05 +0000",
+      "description": "<p>\u201cIt can turn the game around, or has the ability to.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/26/boston-red-sox-abs-strike-ball-challenge-robot-umps-umpire-strikeout-roman-anthony/\">Red Sox took advantage of MLB\u2019s new automated strike challenge rules on Opening Day\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ddd8698d2636ab893777f0de0541b325",
+      "summary": [
+        "Red Sox utilized new automated strike challenge rules on Opening Day, March 30, 2026.",
+        "The new rules allow players to challenge up to three calls per game.",
+        "Local fans may see more accurate calls, potentially changing game outcomes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston College hires UConn assistant Luke Murray, son of actor Bill Murray, as basketball coach",
+      "link": "https://www.boston.com/sports/college-sports/2026/03/26/boston-college-hires-uconn-assistant-luke-murray-son-of-actor-bill-murray-as-basketball-coach/",
+      "pubDate": "Fri, 27 Mar 2026 03:10:08 +0000",
+      "description": "<p>Murray, the son of actor Bill Murray, replaces Earl Grant, who was fired earlier this month after the Eagles had a losing record in four of his five seasons.</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/03/26/boston-college-hires-uconn-assistant-luke-murray-son-of-actor-bill-murray-as-basketball-coach/\">Boston College hires UConn assistant Luke Murray, son of actor Bill Murray, as basketball coach</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e3b8119035266d2c7de5be60d0f56954",
+      "summary": [
+        "Boston College hires Luke Murray as new basketball coach effective immediately.",
+        "Murray replaces Earl Grant, who had a losing record in four of five seasons.",
+        "Local fans hope Murray's leadership will improve team performance and community engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "In first Opening Day with Red Sox, Marcelo Mayer made quite the impression off the bench",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/03/26/red-sox-marcelo-mayer-bench-pinch-hit-mlb-baseball-boston-alex-cora/",
@@ -622,32 +648,6 @@
         "State Police investigate a suspicious fire in Monterey, Berkshire County, with no reported injuries.",
         "Authorities suspect the fire, occurring early morning, may have been intentionally set.",
         "Local residents urged to remain vigilant as search for the suspect continues."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Lured by pepperoni, dog rescued from 12-foot backyard sinkhole on Cape Cod",
-      "link": "https://www.boston.com/news/local-news/2026/03/25/lured-by-pepperoni-dog-rescued-from-12-foot-backyard-sinkhole-on-cape-cod/",
-      "pubDate": "Wed, 25 Mar 2026 22:05:31 +0000",
-      "description": "<p>Tessa, the 11-year-old yellow Labrador was pulled back above ground with the assist of pepperoni, fire officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/lured-by-pepperoni-dog-rescued-from-12-foot-backyard-sinkhole-on-cape-cod/\">Lured by pepperoni, dog rescued from 12-foot backyard sinkhole on Cape Cod</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a460e9dc0e81f8a2d02608e674b4095d",
-      "summary": [
-        "Fire officials rescued Tessa, an 11-year-old Labrador, from a 12-foot sinkhole.",
-        "Rescue involved using pepperoni to lure Tessa back to safety.",
-        "Incident highlights potential hazards of backyard sinkholes for Cape Cod residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New England-based rescue takes in batch of neglected axolotls",
-      "link": "https://www.boston.com/news/local-news/2026/03/25/new-england-based-rescue-takes-in-batch-of-neglected-axolotls/",
-      "pubDate": "Wed, 25 Mar 2026 21:29:01 +0000",
-      "description": "<p>Libertyland Axolotl Rescue, a nonprofit network of foster parents around New England, is looking for donations to support the rehabilitation of the \"cheese babes.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/new-england-based-rescue-takes-in-batch-of-neglected-axolotls/\">New England-based rescue takes in batch of neglected axolotls</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "475837df21458b90c8defcf972cd45e0",
-      "summary": [
-        "Libertyland Axolotl Rescue takes in neglected axolotls for rehabilitation.",
-        "The nonprofit seeks donations to support care for these animals.",
-        "Local residents can contribute to the welfare of these unique pets."
       ],
       "hookType": "LOCAL_IMPACT"
     }
