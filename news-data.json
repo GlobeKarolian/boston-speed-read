@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-03-27T10:53:09.545820+00:00",
+  "lastUpdated": "2026-03-27T13:15:39.917109+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2026/03/27/greater-boston-news-quiz-march-27-2026-no-kings-axolotl-pizza/",
-      "pubDate": "Fri, 27 Mar 2026 10:35:03 +0000",
-      "description": "<p>The next coming of \u201cNo Kings,\u201d some amazing axolotls, and a pricey pizza are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/03/27/greater-boston-news-quiz-march-27-2026-no-kings-axolotl-pizza/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "769c84b81fd537541983c881d87f71cd",
+      "title": "Kylian Mbappe, France put on a show at Gillette Stadium World Cup preview, beating Brazil in star-studded friendly",
+      "link": "https://www.boston.com/sports/world-cup/2026/03/27/kylian-mbappe-france-gillette-stadium/",
+      "pubDate": "Fri, 27 Mar 2026 12:25:32 +0000",
+      "description": "<p>The victory extended France\u2019s unbeaten streak to eight matches, dating to a June loss to world No. 1 Spain in the Nations League.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/03/27/kylian-mbappe-france-gillette-stadium/\">Kylian Mbappe, France put on a show at Gillette Stadium World Cup preview, beating Brazil in star-studded friendly</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a4c5ccf7a405cdc35368c3e691878a94",
       "summary": [
-        "Participate in the Greater Boston news quiz to test your local knowledge.",
-        "Learn about the upcoming performance of 'No Kings' in Boston.",
-        "Discover the unique axolotls showcased at local events this week."
+        "France defeated Brazil 2-0 in a friendly match at Gillette Stadium.",
+        "Kylian Mbappe showcased his skills, contributing to France's eight-match unbeaten streak.",
+        "The event attracted local fans, boosting community engagement and interest in the upcoming World Cup."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "French squad gets introduced to Foxborough game-day traffic jams, and setting for this summer\u2019s World Cup",
+      "link": "https://www.boston.com/sports/world-cup/2026/03/27/france-brazil-friendly-gillette-stadium/",
+      "pubDate": "Fri, 27 Mar 2026 12:22:48 +0000",
+      "description": "<p>France defeated Brazil, 2-1, in a friendly match before a crowd of 66,215 Thursday, less than three months before the World Cup kickoff.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/03/27/france-brazil-friendly-gillette-stadium/\">French squad gets introduced to Foxborough game-day traffic jams, and setting for this summer\u2019s World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5022b8f17cb29c0ae9a597372466fe33",
+      "summary": [
+        "France defeated Brazil 2-1 in a friendly match at Gillette Stadium.",
+        "66,215 fans attended the match, highlighting local interest in soccer.",
+        "World Cup preparations may increase traffic congestion for Boston residents this summer."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "He\u2019s running his 11th Boston Marathon for Boston Children\u2019s Hospital",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/27/steven-iannacone-boston-childrens-hospital/",
+      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000",
+      "description": "<p>The 2026 Boston Marathon marks a decade of running for Jace Perkins, once a 1.6-pound NICU baby, now healthy and thriving.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/27/steven-iannacone-boston-childrens-hospital/\">He\u2019s running his 11th Boston Marathon for Boston Children\u2019s Hospital</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "deeae682a71f71be8afd9e1f61c8b95e",
+      "summary": [
+        "Jace Perkins will run his 11th Boston Marathon on April 20, 2026.",
+        "Perkins, once a 1.6-pound NICU baby, supports Boston Children's Hospital.",
+        "His story highlights the hospital's impact on local families and infant care."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Today\u2019s solo home buyers have something in common: They\u2019re mostly women",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/03/27/women-solo-home-buyers-boston-area/",
+      "pubDate": "Fri, 27 Mar 2026 11:00:00 +0000",
+      "description": "<p>Where three solo female buyers landed in the Boston area. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/03/27/women-solo-home-buyers-boston-area/\">Today\u2019s solo home buyers have something in common: They\u2019re mostly women</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e5e1a4fa0b1430e507f80fb6c247b9ec",
+      "summary": [
+        "Solo female buyers dominate the Boston housing market, reflecting changing demographics.",
+        "Three women recently purchased homes in Boston, highlighting a trend in solo home ownership.",
+        "This shift may influence future housing policies and market dynamics in the Boston area."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-03-27T10:53:09.545843+00:00"
+    "timestamp": "2026-03-27T13:15:39.917132+00:00"
   }
 }
