@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-03-27T05:43:38.339350+00:00",
+  "lastUpdated": "2026-03-27T10:53:09.546832+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/03/27/greater-boston-news-quiz-march-27-2026-no-kings-axolotl-pizza/",
+      "pubDate": "Fri, 27 Mar 2026 10:35:03 +0000",
+      "description": "<p>The next coming of \u201cNo Kings,\u201d some amazing axolotls, and a pricey pizza are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/03/27/greater-boston-news-quiz-march-27-2026-no-kings-axolotl-pizza/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "769c84b81fd537541983c881d87f71cd",
+      "summary": [
+        "Participate in the Greater Boston news quiz to test your local knowledge.",
+        "Learn about the upcoming performance of 'No Kings' in Boston.",
+        "Discover the unique axolotls showcased at local events this week."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Red Sox took advantage of MLB\u2019s new automated strike challenge rules on Opening Day",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/03/26/boston-red-sox-abs-strike-ball-challenge-robot-umps-umpire-strikeout-roman-anthony/",
@@ -635,19 +648,6 @@
         "Maine man critically injured while assisting a stranded driver on the highway.",
         "Police report the man attempted to shield the driver from an oncoming vehicle.",
         "Incident raises awareness about roadside safety for Boston area drivers."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "State Police searching for Berkshire County man after suspicious early-morning fire",
-      "link": "https://www.boston.com/news/local-news/2026/03/25/state-police-searching-for-berkshire-county-man-after-suspicious-early-morning-fire/",
-      "pubDate": "Wed, 25 Mar 2026 22:21:13 +0000",
-      "description": "<p>No injuries were reported in the Monterey house fire, but officials say it may have been intentionally set.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/state-police-searching-for-berkshire-county-man-after-suspicious-early-morning-fire/\">State Police searching for Berkshire County man after suspicious early-morning fire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "63184fca8941dcdf474ca1fe01eca784",
-      "summary": [
-        "State Police investigate a suspicious fire in Monterey, Berkshire County, with no reported injuries.",
-        "Authorities suspect the fire, occurring early morning, may have been intentionally set.",
-        "Local residents urged to remain vigilant as search for the suspect continues."
       ],
       "hookType": "LOCAL_IMPACT"
     }

@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-27T08:58:32.272403+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-27T10:53:09.545820+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/03/27/greater-boston-news-quiz-march-27-2026-no-kings-axolotl-pizza/",
+      "pubDate": "Fri, 27 Mar 2026 10:35:03 +0000",
+      "description": "<p>The next coming of \u201cNo Kings,\u201d some amazing axolotls, and a pricey pizza are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/03/27/greater-boston-news-quiz-march-27-2026-no-kings-axolotl-pizza/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "769c84b81fd537541983c881d87f71cd",
+      "summary": [
+        "Participate in the Greater Boston news quiz to test your local knowledge.",
+        "Learn about the upcoming performance of 'No Kings' in Boston.",
+        "Discover the unique axolotls showcased at local events this week."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-27T08:58:32.272413+00:00"
+    "timestamp": "2026-03-27T10:53:09.545843+00:00"
   }
 }
