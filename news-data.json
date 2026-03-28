@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-03-28T18:48:07.505195+00:00",
+  "lastUpdated": "2026-03-28T20:36:00.115542+00:00",
   "articles": [
     {
-      "title": "Photo scroll: Scenes from Boston\u2019s \u2018No Kings\u2019 protest on March 28",
-      "link": "https://www.boston.com/news/local-news/2026/03/28/no-kings-photos-boston-march-28/",
-      "pubDate": "Sat, 28 Mar 2026 18:03:42 +0000",
-      "description": "<p>Thousands are expected to rally on Boston Common in nationwide \u201cNo Kings\u201d protests, with 160+ events across Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/28/no-kings-photos-boston-march-28/\">Photo scroll: Scenes from Boston\u2019s &#8216;No Kings&#8217; protest on March 28</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "388dcf16dc70f25568dc06ad2588acdb",
+      "title": "Tiger Woods is facing an uncertain future off the golf course after his DUI arrest in Florida",
+      "link": "https://www.boston.com/news/crime/2026/03/28/tiger-woods-dui-arrest/",
+      "pubDate": "Sat, 28 Mar 2026 20:31:49 +0000",
+      "description": "<p>Woods had said earlier in the week he was trying to get in shape for the Masters on April 9-12.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/28/tiger-woods-dui-arrest/\">Tiger Woods is facing an uncertain future off the golf course after his DUI arrest in Florida</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4ccd8293f493cb7fc170a2de613da1bc",
       "summary": [
-        "Thousands rallied on Boston Common for the 'No Kings' protest on March 28.",
-        "Over 160 events occurred across Massachusetts as part of the nationwide movement.",
-        "The protest highlights growing local dissatisfaction with political leadership and governance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Photos: \u2018No Kings\u2019 sparks protests in Europe",
-      "link": "https://www.boston.com/news/politics/2026/03/28/photos-no-kings-sparks-protests-in-europe/",
-      "pubDate": "Sat, 28 Mar 2026 14:20:19 +0000",
-      "description": "<p>Rallies take place in solidarity with \"No Kings\" movement.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/28/photos-no-kings-sparks-protests-in-europe/\">Photos: &#8216;No Kings&#8217; sparks protests in Europe</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8b4d3386f428198691d7f2087442a373",
-      "summary": [
-        "Boston residents join global protests supporting the 'No Kings' movement.",
-        "Protests occurred in multiple European cities, highlighting anti-monarchy sentiments.",
-        "Local activists plan future events to raise awareness about monarchy issues."
+        "Tiger Woods was arrested for DUI in Florida, raising concerns about his golf career.",
+        "Woods aimed to prepare for the Masters tournament scheduled for April 9-12.",
+        "Boston residents may see increased media attention and discussions around DUI laws."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-28T18:48:07.505207+00:00"
+    "timestamp": "2026-03-28T20:36:00.115564+00:00"
   }
 }
