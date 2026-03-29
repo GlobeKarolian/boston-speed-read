@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-03-29T02:48:32.369705+00:00",
+  "lastUpdated": "2026-03-29T05:44:33.349876+00:00",
   "articles": [
     {
-      "title": "Trevor Story reacts to strike three call that got Alex Cora ejected in Red Sox\u2019 loss",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/28/red-sox-trevor-story-umpire-call-reaction-alex-cora-ejection/",
-      "pubDate": "Sun, 29 Mar 2026 02:09:00 +0000",
-      "description": "<p>\"Just obviously disagreed with the call real strongly. I think a lot of people did.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/28/red-sox-trevor-story-umpire-call-reaction-alex-cora-ejection/\">Trevor Story reacts to strike three call that got Alex Cora ejected in Red Sox&#8217; loss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "79bf53ed7728e21fe2dc2b03e0fed3c7",
+      "title": "5 times the Patriots traded for wide receivers in recent history, and how each acquisition panned out",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/29/nfl-patriots-wide-receiver-trades-randy-moss-wes-welker-josh-gordon/",
+      "pubDate": "Sun, 29 Mar 2026 04:17:02 +0000",
+      "description": "<p>Rumors of a trade for A.J. Brown continue to swirl. Here's a look back at some of New England's impactful wide receiver trades over the years.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/29/nfl-patriots-wide-receiver-trades-randy-moss-wes-welker-josh-gordon/\">5 times the Patriots traded for wide receivers in recent history, and how each acquisition panned out</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "75cd10a87444cb9fb603fd9bf3561bd7",
       "summary": [
-        "Trevor Story expressed strong disagreement with a controversial strike three call.",
-        "Manager Alex Cora was ejected from the game due to the call.",
-        "The loss impacts the Red Sox's standings as they compete for playoff positioning."
+        "Patriots traded for five notable wide receivers in recent history, shaping team dynamics.",
+        "Acquisitions included Randy Moss and Wes Welker, significantly boosting offensive performance.",
+        "Current trade rumors for A.J. Brown could impact fan engagement and team strategy."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Brimming with motivation after missing Olympics, Pavel Zacha is playing his best hockey for Bruins",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/03/28/boston-bruins-pavel-zacha-nhl-hockey-scoring-goals-minnesota-wild/",
-      "pubDate": "Sun, 29 Mar 2026 01:58:40 +0000",
-      "description": "<p>\"Last year wasn't as good as I wanted, too, and it kind of was motivation for all of us to get better.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/28/boston-bruins-pavel-zacha-nhl-hockey-scoring-goals-minnesota-wild/\">Brimming with motivation after missing Olympics, Pavel Zacha is playing his best hockey for Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "21f73ecaace96c52cf0b19362d23f3ed",
+      "title": "Alex Cora not harping on late-game ejection by C.B. Bucknor: \u2018We\u2019re all human\u2019",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/28/alex-cora-cb-bucknor-ejection-red-sox-reds/",
+      "pubDate": "Sun, 29 Mar 2026 03:35:25 +0000",
+      "description": "<p>Cora was ejected in the eighth for arguing an inning-ending Trevor Story check swing strike three call.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/28/alex-cora-cb-bucknor-ejection-red-sox-reds/\">Alex Cora not harping on late-game ejection by C.B. Bucknor: \u2018We\u2019re all human\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1fca16eee71a4672f893ff0c1a79ced5",
       "summary": [
-        "Pavel Zacha is experiencing a career resurgence with the Bruins after missing the Olympics.",
-        "Zacha credits last year's performance as motivation to improve his game this season.",
-        "His improved play is contributing to the Bruins' success in the NHL this year."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s what Red Sox SP Sonny Gray said about his rough debut",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/03/28/sonny-gray-red-sox-debut-reds/",
-      "pubDate": "Sun, 29 Mar 2026 01:43:40 +0000",
-      "description": "<p>\u201cI just don\u2019t feel like I put us in a good position to win the game, if I\u2019m being honest.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/28/sonny-gray-red-sox-debut-reds/\">Here\u2019s what Red Sox SP Sonny Gray said about his rough debut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "86ed47104a9944f88667eca98d3c6141",
-      "summary": [
-        "Sonny Gray struggled in his Red Sox debut, expressing disappointment in his performance.",
-        "Gray allowed multiple runs, stating he didn't help the team win on March 28.",
-        "Fans are concerned about the team's pitching depth following Gray's rough start."
+        "Alex Cora was ejected in the eighth inning for arguing a call.",
+        "Cora disputed a check swing strike three on Trevor Story during the game.",
+        "The ejection could affect team morale and performance in upcoming games."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-29T02:48:32.369725+00:00"
+    "timestamp": "2026-03-29T05:44:33.349896+00:00"
   }
 }
