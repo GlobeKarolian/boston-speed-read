@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-03-29T18:50:26.563411+00:00",
+  "lastUpdated": "2026-03-29T20:38:27.721993+00:00",
   "articles": [
     {
-      "title": "Review & setlist: Diana Krall brought a special kind of magic to The Cabot",
-      "link": "https://www.boston.com/uncategorized/untagged/2026/03/29/review-and-setlist-diana-krall-cabot-beverly-march-28-2026/",
-      "pubDate": "Sun, 29 Mar 2026 17:29:36 +0000",
-      "description": "<p>Krall, with bassist John Clayton, brought all of her prodigious piano and vocal talents to bear in Beverly. </p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/untagged/2026/03/29/review-and-setlist-diana-krall-cabot-beverly-march-28-2026/\">Review &amp; setlist: Diana Krall brought a special kind of magic to The Cabot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c48e531d28ca35d17d12b39204dc0f68",
+      "title": "Invoking faith in wartime, Pete Hegseth breaks norms and worries critics",
+      "link": "https://www.boston.com/news/politics/2026/03/29/invoking-faith-in-wartime-pete-hegseth-breaks-norms-and-worries-critics/",
+      "pubDate": "Sun, 29 Mar 2026 20:19:13 +0000",
+      "description": "<p>On Wednesday at the Pentagon, Hegseth prayed for US troops to inflict \u201coverwhelming violence of action against those who deserve no mercy \u2026 We ask these things with bold confidence in the mighty and powerful name of Jesus Christ.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/03/29/invoking-faith-in-wartime-pete-hegseth-breaks-norms-and-worries-critics/\">Invoking faith in wartime, Pete Hegseth breaks norms and worries critics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "31f4bdc089af7e88542c5c3a22caf1f5",
       "summary": [
-        "Diana Krall performed at The Cabot in Beverly on March 28, 2026.",
-        "Krall showcased her talents alongside bassist John Clayton during the concert.",
-        "The event attracted local jazz enthusiasts, enhancing the cultural scene in Beverly."
+        "Pete Hegseth prayed for US troops at the Pentagon on March 29, 2023.",
+        "His invocation of faith sparked criticism regarding military ethics and religious influence.",
+        "Boston residents may face debates on the intersection of faith and military actions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018Project Hail Mary\u2019 flies to $54.5 million second weekend, horror reaches a saturation point",
+      "link": "https://www.boston.com/culture/entertainment/2026/03/29/project-hail-mary-flies-to-54-5-million-second-weekend-horror-reaches-a-saturation-point/",
+      "pubDate": "Sun, 29 Mar 2026 20:04:57 +0000",
+      "description": "<p>The Phil Lord and Chris Miller sci-fi adventure, starring Ryan Gosling, dipped only 32% after notching the best non-franchise opening weekend since 2023\u2019s \u201cOppenheimer.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/03/29/project-hail-mary-flies-to-54-5-million-second-weekend-horror-reaches-a-saturation-point/\">&#8216;Project Hail Mary&#8217; flies to $54.5 million second weekend, horror reaches a saturation point</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c020fc187031d0482eabd65e57a9baf",
+      "summary": [
+        "\u2018Project Hail Mary\u2019 earned $54.5 million in its second weekend at Boston theaters.",
+        "Film dipped only 32% after a strong opening, outperforming other recent releases.",
+        "Local cinemas benefit from increased attendance amid horror genre saturation."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-29T18:50:26.563430+00:00"
+    "timestamp": "2026-03-29T20:38:27.722013+00:00"
   }
 }
