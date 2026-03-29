@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-29T14:36:34.370388+00:00",
+  "lastUpdated": "2026-03-29T16:40:14.270320+00:00",
   "articles": [
+    {
+      "title": "Chelsea teen charged with murder after allegedly chasing down, stabbing man",
+      "link": "https://www.boston.com/news/crime/2026/03/29/chelsea-teen-charged-with-murder-after-allegedly-chasing-down-stabbing-man/",
+      "pubDate": "Sun, 29 Mar 2026 15:01:06 +0000",
+      "description": "<p>The 18-year-old suspect was part of a group who allegedly chased the victim down and repeatedly stabbed him.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/29/chelsea-teen-charged-with-murder-after-allegedly-chasing-down-stabbing-man/\">Chelsea teen charged with murder after allegedly chasing down, stabbing man</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "627dcb0097aedeff88133f7891ec0d2c",
+      "summary": [
+        "Chelsea teen, 18, charged with murder for allegedly stabbing a man multiple times.",
+        "Incident involved a group chasing the victim, heightening local safety concerns.",
+        "Residents worry about rising violence in Chelsea following this tragic event."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2025 marked Boston area\u2019s slowest year of post-pandemic population growth, data shows",
+      "link": "https://www.boston.com/news/local-news/2026/03/29/2025-marked-boston-areas-slowest-year-of-post-pandemic-population-growth-data-shows/",
+      "pubDate": "Sun, 29 Mar 2026 14:35:39 +0000",
+      "description": "<p>Yearly population growth both in the metro area and statewide was dramatically lower in 2025 than any year since 2021.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/29/2025-marked-boston-areas-slowest-year-of-post-pandemic-population-growth-data-shows/\">2025 marked Boston area\u2019s slowest year of post-pandemic population growth, data shows</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a77ea583c2c42b03f4054f7e5922f2a0",
+      "summary": [
+        "2025 saw Boston's lowest population growth since 2021, impacting local economy and services.",
+        "The metro area's growth rate significantly declined compared to previous years, affecting housing demand.",
+        "Residents may face increased pressure on resources as stagnation continues in population trends."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Disney opens World of Frozen in Paris as new CEO showcases the empire that made him",
       "link": "https://www.boston.com/culture/entertainment/2026/03/29/disney-opens-world-of-frozen-in-paris-as-new-ceo-showcases-the-empire-that-made-him/",
@@ -622,32 +648,6 @@
         "Shay Taylor-Allen transitioned from janitor to doctor at Yale New Haven Hospital.",
         "She worked as a janitor for 10 years before starting her residency.",
         "Her journey inspires Boston residents pursuing careers in healthcare despite challenges."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Peach Farm is closing \u2014 but only temporarily",
-      "link": "https://www.boston.com/food/food-news/2026/03/27/peach-farm-is-closing-but-only-temporarily/",
-      "pubDate": "Fri, 27 Mar 2026 15:32:06 +0000",
-      "description": "<p>The Chinatown staple has served hungry late-night diners for decades. Its current owners want to retire, and new owners are taking over. </p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/27/peach-farm-is-closing-but-only-temporarily/\">Peach Farm is closing \u2014 but only temporarily</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "60d588a12b9c77692296ce7560aa3d09",
-      "summary": [
-        "Peach Farm in Chinatown is temporarily closing for ownership transition.",
-        "Current owners are retiring after decades of service to late-night diners.",
-        "New owners plan to reopen, ensuring continuity for local patrons."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Senate approves funding for TSA and most of Homeland Security, but not immigration enforcement",
-      "link": "https://www.boston.com/news/national-news/2026/03/27/senate-approves-funding-for-tsa-and-most-of-homeland-security-but-not-immigration-enforcement/",
-      "pubDate": "Fri, 27 Mar 2026 15:27:07 +0000",
-      "description": "<p>Bipartisan agreement funds most Homeland Security operations, sidestepping ICE and border enforcement as Democrats and Republicans remain at odds.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/03/27/senate-approves-funding-for-tsa-and-most-of-homeland-security-but-not-immigration-enforcement/\">Senate approves funding for TSA and most of Homeland Security, but not immigration enforcement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9dacd240730143af0b3d43da9b8f2e87",
-      "summary": [
-        "Senate approved funding for TSA and Homeland Security on March 27, 2026.",
-        "Funding excludes immigration enforcement, reflecting ongoing partisan disagreements.",
-        "Boston residents may see changes in local security operations without ICE involvement."
       ],
       "hookType": "LOCAL_IMPACT"
     }

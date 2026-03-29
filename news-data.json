@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-03-29T14:36:34.369564+00:00",
+  "lastUpdated": "2026-03-29T16:40:14.269598+00:00",
   "articles": [
     {
-      "title": "Disney opens World of Frozen in Paris as new CEO showcases the empire that made him",
-      "link": "https://www.boston.com/culture/entertainment/2026/03/29/disney-opens-world-of-frozen-in-paris-as-new-ceo-showcases-the-empire-that-made-him/",
-      "pubDate": "Sun, 29 Mar 2026 13:29:09 +0000",
-      "description": "<p>\u201cStorytelling is fundamental to everything that we do, whether that\u2019s on screen or stage, in our theme parks, on our cruise ships, or even at home.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/03/29/disney-opens-world-of-frozen-in-paris-as-new-ceo-showcases-the-empire-that-made-him/\">Disney opens World of Frozen in Paris as new CEO showcases the empire that made him</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "510790dab7115e15e2f9bed3955a0e99",
+      "title": "Chelsea teen charged with murder after allegedly chasing down, stabbing man",
+      "link": "https://www.boston.com/news/crime/2026/03/29/chelsea-teen-charged-with-murder-after-allegedly-chasing-down-stabbing-man/",
+      "pubDate": "Sun, 29 Mar 2026 15:01:06 +0000",
+      "description": "<p>The 18-year-old suspect was part of a group who allegedly chased the victim down and repeatedly stabbed him.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/29/chelsea-teen-charged-with-murder-after-allegedly-chasing-down-stabbing-man/\">Chelsea teen charged with murder after allegedly chasing down, stabbing man</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "627dcb0097aedeff88133f7891ec0d2c",
       "summary": [
-        "Disney opened World of Frozen in Paris, enhancing global brand presence.",
-        "New CEO Bob Chapek emphasizes storytelling across all Disney platforms.",
-        "Boston residents may see increased tourism as Disney expands its attractions."
+        "Chelsea teen, 18, charged with murder for allegedly stabbing a man multiple times.",
+        "Incident involved a group chasing the victim, heightening local safety concerns.",
+        "Residents worry about rising violence in Chelsea following this tragic event."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2025 marked Boston area\u2019s slowest year of post-pandemic population growth, data shows",
+      "link": "https://www.boston.com/news/local-news/2026/03/29/2025-marked-boston-areas-slowest-year-of-post-pandemic-population-growth-data-shows/",
+      "pubDate": "Sun, 29 Mar 2026 14:35:39 +0000",
+      "description": "<p>Yearly population growth both in the metro area and statewide was dramatically lower in 2025 than any year since 2021.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/29/2025-marked-boston-areas-slowest-year-of-post-pandemic-population-growth-data-shows/\">2025 marked Boston area\u2019s slowest year of post-pandemic population growth, data shows</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a77ea583c2c42b03f4054f7e5922f2a0",
+      "summary": [
+        "2025 saw Boston's lowest population growth since 2021, impacting local economy and services.",
+        "The metro area's growth rate significantly declined compared to previous years, affecting housing demand.",
+        "Residents may face increased pressure on resources as stagnation continues in population trends."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-03-29T14:36:34.369583+00:00"
+    "timestamp": "2026-03-29T16:40:14.269618+00:00"
   }
 }
