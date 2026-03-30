@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-03-30T09:17:21.013505+00:00",
-  "articles": [],
+  "lastUpdated": "2026-03-30T11:06:08.790158+00:00",
+  "articles": [
+    {
+      "title": "Dating back to the 1600s, the second-oldest home in Cambridge lists for $5.8M",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/03/30/dating-back-to-the-1600s-the-second-oldest-home-in-cambridge-lists-for-5-8m/",
+      "pubDate": "Mon, 30 Mar 2026 11:00:00 +0000",
+      "description": "<p>The property has served as the Cambridge Historical Society (now known as History Cambridge) headquarters for the last 70 years. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/03/30/dating-back-to-the-1600s-the-second-oldest-home-in-cambridge-lists-for-5-8m/\">Dating back to the 1600s, the second-oldest home in Cambridge lists for $5.8M</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ebe9249a66bc6104df42a8237ae7ce2c",
+      "summary": [
+        "Cambridge's second-oldest home, dating back to the 1600s, is listed for $5.8 million.",
+        "The property has been the Cambridge Historical Society headquarters for 70 years.",
+        "Potential sale may impact local historical preservation efforts and community heritage."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-03-30T09:17:21.013520+00:00"
+    "timestamp": "2026-03-30T11:06:08.790178+00:00"
   }
 }
