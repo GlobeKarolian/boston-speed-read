@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-03-30T11:06:08.790997+00:00",
+  "lastUpdated": "2026-03-30T13:42:47.469893+00:00",
   "articles": [
+    {
+      "title": "Skier dies after fall at Sugarbush",
+      "link": "https://www.boston.com/news/skiing/2026/03/30/skier-dies-after-fall-at-sugarbush/",
+      "pubDate": "Mon, 30 Mar 2026 13:18:44 +0000",
+      "description": "<p>Authorities say the man was found unresponsive after sliding off a trail at the Vermont resort.</p>\n<p>The post <a href=\"https://www.boston.com/news/skiing/2026/03/30/skier-dies-after-fall-at-sugarbush/\">Skier dies after fall at Sugarbush</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a49b9023ef9a6df465c233ef36378ca4",
+      "summary": [
+        "A skier died after falling off a trail at Sugarbush Resort in Vermont.",
+        "Authorities found the man unresponsive on March 30, 2026.",
+        "This incident raises safety concerns for Boston residents visiting ski resorts."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "As playoffs near, doubt the 2025-26 Bruins at your own risk",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/03/30/boston-bruins-nhl-hockey-columbus-blue-jackets-rally-shootout-score-zacha-mcavoy-arvidsson/",
+      "pubDate": "Mon, 30 Mar 2026 11:29:44 +0000",
+      "description": "<p>\"They never give up. Never. I'm just happy for them.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/03/30/boston-bruins-nhl-hockey-columbus-blue-jackets-rally-shootout-score-zacha-mcavoy-arvidsson/\">As playoffs near, doubt the 2025-26 Bruins at your own risk\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3ac63cc3aa17d18480554503e3de2705",
+      "summary": [
+        "Bruins demonstrate resilience, rallying for a shootout win against Columbus Blue Jackets.",
+        "David Pastrnak and Charlie McAvoy lead the team as playoffs approach in March 2026.",
+        "Local fans express optimism as Bruins aim for a strong playoff performance this season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Dating back to the 1600s, the second-oldest home in Cambridge lists for $5.8M",
       "link": "https://www.boston.com/real-estate/luxury-homes/2026/03/30/dating-back-to-the-1600s-the-second-oldest-home-in-cambridge-lists-for-5-8m/",
@@ -622,32 +648,6 @@
         "Police report a man was killed in a Lowell apartment complex shooting on March 27.",
         "The shooting resulted from an altercation between two armed men, escalating violence in the area.",
         "Residents may face increased police presence and safety concerns following this incident."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Report: Connecticut Sun to relocate to Houston with purchase by Rockets owners",
-      "link": "https://www.boston.com/sports/sports-news/2026/03/27/connecticut-sun-wnba-houston/",
-      "pubDate": "Sat, 28 Mar 2026 00:19:11 +0000",
-      "description": "<p>Former Celtics minority owner Steve Pagliuca attempted to purchase the Sun last summer and move them to Boston.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/27/connecticut-sun-wnba-houston/\">Report: Connecticut Sun to relocate to Houston with purchase by Rockets owners</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d48b42741a1558ba2157a4e4d4fd4ed6",
-      "summary": [
-        "Connecticut Sun will relocate to Houston after being purchased by Rockets owners.",
-        "Steve Pagliuca, former Celtics minority owner, attempted to buy and move the team to Boston.",
-        "Boston residents lose potential WNBA team, impacting local sports culture and opportunities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "5 must-watch movies & TV shows streaming right now",
-      "link": "https://www.boston.com/culture/streaming/2026/03/27/new-movies-tv-shows-watch-streaming-now-march-27-2026/",
-      "pubDate": "Fri, 27 Mar 2026 23:38:01 +0000",
-      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/03/27/new-movies-tv-shows-watch-streaming-now-march-27-2026/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1040a5df05a2695c3df4c1cb818560be",
-      "summary": [
-        "Discover five new movies and TV shows streaming as of March 27, 2026.",
-        "Streaming platforms include Netflix, Hulu, HBO Max, and Disney Plus.",
-        "Boston residents can enjoy diverse entertainment options from home this spring."
       ],
       "hookType": "LOCAL_IMPACT"
     }
