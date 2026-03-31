@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-03-31T17:02:57.838176+00:00",
+  "lastUpdated": "2026-03-31T19:07:14.176503+00:00",
   "articles": [
+    {
+      "title": "Globe Magazine names New England\u2019s 50 fastest-growing companies",
+      "link": "https://www.boston.com/news/business/2026/03/31/globe-magazine-50-fastest-growing-companies/",
+      "pubDate": "Tue, 31 Mar 2026 18:59:19 +0000",
+      "description": "<p>Now in its second year, the collaboration between The Boston Globe and Statista highlights the businesses growing quickest across the region.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/31/globe-magazine-50-fastest-growing-companies/\">Globe Magazine names New England\u2019s 50 fastest-growing companies</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "747478e31b9305d8961d05ed7db6b713",
+      "summary": [
+        "Globe Magazine identifies 50 fastest-growing companies in New England for 2023.",
+        "Statista collaborated with The Boston Globe for this annual ranking.",
+        "Local businesses may benefit from increased visibility and investment opportunities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Judge denies Lindsay Clancy\u2019s request for two-part murder trial",
+      "link": "https://www.boston.com/news/crime/2026/03/31/judge-denies-lindsay-clancys-request-for-two-part-murder-trial/",
+      "pubDate": "Tue, 31 Mar 2026 18:42:55 +0000",
+      "description": "<p>Clancy will stand trial in July for allegedly killing her three children in 2023. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/31/judge-denies-lindsay-clancys-request-for-two-part-murder-trial/\">Judge denies Lindsay Clancy\u2019s request for two-part murder trial</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9abbbabcba923862e71b842c29b2cca0",
+      "summary": [
+        "Judge denies Lindsay Clancy's request for a two-part murder trial.",
+        "Clancy will face trial in July 2023 for allegedly killing her three children.",
+        "The trial outcome may significantly affect community discussions on mental health and family safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What we know about the armed robbery of a massive Beverly mansion",
+      "link": "https://www.boston.com/news/crime/2026/03/31/beverly-mansion-robbery/",
+      "pubDate": "Tue, 31 Mar 2026 18:25:49 +0000",
+      "description": "<p>The property's caretaker was beaten with a pistol and dragged by her hair by a masked intruder, according to the homeowner.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/31/beverly-mansion-robbery/\">What we know about the armed robbery of a massive Beverly mansion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c0555427cf8bedc42bcdbe011b1290a8",
+      "summary": [
+        "Masked intruder assaulted the caretaker of a Beverly mansion during an armed robbery.",
+        "The caretaker was beaten with a pistol and dragged by her hair.",
+        "Residents in Beverly are concerned about safety following this violent incident."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Walmart closes Worcester fulfillment center, laying off 90 employees",
+      "link": "https://www.boston.com/news/business/2026/03/31/walmart-closes-worcester-fulfillment-center-laying-off-90-employees/",
+      "pubDate": "Tue, 31 Mar 2026 17:37:28 +0000",
+      "description": "<p>The retail giant says the closure is part of an effort to streamline fulfillment and improve delivery speeds. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/31/walmart-closes-worcester-fulfillment-center-laying-off-90-employees/\">Walmart closes Worcester fulfillment center, laying off 90 employees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "60c5bc07415175ff3f05e398506ac24a",
+      "summary": [
+        "Walmart closed its Worcester fulfillment center on March 31, 2026.",
+        "The closure resulted in the layoff of 90 employees.",
+        "Local residents may face reduced job opportunities and slower delivery services."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Long-planned Nubian Square jazz club finally secures funding",
+      "link": "https://www.boston.com/news/business/2026/03/31/long-planned-nubian-square-jazz-club-finally-secures-funding/",
+      "pubDate": "Tue, 31 Mar 2026 17:09:10 +0000",
+      "description": "<p>Launched almost 10 years ago by Berklee professor and record-label owner Bill Banfield, the restaurant and community arts space now has $2.5 million to move forward. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/03/31/long-planned-nubian-square-jazz-club-finally-secures-funding/\">Long-planned Nubian Square jazz club finally secures funding</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "332fa217f0e32e86d9cd5cb173982c6c",
+      "summary": [
+        "Nubian Square jazz club secures $2.5 million funding to move forward.",
+        "Project launched by Berklee professor Bill Banfield nearly 10 years ago.",
+        "Funding will enhance community arts and dining options for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "JetBlue has raised checked bag fees. See how much you\u2019ll pay.",
       "link": "https://www.boston.com/travel/flights/2026/03/31/jetblue-has-raised-checked-bag-fees/",
@@ -583,71 +648,6 @@
         "United Airlines introduces couch-style seating for enhanced passenger comfort.",
         "Boston residents express excitement over potential for relaxation during flights.",
         "New seating could improve travel experience for families and long-distance travelers."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "This first grade teacher is running the Boston Marathon to support her students",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/30/siobhan-salani-corey-c-griffin/",
-      "pubDate": "Mon, 30 Mar 2026 15:42:00 +0000",
-      "description": "<p>Siobhan Salani is running for the Corey C. Griffin Foundation, which has had a direct impact on her students.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/30/siobhan-salani-corey-c-griffin/\">This first grade teacher is running the Boston Marathon to support her students</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e0353c6a40fc999090b1f510243c7f4e",
-      "summary": [
-        "Siobhan Salani, a first grade teacher, is running the Boston Marathon.",
-        "She supports the Corey C. Griffin Foundation, benefiting her students directly.",
-        "The marathon takes place on April 17, 2023, impacting local education funding."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A Maine beach is among the best in the U.S. in 2026, according to Conde Nast Traveler",
-      "link": "https://www.boston.com/travel/new-england-travel/2026/03/30/best-beaches-in-us-maine/",
-      "pubDate": "Mon, 30 Mar 2026 15:15:43 +0000",
-      "description": "<p>It feels like \"a hidden spot on Maine\u2019s rugged coast.\" </p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/03/30/best-beaches-in-us-maine/\">A Maine beach is among the best in the U.S. in 2026, according to Conde Nast Traveler</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8d5bd46efdab3b92f7e36311f7a3ac50",
-      "summary": [
-        "Conde Nast Traveler ranks a Maine beach among the best in the U.S. for 2026.",
-        "The beach offers a secluded experience on Maine\u2019s rugged coast, attracting Boston residents.",
-        "Increased tourism to this beach may impact local businesses in the Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "16-year-old arrested in Allston shooting",
-      "link": "https://www.boston.com/news/crime/2026/03/30/16-year-old-arrested-in-allston-shooting/",
-      "pubDate": "Mon, 30 Mar 2026 15:10:13 +0000",
-      "description": "<p>Another juvenile was injured in the shooting last Thursday on Brighton Avenue.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/30/16-year-old-arrested-in-allston-shooting/\">16-year-old arrested in Allston shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "04a08254c65fedddf2d6c9424e5a2e7e",
-      "summary": [
-        "A 16-year-old was arrested for a shooting on Brighton Avenue in Allston.",
-        "Another juvenile was injured during the incident last Thursday.",
-        "Residents are concerned about rising youth violence in the area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Connecticut Sun reach deal to sell to Rockets owner for $300 million, move team to Houston in 2027",
-      "link": "https://www.boston.com/sports/sports-news/2026/03/30/connecticut-sun-deal-houston-relocation-wnba/",
-      "pubDate": "Mon, 30 Mar 2026 14:36:21 +0000",
-      "description": "<p>\u201cThis decision has always sat at the ownership level and we worked hard as a front office to make us New England\u2019s WNBA team.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/03/30/connecticut-sun-deal-houston-relocation-wnba/\">Connecticut Sun reach deal to sell to Rockets owner for $300 million, move team to Houston in 2027</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d77b3bdabe1fa5e7d9bc647bdeaea319",
-      "summary": [
-        "Connecticut Sun sold to Rockets owner for $300 million, relocating to Houston in 2027.",
-        "WNBA team aimed to represent New England, impacting local sports culture and fan engagement.",
-        "Boston residents lose a regional WNBA team, affecting local women's sports support and visibility."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Alex Cora calls Terry Francona a \u2018Hall of Fame manager\u2019",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/03/30/alex-cora-calls-terry-francona-a-hall-of-fame-manager/",
-      "pubDate": "Mon, 30 Mar 2026 15:01:27 +0000",
-      "description": "<p>\u201cI feel fortunate to have been around so many good people because they\u2019ve helped me get better,\" Francona said of Cora.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/03/30/alex-cora-calls-terry-francona-a-hall-of-fame-manager/\">Alex Cora calls Terry Francona a &#8216;Hall of Fame manager&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "83547c824058f410e242cacd725340e5",
-      "summary": [
-        "Alex Cora praised Terry Francona as a Hall of Fame manager during a recent interview.",
-        "Francona expressed gratitude for the influence of good people like Cora on his career.",
-        "This recognition highlights the strong mentorship culture within Boston's baseball community."
       ],
       "hookType": "LOCAL_IMPACT"
     }
