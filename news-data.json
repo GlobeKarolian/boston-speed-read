@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-04-02T10:54:55.856158+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-02T13:23:07.795266+00:00",
+  "articles": [
+    {
+      "title": "Suspect arrested in stabbing near Northeastern University",
+      "link": "https://www.boston.com/news/crime/2026/04/02/suspect-arrested-in-stabbing-near-northeastern-university/",
+      "pubDate": "Thu, 02 Apr 2026 13:06:11 +0000",
+      "description": "<p>Stephen Dantzler, 58, was expected to be charged with assault and battery with a dangerous weapon, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/02/suspect-arrested-in-stabbing-near-northeastern-university/\">Suspect arrested in stabbing near Northeastern University</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cb7ab95c42477d7f095ff0c16214c9ff",
+      "summary": [
+        "Stephen Dantzler, 58, arrested for stabbing near Northeastern University on April 2.",
+        "Dantzler faces charges of assault and battery with a dangerous weapon.",
+        "Incident raises safety concerns for students and residents in the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jaylen Brown, Jayson Tatum star in blowout Celtics win over Heat: 6 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/04/02/jaylen-brown-jayson-tatum-star-win-vs-heat-6-takeaways/",
+      "pubDate": "Thu, 02 Apr 2026 11:51:39 +0000",
+      "description": "<p>\u201cUsually when you\u2019re in moments like that, you take poor shots,\u201d Joe Mazzulla said afterward. \u201cWe didn\u2019t do that. We kept fighting for good looks, the next best look. I thought that kind of kept the momentum going a bit.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/02/jaylen-brown-jayson-tatum-star-win-vs-heat-6-takeaways/\">Jaylen Brown, Jayson Tatum star in blowout Celtics win over Heat: 6 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "08091ddb2d67dd9d42909a64624fac6f",
+      "summary": [
+        "Celtics defeated the Heat with a dominant performance on April 2, 2026.",
+        "Jaylen Brown and Jayson Tatum led the team, contributing significantly to the victory.",
+        "This win boosts Celtics' playoff positioning, enhancing local fan excitement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ask the remodeler: Weighing return on investment vs. marketability of home remodels",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/04/02/home-remodeling-resale-value-marketability/",
+      "pubDate": "Thu, 02 Apr 2026 11:00:00 +0000",
+      "description": "<p>What\u2019s more important? Selling quickly or making a profit?</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/04/02/home-remodeling-resale-value-marketability/\">Ask the remodeler: Weighing return on investment vs. marketability of home remodels</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e043635f463e621044638c7f466fa584",
+      "summary": [
+        "Homeowners in Boston face tough choices between quick sales and profit from remodels.",
+        "Remodeling projects can yield varying returns, affecting marketability in a competitive market.",
+        "Local residents must consider ROI to maximize home value before selling."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-02T10:54:55.856169+00:00"
+    "timestamp": "2026-04-02T13:23:07.795287+00:00"
   }
 }
