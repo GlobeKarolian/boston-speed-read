@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-04T16:40:44.521850+00:00",
+  "lastUpdated": "2026-04-04T20:37:09.430693+00:00",
   "articles": [
+    {
+      "title": "This 22-year-old cancer survivor is running Boston for MGH",
+      "link": "https://www.boston.com/community/boston-marathon/2026/04/04/grace-taylor-mgh/",
+      "pubDate": "Sat, 04 Apr 2026 19:00:00 +0000",
+      "description": "<p>\"Every mile I run will be in gratitude to my doctors, to the AYA program, to my survivorship friends, and to every patient who sits in a hospital room feeling scared and alone.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/04/grace-taylor-mgh/\">This 22-year-old cancer survivor is running Boston for MGH</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8d328d14eca7b31578b796d32c5e9456",
+      "summary": [
+        "22-year-old cancer survivor Grace Taylor will run the Boston Marathon for MGH.",
+        "Taylor expresses gratitude to her doctors and the AYA program during her run.",
+        "Her participation raises awareness for young adult cancer survivors in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "South Boston runner supports BMC social workers in Boston Marathon",
       "link": "https://www.boston.com/community/boston-marathon/2026/04/04/michelle-davidson-boston-medical-center/",
@@ -635,19 +648,6 @@
         "Judy Church, 67, sentenced to life without parole for poisoning boyfriend.",
         "Church poisoned boyfriend's drink with antifreeze, leading to his death.",
         "This case raises concerns about domestic violence and safety in local communities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "5 concerning trends from the Red Sox\u2019 ugly start to 2026 season",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/02/boston-red-sox-mlb-baseball-alex-cora-pitching-roman-anthony-astros/",
-      "pubDate": "Thu, 02 Apr 2026 22:41:36 +0000",
-      "description": "<p>There have been few positives to draw out of Boston's 1-5 start to the 2026 season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/02/boston-red-sox-mlb-baseball-alex-cora-pitching-roman-anthony-astros/\">5 concerning trends from the Red Sox\u2019 ugly start to 2026 season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "53c41247815895de95876b3e87a69524",
-      "summary": [
-        "Red Sox start 2026 season with a disappointing 1-5 record.",
-        "Pitching struggles highlighted by poor performance from key players like Alex Cora.",
-        "Local fans express concern over team's direction and potential playoff implications."
       ],
       "hookType": "LOCAL_IMPACT"
     }
