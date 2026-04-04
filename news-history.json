@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-04-04T14:37:06.117154+00:00",
+  "lastUpdated": "2026-04-04T16:40:44.521850+00:00",
   "articles": [
+    {
+      "title": "South Boston runner supports BMC social workers in Boston Marathon",
+      "link": "https://www.boston.com/community/boston-marathon/2026/04/04/michelle-davidson-boston-medical-center/",
+      "pubDate": "Sat, 04 Apr 2026 15:00:00 +0000",
+      "description": "<p>Paige Beattie, 23, is running with Team BMC to raise funds for the hospital\u2019s safety-net mission and the social workers who support patients in crisis.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/04/michelle-davidson-boston-medical-center/\">South Boston runner supports BMC social workers in Boston Marathon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e438f90d4d0c66ff95c2f4134bc9be4",
+      "summary": [
+        "Paige Beattie, 23, runs Boston Marathon to support BMC social workers.",
+        "Funds raised will aid BMC's safety-net mission for patients in crisis.",
+        "Local residents benefit from enhanced support services at Boston Medical Center."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Can Kennedy lineage and hype over \u2018Love Story\u2019 help send JFK\u2019s grandson to Congress?",
+      "link": "https://www.boston.com/news/politics/2026/04/04/can-kennedy-lineage-and-hype-over-love-story-help-send-jfks-grandson-to-congress/",
+      "pubDate": "Sat, 04 Apr 2026 14:51:12 +0000",
+      "description": "<p>\u201cThey don\u2019t just like me because I\u2019m a Kennedy. Ask them how they feel about RFK Jr.,\u201d he said. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/04/04/can-kennedy-lineage-and-hype-over-love-story-help-send-jfks-grandson-to-congress/\">Can Kennedy lineage and hype over &#8216;Love Story&#8217; help send JFK&#8217;s grandson to Congress?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3c18019aa912b33246e3594579f9426c",
+      "summary": [
+        "JFK's grandson, Joe Kennedy III, aims for Congress in upcoming elections.",
+        "Kennedy emphasizes individual support over family legacy, referencing RFK Jr.'s challenges.",
+        "Local voters may prioritize candidate values over lineage in the 2026 election."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Patience remains an elusive virtue for Legacy FC attack",
       "link": "https://www.boston.com/sports/boston-legacy-football-club/2026/04/04/patience-remains-an-elusive-virtue-for-legacy-fc-attack/",
@@ -622,32 +648,6 @@
         "Red Sox start 2026 season with a disappointing 1-5 record.",
         "Pitching struggles highlighted by poor performance from key players like Alex Cora.",
         "Local fans express concern over team's direction and potential playoff implications."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Providence\u2019s Duncan Powell pleads not guilty to charges resulting from altercation with woman",
-      "link": "https://www.boston.com/news/local-news/2026/04/02/providences-duncan-powell-pleads-not-guilty-to-charges-resulting-from-altercation-with-woman/",
-      "pubDate": "Thu, 02 Apr 2026 22:12:40 +0000",
-      "description": "<p>The woman told police that Providence basketball player Duncan Powell made multiple calls to her and threatened to use a gun to kill everyone in the house and then himself.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/02/providences-duncan-powell-pleads-not-guilty-to-charges-resulting-from-altercation-with-woman/\">Providence&#8217;s Duncan Powell pleads not guilty to charges resulting from altercation with woman</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "12b6300b722e7cfe68d53fa85e75fd87",
-      "summary": [
-        "Duncan Powell, a Providence basketball player, pleads not guilty to threatening a woman.",
-        "The woman reported multiple threatening calls from Powell, including gun violence threats.",
-        "This incident raises concerns about safety and violence in the local community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Vermont labor board orders state to end return-to-office requirement for employees",
-      "link": "https://www.boston.com/news/local-news/2026/04/02/vermont-labor-board-orders-state-to-end-return-to-office-requirement-for-employees/",
-      "pubDate": "Thu, 02 Apr 2026 22:05:01 +0000",
-      "description": "<p>The state has already filed a notice of appeal with the Vermont Supreme Court, officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/02/vermont-labor-board-orders-state-to-end-return-to-office-requirement-for-employees/\">Vermont labor board orders state to end return-to-office requirement for employees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "91aa3985c8e243d19b952f0cdef6ebd4",
-      "summary": [
-        "Vermont labor board mandates end of return-to-office policy for state employees.",
-        "State officials have filed an appeal with the Vermont Supreme Court.",
-        "Boston residents may see similar labor disputes affecting remote work policies."
       ],
       "hookType": "LOCAL_IMPACT"
     }
