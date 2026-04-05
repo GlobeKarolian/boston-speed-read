@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-05T18:51:17.486749+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-05T20:38:08.265463+00:00",
+  "articles": [
+    {
+      "title": "She is running Boston in honor of her mother who died of brain cancer",
+      "link": "https://www.boston.com/community/boston-marathon/2026/04/05/madison-oakes-mgh/",
+      "pubDate": "Sun, 05 Apr 2026 19:00:00 +0000",
+      "description": "<p>\"It is because of the MGB cancer center that she did not die when I was ten \u2014 something I will be forever thankful for.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/05/madison-oakes-mgh/\">She is running Boston in honor of her mother who died of brain cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d41364bc51f8fc029cd64d17a0ccfe6c",
+      "summary": [
+        "Madison Oakes is running the Boston Marathon to honor her mother who died of brain cancer.",
+        "Oakes credits the MGB cancer center for extending her mother's life until she was ten.",
+        "The marathon serves as a tribute, raising awareness for cancer treatment in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-05T18:51:17.486758+00:00"
+    "timestamp": "2026-04-05T20:38:08.265483+00:00"
   }
 }
