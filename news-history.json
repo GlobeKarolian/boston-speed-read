@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-04-05T14:38:34.037037+00:00",
+  "lastUpdated": "2026-04-05T16:40:55.296159+00:00",
   "articles": [
+    {
+      "title": "Boston police fatally shoot suspect allegedly wielding sword near Northeastern University campus",
+      "link": "https://www.boston.com/news/local-news/2026/04/05/boston-police-fatally-shoot-suspect-allegedly-wielding-sword-near-northeastern-university-campus/",
+      "pubDate": "Sun, 05 Apr 2026 15:43:42 +0000",
+      "description": "<p>The incident is the latest in a string of recent violent occurrences near the Northeastern University campus.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/05/boston-police-fatally-shoot-suspect-allegedly-wielding-sword-near-northeastern-university-campus/\">Boston police fatally shoot suspect allegedly wielding sword near Northeastern University campus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "25a3f54d8ebbb62ea94caa1f63427f95",
+      "summary": [
+        "Boston police shot a suspect wielding a sword near Northeastern University on April 5.",
+        "This incident follows a series of violent occurrences in the area, raising safety concerns.",
+        "Local residents and students are urged to remain vigilant amid increasing violence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "She\u2019s running Boston to honor her godmother who died of brain cancer",
+      "link": "https://www.boston.com/community/boston-marathon/2026/04/05/abigail-dubois-mgh/",
+      "pubDate": "Sun, 05 Apr 2026 15:00:00 +0000",
+      "description": "<p>\"I felt called to try and help families by donating to the Cancer Care Equity program at MGH.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/05/abigail-dubois-mgh/\">She&#8217;s running Boston to honor her godmother who died of brain cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ff1821baaa14e69529ac85f74480f66e",
+      "summary": [
+        "Abigail Dubois is running the Boston Marathon to honor her late godmother.",
+        "She aims to raise funds for the Cancer Care Equity program at MGH.",
+        "Her efforts will support local families affected by brain cancer."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "1 dead, 2 hospitalized in fatal Brockton house fire, officials say",
       "link": "https://www.boston.com/news/local-news/2026/04/05/1-dead-2-hospitalized-in-fatal-brockton-house-fire-officials-say/",
@@ -622,32 +648,6 @@
         "Patriots confirmed participation in 'Hard Knocks' for the 2027 season.",
         "Adam Schefter reported the decision on April 3, 2026.",
         "Local fans can expect increased media coverage and excitement around the team."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s what you need to know for the Red Sox home opener at Fenway Park",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/03/heres-what-you-need-to-know-for-the-red-sox-home-opener-at-fenway-park/",
-      "pubDate": "Fri, 03 Apr 2026 15:48:15 +0000",
-      "description": "<p>A pregame ceremony will honor the 1986 Red Sox.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/03/heres-what-you-need-to-know-for-the-red-sox-home-opener-at-fenway-park/\">Here\u2019s what you need to know for the Red Sox home opener at Fenway Park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3a22f986da94134410b57617f9a69180",
-      "summary": [
-        "Attend the Red Sox home opener on April 3 at Fenway Park.",
-        "Pregame ceremony will honor the 1986 Red Sox team.",
-        "Local fans can celebrate the team's history and enjoy the game atmosphere."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Mass. high school pitcher Brody Bumila\u2019s fastball tops 100 mph, draws crowd of MLB scouts",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/04/03/brody-bumila-fastball-100-mph-mlb-scouts/",
-      "pubDate": "Fri, 03 Apr 2026 15:16:32 +0000",
-      "description": "<p>Bishop Feehan's Bumila also recently led the school's basketball team to a Division 1 state title.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/04/03/brody-bumila-fastball-100-mph-mlb-scouts/\">Mass. high school pitcher Brody Bumila&#8217;s fastball tops 100 mph, draws crowd of MLB scouts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "600d41abcc40bfa7d258295cafae471f",
-      "summary": [
-        "Bishop Feehan pitcher Brody Bumila's fastball exceeds 100 mph, attracting MLB scouts.",
-        "Bumila recently led his basketball team to a Division 1 state title.",
-        "Local sports community gains attention as Bumila showcases talent for potential MLB career."
       ],
       "hookType": "LOCAL_IMPACT"
     }
