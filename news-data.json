@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-05T16:40:55.295170+00:00",
-  "articles": [
-    {
-      "title": "Boston police fatally shoot suspect allegedly wielding sword near Northeastern University campus",
-      "link": "https://www.boston.com/news/local-news/2026/04/05/boston-police-fatally-shoot-suspect-allegedly-wielding-sword-near-northeastern-university-campus/",
-      "pubDate": "Sun, 05 Apr 2026 15:43:42 +0000",
-      "description": "<p>The incident is the latest in a string of recent violent occurrences near the Northeastern University campus.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/05/boston-police-fatally-shoot-suspect-allegedly-wielding-sword-near-northeastern-university-campus/\">Boston police fatally shoot suspect allegedly wielding sword near Northeastern University campus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "25a3f54d8ebbb62ea94caa1f63427f95",
-      "summary": [
-        "Boston police shot a suspect wielding a sword near Northeastern University on April 5.",
-        "This incident follows a series of violent occurrences in the area, raising safety concerns.",
-        "Local residents and students are urged to remain vigilant amid increasing violence."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "She\u2019s running Boston to honor her godmother who died of brain cancer",
-      "link": "https://www.boston.com/community/boston-marathon/2026/04/05/abigail-dubois-mgh/",
-      "pubDate": "Sun, 05 Apr 2026 15:00:00 +0000",
-      "description": "<p>\"I felt called to try and help families by donating to the Cancer Care Equity program at MGH.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/05/abigail-dubois-mgh/\">She&#8217;s running Boston to honor her godmother who died of brain cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ff1821baaa14e69529ac85f74480f66e",
-      "summary": [
-        "Abigail Dubois is running the Boston Marathon to honor her late godmother.",
-        "She aims to raise funds for the Cancer Care Equity program at MGH.",
-        "Her efforts will support local families affected by brain cancer."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-04-05T18:51:17.486749+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-04-05T16:40:55.295186+00:00"
+    "timestamp": "2026-04-05T18:51:17.486758+00:00"
   }
 }
