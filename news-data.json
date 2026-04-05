@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-05T08:50:46.784512+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-05T10:38:55.471032+00:00",
+  "articles": [
+    {
+      "title": "\u2018SNL\u2019 recap: Best moments from Jack Black hosting \u2018Saturday Night Live\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2026/04/05/snl-recap-jack-black-2026/",
+      "pubDate": "Sun, 05 Apr 2026 09:48:30 +0000",
+      "description": "<p>Jack Black hosted the April 4 episode of \"Saturday Night Live,\" with Jack White as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/04/05/snl-recap-jack-black-2026/\">\u2018SNL\u2019 recap: Best moments from Jack Black hosting \u2018Saturday Night Live\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fea1257399147e0122fc2d7c015a5d1a",
+      "summary": [
+        "Jack Black hosted 'Saturday Night Live' on April 4, showcasing his comedic talents.",
+        "Musical guest Jack White performed, attracting attention from Boston music fans.",
+        "Local viewers enjoyed a night of entertainment, highlighting Boston's connection to popular culture."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-05T08:50:46.784519+00:00"
+    "timestamp": "2026-04-05T10:38:55.471051+00:00"
   }
 }
