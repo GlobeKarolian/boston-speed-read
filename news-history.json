@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-05T02:51:51.255189+00:00",
+  "lastUpdated": "2026-04-05T05:46:03.084751+00:00",
   "articles": [
+    {
+      "title": "Lightning beat the Bruins 3-1 hours after securing a playoff spot",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/04/lightning-beat-the-bruins-3-1/",
+      "pubDate": "Sun, 05 Apr 2026 02:56:14 +0000",
+      "description": "<p>Jeremy Swayman stopped 20 shots as Boston lost its second straight on a four-game trip.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/04/lightning-beat-the-bruins-3-1/\">Lightning beat the Bruins 3-1 hours after securing a playoff spot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7c26fd453c4fd3a706cec8be51702467",
+      "summary": [
+        "Bruins lost 3-1 to Lightning on April 4 during a four-game trip.",
+        "Jeremy Swayman saved 20 shots, marking the Bruins' second consecutive loss.",
+        "Boston residents see Bruins struggling as playoffs approach, raising concerns for team performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Jaylen Brown opens up about past criticisms of his left hand: \u2018There was some truth to it\u2019",
       "link": "https://www.boston.com/sports/boston-celtics/2026/04/04/nba-celtics-jaylen-brown-left-hand-comments/",
@@ -635,19 +648,6 @@
         "Marco Sturm criticized Bruins for lack of respect towards Panthers in recent playoff loss.",
         "Bruins lost to defending champions Panthers, highlighting a need for improved team focus.",
         "Local fans express disappointment as Bruins' playoff hopes diminish after this critical defeat."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "No mortgage, no insurance: Why some Massachusetts homeowners are choosing to \u2018go bare\u2019",
-      "link": "https://www.boston.com/real-estate/home-buying/2026/04/03/real-estate-massachusetts-cape-cod-homeowners-insurance/",
-      "pubDate": "Fri, 03 Apr 2026 11:00:00 +0000",
-      "description": "<p>Especially along the coast, a growing number of homeowners are gambling on having no insurance. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/04/03/real-estate-massachusetts-cape-cod-homeowners-insurance/\">No mortgage, no insurance: Why some Massachusetts homeowners are choosing to \u2018go bare\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "031d1780c6472855e50984594aeca4bc",
-      "summary": [
-        "Homeowners along Massachusetts' coast are increasingly opting for no insurance coverage.",
-        "This trend is particularly noticeable in Cape Cod, affecting local property values.",
-        "Residents risk significant financial loss in case of natural disasters without insurance."
       ],
       "hookType": "LOCAL_IMPACT"
     }
