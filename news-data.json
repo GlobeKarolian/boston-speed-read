@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-06T09:13:48.668328+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-06T11:00:58.784309+00:00",
+  "articles": [
+    {
+      "title": "For $6.5m, this Connecticut inn comes with a liquor license in trendy Mystic",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/04/06/captains-mansion-inn-mystic-connecticut/",
+      "pubDate": "Mon, 06 Apr 2026 11:00:00 +0000",
+      "description": "<p>For the past 10 years, it has operated as a boutique luxury hotel called the Captain\u2019s Mansion.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/04/06/captains-mansion-inn-mystic-connecticut/\">For $6.5m, this Connecticut inn comes with a liquor license in trendy Mystic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "73a543dc6fb37d3a558852b0d1fd831e",
+      "summary": [
+        "Connecticut's Captain's Mansion inn listed for $6.5 million, attracting Boston investors.",
+        "The inn has operated as a luxury hotel for 10 years, enhancing regional tourism.",
+        "Acquisition includes a liquor license, potentially boosting local nightlife and economy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-06T09:13:48.668338+00:00"
+    "timestamp": "2026-04-06T11:00:58.784323+00:00"
   }
 }
