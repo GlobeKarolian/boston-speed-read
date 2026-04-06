@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-04-06T11:00:58.784309+00:00",
+  "lastUpdated": "2026-04-06T13:19:20.439903+00:00",
   "articles": [
     {
-      "title": "For $6.5m, this Connecticut inn comes with a liquor license in trendy Mystic",
-      "link": "https://www.boston.com/real-estate/luxury-homes/2026/04/06/captains-mansion-inn-mystic-connecticut/",
-      "pubDate": "Mon, 06 Apr 2026 11:00:00 +0000",
-      "description": "<p>For the past 10 years, it has operated as a boutique luxury hotel called the Captain\u2019s Mansion.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/04/06/captains-mansion-inn-mystic-connecticut/\">For $6.5m, this Connecticut inn comes with a liquor license in trendy Mystic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "73a543dc6fb37d3a558852b0d1fd831e",
+      "title": "Man accused of assaulting two workers, stealing car during 3 separate trips to Dedham gas station",
+      "link": "https://www.boston.com/news/local-news/2026/04/06/man-accused-of-assaulting-two-workers-stealing-car-during-3-separate-trips-to-dedham-gas-station/",
+      "pubDate": "Mon, 06 Apr 2026 13:09:32 +0000",
+      "description": "<p>Police allege the suspect returned to the same gas station multiple times on Saturday, committing a separate crime on each visit.   </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/06/man-accused-of-assaulting-two-workers-stealing-car-during-3-separate-trips-to-dedham-gas-station/\">Man accused of assaulting two workers, stealing car during 3 separate trips to Dedham gas station</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e68a43e5747dcae9e1378a1449628b1f",
       "summary": [
-        "Connecticut's Captain's Mansion inn listed for $6.5 million, attracting Boston investors.",
-        "The inn has operated as a luxury hotel for 10 years, enhancing regional tourism.",
-        "Acquisition includes a liquor license, potentially boosting local nightlife and economy."
+        "Suspect assaulted two gas station workers during three separate visits on Saturday.",
+        "The man stole a car and committed multiple crimes at the Dedham gas station.",
+        "Local residents are concerned about safety at gas stations following these incidents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. business confidence dips back into pessimism",
+      "link": "https://www.boston.com/news/business/2026/04/06/mass-business-confidence-dips-back-into-pessimism/",
+      "pubDate": "Mon, 06 Apr 2026 12:37:29 +0000",
+      "description": "<p>Surging energy prices and the war in Iran are dragging down employers\u2019 outlooks.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/04/06/mass-business-confidence-dips-back-into-pessimism/\">Mass. business confidence dips back into pessimism</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7f94ace9515cb020c93a4ea1fa5de147",
+      "summary": [
+        "Massachusetts business confidence fell, reflecting pessimism among employers due to rising energy prices.",
+        "The ongoing war in Iran contributes to uncertainty, affecting local economic outlooks.",
+        "Local businesses may face challenges in hiring and investment decisions as confidence declines."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-06T11:00:58.784323+00:00"
+    "timestamp": "2026-04-06T13:19:20.439923+00:00"
   }
 }
