@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-04-07T02:46:05.904547+00:00",
+  "lastUpdated": "2026-04-07T05:48:18.954726+00:00",
   "articles": [
     {
-      "title": "Derrick White talks beer, being a Bostonian, and a promising Celtics playoff run",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/04/06/boston-celtics-nba-basketball-joe-mazzulla-derrick-white-samuel-adams-beer/",
-      "pubDate": "Tue, 07 Apr 2026 02:16:16 +0000",
-      "description": "<p>\"When you put on that Celtic uniform, you're kind of judged on one thing.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/06/boston-celtics-nba-basketball-joe-mazzulla-derrick-white-samuel-adams-beer/\">Derrick White talks beer, being a Bostonian, and a promising Celtics playoff run</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "445c1a30624a4d02f2d40fbf08e8f24a",
+      "title": "Worcester man receives life sentence for home invasion",
+      "link": "https://www.boston.com/news/local-news/2026/04/06/worcester-man-receives-life-sentence-for-home-invasion/",
+      "pubDate": "Tue, 07 Apr 2026 02:48:46 +0000",
+      "description": "<p>One person was inside the home during the robbery. They were uninjured, the DA's office said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/06/worcester-man-receives-life-sentence-for-home-invasion/\">Worcester man receives life sentence for home invasion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "80bd7e14e97d673d7c4ce653b165c136",
       "summary": [
-        "Derrick White emphasizes the pride of wearing the Celtics uniform during playoffs.",
-        "White discusses his connection to Boston and local beer, specifically Samuel Adams.",
-        "Celtics' playoff performance could boost local morale and community engagement."
+        "Worcester man sentenced to life for a home invasion incident.",
+        "One resident was present during the robbery but remained uninjured.",
+        "This ruling aims to enhance safety and deter similar crimes in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Mike Krzyzewski threw a subtle jab at Bill Belichick in response to new UNC hire",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/06/mike-krzyzewski-bill-belichick-unc-hires-mike-malone-comments/",
-      "pubDate": "Mon, 06 Apr 2026 22:58:44 +0000",
-      "description": "<p>\"They had an NFL champ hired as the coach and Duke beat Carolina in football this year ... there's time for adjustments.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/06/mike-krzyzewski-bill-belichick-unc-hires-mike-malone-comments/\">Mike Krzyzewski threw a subtle jab at Bill Belichick in response to new UNC hire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6a3cf5822d9d624ed318600a5ef9915b",
+      "title": "Brewers beat stumbling Red Sox 8-6 behind Mitchell\u2019s tiebreaking single and 3 hits from Yelich",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/06/brewers-beat-stumbling-red-sox-8-6-behind-mitchells-tiebreaking-single-and-3-hits-from-yelich/",
+      "pubDate": "Tue, 07 Apr 2026 02:32:11 +0000",
+      "description": "<p>Roman Anthony threw wildly to the plate, allowing a second run to score that made it 7-5.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/06/brewers-beat-stumbling-red-sox-8-6-behind-mitchells-tiebreaking-single-and-3-hits-from-yelich/\">Brewers beat stumbling Red Sox 8-6 behind Mitchell&#8217;s tiebreaking single and 3 hits from Yelich</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1ad80f1a390f49d959a05de266b2d407",
       "summary": [
-        "Mike Krzyzewski commented on Bill Belichick's coaching decisions regarding UNC's new hire.",
-        "Duke defeated Carolina in football this year, highlighting competitive tensions.",
-        "Boston residents may feel increased rivalry between local sports teams and college programs."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Person stabs dog in Milton during alleged attack",
-      "link": "https://www.boston.com/news/local-news/2026/04/06/person-stabs-dog-in-milton-during-alleged-attack/",
-      "pubDate": "Mon, 06 Apr 2026 22:44:13 +0000",
-      "description": "<p>The dog was taken to a local vet, State Police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/06/person-stabs-dog-in-milton-during-alleged-attack/\">Person stabs dog in Milton during alleged attack</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7621b2a703c2d89f7820cb431ce6e247",
-      "summary": [
-        "A person stabbed a dog in Milton during an alleged attack.",
-        "The injured dog was taken to a local vet for treatment.",
-        "State Police are investigating the incident for potential charges."
+        "Brewers defeated the Red Sox 8-6 on April 6, 2026.",
+        "Christian Yelich contributed three hits, enhancing his season performance.",
+        "Red Sox's loss raises concerns among fans about team performance."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-07T02:46:05.904567+00:00"
+    "timestamp": "2026-04-07T05:48:18.954746+00:00"
   }
 }

@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-04-07T02:46:05.905429+00:00",
+  "lastUpdated": "2026-04-07T05:48:18.955511+00:00",
   "articles": [
+    {
+      "title": "Worcester man receives life sentence for home invasion",
+      "link": "https://www.boston.com/news/local-news/2026/04/06/worcester-man-receives-life-sentence-for-home-invasion/",
+      "pubDate": "Tue, 07 Apr 2026 02:48:46 +0000",
+      "description": "<p>One person was inside the home during the robbery. They were uninjured, the DA's office said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/06/worcester-man-receives-life-sentence-for-home-invasion/\">Worcester man receives life sentence for home invasion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "80bd7e14e97d673d7c4ce653b165c136",
+      "summary": [
+        "Worcester man sentenced to life for a home invasion incident.",
+        "One resident was present during the robbery but remained uninjured.",
+        "This ruling aims to enhance safety and deter similar crimes in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Brewers beat stumbling Red Sox 8-6 behind Mitchell\u2019s tiebreaking single and 3 hits from Yelich",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/06/brewers-beat-stumbling-red-sox-8-6-behind-mitchells-tiebreaking-single-and-3-hits-from-yelich/",
+      "pubDate": "Tue, 07 Apr 2026 02:32:11 +0000",
+      "description": "<p>Roman Anthony threw wildly to the plate, allowing a second run to score that made it 7-5.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/06/brewers-beat-stumbling-red-sox-8-6-behind-mitchells-tiebreaking-single-and-3-hits-from-yelich/\">Brewers beat stumbling Red Sox 8-6 behind Mitchell&#8217;s tiebreaking single and 3 hits from Yelich</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1ad80f1a390f49d959a05de266b2d407",
+      "summary": [
+        "Brewers defeated the Red Sox 8-6 on April 6, 2026.",
+        "Christian Yelich contributed three hits, enhancing his season performance.",
+        "Red Sox's loss raises concerns among fans about team performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Derrick White talks beer, being a Bostonian, and a promising Celtics playoff run",
       "link": "https://www.boston.com/sports/boston-celtics/2026/04/06/boston-celtics-nba-basketball-joe-mazzulla-derrick-white-samuel-adams-beer/",
@@ -622,32 +648,6 @@
         "Family alleges a 3-year-old immigrant faced sexual abuse in federal custody for months.",
         "The child's father claims faster action could have prevented the abuse.",
         "This incident raises concerns about the safety of immigrant children in Boston's custody."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "US rescues aviator whose fighter jet was shot down in Iran",
-      "link": "https://www.boston.com/news/world-news/2026/04/05/us-rescues-aviator-whose-fighter-jet-was-shot-down-in-iran/",
-      "pubDate": "Sun, 05 Apr 2026 11:52:06 +0000",
-      "description": "<p>The fighter jet was the first American aircraft to have crashed in Iranian territory since the U.S. and Israel launched the war, striking Iran on Feb. 28. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/04/05/us-rescues-aviator-whose-fighter-jet-was-shot-down-in-iran/\">US rescues aviator whose fighter jet was shot down in Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8f86da50901e68e17ad9353282f96b34",
-      "summary": [
-        "US military rescued an aviator after a fighter jet was shot down in Iran.",
-        "The incident marks the first American aircraft crash in Iran since February 28.",
-        "Boston residents may feel increased tensions and security concerns due to ongoing military actions."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "She\u2019s running Boston with her best friend after both diagnosed with cancer",
-      "link": "https://www.boston.com/community/boston-marathon/2026/04/05/meg-gannon-mgh/",
-      "pubDate": "Sun, 05 Apr 2026 11:00:00 +0000",
-      "description": "<p>\"Cancer tried to slow us down, but it messed with the wrong girls.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/05/meg-gannon-mgh/\">She&#8217;s running Boston with her best friend after both diagnosed with cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3e3c0dcc428bee698f886c1de9471329",
-      "summary": [
-        "Meg Gannon and her best friend are running the Boston Marathon together.",
-        "Both women were diagnosed with cancer but remain determined to participate.",
-        "Their story inspires Boston residents facing similar health challenges."
       ],
       "hookType": "LOCAL_IMPACT"
     }
