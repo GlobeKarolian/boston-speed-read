@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-04-06T22:40:55.940715+00:00",
+  "lastUpdated": "2026-04-07T02:46:05.904547+00:00",
   "articles": [
     {
-      "title": "Mistrial declared after report that Conn. girl killed in 1986 had been placed in used body bag",
-      "link": "https://www.boston.com/news/local-news/2026/04/06/mistrial-declared-after-report-that-conn-girl-killed-in-1986-had-been-placed-in-used-body-bag/",
-      "pubDate": "Mon, 06 Apr 2026 22:17:04 +0000",
-      "description": "<p>News about the body bag came from Henry Lee, the forensic scientist known for his work on the O.J. Simpson murder case and other high-profile crimes across the country. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/06/mistrial-declared-after-report-that-conn-girl-killed-in-1986-had-been-placed-in-used-body-bag/\">Mistrial declared after report that Conn. girl killed in 1986 had been placed in used body bag</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ab1a0ef42d662add601da647a9afc684",
+      "title": "Derrick White talks beer, being a Bostonian, and a promising Celtics playoff run",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/04/06/boston-celtics-nba-basketball-joe-mazzulla-derrick-white-samuel-adams-beer/",
+      "pubDate": "Tue, 07 Apr 2026 02:16:16 +0000",
+      "description": "<p>\"When you put on that Celtic uniform, you're kind of judged on one thing.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/06/boston-celtics-nba-basketball-joe-mazzulla-derrick-white-samuel-adams-beer/\">Derrick White talks beer, being a Bostonian, and a promising Celtics playoff run</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "445c1a30624a4d02f2d40fbf08e8f24a",
       "summary": [
-        "Mistrial declared in Connecticut murder case due to body bag evidence on April 6, 2026.",
-        "Forensic scientist Henry Lee revealed the girl was placed in a used body bag.",
-        "This revelation raises concerns about forensic practices affecting justice in nearby Boston."
+        "Derrick White emphasizes the pride of wearing the Celtics uniform during playoffs.",
+        "White discusses his connection to Boston and local beer, specifically Samuel Adams.",
+        "Celtics' playoff performance could boost local morale and community engagement."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Alex Cora reshuffles Red Sox lineup, drops Trevor Story out of No. 2 spot",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/06/boston-red-sox-lineup-changes-trevor-story-yoshida-switch-shuffle-slump-alex-cora/",
-      "pubDate": "Mon, 06 Apr 2026 21:29:41 +0000",
-      "description": "<p>Trevor Story was bumped down to the No. 5 spot in Boston's batting order after a rough start to the 2026 season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/06/boston-red-sox-lineup-changes-trevor-story-yoshida-switch-shuffle-slump-alex-cora/\">Alex Cora reshuffles Red Sox lineup, drops Trevor Story out of No. 2 spot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "97ce042315ea5a93d71d66300fb1b175",
+      "title": "Mike Krzyzewski threw a subtle jab at Bill Belichick in response to new UNC hire",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/06/mike-krzyzewski-bill-belichick-unc-hires-mike-malone-comments/",
+      "pubDate": "Mon, 06 Apr 2026 22:58:44 +0000",
+      "description": "<p>\"They had an NFL champ hired as the coach and Duke beat Carolina in football this year ... there's time for adjustments.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/06/mike-krzyzewski-bill-belichick-unc-hires-mike-malone-comments/\">Mike Krzyzewski threw a subtle jab at Bill Belichick in response to new UNC hire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6a3cf5822d9d624ed318600a5ef9915b",
       "summary": [
-        "Alex Cora reshuffles Red Sox lineup, moving Trevor Story to No. 5 spot.",
-        "Trevor Story's batting average dropped significantly at the start of the 2026 season.",
-        "This change aims to improve team performance for Boston fans and local attendance."
+        "Mike Krzyzewski commented on Bill Belichick's coaching decisions regarding UNC's new hire.",
+        "Duke defeated Carolina in football this year, highlighting competitive tensions.",
+        "Boston residents may feel increased rivalry between local sports teams and college programs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Person stabs dog in Milton during alleged attack",
+      "link": "https://www.boston.com/news/local-news/2026/04/06/person-stabs-dog-in-milton-during-alleged-attack/",
+      "pubDate": "Mon, 06 Apr 2026 22:44:13 +0000",
+      "description": "<p>The dog was taken to a local vet, State Police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/06/person-stabs-dog-in-milton-during-alleged-attack/\">Person stabs dog in Milton during alleged attack</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7621b2a703c2d89f7820cb431ce6e247",
+      "summary": [
+        "A person stabbed a dog in Milton during an alleged attack.",
+        "The injured dog was taken to a local vet for treatment.",
+        "State Police are investigating the incident for potential charges."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-06T22:40:55.940736+00:00"
+    "timestamp": "2026-04-07T02:46:05.904567+00:00"
   }
 }
