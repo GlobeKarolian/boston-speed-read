@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-08T07:27:00.552126+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-08T09:07:01.177393+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (April 8)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/04/08/recent-homes-sales-in-greater-boston-april-8/",
+      "pubDate": "Wed, 08 Apr 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 854 Brockton Ave. One-family conventional, built in 1900, 1,584 square feet, 6 rooms, 2 bedrooms, 1 bath, on 10,871-square-foot lot. $550,000 14 Doris Drive. One-family Cape Cod, built in 1951, 1,623 square feet, 7 rooms, 3 bedrooms, 2 baths, on 7,350-square-foot lot. $515,000 ACTON 79 Charter Road. One-family Colonial, built in 1950, 2,652 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/04/08/recent-homes-sales-in-greater-boston-april-8/\">Recent homes sales in Greater Boston (April 8)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "29b9dc449f11b7b233e4f9ad073c46ef",
+      "summary": [
+        "Abington home at 854 Brockton Ave sold for $550,000 on April 8.",
+        "Acton property at 79 Charter Road, built in 1950, sold for $650,000.",
+        "Recent sales indicate rising home prices in Greater Boston, affecting local buyers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-08T07:27:00.552137+00:00"
+    "timestamp": "2026-04-08T09:07:01.177411+00:00"
   }
 }
