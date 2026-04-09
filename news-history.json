@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-09T17:11:57.565469+00:00",
+  "lastUpdated": "2026-04-09T19:13:27.500041+00:00",
   "articles": [
+    {
+      "title": "Industrial explosion sends multiple people to the hospital in East Providence",
+      "link": "https://www.boston.com/news/local-news/2026/04/09/industrial-explosion-sends-multiple-people-to-the-hospital-in-east-providence/",
+      "pubDate": "Thu, 09 Apr 2026 14:31:55 +0000",
+      "description": "<p>It remains unclear what caused the explosion at the Aspen Aerogels-run industrial plant. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/09/industrial-explosion-sends-multiple-people-to-the-hospital-in-east-providence/\">Industrial explosion sends multiple people to the hospital in East Providence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0973313c5c0e1bd6aba14aebbf5efd9c",
+      "summary": [
+        "Explosion at Aspen Aerogels industrial plant in East Providence injures multiple individuals.",
+        "Exact cause of the explosion remains under investigation as of April 9, 2026.",
+        "Local hospitals are treating the injured, raising safety concerns for nearby residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "They\u2019ve finally won consecutive games, but we\u2019re going to need to see more, and other thoughts on the Red Sox\u2019 4-8 start",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/04/09/red-sox-won-consecutive-games-4-8-start/",
@@ -635,19 +648,6 @@
         "Trevor Story's 2 RBI double led the Red Sox to a 3-2 victory over the Brewers.",
         "Garrett Crochet struck out seven batters, contributing to the team's performance.",
         "This win ends a 3-game losing streak, improving the Red Sox's record to 3-8."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What businesses in Boston are worth waiting in line for?",
-      "link": "https://www.boston.com/community/tell-us/2026/04/07/what-businesses-in-boston-are-worth-waiting-in-line-for/",
-      "pubDate": "Wed, 08 Apr 2026 02:45:37 +0000",
-      "description": "<p>Boston.com compiled a list of some Boston businesses where you're most likely to see a line out the door.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/04/07/what-businesses-in-boston-are-worth-waiting-in-line-for/\">What businesses in Boston are worth waiting in line for?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "39738a58a756e0537b01b45e89dbe366",
-      "summary": [
-        "Boston.com lists top businesses with long lines, indicating high demand among locals.",
-        "Popular spots include Flour Bakery and Mike's Pastry, known for their iconic treats.",
-        "Long wait times reflect community loyalty and support for local businesses."
       ],
       "hookType": "LOCAL_IMPACT"
     }

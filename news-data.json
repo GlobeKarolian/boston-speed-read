@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2026-04-09T17:11:57.564476+00:00",
+  "lastUpdated": "2026-04-09T19:13:27.499189+00:00",
   "articles": [
     {
-      "title": "They\u2019ve finally won consecutive games, but we\u2019re going to need to see more, and other thoughts on the Red Sox\u2019 4-8 start",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/09/red-sox-won-consecutive-games-4-8-start/",
-      "pubDate": "Thu, 09 Apr 2026 16:57:08 +0000",
-      "description": "<p>The Red Sox found time to put that clashing, atomic-green Monster energy drink logo on the Monster. They should have added another bat or two to hit the ball over it.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/09/red-sox-won-consecutive-games-4-8-start/\">They\u2019ve finally won consecutive games, but we\u2019re going to need to see more, and other thoughts on the Red Sox\u2019 4-8 start</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bd8b9e6fae635d9179b553607a342efd",
+      "title": "Industrial explosion sends multiple people to the hospital in East Providence",
+      "link": "https://www.boston.com/news/local-news/2026/04/09/industrial-explosion-sends-multiple-people-to-the-hospital-in-east-providence/",
+      "pubDate": "Thu, 09 Apr 2026 14:31:55 +0000",
+      "description": "<p>It remains unclear what caused the explosion at the Aspen Aerogels-run industrial plant. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/09/industrial-explosion-sends-multiple-people-to-the-hospital-in-east-providence/\">Industrial explosion sends multiple people to the hospital in East Providence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0973313c5c0e1bd6aba14aebbf5efd9c",
       "summary": [
-        "Red Sox achieved consecutive wins, improving their record to 4-8 this season.",
-        "Fans express concern over the team's need for additional offensive players.",
-        "Local businesses near Fenway Park hope for increased attendance as the season progresses."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Police search for owner, dog after man and dog are attacked in Everett",
-      "link": "https://www.boston.com/news/local-news/2026/04/09/police-search-for-owner-dog-after-man-and-dog-are-attacked-in-everett/",
-      "pubDate": "Thu, 09 Apr 2026 16:54:21 +0000",
-      "description": "<p>Police say the owner of the attacking dog left the scene before first responders arrived.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/09/police-search-for-owner-dog-after-man-and-dog-are-attacked-in-everett/\">Police search for owner, dog after man and dog are attacked in Everett</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "35a2f736334f22a06504bd00e90c5bd9",
-      "summary": [
-        "Police are searching for a dog owner involved in an attack in Everett.",
-        "The attacking dog and owner left the scene before first responders arrived.",
-        "Residents are urged to report sightings to ensure community safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Mass. House passes bill restricting teen social media and phones in schools",
-      "link": "https://www.boston.com/news/local-news/2026/04/09/mass-house-passes-bill-restricting-teen-social-media-and-phones-in-schools/",
-      "pubDate": "Thu, 09 Apr 2026 15:59:56 +0000",
-      "description": "<p>The bill would ban phones in schools and require parental consent for 14- and 15-year-olds to access social media.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/09/mass-house-passes-bill-restricting-teen-social-media-and-phones-in-schools/\">Mass. House passes bill restricting teen social media and phones in schools</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c74537dad6a56e0d0f59e7039e892a2f",
-      "summary": [
-        "Massachusetts House passed a bill banning phones in schools on April 9, 2026.",
-        "The bill requires parental consent for 14- and 15-year-olds to access social media.",
-        "This legislation aims to reduce distractions and improve focus among Boston students."
+        "Explosion at Aspen Aerogels industrial plant in East Providence injures multiple individuals.",
+        "Exact cause of the explosion remains under investigation as of April 9, 2026.",
+        "Local hospitals are treating the injured, raising safety concerns for nearby residents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-09T17:11:57.564499+00:00"
+    "timestamp": "2026-04-09T19:13:27.499210+00:00"
   }
 }
