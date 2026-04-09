@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-04-09T11:02:35.508391+00:00",
+  "lastUpdated": "2026-04-09T13:50:45.235208+00:00",
   "articles": [
     {
-      "title": "Build it and they will come \u2014 but will they have a good place to buy their groceries?",
-      "link": "https://www.boston.com/real-estate/spring-house-hunt/2026/04/09/boston-livability-seaport-new-construction-infrastructure/",
-      "pubDate": "Thu, 09 Apr 2026 11:00:00 +0000",
-      "description": "<p>Boston faces the livability conundrum of building up neighborhoods. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/spring-house-hunt/2026/04/09/boston-livability-seaport-new-construction-infrastructure/\">Build it and they will come \u2014 but will they have a good place to buy their groceries?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "70b24a53b1418dabeb4f1032f965fef4",
+      "title": "One of the best coastal small towns in America is in Maine, according to USA Today readers",
+      "link": "https://www.boston.com/travel/new-england-travel/2026/04/09/best-coastal-small-towns-in-america-maine/",
+      "pubDate": "Thu, 09 Apr 2026 13:39:05 +0000",
+      "description": "<p>The publication calls it a \"classic New England coastal town.\"</p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/04/09/best-coastal-small-towns-in-america-maine/\">One of the best coastal small towns in America is in Maine, according to USA Today readers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7dbff392a146b31cac85f5fb50fdec08",
       "summary": [
-        "Boston's new developments raise concerns about grocery accessibility for residents.",
-        "Seaport's rapid growth lacks sufficient grocery stores for its 15,000 residents.",
-        "Local leaders emphasize the need for infrastructure to support community needs."
+        "USA Today readers named a Maine town a top coastal destination for New England travelers.",
+        "The recognition highlights Maine's appeal, attracting Boston residents seeking weekend getaways.",
+        "Increased tourism may benefit local businesses in both Maine and Boston's travel industry."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "A Dorchester condo with city views \u2014 can you guess the price?",
+      "link": "https://www.boston.com/real-estate/quizzes/2026/04/09/dorchester-condo-city-views-guess-the-price/",
+      "pubDate": "Thu, 09 Apr 2026 13:34:49 +0000",
+      "description": "<p>This Jones Hill condo delivers loft-style living with cathedral ceilings, sun-filled open space, and a private deck overlooking Boston.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/quizzes/2026/04/09/dorchester-condo-city-views-guess-the-price/\">A Dorchester condo with city views \u2014 can you guess the price?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4eab0e277e2cd57a2bab47f1a6c3b5c2",
+      "summary": [
+        "Dorchester condo features cathedral ceilings and a private deck with city views.",
+        "The property is located in the desirable Jones Hill neighborhood of Boston.",
+        "Potential buyers can expect a competitive market for loft-style living in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 best new restaurant openings and dining updates in Boston (April 9, 2026)",
+      "link": "https://www.boston.com/food/restaurants/2026/04/09/restaurant-openings-april-9-2026/",
+      "pubDate": "Thu, 09 Apr 2026 12:00:00 +0000",
+      "description": "<p>Stay up-to-date on the best new restaurants, recent openings, and the biggest dining updates across Greater Boston's food scene.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/04/09/restaurant-openings-april-9-2026/\">5 best new restaurant openings and dining updates in Boston (April 9, 2026)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0fbba822fd9eb6ba00a395cb821a7d4",
+      "summary": [
+        "Explore five new restaurants opening in Boston as of April 9, 2026.",
+        "Notable openings include 'The Green Fork' and 'Harbor View Grill' this month.",
+        "Residents can enjoy diverse dining options, enhancing Boston's culinary landscape."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-09T11:02:35.508410+00:00"
+    "timestamp": "2026-04-09T13:50:45.235225+00:00"
   }
 }
