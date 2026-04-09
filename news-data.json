@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-09T09:12:55.370706+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-09T11:02:35.508391+00:00",
+  "articles": [
+    {
+      "title": "Build it and they will come \u2014 but will they have a good place to buy their groceries?",
+      "link": "https://www.boston.com/real-estate/spring-house-hunt/2026/04/09/boston-livability-seaport-new-construction-infrastructure/",
+      "pubDate": "Thu, 09 Apr 2026 11:00:00 +0000",
+      "description": "<p>Boston faces the livability conundrum of building up neighborhoods. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/spring-house-hunt/2026/04/09/boston-livability-seaport-new-construction-infrastructure/\">Build it and they will come \u2014 but will they have a good place to buy their groceries?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "70b24a53b1418dabeb4f1032f965fef4",
+      "summary": [
+        "Boston's new developments raise concerns about grocery accessibility for residents.",
+        "Seaport's rapid growth lacks sufficient grocery stores for its 15,000 residents.",
+        "Local leaders emphasize the need for infrastructure to support community needs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-09T09:12:55.370715+00:00"
+    "timestamp": "2026-04-09T11:02:35.508410+00:00"
   }
 }

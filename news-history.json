@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-09T02:41:34.770656+00:00",
+  "lastUpdated": "2026-04-09T11:02:35.509192+00:00",
   "articles": [
+    {
+      "title": "Build it and they will come \u2014 but will they have a good place to buy their groceries?",
+      "link": "https://www.boston.com/real-estate/spring-house-hunt/2026/04/09/boston-livability-seaport-new-construction-infrastructure/",
+      "pubDate": "Thu, 09 Apr 2026 11:00:00 +0000",
+      "description": "<p>Boston faces the livability conundrum of building up neighborhoods. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/spring-house-hunt/2026/04/09/boston-livability-seaport-new-construction-infrastructure/\">Build it and they will come \u2014 but will they have a good place to buy their groceries?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "70b24a53b1418dabeb4f1032f965fef4",
+      "summary": [
+        "Boston's new developments raise concerns about grocery accessibility for residents.",
+        "Seaport's rapid growth lacks sufficient grocery stores for its 15,000 residents.",
+        "Local leaders emphasize the need for infrastructure to support community needs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Rachael Rollins, former U.S. Attorney who resigned amid ethics scandal, reportedly running again for Suffolk DA",
       "link": "https://www.boston.com/news/local-news/2026/04/08/rachael-rollins-former-u-s-attorney-who-resigned-amid-ethics-scandal-reportedly-running-again-for-suffolk-da/",
@@ -635,19 +648,6 @@
         "Cape Air flight returned to Boston after cabin door partially opened midair.",
         "No injuries reported; aircraft remained stable during the incident.",
         "Incident raises safety concerns for Boston residents traveling to Nantucket."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Just one Mass. college ranks among the nation\u2019s best graduate schools, per U.S. News",
-      "link": "https://www.boston.com/news/local-news/2026/04/07/massachusetts-us-news-graduate-school-rankings/",
-      "pubDate": "Tue, 07 Apr 2026 20:33:00 +0000",
-      "description": "<p>MIT leads in engineering, but Massachusetts medical and nursing programs mostly fall short in the 2026 rankings.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/07/massachusetts-us-news-graduate-school-rankings/\">Just one Mass. college ranks among the nation&#8217;s best graduate schools, per U.S. News</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f54c3f2736fa945675d7bbd7f9ba1bf3",
-      "summary": [
-        "MIT ranks as the top engineering school in the nation for 2026.",
-        "Massachusetts medical and nursing programs fall short in national rankings.",
-        "Local students may face limited options for top-tier graduate programs."
       ],
       "hookType": "LOCAL_IMPACT"
     }
