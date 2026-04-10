@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-04-10T06:00:09.294307+00:00",
+  "lastUpdated": "2026-04-10T13:20:22.927274+00:00",
   "articles": [
+    {
+      "title": "What $1-2 million gets you in Boston and its suburbs",
+      "link": "https://www.boston.com/real-estate/spring-house-hunt/2026/04/10/boston-suburbs-on-million-two-million-homes/",
+      "pubDate": "Fri, 10 Apr 2026 13:00:00 +0000",
+      "description": "<p>Here\u2019s a snapshot of what\u2019s on the market right now in Boston\u2019s neighborhoods and the metro-area suburbs  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/spring-house-hunt/2026/04/10/boston-suburbs-on-million-two-million-homes/\">What $1-2 million gets you in Boston and its suburbs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d554bbfb00c63c06e0fdb9f80f54abe9",
+      "summary": [
+        "Explore current real estate listings in Boston and nearby suburbs priced between $1-2 million.",
+        "Find homes with diverse features, including 3-5 bedrooms and modern amenities in various neighborhoods.",
+        "Understand the competitive market dynamics affecting Boston residents seeking homes in this price range."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/04/10/greater-boston-news-quiz-red-sox-emma-stone-bears/",
+      "pubDate": "Fri, 10 Apr 2026 11:53:51 +0000",
+      "description": "<p>Red Sox scuttlebutt, some bear necessities, and an Emma Stone stop-in all made this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/04/10/greater-boston-news-quiz-red-sox-emma-stone-bears/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bf076135d13fc6f7e89f473ef0fd2889",
+      "summary": [
+        "Red Sox news highlights local sports updates for fans this week.",
+        "Emma Stone visited Boston, attracting attention to local events on April 10.",
+        "Residents can engage with local news through a new quiz format."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jayson Tatum returns to MSG, but Knicks hold off Celtics late: 7 takeaways",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/04/10/jayson-tatum-returns-to-msg-but-knicks-hold-off-celtics-late-7-takeaways/",
+      "pubDate": "Fri, 10 Apr 2026 11:51:32 +0000",
+      "description": "<p>Jayson Tatum cleared the hurdle, but the Knicks defeated the Celtics for the third time in the regular season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/10/jayson-tatum-returns-to-msg-but-knicks-hold-off-celtics-late-7-takeaways/\">Jayson Tatum returns to MSG, but Knicks hold off Celtics late: 7 takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c8f0b5dc6175c6cc7cc42a81689db0dc",
+      "summary": [
+        "Update: Jayson Tatum returns to MSG, but Knicks hold off C",
+        "Details: <p>Jayson Tatum cleared the hurdle, but the Knicks",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "As mortgage rates soar again, the Greater Boston housing market slump may continue through spring",
+      "link": "https://www.boston.com/real-estate/spring-house-hunt/2026/04/10/boston-spring-housing-market-mortgage-rates/",
+      "pubDate": "Fri, 10 Apr 2026 11:00:00 +0000",
+      "description": "<p>Still, local agents are seeing bustling open houses and bidding wars.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/spring-house-hunt/2026/04/10/boston-spring-housing-market-mortgage-rates/\">As mortgage rates soar again, the Greater Boston housing market slump may continue through spring</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1c1c26d131bc6ddf22966c6cb4a552ec",
+      "summary": [
+        "Update: As mortgage rates soar again, the Greater Boston h",
+        "Details: <p>Still, local agents are seeing bustling open ho",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "His brother passed away from glioblastoma. He\u2019s running Boston for cancer research",
+      "link": "https://www.boston.com/community/boston-marathon/2026/04/10/colin-gerner-stache-strong/",
+      "pubDate": "Fri, 10 Apr 2026 11:00:00 +0000",
+      "description": "<p>\"The grant will support researchers at Massachusetts General Hospital who study how glioblastoma evolves.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/10/colin-gerner-stache-strong/\">His brother passed away from glioblastoma. He&#8217;s running Boston for cancer research</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "202c970d46c7b020fae6ef4c2010be7b",
+      "summary": [
+        "Colin Gerner is running the Boston Marathon to honor his brother who died from glioblastoma.",
+        "Funds raised will support glioblastoma research at Massachusetts General Hospital.",
+        "The initiative aims to improve treatment options for Boston residents affected by this aggressive cancer."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Knicks stay alive in race for No. 2 seed in East, beat Celtics in Tatum\u2019s return to MSG",
       "link": "https://www.boston.com/sports/boston-celtics/2026/04/09/knicks-stay-alive-in-race-for-no-2-seed-in-east-beat-celtics-in-tatums-return-to-msg/",
@@ -583,71 +648,6 @@
         "Residents report electric bills averaging over $200 monthly, citing financial strain.",
         "Many express willingness to switch to municipal utilities for lower rates.",
         "High bills could drive policy changes in Boston's energy providers."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A Nordic-inspired sauna just opened in the White Mountains",
-      "link": "https://www.boston.com/travel/new-england-travel/2026/04/08/a-nordic-inspired-sauna-just-opened-in-the-white-mountains/",
-      "pubDate": "Wed, 08 Apr 2026 18:42:31 +0000",
-      "description": "<p>Travelers visit the spot from New England and around the world.</p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/04/08/a-nordic-inspired-sauna-just-opened-in-the-white-mountains/\">A Nordic-inspired sauna just opened in the White Mountains</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dd78a2845eefa8b02a4e0e42ade5cb33",
-      "summary": [
-        "A new Nordic-inspired sauna opened in the White Mountains, attracting local visitors.",
-        "The sauna draws travelers from New England and beyond, enhancing regional tourism.",
-        "Boston residents can enjoy a unique wellness experience just a short drive away."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What Patriots coach Mike Vrabel said about viral photos with NFL reporter",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/08/patriots-mike-vrabel-dianna-russini-photos-comments/",
-      "pubDate": "Wed, 08 Apr 2026 18:05:35 +0000",
-      "description": "<p>\u201cThese photos show a completely innocent interaction and any suggestion otherwise is laughable,\" he said. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/08/patriots-mike-vrabel-dianna-russini-photos-comments/\">What Patriots coach Mike Vrabel said about viral photos with NFL reporter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "666c0ce76d0671b09c088e27bb10bdec",
-      "summary": [
-        "Patriots coach Mike Vrabel addressed viral photos with reporter Dianna Russini on April 8.",
-        "Vrabel stated the interaction was innocent, dismissing any negative implications as laughable.",
-        "Local fans remain supportive as Vrabel clarifies the situation amid media speculation."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The perfect spring weekend starts with daffodils",
-      "link": "https://www.boston.com/travel/scenic-six/2026/04/08/the-perfect-spring-weekend-starts-with-daffodils/",
-      "pubDate": "Wed, 08 Apr 2026 17:56:58 +0000",
-      "description": "<p>Daffodil fields, state park camping, and more spring fun in New England.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/04/08/the-perfect-spring-weekend-starts-with-daffodils/\">The perfect spring weekend starts with daffodils</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cbaa2150fbd83969bbe1c4891195b9af",
-      "summary": [
-        "Explore daffodil fields in New England this spring for outdoor enjoyment.",
-        "Visit state parks for camping opportunities, enhancing local tourism and recreation.",
-        "Engage with nature to promote community well-being during the spring season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Matt Damon and Noah Kahan will join forces on \u2018SNL\u2019 in May",
-      "link": "https://www.boston.com/culture/entertainment/2026/04/08/matt-damon-noah-kahan-saturday-night-live/",
-      "pubDate": "Wed, 08 Apr 2026 17:53:49 +0000",
-      "description": "<p>Matt Damon will host the May 9, 2026 episode of \"Saturday Night Live,\" with Noah Kahan serving as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/04/08/matt-damon-noah-kahan-saturday-night-live/\">Matt Damon and Noah Kahan will join forces on &#8216;SNL&#8217; in May</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "559383f3ba7544f29f39154c7c0c0b07",
-      "summary": [
-        "Matt Damon will host 'Saturday Night Live' on May 9, 2026.",
-        "Noah Kahan, a local musician, will perform as the musical guest.",
-        "The event highlights Boston's cultural influence in national entertainment."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Land court backs Somerville church\u2019s plan for homeless shelter that raised neighborhood concerns",
-      "link": "https://www.boston.com/news/local-news/2026/04/08/land-court-backs-somerville-churchs-plan-for-homeless-shelter-that-raised-neighborhood-concerns/",
-      "pubDate": "Wed, 08 Apr 2026 17:21:52 +0000",
-      "description": "<p>Neighbors feared the \u201clow-barrier\u201d shelter would fuel drug activity, but the court ruled the Dover Amendment protects the church\u2019s right to open it.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/08/land-court-backs-somerville-churchs-plan-for-homeless-shelter-that-raised-neighborhood-concerns/\">Land court backs Somerville church\u2019s plan for homeless shelter that raised neighborhood concerns</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3a9717de2b02788e84c736fae3f678f3",
-      "summary": [
-        "Land court supports Somerville church's homeless shelter plan despite neighborhood concerns.",
-        "Court ruling cites the Dover Amendment, ensuring the church's right to operate the shelter.",
-        "Local residents express fears of increased drug activity near the low-barrier shelter."
       ],
       "hookType": "LOCAL_IMPACT"
     }
