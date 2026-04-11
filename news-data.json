@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-11T20:38:47.997543+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-11T22:36:22.369736+00:00",
+  "articles": [
+    {
+      "title": "Emil Lilleberg scores late as Lightning beat Bruins 2-1, delaying Boston\u2019s playoff clinch",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-lightning-recap-playoffs/",
+      "pubDate": "Sat, 11 Apr 2026 22:33:58 +0000",
+      "description": "<p>The Bruins have lost five games in a row.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-lightning-recap-playoffs/\">Emil Lilleberg scores late as Lightning beat Bruins 2-1, delaying Boston&rsquo;s playoff clinch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f97bbff27efa7d0e73c059ba8f4947fa",
+      "summary": [
+        "Update: Emil Lilleberg scores late as Lightning beat Bruin",
+        "Details: <p>The Bruins have lost five games in a row.</p>\n<",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Celtics\u2019 signing of Dalano Banton officially completes Brad Stevens\u2019s GM masterclass",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/04/11/nba-celtics-brad-stevens-gm-masterclass/",
+      "pubDate": "Sat, 11 Apr 2026 22:31:20 +0000",
+      "description": "<p>Stevens towed the luxury tax line to a tee down the stretch and still gave Joe Mazzulla a competitive roster this season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/11/nba-celtics-brad-stevens-gm-masterclass/\">Celtics&#8217; signing of Dalano Banton officially completes Brad Stevens&#8217;s GM masterclass</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d28b437dce03675443dc89832990f4d0",
+      "summary": [
+        "Update: Celtics\u2019 signing of Dalano Banton officially compl",
+        "Details: <p>Stevens towed the luxury tax line to a tee down",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-11T20:38:47.997553+00:00"
+    "timestamp": "2026-04-11T22:36:22.369759+00:00"
   }
 }
