@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-12T14:42:44.286981+00:00",
+  "lastUpdated": "2026-04-12T16:44:55.482086+00:00",
   "articles": [
+    {
+      "title": "Winthrop man charged with Social Security fraud, concealment",
+      "link": "https://www.boston.com/news/crime/2026/04/12/winthrop-man-charged-with-social-security-fraud-concealment/",
+      "pubDate": "Sun, 12 Apr 2026 15:00:35 +0000",
+      "description": "<p>The man allegedly concealed a person\u2019s death from the government so he could fraudulently receive their retirement benefits.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/12/winthrop-man-charged-with-social-security-fraud-concealment/\">Winthrop man charged with Social Security fraud, concealment</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4fae1423feaffd529db25c363a5ccdc1",
+      "summary": [
+        "Update: Winthrop man charged with Social Security fraud, c",
+        "Details: <p>The man allegedly concealed a person\u2019s death fr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "3 takeaways from the Revolution\u2019s 1-0 win over D.C. United",
       "link": "https://www.boston.com/sports/new-england-revolution/2026/04/12/3-takeaways-from-the-revolutions-1-0-win-over-d-c-united/",
@@ -635,19 +648,6 @@
         "Ryan Jennings, 46, drowned on April 1 while rescuing his children in Florida.",
         "His wife shared their love story, highlighting their family's bond and tragedy.",
         "Boston residents reflect on the risks of water safety during family vacations."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A Vermont ski lift is being retired after six decades",
-      "link": "https://www.boston.com/travel/skiing/2026/04/10/a-vermont-ski-lift-is-being-retired-after-six-decades/",
-      "pubDate": "Fri, 10 Apr 2026 13:43:31 +0000",
-      "description": "<p>\"We know this one will hit home for a lot of people.\" </p>\n<p>The post <a href=\"https://www.boston.com/travel/skiing/2026/04/10/a-vermont-ski-lift-is-being-retired-after-six-decades/\">A Vermont ski lift is being retired after six decades</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "69bf9f952d9f548ba9733f7a7ce5a2fa",
-      "summary": [
-        "Vermont's six-decade-old ski lift will be retired, affecting local skiers' experiences.",
-        "The lift has served generations of skiers since its installation in the 1960s.",
-        "Boston residents may seek alternative ski destinations as local favorites change."
       ],
       "hookType": "LOCAL_IMPACT"
     }
