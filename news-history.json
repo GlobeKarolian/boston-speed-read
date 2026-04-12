@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-04-11T22:36:22.370643+00:00",
+  "lastUpdated": "2026-04-12T02:56:37.145007+00:00",
   "articles": [
+    {
+      "title": "Bruins clinch Stanley Cup Playoff berth thanks to some help across NHL",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-nhl-hockey-stanley-cup-playoffs-berth-islanders-senators/",
+      "pubDate": "Sun, 12 Apr 2026 01:07:32 +0000",
+      "description": "<p>The Bruins will entering the postseason as a wild-card team in the Eastern Conference. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-nhl-hockey-stanley-cup-playoffs-berth-islanders-senators/\">Bruins clinch Stanley Cup Playoff berth thanks to some help across NHL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5c07c3acb98ca407b13682c2f15fe7db",
+      "summary": [
+        "Update: Bruins clinch Stanley Cup Playoff berth thanks to ",
+        "Details: <p>The Bruins will entering the postseason as a wi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "After latest loss, will Bruins finally turn to James Hagens on Sunday?",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-james-hagens-nhl-hockey-play-lightning-blue-jackets/",
+      "pubDate": "Sat, 11 Apr 2026 23:35:56 +0000",
+      "description": "<p>\"I gotta look at some video today and decide tomorrow. And we'll go from there.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-james-hagens-nhl-hockey-play-lightning-blue-jackets/\">After latest loss, will Bruins finally turn to James Hagens on Sunday?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4292690077137622fbb4906a11bd7cf3",
+      "summary": [
+        "Update: After latest loss, will Bruins finally turn to Jam",
+        "Details: <p>\"I gotta look at some video today and decide to",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Emil Lilleberg scores late as Lightning beat Bruins 2-1, delaying Boston\u2019s playoff clinch",
       "link": "https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-lightning-recap-playoffs/",
@@ -622,32 +648,6 @@
         "Federal judge dismisses DOJ lawsuit for voter data in Massachusetts on April 9, 2026.",
         "Judge ruled government lacked proper basis for demanding voter information.",
         "Local residents maintain privacy as federal attempts for data collection are blocked."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The Boston Fleet are ready to take a sold-out TD Garden by storm",
-      "link": "https://www.boston.com/sports/pwhl/2026/04/09/boston-fleet-pwhl-hockey-womens-montreal-td-garden-aerin-frankel-megan-keller-victoire/",
-      "pubDate": "Fri, 10 Apr 2026 01:17:47 +0000",
-      "description": "<p>\"We know this place is going to be full of Boston Fleet fans, but it's a step in the right direction for women's hockey in general.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/pwhl/2026/04/09/boston-fleet-pwhl-hockey-womens-montreal-td-garden-aerin-frankel-megan-keller-victoire/\">The Boston Fleet are ready to take a sold-out TD Garden by storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3d66818e1275018ec1420051ab9810b8",
-      "summary": [
-        "Boston Fleet to play at sold-out TD Garden on April 9, 2026.",
-        "Aerin Frankel and Megan Keller highlight the team's commitment to women's hockey.",
-        "Event signifies growth and support for women's hockey in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Fall River woman who led sex trafficking ring with 5 others pleads guilty",
-      "link": "https://www.boston.com/news/crime/2026/04/09/fall-river-woman-who-led-sex-trafficking-ring-with-5-others-pleads-guilty/",
-      "pubDate": "Fri, 10 Apr 2026 00:23:38 +0000",
-      "description": "<p>The woman is the fifth of six defendants to plead guilty for their involvement in the trafficking ring, which they ran in 2023.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/09/fall-river-woman-who-led-sex-trafficking-ring-with-5-others-pleads-guilty/\">Fall River woman who led sex trafficking ring with 5 others pleads guilty</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bf49cb99f7ba005a5568b9d34f3c1c37",
-      "summary": [
-        "Fall River woman pleads guilty to leading a sex trafficking ring in 2023.",
-        "She is the fifth of six defendants to admit guilt in this case.",
-        "The case highlights ongoing issues of trafficking affecting Boston communities."
       ],
       "hookType": "LOCAL_IMPACT"
     }
