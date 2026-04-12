@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-04-12T02:56:37.144209+00:00",
+  "lastUpdated": "2026-04-12T05:55:49.112949+00:00",
   "articles": [
     {
-      "title": "Bruins clinch Stanley Cup Playoff berth thanks to some help across NHL",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-nhl-hockey-stanley-cup-playoffs-berth-islanders-senators/",
-      "pubDate": "Sun, 12 Apr 2026 01:07:32 +0000",
-      "description": "<p>The Bruins will entering the postseason as a wild-card team in the Eastern Conference. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-nhl-hockey-stanley-cup-playoffs-berth-islanders-senators/\">Bruins clinch Stanley Cup Playoff berth thanks to some help across NHL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5c07c3acb98ca407b13682c2f15fe7db",
+      "title": "Ranger Suarez\u2019s scoreless start headlines Red Sox\u2019 well-rounded 7-1 win vs. Cardinals",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/12/red-sox-cardinals-ranger-suarez/",
+      "pubDate": "Sun, 12 Apr 2026 04:06:20 +0000",
+      "description": "<p>Boston scored five runs in the ninth inning to even the weekend series in St. Louis.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/12/red-sox-cardinals-ranger-suarez/\">Ranger Suarez&#8217;s scoreless start headlines Red Sox&#8217; well-rounded 7-1 win vs. Cardinals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "32a4443cfbe30ee076bc3a97063141e8",
       "summary": [
-        "Update: Bruins clinch Stanley Cup Playoff berth thanks to ",
-        "Details: <p>The Bruins will entering the postseason as a wi",
+        "Update: Ranger Suarez\u2019s scoreless start headlines Red Sox\u2019",
+        "Details: <p>Boston scored five runs in the ninth inning to ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "After latest loss, will Bruins finally turn to James Hagens on Sunday?",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-james-hagens-nhl-hockey-play-lightning-blue-jackets/",
-      "pubDate": "Sat, 11 Apr 2026 23:35:56 +0000",
-      "description": "<p>\"I gotta look at some video today and decide tomorrow. And we'll go from there.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/11/bruins-james-hagens-nhl-hockey-play-lightning-blue-jackets/\">After latest loss, will Bruins finally turn to James Hagens on Sunday?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4292690077137622fbb4906a11bd7cf3",
+      "title": "Fleet\u2019s sold-out homecoming at TD Garden a resounding victory for women\u2019s sports in Boston",
+      "link": "https://www.boston.com/sports/pwhl/2026/04/11/boston-fleet-td-garden-sold-out-montreal-victoire-pwhl-womens-hockey/",
+      "pubDate": "Sun, 12 Apr 2026 03:56:56 +0000",
+      "description": "<p>\"I think they saw that they can play in a professional hockey league and they can sell out buildings that the men play in.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/pwhl/2026/04/11/boston-fleet-td-garden-sold-out-montreal-victoire-pwhl-womens-hockey/\">Fleet\u2019s sold-out homecoming at TD Garden a resounding victory for women\u2019s sports in Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1f3359d5cfd664197b751ca830408f9b",
       "summary": [
-        "Update: After latest loss, will Bruins finally turn to Jam",
-        "Details: <p>\"I gotta look at some video today and decide to",
+        "Update: Fleet\u2019s sold-out homecoming at TD Garden a resound",
+        "Details: <p>\"I think they saw that they can play in a profe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox\u2019 offense bounces back huge in 7-1 win over Cardinals",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/11/mlb-red-sox-offense-bounce-back-alex-cora/",
+      "pubDate": "Sun, 12 Apr 2026 03:47:31 +0000",
+      "description": "<p>Boston rattled off five runs in the ninth inning to seal the game.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/11/mlb-red-sox-offense-bounce-back-alex-cora/\">Red Sox&#8217; offense bounces back huge in 7-1 win over Cardinals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3944cfad40eaec878e1e640ceb189a09",
+      "summary": [
+        "Update: Red Sox\u2019 offense bounces back huge in 7-1 win over",
+        "Details: <p>Boston rattled off five runs in the ninth innin",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-12T02:56:37.144231+00:00"
+    "timestamp": "2026-04-12T05:55:49.112967+00:00"
   }
 }
