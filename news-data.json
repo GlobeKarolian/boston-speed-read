@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-04-12T18:56:20.442483+00:00",
+  "lastUpdated": "2026-04-12T20:41:21.218728+00:00",
   "articles": [
     {
-      "title": "Review and setlist: Lily Allen asks \u2018Who the f\u2014 is Madeline?\u2019 at the Orpheum",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/04/12/review-and-setlist-lily-allen-at-the-orpheum-boston-april-11-2026/",
-      "pubDate": "Sun, 12 Apr 2026 17:57:45 +0000",
-      "description": "<p>Probably the only one who wouldn't like Saturday's Boston performance by \"West End Girl\" Lily Allen would be her ex, David Harbour.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/04/12/review-and-setlist-lily-allen-at-the-orpheum-boston-april-11-2026/\">Review and setlist: Lily Allen asks &#8216;Who the f\u2014 is Madeline?&#8217; at the Orpheum</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d614f3097a501428bfa5399b8d6e3774",
+      "title": "Police say 1 person killed and 6 injured in shooting at a Chick-fil-A in New Jersey",
+      "link": "https://www.boston.com/news/crime/2026/04/12/police-say-1-person-killed-and-6-injured-in-shooting-at-a-chick-fil-a-in-new-jersey/",
+      "pubDate": "Sun, 12 Apr 2026 20:25:24 +0000",
+      "description": "<p>Investigators do not believe the attack at about 9 p.m. Saturday was random, according to a press release issued Sunday from the Union County Prosecutor\u2019s Office.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/12/police-say-1-person-killed-and-6-injured-in-shooting-at-a-chick-fil-a-in-new-jersey/\">Police say 1 person killed and 6 injured in shooting at a Chick-fil-A in New Jersey</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7672a4c41599a2ce6c4924ea59bdc050",
       "summary": [
-        "Update: Review and setlist: Lily Allen asks \u2018Who the f\u2014 is",
-        "Details: <p>Probably the only one who wouldn't like Saturda",
+        "Update: Police say 1 person killed and 6 injured in shooti",
+        "Details: <p>Investigators do not believe the attack at abou",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u2018The Super Mario Galaxy Movie\u2019 rockets to $629 million worldwide at the box office",
+      "link": "https://www.boston.com/culture/entertainment/2026/04/12/the-super-mario-galaxy-movie-rockets-to-629-million-worldwide-at-the-box-office/",
+      "pubDate": "Sun, 12 Apr 2026 20:18:43 +0000",
+      "description": "<p>According to a review by The Associated Press, it\u2019s \u201ca movie as frothy and insubstantial as the foam on a nice cappuccino.\u201d It currently holds a 68% critic score on Rotten Tomatoes.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/04/12/the-super-mario-galaxy-movie-rockets-to-629-million-worldwide-at-the-box-office/\">&lsquo;The Super Mario Galaxy Movie&rsquo; rockets to $629 million worldwide at the box office</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c9cd5a2022b3b1ce4bdc95a38577e867",
+      "summary": [
+        "Update: \u2018The Super Mario Galaxy Movie\u2019 rockets to $629 mil",
+        "Details: <p>According to a review by The Associated Press, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Fellow Democrats urge Swalwell to quit California governor\u2019s race and resign from Congress",
+      "link": "https://www.boston.com/news/politics/2026/04/12/fellow-democrats-urge-swalwell-to-quit-california-governors-race-and-resign-from-congress/",
+      "pubDate": "Sun, 12 Apr 2026 20:13:55 +0000",
+      "description": "<p>Over the weekend, with Swalwell's gubernatorial campaign already teetering, Democrats in Congress began to call for his resignation from the House. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/04/12/fellow-democrats-urge-swalwell-to-quit-california-governors-race-and-resign-from-congress/\">Fellow Democrats urge Swalwell to quit California governor&#8217;s race and resign from Congress</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cacb4cf4a2ad515832593deda9e70858",
+      "summary": [
+        "Update: Fellow Democrats urge Swalwell to quit California ",
+        "Details: <p>Over the weekend, with Swalwell's gubernatorial",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-12T18:56:20.442502+00:00"
+    "timestamp": "2026-04-12T20:41:21.218747+00:00"
   }
 }
