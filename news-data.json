@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-04-12T10:42:02.816165+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-12T13:09:38.518064+00:00",
+  "articles": [
+    {
+      "title": "\u2018SNL\u2019 recap: Best moments from Colman Domingo hosting \u2018Saturday Night Live\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2026/04/12/snl-recap-colman-domingo-2026/",
+      "pubDate": "Sun, 12 Apr 2026 12:37:09 +0000",
+      "description": "<p>Colman Domingo hosted the April 11 episode of \"Saturday Night Live,\" with Anitta as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/04/12/snl-recap-colman-domingo-2026/\">\u2018SNL\u2019 recap: Best moments from Colman Domingo hosting \u2018Saturday Night Live\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9459a722e273e950c44ead57d5981ea1",
+      "summary": [
+        "Update: \u2018SNL\u2019 recap: Best moments from Colman Domingo host",
+        "Details: <p>Colman Domingo hosted the April 11 episode of \"",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "US and Iran end ceasefire talks without agreement, blaming each other",
+      "link": "https://www.boston.com/news/world-news/2026/04/12/us-and-iran-end-ceasefire-talks-without-agreement-blaming-each-other/",
+      "pubDate": "Sun, 12 Apr 2026 12:06:38 +0000",
+      "description": "<p>Neither side indicated what will happen after the 14-day ceasefire expires on April 22. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/04/12/us-and-iran-end-ceasefire-talks-without-agreement-blaming-each-other/\">US and Iran end ceasefire talks without agreement, blaming each other</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18cd022ad2b03ddc511c531a27f0c51f",
+      "summary": [
+        "Update: US and Iran end ceasefire talks without agreement,",
+        "Details: <p>Neither side indicated what will happen after t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Stabbings on New York subway leave 3 hurt",
+      "link": "https://www.boston.com/news/national-news/2026/04/12/stabbings-on-new-york-subway-leave-3-hurt/",
+      "pubDate": "Sun, 12 Apr 2026 11:58:50 +0000",
+      "description": "<p>Police shot and killed the machete-wielding man, according to officials.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/04/12/stabbings-on-new-york-subway-leave-3-hurt/\">Stabbings on New York subway leave 3 hurt</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aa55825961532c18113136a41345a38d",
+      "summary": [
+        "Update: Stabbings on New York subway leave 3 hurt",
+        "Details: <p>Police shot and killed the machete-wielding man",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-12T10:42:02.816175+00:00"
+    "timestamp": "2026-04-12T13:09:38.518088+00:00"
   }
 }
