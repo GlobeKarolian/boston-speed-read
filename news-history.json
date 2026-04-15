@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-15T09:24:33.020804+00:00",
+  "lastUpdated": "2026-04-15T11:03:50.470777+00:00",
   "articles": [
+    {
+      "title": "This Boston College student is running Boston for the BPL",
+      "link": "https://www.boston.com/community/why-im-running/2026/04/15/lucas-driscoll-boston-public-library/",
+      "pubDate": "Wed, 15 Apr 2026 11:00:00 +0000",
+      "description": "<p>\"The Boston Public Library is a place where I didn\u2019t compete for attention, didn\u2019t hide behind my siblings, and didn\u2019t pretend to be someone else.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/why-im-running/2026/04/15/lucas-driscoll-boston-public-library/\">This Boston College student is running Boston for the BPL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6c346b1c932e63679a67507284caf3d4",
+      "summary": [
+        "Update: This Boston College student is running Boston for ",
+        "Details: <p>\"The Boston Public Library is a place where I d",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Recent homes sales in Greater Boston (April 15)",
       "link": "https://www.boston.com/real-estate/latest-sales/2026/04/15/recent-homes-sales-in-greater-boston-april-15/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: A 16-year-old from Florida charged with sexually a",
         "Details: <p>The cause of Anna Kepner's Nov. 6 death was det",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Rhode Island bill proposes 24-hour bar hours during World Cup",
-      "link": "https://www.boston.com/news/local-news/2026/04/13/rhode-island-bill-24-hour-bar-world-cup/",
-      "pubDate": "Mon, 13 Apr 2026 20:24:43 +0000",
-      "description": "<p>Under the legislation, the extended hours would apply from June 11 through July 19 throughout the state.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/13/rhode-island-bill-24-hour-bar-world-cup/\">Rhode Island bill proposes 24-hour bar hours during World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1180cf7e83efcace1c90f69cf45b90d6",
-      "summary": [
-        "Update: Rhode Island bill proposes 24-hour bar hours durin",
-        "Details: <p>Under the legislation, the extended hours would",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
