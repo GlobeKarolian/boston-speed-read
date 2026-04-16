@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-04-16T20:53:42.473906+00:00",
+  "lastUpdated": "2026-04-16T22:46:37.938376+00:00",
   "articles": [
     {
-      "title": "Starmer faces calls to resign as UK government admits ambassador to US failed vetting process",
-      "link": "https://www.boston.com/news/world-news/2026/04/16/starmer-faces-calls-to-resign-as-uk-government-admits-ambassador-to-us-failed-vetting-process/",
-      "pubDate": "Thu, 16 Apr 2026 20:47:34 +0000",
-      "description": "<p>Ed Davey, the leader of the centrist Liberal Democrats, said Starmer \u201cmust go\u201d if he misled Parliament and lied to the British public.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/04/16/starmer-faces-calls-to-resign-as-uk-government-admits-ambassador-to-us-failed-vetting-process/\">Starmer faces calls to resign as UK government admits ambassador to US failed vetting process</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "623e79e65a0e9dc6ea34de59cc8a8e66",
+      "title": "Why 2 Bruins teammates spent the last few nights in same hospital",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/16/boston-bruins-casey-mittelstadt-pavel-zacha-nhl-hockey-hospital-kids/",
+      "pubDate": "Thu, 16 Apr 2026 21:43:00 +0000",
+      "description": "<p>\"Now we're three doors down [from each other], so it was really nice that we could both be there and experience the same thing.\u201d \u200b</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/16/boston-bruins-casey-mittelstadt-pavel-zacha-nhl-hockey-hospital-kids/\">Why 2 Bruins teammates spent the last few nights in same hospital</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cc9275406c95956c7b38d2cc8e5234a",
       "summary": [
-        "Update: Starmer faces calls to resign as UK government adm",
-        "Details: <p>Ed Davey, the leader of the centrist Liberal De",
+        "Update: Why 2 Bruins teammates spent the last few nights i",
+        "Details: <p>\"Now we're three doors down [from each other], ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Trump nominates Erica Schwartz, former deputy surgeon general, to serve as CDC director",
-      "link": "https://www.boston.com/news/health/2026/04/16/trump-nominates-erica-schwartz-former-deputy-surgeon-general-to-serve-as-cdc-director/",
-      "pubDate": "Thu, 16 Apr 2026 20:29:50 +0000",
-      "description": "<p>In a social media post, Trump described Schwartz as \u201cincredibly talented\u201d and said, \"She is a STAR!\"</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/04/16/trump-nominates-erica-schwartz-former-deputy-surgeon-general-to-serve-as-cdc-director/\">Trump nominates Erica Schwartz, former deputy surgeon general, to serve as CDC director</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7081e16db681f550d30b08678df48d56",
+      "title": "Karen Read, Turtleboy facing defamation lawsuit from witnesses in her murder case",
+      "link": "https://www.boston.com/news/local-news/2026/04/16/karen-read-turtleboy-defamation-lawsuit-witnesses/",
+      "pubDate": "Thu, 16 Apr 2026 21:18:18 +0000",
+      "description": "<p>\u201cThese lies have torn our community apart and caused immense suffering,\u201d Jennifer McCabe, Brian Albert, Colin Albert, and Brian Higgins said. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/16/karen-read-turtleboy-defamation-lawsuit-witnesses/\">Karen Read, Turtleboy facing defamation lawsuit from witnesses in her murder case</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "12636187c0de93ca2652841da01bf89b",
       "summary": [
-        "Update: Trump nominates Erica Schwartz, former deputy surg",
-        "Details: <p>In a social media post, Trump described Schwart",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Rodney Marshall appointed new fire commissioner, becomes first Black leader in department history",
-      "link": "https://www.boston.com/news/local-news/2026/04/16/rodney-marshall-appointed-new-fire-commissioner-becomes-first-black-leader-in-department-history/",
-      "pubDate": "Thu, 16 Apr 2026 19:42:36 +0000",
-      "description": "<p>Marshall is a Dorchester native who has earned recognition for saving lives during his 35-year career with the Boston Fire Department. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/16/rodney-marshall-appointed-new-fire-commissioner-becomes-first-black-leader-in-department-history/\">Rodney Marshall appointed new fire commissioner, becomes first Black leader in department history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fc793a7a4f24d8c9a59c9e9621877997",
-      "summary": [
-        "Update: Rodney Marshall appointed new fire commissioner, b",
-        "Details: <p>Marshall is a Dorchester native who has earned ",
+        "Update: Karen Read, Turtleboy facing defamation lawsuit fr",
+        "Details: <p>\u201cThese lies have torn our community apart and c",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-16T20:53:42.473918+00:00"
+    "timestamp": "2026-04-16T22:46:37.938396+00:00"
   }
 }
