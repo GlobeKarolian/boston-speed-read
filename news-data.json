@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-17T09:22:46.754521+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-17T11:00:46.752793+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/04/17/local-news-quiz-vrabel-marathon-taxes/",
+      "pubDate": "Fri, 17 Apr 2026 10:48:01 +0000",
+      "description": "<p>Marathon modifications, a Vrabel hullabaloo, and an onerous override all made this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/04/17/local-news-quiz-vrabel-marathon-taxes/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f3463a6f723898dbdfc8010d6eb70e2b",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>Marathon modifications, a Vrabel hullabaloo, an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "After decades of legal battles, an $18m home rises on the disputed lot",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/04/17/beverly-farms-18m-house-legal-battle/",
+      "pubDate": "Fri, 17 Apr 2026 10:00:00 +0000",
+      "description": "<p>The property\u2019s long, bitter saga included allegations of Porta Potties positioned to waft odors toward a neighbor\u2019s pool.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/04/17/beverly-farms-18m-house-legal-battle/\">After decades of legal battles, an $18m home rises on the disputed lot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "849c389571b278ca1b65f3086f0f7c9a",
+      "summary": [
+        "Update: After decades of legal battles, an $18m home rises",
+        "Details: <p>The property\u2019s long, bitter saga included alleg",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-17T09:22:46.754529+00:00"
+    "timestamp": "2026-04-17T11:00:46.752813+00:00"
   }
 }

@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-04-17T06:05:17.408410+00:00",
+  "lastUpdated": "2026-04-17T11:00:46.753630+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/04/17/local-news-quiz-vrabel-marathon-taxes/",
+      "pubDate": "Fri, 17 Apr 2026 10:48:01 +0000",
+      "description": "<p>Marathon modifications, a Vrabel hullabaloo, and an onerous override all made this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/04/17/local-news-quiz-vrabel-marathon-taxes/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f3463a6f723898dbdfc8010d6eb70e2b",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>Marathon modifications, a Vrabel hullabaloo, an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "After decades of legal battles, an $18m home rises on the disputed lot",
+      "link": "https://www.boston.com/real-estate/luxury-homes/2026/04/17/beverly-farms-18m-house-legal-battle/",
+      "pubDate": "Fri, 17 Apr 2026 10:00:00 +0000",
+      "description": "<p>The property\u2019s long, bitter saga included allegations of Porta Potties positioned to waft odors toward a neighbor\u2019s pool.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/04/17/beverly-farms-18m-house-legal-battle/\">After decades of legal battles, an $18m home rises on the disputed lot</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "849c389571b278ca1b65f3086f0f7c9a",
+      "summary": [
+        "Update: After decades of legal battles, an $18m home rises",
+        "Details: <p>The property\u2019s long, bitter saga included alleg",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "4 things Bruins must do to beat Buffalo Sabres in Stanley Cup Playoffs",
       "link": "https://www.boston.com/sports/boston-bruins/2026/04/16/boston-bruins-buffalo-sabres-matchups-nhl-hockey-stanley-cup-playoffs-preview/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Ask the remodeler: Is layered the new recessed lig",
         "Details: <p>Homeowners are looking for more out of their li",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Here are the qualifying times for the 2026 Boston Marathon",
-      "link": "https://www.boston.com/community/boston-marathon/2026/04/16/here-are-the-qualifying-times-for-the-2026-boston-marathon/",
-      "pubDate": "Thu, 16 Apr 2026 09:00:00 +0000",
-      "description": "<p>Qualifying for the Boston Marathon is more competitive than ever, with the BAA making qualifying times faster than before.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/04/16/here-are-the-qualifying-times-for-the-2026-boston-marathon/\">Here are the qualifying times for the 2026 Boston Marathon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "869cc1c16be1071bbb1422862623c2d8",
-      "summary": [
-        "Update: Here are the qualifying times for the 2026 Boston ",
-        "Details: <p>Qualifying for the Boston Marathon is more comp",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Celtics to face Philadelphia 76ers in first round of NBA playoffs",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/04/15/boston-celtics-nba-basketball-playoff-first-round-philadelphia-76ers-sixers/",
-      "pubDate": "Thu, 16 Apr 2026 02:57:13 +0000",
-      "description": "<p>Game 1 between the Celtics and Sixers will tip off on Sunday afternoon. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/15/boston-celtics-nba-basketball-playoff-first-round-philadelphia-76ers-sixers/\">Celtics to face Philadelphia 76ers in first round of NBA playoffs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5646ac65ac73dbd2306356100353cc06",
-      "summary": [
-        "Update: Celtics to face Philadelphia 76ers in first round ",
-        "Details: <p>Game 1 between the Celtics and Sixers will tip ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
