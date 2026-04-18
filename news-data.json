@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-18T18:57:03.586351+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-18T20:41:18.175284+00:00",
+  "articles": [
+    {
+      "title": "Joe Mazzulla explained why he deflected praise during Coach of the Year conversation",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/04/18/joe-mazzulla-explained-why-he-deflected-praise-during-coach-of-the-year-conversation/",
+      "pubDate": "Sat, 18 Apr 2026 19:13:36 +0000",
+      "description": "<p>\"At the end of the day we all battle with pride in some capacity and learning how to navigate that ... we're all just looking to just be better.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/18/joe-mazzulla-explained-why-he-deflected-praise-during-coach-of-the-year-conversation/\">Joe Mazzulla explained why he deflected praise during Coach of the Year conversation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d00928c17d067de38337f90a5c07fac",
+      "summary": [
+        "Update: Joe Mazzulla explained why he deflected praise dur",
+        "Details: <p>\"At the end of the day we all battle with pride",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "NFL is not investigating Patriots coach Mike Vrabel for behavior regarding reporter Dianna Russini",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/18/mike-vrabel-dianna-russini-nfl-investigation/",
+      "pubDate": "Sat, 18 Apr 2026 15:22:30 +0000",
+      "description": "<p>An NFL spokesman said the league is not looking into the matter.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/18/mike-vrabel-dianna-russini-nfl-investigation/\">NFL is not investigating Patriots coach Mike Vrabel for behavior regarding reporter Dianna Russini</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5dd1477bd6b5ffc61691b3d7a520331f",
+      "summary": [
+        "Update: NFL is not investigating Patriots coach Mike Vrabe",
+        "Details: <p>An NFL spokesman said the league is not looking",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-18T18:57:03.586360+00:00"
+    "timestamp": "2026-04-18T20:41:18.175304+00:00"
   }
 }
