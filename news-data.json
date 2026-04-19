@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-04-19T14:43:43.936180+00:00",
+  "lastUpdated": "2026-04-19T16:47:22.978427+00:00",
   "articles": [
     {
-      "title": "Boston Marathon road closures: Here\u2019s the city\u2019s full list of restricted areas for Monday",
-      "link": "https://www.boston.com/sports/boston-marathon/2026/04/19/boston-marathon-road-closures-heres-the-citys-full-list-of-restricted-areas-for-monday/",
-      "pubDate": "Sun, 19 Apr 2026 13:48:52 +0000",
-      "description": "<p>Thinking of driving around the city on Marathon Monday? City officials would really prefer you didn\u2019t, but if you must\u2026</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-marathon/2026/04/19/boston-marathon-road-closures-heres-the-citys-full-list-of-restricted-areas-for-monday/\">Boston Marathon road closures: Here\u2019s the city\u2019s full list of restricted areas for Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "555f563d8e2409707dd298a285761755",
+      "title": "MBTA announces service changes, suspensions for various lines throughout May",
+      "link": "https://www.boston.com/news/transportation/2026/04/19/mbta-announces-service-changes-suspensions-for-various-lines-throughout-may/",
+      "pubDate": "Sun, 19 Apr 2026 15:20:10 +0000",
+      "description": "<p>A long list of closures will happen on the Red Line, Green Line, Blue Line, Mattapan Line, and some Commuter Rail lines.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/04/19/mbta-announces-service-changes-suspensions-for-various-lines-throughout-may/\">MBTA announces service changes, suspensions for various lines throughout May</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3bad32bd01b9aac48ab4398e17249955",
       "summary": [
-        "Update: Boston Marathon road closures: Here\u2019s the city\u2019s f",
-        "Details: <p>Thinking of driving around the city on Marathon",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Trump says US negotiators will be in Pakistan on Monday for talks with Iran",
-      "link": "https://www.boston.com/news/world-news/2026/04/19/trump-says-us-negotiators-will-be-in-pakistan-on-monday-for-talks-with-iran/",
-      "pubDate": "Sun, 19 Apr 2026 12:30:11 +0000",
-      "description": "<p>Trump, in a post on social media Sunday, didn't detail which officials the U.S. would sending to a second round of in-person talks with Iran is Islamabad.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/04/19/trump-says-us-negotiators-will-be-in-pakistan-on-monday-for-talks-with-iran/\">Trump says US negotiators will be in Pakistan on Monday for talks with Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f4678e14241a208d8c21a43fe4b6583d",
-      "summary": [
-        "Update: Trump says US negotiators will be in Pakistan on M",
-        "Details: <p>Trump, in a post on social media Sunday, didn't",
+        "Update: MBTA announces service changes, suspensions for va",
+        "Details: <p>A long list of closures will happen on the Red ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-19T14:43:43.936202+00:00"
+    "timestamp": "2026-04-19T16:47:22.978449+00:00"
   }
 }

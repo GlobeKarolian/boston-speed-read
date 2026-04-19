@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-04-19T14:43:43.937034+00:00",
+  "lastUpdated": "2026-04-19T16:47:22.979272+00:00",
   "articles": [
+    {
+      "title": "MBTA announces service changes, suspensions for various lines throughout May",
+      "link": "https://www.boston.com/news/transportation/2026/04/19/mbta-announces-service-changes-suspensions-for-various-lines-throughout-may/",
+      "pubDate": "Sun, 19 Apr 2026 15:20:10 +0000",
+      "description": "<p>A long list of closures will happen on the Red Line, Green Line, Blue Line, Mattapan Line, and some Commuter Rail lines.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/04/19/mbta-announces-service-changes-suspensions-for-various-lines-throughout-may/\">MBTA announces service changes, suspensions for various lines throughout May</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3bad32bd01b9aac48ab4398e17249955",
+      "summary": [
+        "Update: MBTA announces service changes, suspensions for va",
+        "Details: <p>A long list of closures will happen on the Red ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Boston Marathon road closures: Here\u2019s the city\u2019s full list of restricted areas for Monday",
       "link": "https://www.boston.com/sports/boston-marathon/2026/04/19/boston-marathon-road-closures-heres-the-citys-full-list-of-restricted-areas-for-monday/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Lynnfield searches for new middle school principal",
         "Details: <p>Controversy surrounding recent incidents of \u201cra",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Statue honors Boston Marathon pioneer Bobbi Gibb. She\u2019s not just the subject \u2014 she\u2019s the sculptor, too.",
-      "link": "https://www.boston.com/sports/boston-marathon/2026/04/17/statue-honors-boston-marathon-pioneer-bobbi-gibb-shes-not-just-the-subject-shes-the-sculptor-too/",
-      "pubDate": "Fri, 17 Apr 2026 16:40:58 +0000",
-      "description": "<p>The artist, lawyer and running pioneer unveiled her self-portrait in bronze alongside the Hopkinton Town Green this spring \u2014 the first statue of a woman on the historic route to Boston. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-marathon/2026/04/17/statue-honors-boston-marathon-pioneer-bobbi-gibb-shes-not-just-the-subject-shes-the-sculptor-too/\">Statue honors Boston Marathon pioneer Bobbi Gibb. She&#8217;s not just the subject \u2014 she&#8217;s the sculptor, too.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "839b15bab961273aa4a6b05ba4e71822",
-      "summary": [
-        "Update: Statue honors Boston Marathon pioneer Bobbi Gibb. ",
-        "Details: <p>The artist, lawyer and running pioneer unveiled",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
