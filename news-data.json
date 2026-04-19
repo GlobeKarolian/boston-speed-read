@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-04-19T10:42:33.387155+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-19T13:09:56.217030+00:00",
+  "articles": [
+    {
+      "title": "3 takeaways from the Revolution\u2019s 2-1 comeback win against the Crew",
+      "link": "https://www.boston.com/sports/new-england-revolution/2026/04/19/3-takeaways-from-the-revolutions-2-1-win-vs-crew/",
+      "pubDate": "Sun, 19 Apr 2026 12:56:47 +0000",
+      "description": "<p>New England battled back with a spirited second-half display.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/04/19/3-takeaways-from-the-revolutions-2-1-win-vs-crew/\">3 takeaways from the Revolution&#8217;s 2-1 comeback win against the Crew</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "29cfc0cb5e8680eb7780bf924ea18ed9",
+      "summary": [
+        "Update: 3 takeaways from the Revolution\u2019s 2-1 comeback win",
+        "Details: <p>New England battled back with a spirited second",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "DA: Lexington man armed with knife killed by police in officer-involved shooting",
+      "link": "https://www.boston.com/news/local-news/2026/04/19/da-lexington-man-armed-with-knife-killed-by-police-in-officer-involved-shooting/",
+      "pubDate": "Sun, 19 Apr 2026 12:43:52 +0000",
+      "description": "<p>The man was fatally shot outside his home in Lexington after he allegedly approached police while armed with a knife.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/19/da-lexington-man-armed-with-knife-killed-by-police-in-officer-involved-shooting/\">DA: Lexington man armed with knife killed by police in officer-involved shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2760af7d1bbb52df6331c6454856e641",
+      "summary": [
+        "Update: DA: Lexington man armed with knife killed by polic",
+        "Details: <p>The man was fatally shot outside his home in Le",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Life jacket worn by passenger who survived Titanic auctioned off for over $900,000",
+      "link": "https://www.boston.com/culture/entertainment/2026/04/19/life-jacket-worn-by-passenger-who-survived-titanic-auctioned-off-for-over-900000/",
+      "pubDate": "Sun, 19 Apr 2026 12:27:22 +0000",
+      "description": "<p>The flotation device was worn by Laura Mabel Francatelli, a first-class passenger on the doomed ocean liner.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/04/19/life-jacket-worn-by-passenger-who-survived-titanic-auctioned-off-for-over-900000/\">Life jacket worn by passenger who survived Titanic auctioned off for over $900,000</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18400683d3713b1ebc376e57a58268f1",
+      "summary": [
+        "Update: Life jacket worn by passenger who survived Titanic",
+        "Details: <p>The flotation device was worn by Laura Mabel Fr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Trump signs order to speed review of psychedelics, like ibogaine",
+      "link": "https://www.boston.com/news/health/2026/04/19/trump-signs-order-to-speed-review-of-psychedelics-like-ibogaine/",
+      "pubDate": "Sun, 19 Apr 2026 12:01:31 +0000",
+      "description": "<p>Ibogaine and other psychedelics remain banned under the federal government's most restrictive category for illegal, high-risk drugs.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/04/19/trump-signs-order-to-speed-review-of-psychedelics-like-ibogaine/\">Trump signs order to speed review of psychedelics, like ibogaine</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "289d9792ed69b160c532255565717622",
+      "summary": [
+        "Update: Trump signs order to speed review of psychedelics,",
+        "Details: <p>Ibogaine and other psychedelics remain banned u",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The Lyrid meteor shower is visible now and peaking soon. Here\u2019s how to spot it.",
+      "link": "https://www.boston.com/news/world-news/2026/04/19/the-lyrid-meteor-shower-is-visible-now-and-peaking-soon-heres-how-to-spot-it/",
+      "pubDate": "Sun, 19 Apr 2026 11:37:35 +0000",
+      "description": "<p>The Lyrids are the leftovers from an icy ball called comet Thatcher.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/04/19/the-lyrid-meteor-shower-is-visible-now-and-peaking-soon-heres-how-to-spot-it/\">The Lyrid meteor shower is visible now and peaking soon. Here&#8217;s how to spot it.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "599839bdbab722095bf399219dd60680",
+      "summary": [
+        "Update: The Lyrid meteor shower is visible now and peaking",
+        "Details: <p>The Lyrids are the leftovers from an icy ball c",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-04-19T10:42:33.387162+00:00"
+    "timestamp": "2026-04-19T13:09:56.217048+00:00"
   }
 }
