@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-04-21T13:51:35.311246+00:00",
+  "lastUpdated": "2026-04-21T15:17:07.080483+00:00",
   "articles": [
     {
-      "title": "Repeat winners Sharon Lokedi, John Korir proved Boston Marathon favorites in more ways than one",
-      "link": "https://www.boston.com/sports/boston-marathon/2026/04/21/sharon-lokedi-john-korir-boston-marathon-favorites/",
-      "pubDate": "Tue, 21 Apr 2026 11:50:58 +0000",
-      "description": "<p>Upon hearing his news, she clapped her hands, patted her countryman on the shoulders, and said, \u201cGood job! Good job!\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-marathon/2026/04/21/sharon-lokedi-john-korir-boston-marathon-favorites/\">Repeat winners Sharon Lokedi, John Korir proved Boston Marathon favorites in more ways than one</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ae1e2fae43f0eefc7677ef4ead9f36d3",
+      "title": "Here\u2019s the \u2018ascending prospect\u2019 the Patriots are projected to take in the NFL Draft",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/04/21/patriots-mock-draft-max-iheanachor/",
+      "pubDate": "Tue, 21 Apr 2026 14:53:33 +0000",
+      "description": "<p>\"Iheanachor is a mauler with the size, strength and athleticism to flourish as a heavy-handed right tackle.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/04/21/patriots-mock-draft-max-iheanachor/\">Here&#8217;s the &#8216;ascending prospect&#8217; the Patriots are projected to take in the NFL Draft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f63d823e8ed2fd885ba93a2f57f5c62e",
       "summary": [
-        "Update: Repeat winners Sharon Lokedi, John Korir proved Bo",
-        "Details: <p>Upon hearing his news, she clapped her hands, p",
+        "Update: Here\u2019s the \u2018ascending prospect\u2019 the Patriots are p",
+        "Details: <p>\"Iheanachor is a mauler with the size, strength",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Local obituary: Michael Flynn, 47, Norwood father of 3 and hockey coach",
+      "link": "https://www.boston.com/news/massachusetts-obituaries/2026/04/21/local-obituary-michael-flynn-47-norwood-father-of-3-and-hockey-coach/",
+      "pubDate": "Tue, 21 Apr 2026 14:31:46 +0000",
+      "description": "<p>\"Whether on or off the ice, he was more than a coach, he was a mentor and role model.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2026/04/21/local-obituary-michael-flynn-47-norwood-father-of-3-and-hockey-coach/\">Local obituary: Michael Flynn, 47, Norwood father of 3 and hockey coach</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8869adc46eea6f2b49845c1d9d31b6c2",
+      "summary": [
+        "Update: Local obituary: Michael Flynn, 47, Norwood father ",
+        "Details: <p>\"Whether on or off the ice, he was more than a ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Mass. teens rescued from near the top of Mount Washington",
+      "link": "https://www.boston.com/news/local-news/2026/04/21/mass-teens-rescued-from-near-the-top-of-mount-washington/",
+      "pubDate": "Tue, 21 Apr 2026 14:08:48 +0000",
+      "description": "<p>One of the teens reported experiencing leg pain, as crews raced worsening weather to reach them.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/21/mass-teens-rescued-from-near-the-top-of-mount-washington/\">Mass. teens rescued from near the top of Mount Washington</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18b69e928dcf77e72dd82b39427ae26d",
+      "summary": [
+        "Update: Mass. teens rescued from near the top of Mount Was",
+        "Details: <p>One of the teens reported experiencing leg pain",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Man killed, officer shot during traffic stop in New Hampshire",
+      "link": "https://www.boston.com/news/local-news/2026/04/21/man-killed-officer-shot-during-traffic-stop-in-new-hampshire/",
+      "pubDate": "Tue, 21 Apr 2026 13:59:19 +0000",
+      "description": "<p>The deadly officer-involved shooting occurred Monday evening in Ashland, New Hampshire.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/21/man-killed-officer-shot-during-traffic-stop-in-new-hampshire/\">Man killed, officer shot during traffic stop in New Hampshire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1e362772a238cc3f196868795d8a088b",
+      "summary": [
+        "Update: Man killed, officer shot during traffic stop in Ne",
+        "Details: <p>The deadly officer-involved shooting occurred M",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-04-21T13:51:35.311264+00:00"
+    "timestamp": "2026-04-21T15:17:07.080506+00:00"
   }
 }
