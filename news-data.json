@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-21T09:43:27.980502+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-21T11:12:27.550953+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: 3BR in Sherborn offers open space in MetroWest for $799k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/04/21/sherborn-metrowest-colonial-for-sale/",
+      "pubDate": "Tue, 21 Apr 2026 11:00:00 +0000",
+      "description": "<p>Sherborn is a proudly bucolic town about 25 miles from downtown Boston that boasts 50 percent of its land is set aside for open space.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/04/21/sherborn-metrowest-colonial-for-sale/\">Home of the Week: 3BR in Sherborn offers open space in MetroWest for $799k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0004e3be26cb1a8501ea4c1681a53904",
+      "summary": [
+        "Update: Home of the Week: 3BR in Sherborn offers open spac",
+        "Details: <p>Sherborn is a proudly bucolic town about 25 mil",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-21T09:43:27.980512+00:00"
+    "timestamp": "2026-04-21T11:12:27.550964+00:00"
   }
 }
