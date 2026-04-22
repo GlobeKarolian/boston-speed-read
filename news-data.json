@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-22T15:17:27.927297+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-22T17:06:39.869415+00:00",
+  "articles": [
+    {
+      "title": "How do you sell a \u2018unicorn\u2019 \u2014 like a $44.5 million penthouse in the Seaport?",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/04/22/st-regis-penthouse-boston-niche-listings/",
+      "pubDate": "Wed, 22 Apr 2026 16:28:39 +0000",
+      "description": "<p>Finding the right buyer for a unique home goes beyond the listing. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/04/22/st-regis-penthouse-boston-niche-listings/\">How do you sell a \u2018unicorn\u2019 \u2014 like a $44.5 million penthouse in the Seaport?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1b1d70d4b3f7bc5022d7387a192385dc",
+      "summary": [
+        "Update: How do you sell a \u2018unicorn\u2019 \u2014 like a $44.5 million",
+        "Details: <p>Finding the right buyer for a unique home goes ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Workers detained by ICE at Allston Car Wash allege civil rights violations in new complaint",
+      "link": "https://www.boston.com/news/local-news/2026/04/22/workers-detained-by-ice-at-allston-car-wash-allege-civil-rights-violations-in-new-complaint/",
+      "pubDate": "Wed, 22 Apr 2026 16:01:18 +0000",
+      "description": "<p>\"We were just doing our jobs when armed officers surrounded us and treated us like criminals,\" one worker said. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/22/workers-detained-by-ice-at-allston-car-wash-allege-civil-rights-violations-in-new-complaint/\">Workers detained by ICE at Allston Car Wash allege civil rights violations in new complaint</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7ef7b3566f07a99257fb91aa720ad0e4",
+      "summary": [
+        "Update: Workers detained by ICE at Allston Car Wash allege",
+        "Details: <p>\"We were just doing our jobs when armed officer",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-22T15:17:27.927306+00:00"
+    "timestamp": "2026-04-22T17:06:39.869436+00:00"
   }
 }
