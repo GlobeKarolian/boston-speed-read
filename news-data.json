@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-22T11:10:12.038356+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-22T13:51:42.091518+00:00",
+  "articles": [
+    {
+      "title": "Jeremy Swayman\u2019s greatest save in Game 2 had little to do with stopping pucks in Buffalo",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/22/boston-bruins-jeremy-swayman-nhl-hockey-game-2-buffalo-sabres-goalie-timeout/",
+      "pubDate": "Wed, 22 Apr 2026 11:16:01 +0000",
+      "description": "<p>\"A kid from Alaska never thought in a million years he\u2019d get his name chanted by 20,000.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/22/boston-bruins-jeremy-swayman-nhl-hockey-game-2-buffalo-sabres-goalie-timeout/\">Jeremy Swayman\u2019s greatest save in Game 2 had little to do with stopping pucks in Buffalo</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3fde12455ed277f4678ac4a3ad39ccb3",
+      "summary": [
+        "Update: Jeremy Swayman\u2019s greatest save in Game 2 had littl",
+        "Details: <p>\"A kid from Alaska never thought in a million y",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-22T11:10:12.038369+00:00"
+    "timestamp": "2026-04-22T13:51:42.091535+00:00"
   }
 }
