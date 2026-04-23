@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-04-23T09:47:59.198254+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-23T11:13:17.158034+00:00",
+  "articles": [
+    {
+      "title": "Ask the Gardener: Understanding the mysterious, subterranean world of soil",
+      "link": "https://www.boston.com/real-estate/gardening/2026/04/23/soil-new-england-gardens/",
+      "pubDate": "Thu, 23 Apr 2026 11:00:00 +0000",
+      "description": "<p>There are more organisms in a teaspoon of healthy soil than there are people on the planet </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/gardening/2026/04/23/soil-new-england-gardens/\">Ask the Gardener: Understanding the mysterious, subterranean world of soil</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "55c423a6200abfa47ac487d100c3ffdc",
+      "summary": [
+        "Update: Ask the Gardener: Understanding the mysterious, su",
+        "Details: <p>There are more organisms in a teaspoon of healt",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-04-23T09:47:59.198262+00:00"
+    "timestamp": "2026-04-23T11:13:17.158055+00:00"
   }
 }
