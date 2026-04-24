@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-04-24T15:11:00.438279+00:00",
+  "lastUpdated": "2026-04-24T17:01:44.487668+00:00",
   "articles": [
     {
-      "title": "USPS backs out of planned Allston post office",
-      "link": "https://www.boston.com/news/local-news/2026/04/24/usps-backs-out-of-planned-allston-post-office/",
-      "pubDate": "Fri, 24 Apr 2026 15:02:02 +0000",
-      "description": "<p>The neighborhood has been without a post office since 2019, when structural issues forced the closure of the Harvard Avenue location.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/24/usps-backs-out-of-planned-allston-post-office/\">USPS backs out of planned Allston post office</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "03724f71939fa04df8cad5cea2aa5b20",
+      "title": "Here\u2019s how Boston Legacy FC plans to crack the win column following the NWSL\u2019s three-week international break",
+      "link": "https://www.boston.com/sports/boston-legacy-football-club/2026/04/24/boston-legacy-fc-plan-to-win-following-nwsl-international-break/",
+      "pubDate": "Fri, 24 Apr 2026 16:20:37 +0000",
+      "description": "<p>\u201cIf we focus on little things, on little details, that\u2019s going to be massive in the future.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-legacy-football-club/2026/04/24/boston-legacy-fc-plan-to-win-following-nwsl-international-break/\">Here\u2019s how Boston Legacy FC plans to crack the win column following the NWSL\u2019s three-week international break</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dababc90313db2d09a1066c82fb3f948",
       "summary": [
-        "Update: USPS backs out of planned Allston post office",
-        "Details: <p>The neighborhood has been without a post office",
+        "Update: Here\u2019s how Boston Legacy FC plans to crack the win",
+        "Details: <p>\u201cIf we focus on little things, on little detail",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "12 must-see lighthouses for your spring bucket list",
-      "link": "https://www.boston.com/travel/scenic-six/2026/04/24/12-must-see-lighthouses-for-your-spring-bucket-list/",
-      "pubDate": "Fri, 24 Apr 2026 13:44:38 +0000",
-      "description": "<p>Plus: A massive, family-friendly bar is opening on the Cape this summer.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/04/24/12-must-see-lighthouses-for-your-spring-bucket-list/\">12 must-see lighthouses for your spring bucket list</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "45a333dcf805c5fc76ece793e4705a8a",
+      "title": "How Salem police busted an alleged prostitution ring at local massage parlors",
+      "link": "https://www.boston.com/news/crime/2026/04/24/how-salem-police-busted-an-alleged-prostitution-ring-at-local-massage-parlors/",
+      "pubDate": "Fri, 24 Apr 2026 15:58:11 +0000",
+      "description": "<p>Three people were arrested after months of surveillance and undercover operations in Salem, according to police reports.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/24/how-salem-police-busted-an-alleged-prostitution-ring-at-local-massage-parlors/\">How Salem police busted an alleged prostitution ring at local massage parlors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0f8cd34dbee922813e83ba530d8ce501",
       "summary": [
-        "Update: 12 must-see lighthouses for your spring bucket lis",
-        "Details: <p>Plus: A massive, family-friendly bar is opening",
+        "Update: How Salem police busted an alleged prostitution ri",
+        "Details: <p>Three people were arrested after months of surv",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s the audio of the Patriots\u2019 phone call to Caleb Lomu telling him he would be drafted",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/04/24/caleb-lomu-patriots-draft-phone-call-audio/",
+      "pubDate": "Fri, 24 Apr 2026 15:24:11 +0000",
+      "description": "<p>Mike Vrabel was one of several New England representatives to speak with Lomu.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/04/24/caleb-lomu-patriots-draft-phone-call-audio/\">Here&#8217;s the audio of the Patriots&#8217; phone call to Caleb Lomu telling him he would be drafted</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9ae285e3dae39b74ed10512b4dd520df",
+      "summary": [
+        "Update: Here\u2019s the audio of the Patriots\u2019 phone call to Ca",
+        "Details: <p>Mike Vrabel was one of several New England repr",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-24T15:11:00.438301+00:00"
+    "timestamp": "2026-04-24T17:01:44.487680+00:00"
   }
 }
