@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-04-24T13:44:26.217009+00:00",
+  "lastUpdated": "2026-04-24T15:11:00.439101+00:00",
   "articles": [
+    {
+      "title": "USPS backs out of planned Allston post office",
+      "link": "https://www.boston.com/news/local-news/2026/04/24/usps-backs-out-of-planned-allston-post-office/",
+      "pubDate": "Fri, 24 Apr 2026 15:02:02 +0000",
+      "description": "<p>The neighborhood has been without a post office since 2019, when structural issues forced the closure of the Harvard Avenue location.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/24/usps-backs-out-of-planned-allston-post-office/\">USPS backs out of planned Allston post office</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "03724f71939fa04df8cad5cea2aa5b20",
+      "summary": [
+        "Update: USPS backs out of planned Allston post office",
+        "Details: <p>The neighborhood has been without a post office",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "12 must-see lighthouses for your spring bucket list",
+      "link": "https://www.boston.com/travel/scenic-six/2026/04/24/12-must-see-lighthouses-for-your-spring-bucket-list/",
+      "pubDate": "Fri, 24 Apr 2026 13:44:38 +0000",
+      "description": "<p>Plus: A massive, family-friendly bar is opening on the Cape this summer.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/04/24/12-must-see-lighthouses-for-your-spring-bucket-list/\">12 must-see lighthouses for your spring bucket list</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45a333dcf805c5fc76ece793e4705a8a",
+      "summary": [
+        "Update: 12 must-see lighthouses for your spring bucket lis",
+        "Details: <p>Plus: A massive, family-friendly bar is opening",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "U.S. soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid",
       "link": "https://www.boston.com/news/national-news/2026/04/24/u-s-soldier-charged-with-using-classified-intel-to-win-400k-polymarket-bet-on-maduro-raid/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: 5 best new restaurant openings and dining updates ",
         "Details: <p>Stay up-to-date on the best new restaurants, re",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "What to expect this season at Acadia National Park",
-      "link": "https://www.boston.com/travel/new-england-travel/2026/04/23/acadia-national-park/",
-      "pubDate": "Thu, 23 Apr 2026 12:25:57 +0000",
-      "description": "<p>The Island Explorer will offer spring service\u00a0to the park for the first time on May 20.   </p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/04/23/acadia-national-park/\">What to expect this season at Acadia National Park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "24800a437e206f89a2c893078d32ea21",
-      "summary": [
-        "Update: What to expect this season at Acadia National Park",
-        "Details: <p>The Island Explorer will offer spring service\u00a0t",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "What is skillfishing? How employers can spot real skills in the AI hiring era.",
-      "link": "https://www.boston.com/news/job-doc/2026/04/23/what-is-skillfishing/",
-      "pubDate": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "description": "<p>AI tools are helping candidates look like perfect hires \u2014 even when they\u2019re not. </p>\n<p>The post <a href=\"https://www.boston.com/news/job-doc/2026/04/23/what-is-skillfishing/\">What is skillfishing? How employers can spot real skills in the AI hiring era.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c485231b0c52c730f047271e62b1ea3b",
-      "summary": [
-        "Update: What is skillfishing? How employers can spot real ",
-        "Details: <p>AI tools are helping candidates look like perfe",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
