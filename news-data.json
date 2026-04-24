@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-04-24T20:54:20.733571+00:00",
+  "lastUpdated": "2026-04-24T22:46:22.105080+00:00",
   "articles": [
     {
-      "title": "Here are Mass. colleges\u2019 2026 commencement speakers",
-      "link": "https://www.boston.com/news/local-news/2026/04/24/massachusetts-colleges-2026-commencement-speakers/",
-      "pubDate": "Fri, 24 Apr 2026 20:01:15 +0000",
-      "description": "<p>From Grammy winners to governors, meet the 2026 commencement speakers across Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/24/massachusetts-colleges-2026-commencement-speakers/\">Here are Mass. colleges&#8217; 2026 commencement speakers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "90a1de6ad3e13e9acbc6cc3b9ffe47bc",
+      "title": "The best food hall in America is in Boston, according to USA Today readers",
+      "link": "https://www.boston.com/food/restaurants/2026/04/24/best-food-hall-in-america-is-in-boston/",
+      "pubDate": "Fri, 24 Apr 2026 21:33:32 +0000",
+      "description": "<p>It features 20 food and drink vendors, a five-story atrium, and a year-round patio. </p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/04/24/best-food-hall-in-america-is-in-boston/\">The best food hall in America is in Boston, according to USA Today readers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f4ca564ac93b5ba3875678c48c26b92b",
       "summary": [
-        "Update: Here are Mass. colleges\u2019 2026 commencement speaker",
-        "Details: <p>From Grammy winners to governors, meet the 2026",
+        "Update: The best food hall in America is in Boston, accord",
+        "Details: <p>It features 20 food and drink vendors, a five-s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Saturday\u2019s Red Sox-Orioles game rescheduled to earlier start time because of rain in the forecast",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/24/red-sox-orioles-saturday-start-time-change/",
+      "pubDate": "Fri, 24 Apr 2026 21:27:42 +0000",
+      "description": "<p>Garrett Crochet is scheduled to pitch for Boston Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/24/red-sox-orioles-saturday-start-time-change/\">Saturday\u2019s Red Sox-Orioles game rescheduled to earlier start time because of rain in the forecast</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9906a5cc815008b6c10fd8ce2f6a58f1",
+      "summary": [
+        "Update: Saturday\u2019s Red Sox-Orioles game rescheduled to ear",
+        "Details: <p>Garrett Crochet is scheduled to pitch for Bosto",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox\u2019 Roman Anthony out for third straight game with back tightness",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/24/roman-anthony-back-tightness-injury-update-red-sox-orioles/",
+      "pubDate": "Fri, 24 Apr 2026 21:17:06 +0000",
+      "description": "<p>Anthony recently told reporters he began experiencing back tightness after swinging during a game.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/24/roman-anthony-back-tightness-injury-update-red-sox-orioles/\">Red Sox\u2019 Roman Anthony out for third straight game with back tightness</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d95dbf3a5927065224fcc530c1723e34",
+      "summary": [
+        "Update: Red Sox\u2019 Roman Anthony out for third straight game",
+        "Details: <p>Anthony recently told reporters he began experi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s what mock drafts are saying about Patriots\u2019 Day 2 options",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/24/patriots-day-2-mock-draft-roundup-what-experts-are-projecting/",
+      "pubDate": "Fri, 24 Apr 2026 21:06:57 +0000",
+      "description": "<p>Edge and receiver are still positional needs for the Patriots. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/24/patriots-day-2-mock-draft-roundup-what-experts-are-projecting/\">Here&#8217;s what mock drafts are saying about Patriots&#8217; Day 2 options</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6a045521374493facfe6b6a260ac48b8",
+      "summary": [
+        "Update: Here\u2019s what mock drafts are saying about Patriots\u2019",
+        "Details: <p>Edge and receiver are still positional needs fo",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-04-24T20:54:20.733592+00:00"
+    "timestamp": "2026-04-24T22:46:22.105099+00:00"
   }
 }
