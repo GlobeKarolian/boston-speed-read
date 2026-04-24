@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-04-24T09:47:37.890823+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-24T11:08:26.269517+00:00",
+  "articles": [
+    {
+      "title": "From spas to podcast studios, Boston\u2019s apartment/condo building amenities are evolving",
+      "link": "https://www.boston.com/real-estate/renting/2026/04/24/boston-apartment-condo-building-ameneties/",
+      "pubDate": "Fri, 24 Apr 2026 11:00:00 +0000",
+      "description": "<p>Even lesser-luxury apartment buildings have stepped up their amenity packages over the years to include everything from game rooms to podcast studios.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/renting/2026/04/24/boston-apartment-condo-building-ameneties/\">From spas to podcast studios, Boston\u2019s apartment/condo building amenities are evolving</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dbdbbf06be289c5f24d012a9ec0dccd4",
+      "summary": [
+        "Update: From spas to podcast studios, Boston\u2019s apartment/c",
+        "Details: <p>Even lesser-luxury apartment buildings have ste",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Eliot Wolf admits Patriots were surprised Caleb Lomu was still available before trade-up",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/24/new-england-patriots-nfl-draft-2026-caleb-lomu-trade-bills-eliot-wolf/",
+      "pubDate": "Fri, 24 Apr 2026 10:55:51 +0000",
+      "description": "<p>\"We actually canceled his 30-visit because we didn't \u2014 we had one scheduled and we just didn't think he was going to factor in for us.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/24/new-england-patriots-nfl-draft-2026-caleb-lomu-trade-bills-eliot-wolf/\">Eliot Wolf admits Patriots were surprised Caleb Lomu was still available before trade-up</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d988c90bb0172cbdb7d0136250ae9cb5",
+      "summary": [
+        "Update: Eliot Wolf admits Patriots were surprised Caleb Lo",
+        "Details: <p>\"We actually canceled his 30-visit because we d",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bruins need more from top stars if they want to even Sabres series",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/24/boston-bruins-nhl-hockey-david-pastrnak-game-3-buffalo-sabres/",
+      "pubDate": "Fri, 24 Apr 2026 10:44:32 +0000",
+      "description": "<p>\"We needed to be better.\u201d </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/24/boston-bruins-nhl-hockey-david-pastrnak-game-3-buffalo-sabres/\">Bruins need more from top stars if they want to even Sabres series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f0624a9a8e55f4cbfc6c0ef40ad623fd",
+      "summary": [
+        "Update: Bruins need more from top stars if they want to ev",
+        "Details: <p>\"We needed to be better.\u201d </p>\n<p>The post <a h",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-24T09:47:37.890832+00:00"
+    "timestamp": "2026-04-24T11:08:26.269540+00:00"
   }
 }
