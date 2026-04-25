@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-25T18:59:30.116188+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-25T20:43:39.320350+00:00",
+  "articles": [
+    {
+      "title": "Red Sox erupt for 10 runs in the ninth, beat Orioles 17-1",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/25/red-sox-erupt-for-10-runs-in-the-ninth-beat-orioles-17-1/",
+      "pubDate": "Sat, 25 Apr 2026 20:06:55 +0000",
+      "description": "<p>Garrett Crochet (3-3) struck out seven over six shutout innings.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/25/red-sox-erupt-for-10-runs-in-the-ninth-beat-orioles-17-1/\">Red Sox erupt for 10 runs in the ninth, beat Orioles 17-1</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1d2b9e7eb88269baee97d5dd94968884",
+      "summary": [
+        "Update: Red Sox erupt for 10 runs in the ninth, beat Oriol",
+        "Details: <p>Garrett Crochet (3-3) struck out seven over six",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "James Hagens draws out of Bruins lineup as Marco Sturm reshuffles roster before Game 4",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/25/boston-bruins-game-4-lineup-james-hagens-buffalo-sabres-marco-sturm/",
+      "pubDate": "Sat, 25 Apr 2026 19:50:06 +0000",
+      "description": "<p> \"This kid didn\u2019t do anything wrong. I\u2019m very happy where he\u2019s at.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/25/boston-bruins-game-4-lineup-james-hagens-buffalo-sabres-marco-sturm/\">James Hagens draws out of Bruins lineup as Marco Sturm reshuffles roster before Game 4</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8e8cafe9fe5b0c1dfa63441a507f5d7a",
+      "summary": [
+        "Update: James Hagens draws out of Bruins lineup as Marco S",
+        "Details: <p> \"This kid didn\u2019t do anything wrong. I\u2019m very h",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-04-25T18:59:30.116196+00:00"
+    "timestamp": "2026-04-25T20:43:39.320370+00:00"
   }
 }
