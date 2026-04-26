@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-04-26T19:01:02.871460+00:00",
+  "lastUpdated": "2026-04-26T20:43:58.214866+00:00",
   "articles": [
     {
-      "title": "Here\u2019s what Red Sox players are saying following Alex Cora\u2019s firing",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/26/red-sox-alex-cora-trevor-story-quotes/",
-      "pubDate": "Sun, 26 Apr 2026 18:18:25 +0000",
-      "description": "<p>Trevor Story expressed his displeasure with Boston\u2019s decision to part ways with the longtime manager.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/26/red-sox-alex-cora-trevor-story-quotes/\">Here\u2019s what Red Sox players are saying following Alex Cora\u2019s firing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "78c16a0fcef316e628b6bbbf73b16fd3",
+      "title": "Artificial Intelligence gives a car owner some bad advice about a recall",
+      "link": "https://www.boston.com/cars/how-to/2026/04/26/car-doctor-artificial-intelligence-gives-a-car-owner-some-bad-advice-about-a-recall/",
+      "pubDate": "Sun, 26 Apr 2026 20:20:53 +0000",
+      "description": "<p>John Paul, AAA Northeast's Car Doctor, hears from a reader frustrated by a recent repair cost.</p>\n<p>The post <a href=\"https://www.boston.com/cars/how-to/2026/04/26/car-doctor-artificial-intelligence-gives-a-car-owner-some-bad-advice-about-a-recall/\">Artificial Intelligence gives a car owner some bad advice about a recall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e425aef7e0d5b826b0783e9394394237",
       "summary": [
-        "Update: Here\u2019s what Red Sox players are saying following A",
-        "Details: <p>Trevor Story expressed his displeasure with Bos",
+        "Update: Artificial Intelligence gives a car owner some bad",
+        "Details: <p>John Paul, AAA Northeast's Car Doctor, hears fr",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "4 takeaways from Craig Breslow, Sam Kennedy\u2019s press conference after Alex Cora\u2019s firing",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/04/26/boston-red-sox-mlb-baseball-alex-cora-sam-kennedy-craig-breslow/",
-      "pubDate": "Sun, 26 Apr 2026 18:00:21 +0000",
-      "description": "<p>\"We felt it was a necessary move, and we felt it necessary to take decisive action to achieve the goal of a fresh start for the 2026 season.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/04/26/boston-red-sox-mlb-baseball-alex-cora-sam-kennedy-craig-breslow/\">4 takeaways from Craig Breslow, Sam Kennedy\u2019s press conference after Alex Cora\u2019s firing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ff3baff493f25ad6653f607f150d45bf",
+      "title": "Wellesley woman accused of killing her children amid custody dispute",
+      "link": "https://www.boston.com/news/crime/2026/04/26/wellesley-woman-accused-of-killing-her-children-amid-custody-dispute/",
+      "pubDate": "Sun, 26 Apr 2026 19:44:10 +0000",
+      "description": "<p>The investigation began Friday night when Wellesley Police received a call from a Vermont police department requesting a well-being check on family members at a home in Wellesley. Police found the children dead.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/26/wellesley-woman-accused-of-killing-her-children-amid-custody-dispute/\">Wellesley woman accused of killing her children amid custody dispute</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b9379ee98d9774bf7e3c5f8a7aedfeda",
       "summary": [
-        "Update: 4 takeaways from Craig Breslow, Sam Kennedy\u2019s pres",
-        "Details: <p>\"We felt it was a necessary move, and we felt i",
+        "Update: Wellesley woman accused of killing her children am",
+        "Details: <p>The investigation began Friday night when Welle",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Accused attacker at Washington media dinner is a tutor and computer engineer from California",
+      "link": "https://www.boston.com/news/politics/2026/04/26/allen-accused-attacker-at-washington-media-dinner-is-a-tutor-and-computer-engineer-from-california/",
+      "pubDate": "Sun, 26 Apr 2026 19:31:04 +0000",
+      "description": "<p>In writings sent to family members minutes before the attack, the 31-year-old described himself as \u201cFriendly Federal Assassin\u201d and railed against recent actions taken by the US government under Trump.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/04/26/allen-accused-attacker-at-washington-media-dinner-is-a-tutor-and-computer-engineer-from-california/\">Accused attacker at Washington media dinner is a tutor and computer engineer from California</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "457bfaa73ca85d39ef3c037512fff0a8",
+      "summary": [
+        "Update: Accused attacker at Washington media dinner is a t",
+        "Details: <p>In writings sent to family members minutes befo",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-26T19:01:02.871479+00:00"
+    "timestamp": "2026-04-26T20:43:58.214880+00:00"
   }
 }
