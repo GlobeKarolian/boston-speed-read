@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-04-29T19:41:59.351053+00:00",
+  "lastUpdated": "2026-04-29T21:09:09.759081+00:00",
   "articles": [
+    {
+      "title": "Are you or someone you know a Class of 2026 grad with a job already lined up?",
+      "link": "https://www.boston.com/community/tell-us/2026/04/29/class-of-2026-job-hunt/",
+      "pubDate": "Wed, 29 Apr 2026 20:47:07 +0000",
+      "description": "<p>For many in the Class of 2026, the job search feels more uncertain than it has in years.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2026/04/29/class-of-2026-job-hunt/\">Are you or someone you know a Class of 2026 grad with a job already lined up?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a1dc0d0b727d010b9c90bee12adb00d8",
+      "summary": [
+        "Update: Are you or someone you know a Class of 2026 grad w",
+        "Details: <p>For many in the Class of 2026, the job search f",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Former Bruins coach Bruce Cassidy predicted David Pastrnak\u2019s OT goal on TNT",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/29/boston-bruins-bruce-cassidy-david-pastrnak-nhl-hockey-overtime-game-5-buffalo/",
+      "pubDate": "Wed, 29 Apr 2026 19:54:03 +0000",
+      "description": "<p>\"We're close. Heck of a coach, and pretty sure he's gonna be back on the bench in no time.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/29/boston-bruins-bruce-cassidy-david-pastrnak-nhl-hockey-overtime-game-5-buffalo/\">Former Bruins coach Bruce Cassidy predicted David Pastrnak\u2019s OT goal on TNT</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aa7f321654785bc4d54287fce2bf9460",
+      "summary": [
+        "Update: Former Bruins coach Bruce Cassidy predicted David ",
+        "Details: <p>\"We're close. Heck of a coach, and pretty sure ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Mass. gambler sues Kalshi seeking repayment for lost bets",
+      "link": "https://www.boston.com/news/local-news/2026/04/29/mass-gambler-sues-kalshi-seeking-repayment-for-lost-bets/",
+      "pubDate": "Wed, 29 Apr 2026 19:49:35 +0000",
+      "description": "<p>The class-action complaint argues the prediction-market company ran unlicensed sports betting, bolstering the attorney general\u2019s separate push to bar Kalshi in the state. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/29/mass-gambler-sues-kalshi-seeking-repayment-for-lost-bets/\">Mass. gambler sues Kalshi seeking repayment for lost bets</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1695a2395d13f34e196f5c48880013eb",
+      "summary": [
+        "Update: Mass. gambler sues Kalshi seeking repayment for lo",
+        "Details: <p>The class-action complaint argues the predictio",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Fidelity to bring employees back to the office 5 days a week",
+      "link": "https://www.boston.com/news/local-news/2026/04/29/fidelity-to-bring-employees-back-to-the-office-5-days-a-week/",
+      "pubDate": "Wed, 29 Apr 2026 19:43:30 +0000",
+      "description": "<p>The company will retain its current offices to support the shift, even as it prepares to move to its new Seaport campus. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/29/fidelity-to-bring-employees-back-to-the-office-5-days-a-week/\">Fidelity to bring employees back to the office 5 days a week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cc808fd785c6d306b41e34b4468c381f",
+      "summary": [
+        "Update: Fidelity to bring employees back to the office 5 d",
+        "Details: <p>The company will retain its current offices to ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "State police rescue hiker from Mount Washington (Massachusetts)",
+      "link": "https://www.boston.com/news/local-news/2026/04/29/state-police-rescue-hiker-from-mount-washington-massachusetts/",
+      "pubDate": "Wed, 29 Apr 2026 19:40:09 +0000",
+      "description": "<p>A woman got lost while hiking in the Massachusetts town Mount Washington \u2014 not New Hampshire's famous mountain. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/29/state-police-rescue-hiker-from-mount-washington-massachusetts/\">State police rescue hiker from Mount Washington (Massachusetts)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0583179cee7ad94391bbcb021a863433",
+      "summary": [
+        "Update: State police rescue hiker from Mount Washington (M",
+        "Details: <p>A woman got lost while hiking in the Massachuse",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Tax preparers facing fraud and money laundering charges in alleged years-long scheme in Chelsea",
       "link": "https://www.boston.com/news/local-news/2026/04/29/tax-preparers-facing-fraud-and-money-laundering-charges-in-alleged-years-long-scheme-in-chelsea/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: A Mass. cultural and historical tour just ranked N",
         "Details: <p>The Salem tour also ranked No. 11 in the world.",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018I\u2019ll do whatever I can to make that happen\u2019: Maura Healey is not giving up on getting a WNBA team",
-      "link": "https://www.boston.com/sports/sports-news/2026/04/28/maura-healey-wnba-team-boston/",
-      "pubDate": "Tue, 28 Apr 2026 20:01:31 +0000",
-      "description": "<p>\"I'm not giving up.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/04/28/maura-healey-wnba-team-boston/\">&#8216;I&#8217;ll do whatever I can to make that happen&#8217;: Maura Healey is not giving up on getting a WNBA team</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "aaedf9d02b92f8ac7230750626dd9068",
-      "summary": [
-        "Update: \u2018I\u2019ll do whatever I can to make that happen\u2019: Maur",
-        "Details: <p>\"I'm not giving up.\"</p>\n<p>The post <a href=\"h",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Healey says her social media bill would protect young users. Some see red flags.",
-      "link": "https://www.boston.com/news/local-news/2026/04/28/healey-says-her-social-media-bill-would-protect-young-users-some-see-red-flags/",
-      "pubDate": "Tue, 28 Apr 2026 19:10:47 +0000",
-      "description": "<p>Gov. Maura Healey is responding to critics of her proposed legislation, which would require social media companies to implement \u201cage assurance\u201d features.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/28/healey-says-her-social-media-bill-would-protect-young-users-some-see-red-flags/\">Healey says her social media bill would protect young users. Some see red flags.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bc576f95eeb7494fe8b9770cb1670a2c",
-      "summary": [
-        "Update: Healey says her social media bill would protect yo",
-        "Details: <p>Gov. Maura Healey is responding to critics of h",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Ex-FBI Director Comey indicted in probe over online post officials say constituted Trump threat",
-      "link": "https://www.boston.com/news/politics/2026/04/28/ex-fbi-director-comey-indicted-in-probe-over-online-post-officials-say-constituted-trump-threat/",
-      "pubDate": "Tue, 28 Apr 2026 18:55:48 +0000",
-      "description": "<p>It's the second\u00a0criminal case\u00a0the Justice Department has brought against the longtime Trump foe. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/04/28/ex-fbi-director-comey-indicted-in-probe-over-online-post-officials-say-constituted-trump-threat/\">Ex-FBI Director Comey indicted in probe over online post officials say constituted Trump threat</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "680e454ce434a76a5619e28f73265e02",
-      "summary": [
-        "Update: Ex-FBI Director Comey indicted in probe over onlin",
-        "Details: <p>It's the second\u00a0criminal case\u00a0the Justice Depar",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "BAA\u2019s vague statement on marathon spectator seen giving Nazi salute leaves some frustrated",
-      "link": "https://www.boston.com/news/boston-marathon/2026/04/28/baa-boston-marathon-spectator-nazi-salute/",
-      "pubDate": "Tue, 28 Apr 2026 18:46:03 +0000",
-      "description": "<p>\u201cMight be the most cowardly recognition of an offensive event that I\u2019ve ever seen.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/boston-marathon/2026/04/28/baa-boston-marathon-spectator-nazi-salute/\">BAA\u2019s vague statement on marathon spectator seen giving Nazi salute leaves some frustrated</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0d8eb4beaf3c0e726bc387ab7464c54c",
-      "summary": [
-        "Update: BAA\u2019s vague statement on marathon spectator seen g",
-        "Details: <p>\u201cMight be the most cowardly recognition of an o",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "A humble \u2018Jeopardy!\u2019 champ ends his run",
-      "link": "https://www.boston.com/culture/tv/2026/04/28/a-humble-jeopardy-champ-ends-his-run/",
-      "pubDate": "Tue, 28 Apr 2026 18:27:00 +0000",
-      "description": "<p>\u201cDuring it, I was trying to stay grounded,\u201d Jamie Ding said. \u201cPlanning to win a whole bunch of games of \u2018Jeopardy!\u2019 just feels like asking to lose.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/tv/2026/04/28/a-humble-jeopardy-champ-ends-his-run/\">A humble \u2018Jeopardy!\u2019 champ ends his run</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "89e4fc8ed21ecc4bb762aa602a8d7d3c",
-      "summary": [
-        "Update: A humble \u2018Jeopardy!\u2019 champ ends his run",
-        "Details: <p>\u201cDuring it, I was trying to stay grounded,\u201d Jam",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
