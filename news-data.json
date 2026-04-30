@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-04-30T10:09:41.632950+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-30T14:05:44.287915+00:00",
+  "articles": [
+    {
+      "title": "Maine Gov. Janet Mills drops U.S. Senate bid ahead of Democratic primary against Graham Platner",
+      "link": "https://www.boston.com/news/politics/2026/04/30/maine-gov-janet-mills-drops-u-s-senate-bid-ahead-of-june-9-democratic-primary-against-graham-platner/",
+      "pubDate": "Thu, 30 Apr 2026 13:47:25 +0000",
+      "description": "<p>The two-term governor and longtime Maine politician was seen as one of Democrats' top 2026 recruits when she\u00a0entered the Senate race\u00a0last year. But Mills struggled to outshine first-time candidate Platner.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/04/30/maine-gov-janet-mills-drops-u-s-senate-bid-ahead-of-june-9-democratic-primary-against-graham-platner/\">Maine Gov. Janet Mills drops U.S. Senate bid ahead of Democratic primary against Graham Platner</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "81795f9b661ef75761d8a45f52ce884a",
+      "summary": [
+        "Update: Maine Gov. Janet Mills drops U.S. Senate bid ahead",
+        "Details: <p>The two-term governor and longtime Maine politi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Boston Legacy squander early two-goal lead, but salvage a draw for first point in franchise history",
+      "link": "https://www.boston.com/sports/boston-legacy-football-club/2026/04/30/boston-legacy-draw-first-point-in-franchise-history/",
+      "pubDate": "Thu, 30 Apr 2026 11:11:05 +0000",
+      "description": "<p>\u201cThat\u2019s a step in the right direction.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-legacy-football-club/2026/04/30/boston-legacy-draw-first-point-in-franchise-history/\">Boston Legacy squander early two-goal lead, but salvage a draw for first point in franchise history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8500a06c2a30d33e94ab53035ccc5057",
+      "summary": [
+        "Update: Boston Legacy squander early two-goal lead, but sa",
+        "Details: <p>\u201cThat\u2019s a step in the right direction.\u201d</p>\n<p>",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "For $399k, call this 450-square-foot Maine beach cottage your \u2018Sweet Pea\u2019",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/04/30/jonesport-maine-beach-cottage/",
+      "pubDate": "Thu, 30 Apr 2026 11:00:00 +0000",
+      "description": "<p>A petite beach house offers a summer rental opportunity or a personal retreat. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/04/30/jonesport-maine-beach-cottage/\">For $399k, call this 450-square-foot Maine beach cottage your &#8216;Sweet Pea&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a4d1090fa6ae4f053c04c0d43c866b34",
+      "summary": [
+        "Update: For $399k, call this 450-square-foot Maine beach c",
+        "Details: <p>A petite beach house offers a summer rental opp",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-04-30T10:09:41.632958+00:00"
+    "timestamp": "2026-04-30T14:05:44.287933+00:00"
   }
 }
