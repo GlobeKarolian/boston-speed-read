@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-04-29T22:59:15.613038+00:00",
-  "articles": [],
+  "lastUpdated": "2026-04-30T03:34:24.501982+00:00",
+  "articles": [
+    {
+      "title": "Former DCF worker accused of raping mother of family he worked with",
+      "link": "https://www.boston.com/news/crime/2026/04/29/former-dcf-worker-accused-of-raping-mother-of-family-he-worked-with/",
+      "pubDate": "Thu, 30 Apr 2026 02:54:08 +0000",
+      "description": "<p>Richard Magrath, a DCF social worker since last year, met with a Boston woman in her home to discuss her two children with special needs, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/29/former-dcf-worker-accused-of-raping-mother-of-family-he-worked-with/\">Former DCF worker accused of raping mother of family he worked with</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de06050d1abaddba1da47867430547a1",
+      "summary": [
+        "Update: Former DCF worker accused of raping mother of fami",
+        "Details: <p>Richard Magrath, a DCF social worker since last",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates",
+      "link": "https://www.boston.com/news/politics/2026/04/29/new-orleans-sheriff-indicted-after-investigation-into-brazen-jailbreak-and-escape-of-10-inmates/",
+      "pubDate": "Thu, 30 Apr 2026 01:34:24 +0000",
+      "description": "<p>The escapees left behind graffiti that read \u201cTo Easy LoL\" after crawling through a hole behind a jail toilet and scaling a barbed wire fence. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/04/29/new-orleans-sheriff-indicted-after-investigation-into-brazen-jailbreak-and-escape-of-10-inmates/\">New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d5b95a1e3d3f6c661ef2d419d7269ccb",
+      "summary": [
+        "Update: New Orleans sheriff indicted after investigation i",
+        "Details: <p>The escapees left behind graffiti that read \u201cTo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "New Patriots Hall of Famer Rob Gronkowski talks legacy, wild pre-draft meeting in New England",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/29/rob-gronkowski-new-england-patriots-nfl-football-hall-of-fame-induction/",
+      "pubDate": "Thu, 30 Apr 2026 00:43:22 +0000",
+      "description": "<p>\"I want to be viewed as a football player. The definition of a football player.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/29/rob-gronkowski-new-england-patriots-nfl-football-hall-of-fame-induction/\">New Patriots Hall of Famer Rob Gronkowski talks legacy, wild pre-draft meeting in New England</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18fec4d397e51261b5fafd0d153cd2b4",
+      "summary": [
+        "Update: New Patriots Hall of Famer Rob Gronkowski talks le",
+        "Details: <p>\"I want to be viewed as a football player. The ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Former Disney star Hilary Duff talks authenticity at Northeastern commencement",
+      "link": "https://www.boston.com/news/local-news/2026/04/29/former-disney-star-hilary-duff-talks-authenticity-at-northeastern-commencement/",
+      "pubDate": "Thu, 30 Apr 2026 00:22:02 +0000",
+      "description": "<p>\u201cAt Northeastern University, you believe experience isn't a substitute for education. It is the education,\" Hilary Duff told the graduates.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/29/former-disney-star-hilary-duff-talks-authenticity-at-northeastern-commencement/\">Former Disney star Hilary Duff talks authenticity at Northeastern commencement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3429cd82c96d7a2c0bea6492b39456b8",
+      "summary": [
+        "Update: Former Disney star Hilary Duff talks authenticity ",
+        "Details: <p>\u201cAt Northeastern University, you believe experi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bruins\u2019 Marat Khusnutdinov has 0 points this postseason. It hasn\u2019t stopped him from playing winning hockey.",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/04/29/boston-bruins-marat-khusnutdinov-overtime-buffalo-sabres-nhl-hockey/",
+      "pubDate": "Wed, 29 Apr 2026 23:18:05 +0000",
+      "description": "<p>\"He did exactly what he did all year long. And that's why he's playing [on the] first line, right?\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/04/29/boston-bruins-marat-khusnutdinov-overtime-buffalo-sabres-nhl-hockey/\">Bruins\u2019 Marat Khusnutdinov has 0 points this postseason. It hasn\u2019t stopped him from playing winning hockey.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dcef901ce9e37382a0b0193fb772b95f",
+      "summary": [
+        "Update: Bruins\u2019 Marat Khusnutdinov has 0 points this posts",
+        "Details: <p>\"He did exactly what he did all year long. And ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-04-29T22:59:15.613046+00:00"
+    "timestamp": "2026-04-30T03:34:24.502002+00:00"
   }
 }
