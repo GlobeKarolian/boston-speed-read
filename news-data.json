@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-01T09:49:10.154361+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-01T11:09:57.248913+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/05/01/greater-boston-news-quiz-may-1-2026-commencement-speakers-red-sox-mfa/",
+      "pubDate": "Fri, 01 May 2026 10:35:01 +0000",
+      "description": "<p>Star speakers, canned coaches, and a provocative performer are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/05/01/greater-boston-news-quiz-may-1-2026-commencement-speakers-red-sox-mfa/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1b4833a07309c635e915e3f62cf4c2e0",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>Star speakers, canned coaches, and a provocativ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-01T09:49:10.154373+00:00"
+    "timestamp": "2026-05-01T11:09:57.248929+00:00"
   }
 }
