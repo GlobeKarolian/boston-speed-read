@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-05-02T22:49:26.882183+00:00",
+  "lastUpdated": "2026-05-03T03:37:22.829339+00:00",
   "articles": [
     {
-      "title": "Jayson Tatum (left knee stiffness) will miss Game 7 against Philadelphia",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/05/02/jayson-tatum-knee-stiffness-injury-celtics-76ers/",
-      "pubDate": "Sat, 02 May 2026 22:48:04 +0000",
-      "description": "<p>\"He came in today with knee discomfort we decided - the medical team and myself decided for him not to play,\" Mazzulla said.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/05/02/jayson-tatum-knee-stiffness-injury-celtics-76ers/\">Jayson Tatum (left knee stiffness) will miss Game 7 against Philadelphia</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f79df255e9a1839812133fff40d54724",
+      "title": "Fleet falter in Game 2 as Charge even best-of-five Walter Cup semifinal series",
+      "link": "https://www.boston.com/sports/sports-news/2026/05/02/fleet-charge-pwhl-playoffs-game-2/",
+      "pubDate": "Sun, 03 May 2026 03:12:54 +0000",
+      "description": "<p>The teams will have six days off before Game 3 on Friday, May 8.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/05/02/fleet-charge-pwhl-playoffs-game-2/\">Fleet falter in Game 2 as Charge even best-of-five Walter Cup semifinal series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4f11cda55e50d87535118a1a7e5f57b3",
       "summary": [
-        "Update: Jayson Tatum (left knee stiffness) will miss Game ",
-        "Details: <p>\"He came in today with knee discomfort we decid",
+        "Update: Fleet falter in Game 2 as Charge even best-of-five",
+        "Details: <p>The teams will have six days off before Game 3 ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox leave bases loaded 3 times in 6-3 loss to Astros",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/02/red-sox-astros-connelly-early/",
+      "pubDate": "Sun, 03 May 2026 00:32:09 +0000",
+      "description": "<p>Starting pitcher Connelly Early also tossed his worst outing of the year.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/02/red-sox-astros-connelly-early/\">Red Sox leave bases loaded 3 times in 6-3 loss to Astros</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d55751028cf5742e0081d74b64665a70",
+      "summary": [
+        "Update: Red Sox leave bases loaded 3 times in 6-3 loss to ",
+        "Details: <p>Starting pitcher Connelly Early also tossed his",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-02T22:49:26.882206+00:00"
+    "timestamp": "2026-05-03T03:37:22.829359+00:00"
   }
 }
