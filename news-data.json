@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-05-03T10:56:44.450926+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-03T13:19:27.130579+00:00",
+  "articles": [
+    {
+      "title": "A bright moon may dim the Eta Aquarid meteor shower made up of Halley\u2019s comet debris",
+      "link": "https://www.boston.com/news/national-news/2026/05/03/a-bright-moon-may-dim-the-eta-aquarid-meteor-shower-made-up-of-halleys-comet-debris/",
+      "pubDate": "Sun, 03 May 2026 12:52:02 +0000",
+      "description": "<p>Meteor showers happen when the Earth charges through trails of debris left behind from comets or asteroids.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/03/a-bright-moon-may-dim-the-eta-aquarid-meteor-shower-made-up-of-halleys-comet-debris/\">A bright moon may dim the Eta Aquarid meteor shower made up of Halley&#8217;s comet debris</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "37c9370317cebb197d4e4efb483b7133",
+      "summary": [
+        "Update: A bright moon may dim the Eta Aquarid meteor showe",
+        "Details: <p>Meteor showers happen when the Earth charges th",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Spirit Airlines shutdown: What to do to get home and get refunds",
+      "link": "https://www.boston.com/news/business/2026/05/03/spirit-airlines-shutdown-what-to-do-to-get-home-and-get-refunds/",
+      "pubDate": "Sun, 03 May 2026 12:21:48 +0000",
+      "description": "<p>Many airlines that used to compete with Spirit are now parachuting in with deals to save their travelers.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/05/03/spirit-airlines-shutdown-what-to-do-to-get-home-and-get-refunds/\">Spirit Airlines shutdown: What to do to get home and get refunds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cfbe6a94b204086f3f385e053f5bafb9",
+      "summary": [
+        "Update: Spirit Airlines shutdown: What to do to get home a",
+        "Details: <p>Many airlines that used to compete with Spirit ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "How a weaker dollar is quietly making life more expensive",
+      "link": "https://www.boston.com/news/politics/2026/05/03/how-a-weaker-dollar-is-quietly-making-life-more-expensive/",
+      "pubDate": "Sun, 03 May 2026 11:31:31 +0000",
+      "description": "<p>\u201cIt\u2019s kind of a hidden tax,\u201d says economist Thomas Savidge of the conservative-leaning American Institute for Economic Research.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/05/03/how-a-weaker-dollar-is-quietly-making-life-more-expensive/\">How a weaker dollar is quietly making life more expensive</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e1860a2bbf44c4f96753c2cd5982dc0c",
+      "summary": [
+        "Update: How a weaker dollar is quietly making life more ex",
+        "Details: <p>\u201cIt\u2019s kind of a hidden tax,\u201d says economist Tho",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-03T10:56:44.450935+00:00"
+    "timestamp": "2026-05-03T13:19:27.130627+00:00"
   }
 }
