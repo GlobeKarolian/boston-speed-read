@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-06T06:32:18.690583+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-06T10:21:48.977119+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (May 6)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/06/recent-homes-sales-in-greater-boston-may-6/",
+      "pubDate": "Wed, 06 May 2026 09:00:00 +0000",
+      "description": "<p>ACTON 11 Walnut St. Condo. $1,250,000 10 Blue Heron Way #10 Condo Town House, built in 1995, 2,362 square feet, 7 rooms, 3 bedrooms, 4 baths. $936,000 95 Concord Road. One-family Colonial, built in 1960, 2,226 square feet, 8 rooms, 4 bedrooms, 3 baths, on 26,200-square-foot lot. $900,000 238 Brown Bear Xing #238 Condo Town [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/06/recent-homes-sales-in-greater-boston-may-6/\">Recent homes sales in Greater Boston (May 6)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fd200b80b95a960dd805af3f4b71048a",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (May 6)",
+        "Details: <p>ACTON 11 Walnut St. Condo. $1,250,000 10 Blue H",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-06T06:32:18.690594+00:00"
+    "timestamp": "2026-05-06T10:21:48.977139+00:00"
   }
 }
