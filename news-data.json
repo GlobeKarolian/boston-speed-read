@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-08T21:05:15.392348+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-08T22:58:41.567258+00:00",
+  "articles": [
+    {
+      "title": "Evan Turner thinks the Celtics\u2019 season would have gone differently with Jayson Tatum in, Jaylen Brown out",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/05/08/celtics-jayson-tatum-jaylen-brown-evan-turner-comments/",
+      "pubDate": "Fri, 08 May 2026 21:28:29 +0000",
+      "description": "<p>\u201cI think Jayson would be first in the East, and I think they would\u2019ve made it out that game seven.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/05/08/celtics-jayson-tatum-jaylen-brown-evan-turner-comments/\">Evan Turner thinks the Celtics\u2019 season would have gone differently with Jayson Tatum in, Jaylen Brown out</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3c23b5b0b494483f74c154e69b2a6456",
+      "summary": [
+        "Update: Evan Turner thinks the Celtics\u2019 season would have ",
+        "Details: <p>\u201cI think Jayson would be first in the East, and",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-08T21:05:15.392358+00:00"
+    "timestamp": "2026-05-08T22:58:41.567281+00:00"
   }
 }
