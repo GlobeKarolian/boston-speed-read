@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-05-08T09:26:49.296306+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-08T11:21:00.798061+00:00",
+  "articles": [
+    {
+      "title": "Second-home-first club: When the homeownership trajectory is flipped",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/05/08/second-home-rentvesting-cape-cod/",
+      "pubDate": "Fri, 08 May 2026 11:00:00 +0000",
+      "description": "<p>Some are \u201crentvesting\u201d by buying vacation homes on the Cape while renting their primary residences  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/05/08/second-home-rentvesting-cape-cod/\">Second-home-first club: When the homeownership trajectory is flipped</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4e4dc7d6bb647d1158679a1b68ce77dd",
+      "summary": [
+        "Update: Second-home-first club: When the homeownership tra",
+        "Details: <p>Some are \u201crentvesting\u201d by buying vacation homes",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/05/08/greater-boston-news-quiz-may-8-2026-celtics-market-basket-ayo-edebiri/",
+      "pubDate": "Fri, 08 May 2026 10:49:03 +0000",
+      "description": "<p>The Celtics collapse, an Ayo shout-out, and a Market Basket big shot are all represented in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/05/08/greater-boston-news-quiz-may-8-2026-celtics-market-basket-ayo-edebiri/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "65e468ec448ea36ab94508565499b731",
+      "summary": [
+        "Update: Did you follow the local news this week? Take our ",
+        "Details: <p>The Celtics collapse, an Ayo shout-out, and a M",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-08T09:26:49.296316+00:00"
+    "timestamp": "2026-05-08T11:21:00.798078+00:00"
   }
 }
