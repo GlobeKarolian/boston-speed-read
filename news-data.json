@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-09T19:08:21.644507+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-09T20:50:38.212705+00:00",
+  "articles": [
+    {
+      "title": "Late call at Fenway Park leaves Rays-Red Sox postponed by Saturday rain",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/09/late-call-at-fenway-park-leaves-rays-red-sox-postponed-by-saturday-rain/",
+      "pubDate": "Sat, 09 May 2026 20:39:51 +0000",
+      "description": "<p>The game is scheduled to be made up as part of a split doubleheader on July 17.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/09/late-call-at-fenway-park-leaves-rays-red-sox-postponed-by-saturday-rain/\">Late call at Fenway Park leaves Rays-Red Sox postponed by Saturday rain</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "178944f1f41fb466206032fd9f8e87af",
+      "summary": [
+        "Update: Late call at Fenway Park leaves Rays-Red Sox postp",
+        "Details: <p>The game is scheduled to be made up as part of ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-09T19:08:21.644517+00:00"
+    "timestamp": "2026-05-09T20:50:38.212725+00:00"
   }
 }
