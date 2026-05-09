@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-05-08T22:58:41.567258+00:00",
+  "lastUpdated": "2026-05-09T03:27:55.676454+00:00",
   "articles": [
     {
-      "title": "Evan Turner thinks the Celtics\u2019 season would have gone differently with Jayson Tatum in, Jaylen Brown out",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/05/08/celtics-jayson-tatum-jaylen-brown-evan-turner-comments/",
-      "pubDate": "Fri, 08 May 2026 21:28:29 +0000",
-      "description": "<p>\u201cI think Jayson would be first in the East, and I think they would\u2019ve made it out that game seven.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/05/08/celtics-jayson-tatum-jaylen-brown-evan-turner-comments/\">Evan Turner thinks the Celtics\u2019 season would have gone differently with Jayson Tatum in, Jaylen Brown out</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3c23b5b0b494483f74c154e69b2a6456",
+      "title": "The Red Sox outfield is starting to take shape, but are they willing to acknowledge it?",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/08/mlb-red-sox-outfield-logjam-commentary/",
+      "pubDate": "Sat, 09 May 2026 03:20:57 +0000",
+      "description": "<p>Wilyer Abreu, Roman Anthony, and Ceddanne Rafaela have proven without a doubt that they should be everyday starters in 2026.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/08/mlb-red-sox-outfield-logjam-commentary/\">The Red Sox outfield is starting to take shape, but are they willing to acknowledge it?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7aba36a20ba85b5f4e6e7221b647d91e",
       "summary": [
-        "Update: Evan Turner thinks the Celtics\u2019 season would have ",
-        "Details: <p>\u201cI think Jayson would be first in the East, and",
+        "Update: The Red Sox outfield is starting to take shape, bu",
+        "Details: <p>Wilyer Abreu, Roman Anthony, and Ceddanne Rafae",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Drake Maye shows off his good, but relatable golf game while mic\u2019d up in his PGA Pro-Am debut",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/08/patriots-drake-maye-pga-pro-am-micd-up/",
+      "pubDate": "Sat, 09 May 2026 02:21:00 +0000",
+      "description": "<p>The PGA captured Maye's relief for \"just hitting the club face\" on his first tee shot.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/08/patriots-drake-maye-pga-pro-am-micd-up/\">Drake Maye shows off his good, but relatable golf game while mic&#8217;d up in his PGA Pro-Am debut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fbe96b37833ea38012f6d8b99238541d",
+      "summary": [
+        "Update: Drake Maye shows off his good, but relatable golf ",
+        "Details: <p>The PGA captured Maye's relief for \"just hittin",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 must-watch movies & TV shows streaming right now",
+      "link": "https://www.boston.com/culture/streaming/2026/05/08/new-movies-tv-shows-watch-streaming-now-may-8-2026/",
+      "pubDate": "Fri, 08 May 2026 23:31:14 +0000",
+      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/05/08/new-movies-tv-shows-watch-streaming-now-may-8-2026/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6963230b54ebabbc484dd8d72cf424d7",
+      "summary": [
+        "Update: 5 must-watch movies & TV shows streaming right now",
+        "Details: <p>The best of what's new streaming on Netflix, Hu",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-08T22:58:41.567281+00:00"
+    "timestamp": "2026-05-09T03:27:55.676473+00:00"
   }
 }
