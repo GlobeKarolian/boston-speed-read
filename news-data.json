@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-05-09T20:50:38.212705+00:00",
+  "lastUpdated": "2026-05-09T22:51:19.855240+00:00",
   "articles": [
     {
-      "title": "Late call at Fenway Park leaves Rays-Red Sox postponed by Saturday rain",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/09/late-call-at-fenway-park-leaves-rays-red-sox-postponed-by-saturday-rain/",
-      "pubDate": "Sat, 09 May 2026 20:39:51 +0000",
-      "description": "<p>The game is scheduled to be made up as part of a split doubleheader on July 17.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/09/late-call-at-fenway-park-leaves-rays-red-sox-postponed-by-saturday-rain/\">Late call at Fenway Park leaves Rays-Red Sox postponed by Saturday rain</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "178944f1f41fb466206032fd9f8e87af",
+      "title": "Sidelined, yet spirited, Taunton\u2019s Brian Ferris vows return to officiating",
+      "link": "https://www.boston.com/sports/sports-news/2026/05/09/brian-ferris-spinal-cord-injury-return-officiating-taunton-bridgewater/",
+      "pubDate": "Sat, 09 May 2026 22:04:00 +0000",
+      "description": "<p>\"I\u2019m going to get back on that field.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/05/09/brian-ferris-spinal-cord-injury-return-officiating-taunton-bridgewater/\">Sidelined, yet spirited, Taunton\u2019s Brian Ferris vows return to officiating</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c0e71ffeddcf98726543260ef3d3c4b4",
       "summary": [
-        "Update: Late call at Fenway Park leaves Rays-Red Sox postp",
-        "Details: <p>The game is scheduled to be made up as part of ",
+        "Update: Sidelined, yet spirited, Taunton\u2019s Brian Ferris vo",
+        "Details: <p>\"I\u2019m going to get back on that field.\" </p>\n<p>",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bruins and Celtics bowed out of the playoffs, but NESN and NBCSB enjoy banner ratings for respective seasons",
+      "link": "https://www.boston.com/sports/media/2026/05/09/nesn-nbc-sports-boston-ratings-chad-finn/",
+      "pubDate": "Sat, 09 May 2026 21:42:29 +0000",
+      "description": "<p>NESN\u2019s linear Bruins broadcasts averaged a 2.64 rating, per Nielsen Media data, up 14 percent over 2024-25.</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/05/09/nesn-nbc-sports-boston-ratings-chad-finn/\">Bruins and Celtics bowed out of the playoffs, but NESN and NBCSB enjoy banner ratings for respective seasons</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "67d2fc5854eccef1952adb2462215a87",
+      "summary": [
+        "Update: Bruins and Celtics bowed out of the playoffs, but ",
+        "Details: <p>NESN\u2019s linear Bruins broadcasts averaged a 2.64",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Bishop Feehan star pitcher, projected 1st-round MLB Draft pick breaks school strikeout record",
+      "link": "https://www.boston.com/sports/high-school-sports/2026/05/09/brody-bumila-bishop-feehan-strikeout-record/",
+      "pubDate": "Sat, 09 May 2026 20:55:52 +0000",
+      "description": "<p>6-foot-9 Brody Bumila continues to dominate Massachusetts high school baseball.</p>\n<p>The post <a href=\"https://www.boston.com/sports/high-school-sports/2026/05/09/brody-bumila-bishop-feehan-strikeout-record/\">Bishop Feehan star pitcher, projected 1st-round MLB Draft pick breaks school strikeout record</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6579cd7b958a0d4e8a52affad7f1e601",
+      "summary": [
+        "Update: Bishop Feehan star pitcher, projected 1st-round ML",
+        "Details: <p>6-foot-9 Brody Bumila continues to dominate Mas",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-09T20:50:38.212725+00:00"
+    "timestamp": "2026-05-09T22:51:19.855258+00:00"
   }
 }
