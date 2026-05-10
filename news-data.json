@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-05-10T14:56:30.536453+00:00",
+  "lastUpdated": "2026-05-10T16:59:35.281527+00:00",
   "articles": [
     {
-      "title": "Photos: Scenes from a fun, but soggy, Saturday in Greater Boston",
-      "link": "https://www.boston.com/news/local-news/2026/05/10/photos-scenes-from-a-fun-but-soggy-saturday-in-greater-boston/",
-      "pubDate": "Sun, 10 May 2026 13:57:47 +0000",
-      "description": "<p>Music and ducklings kicked off Mother's Day weekend.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/10/photos-scenes-from-a-fun-but-soggy-saturday-in-greater-boston/\">Photos: Scenes from a fun, but soggy, Saturday in Greater Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "61dc74ad65299adb84e276b0926a4095",
+      "title": "Boston gang members, associates facing slew of firearm, drug trafficking charges",
+      "link": "https://www.boston.com/news/crime/2026/05/10/boston-gang-members-associates-facing-slew-of-firearm-drug-trafficking-charges/",
+      "pubDate": "Sun, 10 May 2026 15:25:24 +0000",
+      "description": "<p>The eight defendants are involved with the Boston-based Columbia Point Dawgs and Johnston Road gangs, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/10/boston-gang-members-associates-facing-slew-of-firearm-drug-trafficking-charges/\">Boston gang members, associates facing slew of firearm, drug trafficking charges</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3f7ee05d179568fa5b962835ec6d154c",
       "summary": [
-        "Update: Photos: Scenes from a fun, but soggy, Saturday in ",
-        "Details: <p>Music and ducklings kicked off Mother's Day wee",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "New Bedford uncle pleads guilty to killing nephew during family altercation",
-      "link": "https://www.boston.com/news/crime/2026/05/10/new-bedford-uncle-pleads-guilty-to-killing-nephew-during-family-altercation/",
-      "pubDate": "Sun, 10 May 2026 13:50:10 +0000",
-      "description": "<p>The man was initially charged with second-degree murder but agreed to plead guilty to manslaughter, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/10/new-bedford-uncle-pleads-guilty-to-killing-nephew-during-family-altercation/\">New Bedford uncle pleads guilty to killing nephew during family altercation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "80f43a23388e20f1b56e6f863b23e201",
-      "summary": [
-        "Update: New Bedford uncle pleads guilty to killing nephew ",
-        "Details: <p>The man was initially charged with second-degre",
+        "Update: Boston gang members, associates facing slew of fir",
+        "Details: <p>The eight defendants are involved with the Bost",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-10T14:56:30.536473+00:00"
+    "timestamp": "2026-05-10T16:59:35.281543+00:00"
   }
 }
