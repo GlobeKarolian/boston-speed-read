@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-10T09:40:48.408476+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-10T11:01:52.915162+00:00",
+  "articles": [
+    {
+      "title": "\u2018SNL\u2019 recap: Best moments from Matt Damon hosting \u2018Saturday Night Live\u2019",
+      "link": "https://www.boston.com/culture/entertainment/2026/05/10/snl-recap-matt-damon-2026/",
+      "pubDate": "Sun, 10 May 2026 10:14:59 +0000",
+      "description": "<p>Olivia Rodrigo hosted the May 9 episode of \"Saturday Night Live,\" with fellow New Englander Noah Kahan serving as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/05/10/snl-recap-matt-damon-2026/\">\u2018SNL\u2019 recap: Best moments from Matt Damon hosting \u2018Saturday Night Live\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "362f4764f36a56042ac32a41c0c9cbf0",
+      "summary": [
+        "Update: \u2018SNL\u2019 recap: Best moments from Matt Damon hosting ",
+        "Details: <p>Olivia Rodrigo hosted the May 9 episode of \"Sat",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-10T09:40:48.408489+00:00"
+    "timestamp": "2026-05-10T11:01:52.915184+00:00"
   }
 }
