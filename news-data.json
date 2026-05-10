@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-05-10T20:53:15.862448+00:00",
+  "lastUpdated": "2026-05-10T22:52:44.764699+00:00",
   "articles": [
     {
-      "title": "Red Sox 1B Willson Contreras leaves game with bruised hand after getting hit by pitch",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/10/red-sox-1b-willson-contreras-leaves-game-with-bruised-hand-after-getting-hit-by-pitch/",
-      "pubDate": "Sun, 10 May 2026 20:14:27 +0000",
-      "description": "<p>Contreras stayed in the game while the Red Sox finished their at-bats, but Andruw Monasterio came out to play first at the top of the second.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/10/red-sox-1b-willson-contreras-leaves-game-with-bruised-hand-after-getting-hit-by-pitch/\">Red Sox 1B Willson Contreras leaves game with bruised hand after getting hit by pitch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "48df5e646e27488c11090895731780d6",
+      "title": "Passengers evacuated from hantavirus-stricken cruise ship begin flying home from Canary Islands",
+      "link": "https://www.boston.com/news/health/2026/05/10/passengers-evacuated-from-hantavirus-stricken-cruise-ship-begin-flying-home-from-canary-islands/",
+      "pubDate": "Sun, 10 May 2026 21:35:25 +0000",
+      "description": "<p>Spanish passengers were the first to leave the MV Hondius following its arrival in Tenerife, the largest island in the Spanish archipelago off the West African coast. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/05/10/passengers-evacuated-from-hantavirus-stricken-cruise-ship-begin-flying-home-from-canary-islands/\">Passengers evacuated from hantavirus-stricken cruise ship begin flying home from Canary Islands</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a2ca2d6f43e23c707ea7ff3bd9818ef1",
       "summary": [
-        "Update: Red Sox 1B Willson Contreras leaves game with brui",
-        "Details: <p>Contreras stayed in the game while the Red Sox ",
-        "Visit Boston.com for complete coverage"
+        "Passengers from the MV Hondius were evacuated due to hantavirus concerns.",
+        "Spanish passengers began flying home from Tenerife on May 10, 2026.",
+        "Boston residents with travel plans may face disruptions or health advisories."
       ],
-      "hookType": "NEWS_UPDATE"
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "What\u2019s causing an engine shake in my 10-year-old SUV?",
+      "link": "https://www.boston.com/cars/how-to/2026/05/10/car-doctor-whats-causing-an-engine-shake-in-my-10-year-old-suv/",
+      "pubDate": "Sun, 10 May 2026 21:13:38 +0000",
+      "description": "<p>John Paul, AAA Northeast's Car Doctor, hears from a reader experiencing engine shaking in a 2016 Audi.</p>\n<p>The post <a href=\"https://www.boston.com/cars/how-to/2026/05/10/car-doctor-whats-causing-an-engine-shake-in-my-10-year-old-suv/\">What\u2019s causing an engine shake in my 10-year-old SUV?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a8ecd1a707a17e45cd08e54c92f482a6",
+      "summary": [
+        "John Paul, AAA Northeast's Car Doctor, addresses engine shaking issues in 2016 Audis.",
+        "Readers can seek advice from AAA Northeast for vehicle maintenance concerns.",
+        "Local residents may face increased repair costs if engine issues are not addressed promptly."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 takeaways as Red Sox fall flat against Rays on Mother\u2019s Day",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/10/red-sox-rays-takeaways-payton-tolle-willson-contreras-analysis-quotes/",
+      "pubDate": "Sun, 10 May 2026 20:52:51 +0000",
+      "description": "<p>Payton Tolle got off to a tough start against a formidable lineup.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/10/red-sox-rays-takeaways-payton-tolle-willson-contreras-analysis-quotes/\">5 takeaways as Red Sox fall flat against Rays on Mother&#8217;s Day</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0fe4122553365a79562c4d3f43c5daac",
+      "summary": [
+        "Red Sox lost to the Rays 8-2 on Mother's Day, disappointing local fans.",
+        "Pitcher Payton Tolle struggled, allowing five runs in just three innings.",
+        "This loss drops the Red Sox further behind in the AL East standings."
+      ],
+      "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-10T20:53:15.862460+00:00"
+    "timestamp": "2026-05-10T22:52:44.764724+00:00"
   }
 }
