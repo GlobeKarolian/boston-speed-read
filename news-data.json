@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-05-10T13:26:45.144294+00:00",
+  "lastUpdated": "2026-05-10T14:56:30.536453+00:00",
   "articles": [
     {
-      "title": "Iran war ceasefire tested as cargo ship catches fire and Kuwait and UAE repel drone attacks",
-      "link": "https://www.boston.com/news/world-news/2026/05/10/iran-war-ceasefire-tested-as-cargo-ship-catches-fire-and-kuwait-and-uae-repel-drone-attacks/",
-      "pubDate": "Sun, 10 May 2026 12:54:38 +0000",
-      "description": "<p>Iran and its armed allied groups possess a large fleet of drones and have used them to carry out hundreds of strikes since the war began.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/05/10/iran-war-ceasefire-tested-as-cargo-ship-catches-fire-and-kuwait-and-uae-repel-drone-attacks/\">Iran war ceasefire tested as cargo ship catches fire and Kuwait and UAE repel drone attacks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "402a4e8d699edf352c9777449ac6c4e3",
+      "title": "Photos: Scenes from a fun, but soggy, Saturday in Greater Boston",
+      "link": "https://www.boston.com/news/local-news/2026/05/10/photos-scenes-from-a-fun-but-soggy-saturday-in-greater-boston/",
+      "pubDate": "Sun, 10 May 2026 13:57:47 +0000",
+      "description": "<p>Music and ducklings kicked off Mother's Day weekend.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/10/photos-scenes-from-a-fun-but-soggy-saturday-in-greater-boston/\">Photos: Scenes from a fun, but soggy, Saturday in Greater Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "61dc74ad65299adb84e276b0926a4095",
       "summary": [
-        "Update: Iran war ceasefire tested as cargo ship catches fi",
-        "Details: <p>Iran and its armed allied groups possess a larg",
+        "Update: Photos: Scenes from a fun, but soggy, Saturday in ",
+        "Details: <p>Music and ducklings kicked off Mother's Day wee",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "At least 13 injured in \u2018possible boat explosion\u2019 in Florida, officials say",
-      "link": "https://www.boston.com/news/national-news/2026/05/10/at-least-13-injured-in-possible-boat-explosion-in-florida-officials-say/",
-      "pubDate": "Sun, 10 May 2026 12:42:57 +0000",
-      "description": "<p>Those injured were taken to area hospitals, Miami-Dade Fire Rescue said. Emergency crews responded Saturday near the Haulover Sandbar, north of Miami Beach.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/10/at-least-13-injured-in-possible-boat-explosion-in-florida-officials-say/\">At least 13 injured in \u2018possible boat explosion\u2019 in Florida, officials say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fd158c342030dcbe3b841227ecefecde",
+      "title": "New Bedford uncle pleads guilty to killing nephew during family altercation",
+      "link": "https://www.boston.com/news/crime/2026/05/10/new-bedford-uncle-pleads-guilty-to-killing-nephew-during-family-altercation/",
+      "pubDate": "Sun, 10 May 2026 13:50:10 +0000",
+      "description": "<p>The man was initially charged with second-degree murder but agreed to plead guilty to manslaughter, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/10/new-bedford-uncle-pleads-guilty-to-killing-nephew-during-family-altercation/\">New Bedford uncle pleads guilty to killing nephew during family altercation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "80f43a23388e20f1b56e6f863b23e201",
       "summary": [
-        "Update: At least 13 injured in \u2018possible boat explosion\u2019 i",
-        "Details: <p>Those injured were taken to area hospitals, Mia",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "3 takeaways from the Revolution\u2019s 2-1 comeback win against the Philadelphia Union",
-      "link": "https://www.boston.com/sports/new-england-revolution/2026/05/10/revolution-takeaways-carles-gil-philadelphia-union/",
-      "pubDate": "Sun, 10 May 2026 11:37:40 +0000",
-      "description": "<p>New England went from almost being down 2-0 to tying the game in a crucial second half sequence.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/05/10/revolution-takeaways-carles-gil-philadelphia-union/\">3 takeaways from the Revolution&#8217;s 2-1 comeback win against the Philadelphia Union</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0ef512c1a325b5e12af4ba9ec571dd29",
-      "summary": [
-        "Update: 3 takeaways from the Revolution\u2019s 2-1 comeback win",
-        "Details: <p>New England went from almost being down 2-0 to ",
+        "Update: New Bedford uncle pleads guilty to killing nephew ",
+        "Details: <p>The man was initially charged with second-degre",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-10T13:26:45.144313+00:00"
+    "timestamp": "2026-05-10T14:56:30.536473+00:00"
   }
 }
