@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-10T19:10:05.065275+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-10T20:53:15.862448+00:00",
+  "articles": [
+    {
+      "title": "Red Sox 1B Willson Contreras leaves game with bruised hand after getting hit by pitch",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/10/red-sox-1b-willson-contreras-leaves-game-with-bruised-hand-after-getting-hit-by-pitch/",
+      "pubDate": "Sun, 10 May 2026 20:14:27 +0000",
+      "description": "<p>Contreras stayed in the game while the Red Sox finished their at-bats, but Andruw Monasterio came out to play first at the top of the second.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/10/red-sox-1b-willson-contreras-leaves-game-with-bruised-hand-after-getting-hit-by-pitch/\">Red Sox 1B Willson Contreras leaves game with bruised hand after getting hit by pitch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "48df5e646e27488c11090895731780d6",
+      "summary": [
+        "Update: Red Sox 1B Willson Contreras leaves game with brui",
+        "Details: <p>Contreras stayed in the game while the Red Sox ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-10T19:10:05.065284+00:00"
+    "timestamp": "2026-05-10T20:53:15.862460+00:00"
   }
 }
