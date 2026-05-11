@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-05-11T19:59:12.559591+00:00",
+  "lastUpdated": "2026-05-11T21:24:42.822996+00:00",
   "articles": [
+    {
+      "title": "British Prime Minister Starmer pledges to prove his doubters wrong but faces a wave of resignation calls",
+      "link": "https://www.boston.com/news/politics/2026/05/11/british-prime-minister-starmer-pledges-to-prove-his-doubters-wrong-but-faces-a-wave-of-resignation-calls/",
+      "pubDate": "Mon, 11 May 2026 20:41:39 +0000",
+      "description": "<p>Last week\u2019s elections saw Labour squeezed from both right and left, losing votes to both Reform UK and the \u201ceco-populist\u201d Green Party.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/05/11/british-prime-minister-starmer-pledges-to-prove-his-doubters-wrong-but-faces-a-wave-of-resignation-calls/\">British Prime Minister Starmer pledges to prove his doubters wrong but faces a wave of resignation calls</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "668b3b65ff09910c5d6d0f115fec1529",
+      "summary": [
+        "Labour Party lost significant votes in recent elections, impacting local political dynamics.",
+        "Prime Minister Starmer faces resignation calls after disappointing results on May 11, 2026.",
+        "Boston residents may see shifts in local policies due to Labour's weakened position."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "These are Boston\u2019s highest-paid tech CEOs, BBJ data shows",
+      "link": "https://www.boston.com/news/business/2026/05/11/these-are-bostons-highest-paid-tech-ceos-bbj-data-shows/",
+      "pubDate": "Mon, 11 May 2026 20:15:40 +0000",
+      "description": "<p>In 2025, no Boston tech CEO came close to Wayfair\u2019s leader in total compensation, according to the Boston Business Journal report. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/05/11/these-are-bostons-highest-paid-tech-ceos-bbj-data-shows/\">These are Boston\u2019s highest-paid tech CEOs, BBJ data shows</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "da684b44461098c663d2472756433e4c",
+      "summary": [
+        "Wayfair CEO topped Boston tech compensation in 2025, surpassing all peers significantly.",
+        "Boston Business Journal reported no other tech CEO matched Wayfair's leader's earnings.",
+        "High CEO salaries may influence local job market and tech industry dynamics."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Karen Read\u2019s SUV heads to auction in Woburn. Here\u2019s what readers think it\u2019s worth.",
       "link": "https://www.boston.com/community/readers-say/2026/05/11/karen-read-suv-car-auction-predictions/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Pedestrian dies after being hit by Frontier Airlin",
         "Details: <p>A plane has hit a pedestrian on the runway at D",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Harmony Montgomery\u2019s father ordered to pay $15 million to slain girl\u2019s estate",
-      "link": "https://www.boston.com/news/local-news/2026/05/09/harmony-montgomerys-father-ordered-to-pay-15-million-to-slain-girls-estate/",
-      "pubDate": "Sat, 09 May 2026 14:26:33 +0000",
-      "description": "<p>The ruling comes more than a year after Adam Montgomery was convicted of killing his 5-year-old daughter.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/09/harmony-montgomerys-father-ordered-to-pay-15-million-to-slain-girls-estate/\">Harmony Montgomery&#8217;s father ordered to pay $15 million to slain girl&#8217;s estate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1faf8b064d9d9a53eec1aad05e98b088",
-      "summary": [
-        "Update: Harmony Montgomery\u2019s father ordered to pay $15 mil",
-        "Details: <p>The ruling comes more than a year after Adam Mo",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Cape Cod rep. charged with fraud faces new counts",
-      "link": "https://www.boston.com/news/local-news/2026/05/09/cape-cod-rep-charged-with-fraud-faces-new-counts/",
-      "pubDate": "Sat, 09 May 2026 13:57:51 +0000",
-      "description": "<p>Federal prosecutors say the Cape Cod Democrat stole from a trade group to fund personal expenses and political campaigns.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/09/cape-cod-rep-charged-with-fraud-faces-new-counts/\">Cape Cod rep. charged with fraud faces new counts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "77ee101605feeb521bbdbcfa7dcbee06",
-      "summary": [
-        "Update: Cape Cod rep. charged with fraud faces new counts",
-        "Details: <p>Federal prosecutors say the Cape Cod Democrat s",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
