@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-05-12T10:35:04.617845+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-12T14:32:55.617128+00:00",
+  "articles": [
+    {
+      "title": "Red Sox could be in range to pick Mass. standout Brody Bumila in MLB Draft",
+      "link": "https://www.boston.com/sports/morning-sports-update/2026/05/12/red-sox-could-draft-brody-bumila-mlb-2026-mock-list/",
+      "pubDate": "Tue, 12 May 2026 14:29:58 +0000",
+      "description": "<p>Bumila, who recently threw a 20-strikeout no-hitter for Bishop Feehan, is currently projected to go a few picks before Boston at No. 20.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/05/12/red-sox-could-draft-brody-bumila-mlb-2026-mock-list/\">Red Sox could be in range to pick Mass. standout Brody Bumila in MLB Draft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a7f8e1201effd1a66321170f32c1d338",
+      "summary": [
+        "Brody Bumila threw a 20-strikeout no-hitter for Bishop Feehan.",
+        "He is projected to be drafted just before the Red Sox at No. 20.",
+        "Drafting Bumila could enhance local baseball talent and fan engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "U.S. Honor Flag to be deployed to Mass. for fallen trooper\u2019s memorial",
+      "link": "https://www.boston.com/news/local-news/2026/05/12/u-s-honor-flag-to-be-deployed-to-mass-for-fallen-troopers-memorial/",
+      "pubDate": "Tue, 12 May 2026 13:19:13 +0000",
+      "description": "<p>A funeral for Kevin Trainor, 30, will take place Wednesday in Salem, where he went to school. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/12/u-s-honor-flag-to-be-deployed-to-mass-for-fallen-troopers-memorial/\">U.S. Honor Flag to be deployed to Mass. for fallen trooper\u2019s memorial</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bfef226c883cb3543371eaddd08fe575",
+      "summary": [
+        "U.S. Honor Flag will be deployed to Massachusetts for Trooper Kevin Trainor's memorial.",
+        "Funeral for fallen trooper Kevin Trainor, 30, is scheduled for Wednesday in Salem.",
+        "Local residents are invited to honor Trainor's service and sacrifice during the memorial."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Home of the Week: A Kennedy is selling her Hyannis house for under $1.6m. Peek inside.",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/05/12/kathleen-kennedy-townsend-sells-hyannis-house/",
+      "pubDate": "Tue, 12 May 2026 11:00:00 +0000",
+      "description": "<p>Kathleen Kennedy Townsend bought this Cape Cod house minutes from the Kennedy compound to host her family. \u201cI had a dream that I would recreate the ... wonderful youth that I had.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/05/12/kathleen-kennedy-townsend-sells-hyannis-house/\">Home of the Week: A Kennedy is selling her Hyannis house for under $1.6m. Peek inside.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a2208e63cce42d0bceaa2916101e417b",
+      "summary": [
+        "Kathleen Kennedy Townsend lists her Hyannis house for $1.6 million, near the Kennedy compound.",
+        "The property aims to recreate the family atmosphere she cherished during her youth.",
+        "This sale could influence local real estate trends in Cape Cod's luxury market."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Brookline voters overwhelmingly approve tax override to avoid school, public safety cuts",
+      "link": "https://www.boston.com/news/local-news/2026/05/11/brookline-voters-overwhelmingly-approve-tax-override-to-avoid-school-public-safety-cuts/",
+      "pubDate": "Tue, 12 May 2026 03:12:33 +0000",
+      "description": "<p>Nearly 60 percent of voters approved Brookline\u2019s Question 1, with 8,859 votes for yes and 5,826 voting no, according to official results shared with Boston.com.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/11/brookline-voters-overwhelmingly-approve-tax-override-to-avoid-school-public-safety-cuts/\">Brookline voters overwhelmingly approve tax override to avoid school, public safety cuts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7bc0d8dd7cd793a558a5a6501ba08ce0",
+      "summary": [
+        "Brookline voters approved a tax override to prevent cuts to schools and public safety.",
+        "Nearly 60% voted yes, with 8,859 in favor and 5,826 against.",
+        "The decision secures funding for essential community services in Brookline."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-05-12T10:35:04.617855+00:00"
+    "timestamp": "2026-05-12T14:32:55.617149+00:00"
   }
 }
