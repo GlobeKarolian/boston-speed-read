@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-05-13T10:32:31.823808+00:00",
+  "lastUpdated": "2026-05-13T14:42:58.949638+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (May 13)",
-      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/13/recent-homes-sales-in-greater-boston-may-13/",
-      "pubDate": "Wed, 13 May 2026 09:00:00 +0000",
-      "description": "<p>ACTON 96 Newtown Road. One-family Colonial, built in 2021, 3,489 square feet, 9 rooms, 4 bedrooms, 4 baths, on 43,585-square-foot lot. $1,790,000 87 Canterbury Hill Road. One-family Colonial, built in 2008, 4,265 square feet, 9 rooms, 4 bedrooms, 4 baths, on 24,475-square-foot lot. $1,785,000 127 Main St. Condo, on 23,101-square-foot lot. $360,000 15 Davis Road [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/13/recent-homes-sales-in-greater-boston-may-13/\">Recent homes sales in Greater Boston (May 13)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "76c1b8728f86d93f65b4d59dbbb6271b",
+      "title": "Lighthouse among Gillette Stadium attractions to be closed during World Cup",
+      "link": "https://www.boston.com/sports/world-cup/2026/05/13/lighthouse-gillette-stadium-closed-world-cup/",
+      "pubDate": "Wed, 13 May 2026 12:39:09 +0000",
+      "description": "<p>The Patriots Hall of Fame and the Gillette Stadium lighthouse will close from May 14 to July, while the ProShop will relocate to a temporary site.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/05/13/lighthouse-gillette-stadium-closed-world-cup/\">Lighthouse among Gillette Stadium attractions to be closed during World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aef35dc54ceb56d043847d6ccaf116cb",
       "summary": [
-        "Acton home at 96 Newtown Road sold for $1,790,000 on May 13.",
-        "87 Canterbury Hill Road sold for $1,785,000, reflecting strong demand in the area.",
-        "Recent sales indicate rising property values, affecting housing affordability for Boston residents."
+        "Gillette Stadium's lighthouse and Patriots Hall of Fame will close from May 14 to July.",
+        "ProShop will temporarily relocate during the World Cup, affecting local shopping options.",
+        "Boston residents may miss out on attractions during the peak tourist season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Amanda Gutierres stoppage-time penalty kick gives Legacy a win over Orlando, extend unbeaten run to four games",
+      "link": "https://www.boston.com/sports/boston-legacy-football-club/2026/05/13/legacy-fc-win-orlando-pride-amanda-gutierres-goal/",
+      "pubDate": "Wed, 13 May 2026 12:10:52 +0000",
+      "description": "<p>\u201cIt was a huge difference today, not only in the fight, but the intelligence that the girls are bringing \u2014 tackling, giving everything their all,\u201d said Filipa Pat\u00e3o. \u201cI\u2019m really proud of coming back to a team like this.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-legacy-football-club/2026/05/13/legacy-fc-win-orlando-pride-amanda-gutierres-goal/\">Amanda Gutierres stoppage-time penalty kick gives Legacy a win over Orlando, extend unbeaten run to four games</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9232de99128d5f1c500d596dcf0dadea",
+      "summary": [
+        "Amanda Gutierres scored a stoppage-time penalty kick for Legacy's victory over Orlando.",
+        "Legacy extends their unbeaten streak to four games, boosting team morale.",
+        "Filipa Pat\u00e3o praises the team's effort, highlighting improved tackling and intelligence on the field."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-13T10:32:31.823829+00:00"
+    "timestamp": "2026-05-13T14:42:58.949660+00:00"
   }
 }
