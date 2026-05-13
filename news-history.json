@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-13T06:50:32.204281+00:00",
+  "lastUpdated": "2026-05-13T10:32:31.824606+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (May 13)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/13/recent-homes-sales-in-greater-boston-may-13/",
+      "pubDate": "Wed, 13 May 2026 09:00:00 +0000",
+      "description": "<p>ACTON 96 Newtown Road. One-family Colonial, built in 2021, 3,489 square feet, 9 rooms, 4 bedrooms, 4 baths, on 43,585-square-foot lot. $1,790,000 87 Canterbury Hill Road. One-family Colonial, built in 2008, 4,265 square feet, 9 rooms, 4 bedrooms, 4 baths, on 24,475-square-foot lot. $1,785,000 127 Main St. Condo, on 23,101-square-foot lot. $360,000 15 Davis Road [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/13/recent-homes-sales-in-greater-boston-may-13/\">Recent homes sales in Greater Boston (May 13)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "76c1b8728f86d93f65b4d59dbbb6271b",
+      "summary": [
+        "Acton home at 96 Newtown Road sold for $1,790,000 on May 13.",
+        "87 Canterbury Hill Road sold for $1,785,000, reflecting strong demand in the area.",
+        "Recent sales indicate rising property values, affecting housing affordability for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "North Adams man convicted, sentenced for murdering his wife in 2022",
       "link": "https://www.boston.com/news/crime/2026/05/12/north-adams-man-convicted-sentenced-for-murdering-his-wife-in-2022/",
@@ -635,19 +648,6 @@
         "Less than one-third of Bay State residents expect financial improvement in the next year.",
         "MassINC poll reveals declining quality of life concerns among Massachusetts residents.",
         "Residents may face increased economic challenges affecting local communities and services."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Celtics reportedly tried to land Giannis Antetokounmpo at the trade deadline",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/05/11/celtics-giannis-antetokoumpo-trade-rumours-deadline-comments/",
-      "pubDate": "Mon, 11 May 2026 18:51:35 +0000",
-      "description": "<p>The Celtics were among several playoff teams that reportedly pursued the two-time MVP.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/05/11/celtics-giannis-antetokoumpo-trade-rumours-deadline-comments/\">Celtics reportedly tried to land Giannis Antetokounmpo at the trade deadline</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b0f4169c8781f27d2bfdaa5fc4ea9ce9",
-      "summary": [
-        "Celtics pursued Giannis Antetokounmpo during the trade deadline for playoff enhancement.",
-        "Several playoff teams, including the Celtics, aimed to acquire the two-time MVP.",
-        "This move reflects Celtics' commitment to strengthening their roster for Boston fans."
       ],
       "hookType": "LOCAL_IMPACT"
     }
