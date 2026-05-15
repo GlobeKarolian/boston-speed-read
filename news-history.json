@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-15T03:50:16.745224+00:00",
+  "lastUpdated": "2026-05-15T10:28:14.582896+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/05/15/greater-boston-news-quiz-may-15-2026-dairy-queen-cape-cod-harvard/",
+      "pubDate": "Fri, 15 May 2026 10:21:49 +0000",
+      "description": "<p>A deluxe Dairy Queen, a Cape fave, and a grading debate all made this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/05/15/greater-boston-news-quiz-may-15-2026-dairy-queen-cape-cod-harvard/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e5f90668f7d51b729220cc1f165599ad",
+      "summary": [
+        "Dairy Queen plans to open a deluxe location in Greater Boston this summer.",
+        "Cape Cod favorite restaurant gains popularity among Boston residents, boosting local tourism.",
+        "Harvard University debates grading policies, impacting students' academic experiences in the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Review and setlist: Courtney Barnett shows that being a \u2018creature of habit\u2019 isn\u2019t always a bad thing",
       "link": "https://www.boston.com/culture/concert-reviews/2026/05/14/review-and-setlist-courtney-barnett-shows-that-being-a-creature-of-habit-isnt-always-a-bad-thing/",
@@ -635,19 +648,6 @@
         "Mourners honored State Trooper Kevin Trainor at his funeral in Salem on May 13.",
         "Trainor was killed by a wrong-way driver in Lynnfield, raising safety concerns.",
         "The incident highlights the dangers of impaired driving for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Angell Animal Medical Center treating cat who fell 10 stories",
-      "link": "https://www.boston.com/news/local-news/2026/05/13/angell-animal-medical-center-treating-cat-who-fell-10-stories/",
-      "pubDate": "Thu, 14 May 2026 00:02:58 +0000",
-      "description": "<p>\u201cCats with similar injuries who receive surgical treatment usually adapt well once they\u2019ve recovered\u2014they may just walk a bit differently,\u201d a MSPCA-Angell doctor said. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/13/angell-animal-medical-center-treating-cat-who-fell-10-stories/\">Angell Animal Medical Center treating cat who fell 10 stories</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f1ff8ffc3fad340f2ae69ed2753128bd",
-      "summary": [
-        "Angell Animal Medical Center is treating a cat that fell 10 stories.",
-        "MSPCA-Angell reports cats with similar injuries often adapt well post-surgery.",
-        "Local residents can expect improved animal care options at Angell Medical Center."
       ],
       "hookType": "LOCAL_IMPACT"
     }
