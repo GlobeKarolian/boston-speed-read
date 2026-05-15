@@ -1,62 +1,23 @@
 {
-  "lastUpdated": "2026-05-15T19:43:34.420735+00:00",
+  "lastUpdated": "2026-05-15T21:06:32.757056+00:00",
   "articles": [
     {
-      "title": "Scholars bar is closing after 15 years. A new concept is already planned.",
-      "link": "https://www.boston.com/food/food-news/2026/05/15/scholars-bar-is-closing-after-15-years/",
-      "pubDate": "Fri, 15 May 2026 19:12:48 +0000",
-      "description": "<p>The Downtown Crossing space is expected to reopen as a live music-focused restaurant and bar.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/05/15/scholars-bar-is-closing-after-15-years/\">Scholars bar is closing after 15 years. A new concept is already planned.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ab6b1e1aed33a3de9658798a80b93915",
+      "title": "Mayor Wu remains firm as councilors consider rejecting her budget",
+      "link": "https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/",
+      "pubDate": "Fri, 15 May 2026 20:18:24 +0000",
+      "description": "<p>Mayor Michelle Wu's budget proposal contains cuts that have angered some City Council members. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/\">Mayor Wu remains firm as councilors consider rejecting her budget</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6f54cd3024b22967d958709c631bce66",
       "summary": [
-        "Scholars bar in Downtown Crossing is closing after 15 years of operation.",
-        "A new live music-focused restaurant and bar is planned for the same location.",
-        "Local residents can expect a new entertainment venue to enhance the Downtown Crossing area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "How much are you spending to attend the World Cup?",
-      "link": "https://www.boston.com/community/world-cup/2026/05/15/how-much-are-you-spending-to-attend-the-world-cup/",
-      "pubDate": "Fri, 15 May 2026 19:00:56 +0000",
-      "description": "<p>We want to hear from local, national, and international fans who are attending World Cup matches in Boston.</p>\n<p>The post <a href=\"https://www.boston.com/community/world-cup/2026/05/15/how-much-are-you-spending-to-attend-the-world-cup/\">How much are you spending to attend the World Cup?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2b7bd93a76d0f8f5087dc77424bbc936",
-      "summary": [
-        "Boston residents are invited to share their World Cup spending experiences.",
-        "Local fans are expected to spend significantly on tickets, accommodations, and travel.",
-        "Increased tourism during the World Cup may boost Boston's economy in 2026."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A first look at the massive outdoor bar coming to Cape Cod this summer",
-      "link": "https://www.boston.com/travel/cape-cod-travel/2026/05/15/a-first-look-at-the-massive-outdoor-bar-coming-to-cape-cod-this-summer/",
-      "pubDate": "Fri, 15 May 2026 18:42:30 +0000",
-      "description": "<p>The space will feature a nearly 5,000 square-foot sail-covered main bar.</p>\n<p>The post <a href=\"https://www.boston.com/travel/cape-cod-travel/2026/05/15/a-first-look-at-the-massive-outdoor-bar-coming-to-cape-cod-this-summer/\">A first look at the massive outdoor bar coming to Cape Cod this summer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "973cb400462647f01b772fbbe96a501b",
-      "summary": [
-        "Cape Cod will open a new outdoor bar this summer, enhancing local tourism.",
-        "The bar will feature a 5,000 square-foot sail-covered main area.",
-        "Boston residents can expect increased weekend trips to Cape Cod for leisure."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Chelsea man pleads not guilty after allegedly threatening BU campus, students, deans",
-      "link": "https://www.boston.com/news/crime/2026/05/15/chelsea-man-pleads-not-guilty-after-allegedly-threatening-bu-campus-students-deans/",
-      "pubDate": "Fri, 15 May 2026 17:57:28 +0000",
-      "description": "<p>The 29-year-old is a student at BU, according to the university's student directory. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/15/chelsea-man-pleads-not-guilty-after-allegedly-threatening-bu-campus-students-deans/\">Chelsea man pleads not guilty after allegedly threatening BU campus, students, deans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1af55fd9ef92e8f9d7dcbdfb3b926917",
-      "summary": [
-        "Chelsea man, 29, pleads not guilty to threatening Boston University campus.",
-        "Accused individual is a current student at BU, raising safety concerns.",
-        "Incident heightens anxiety among students and faculty regarding campus security."
+        "Mayor Michelle Wu's budget proposal faces potential rejection from City Council members.",
+        "Councilors express anger over proposed cuts affecting city services and programs.",
+        "Budget decisions could directly impact funding for local education and public safety."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-15T19:43:34.420754+00:00"
+    "timestamp": "2026-05-15T21:06:32.757075+00:00"
   }
 }

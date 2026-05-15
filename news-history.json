@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-15T19:43:34.421520+00:00",
+  "lastUpdated": "2026-05-15T21:06:32.757775+00:00",
   "articles": [
+    {
+      "title": "Mayor Wu remains firm as councilors consider rejecting her budget",
+      "link": "https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/",
+      "pubDate": "Fri, 15 May 2026 20:18:24 +0000",
+      "description": "<p>Mayor Michelle Wu's budget proposal contains cuts that have angered some City Council members. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/\">Mayor Wu remains firm as councilors consider rejecting her budget</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6f54cd3024b22967d958709c631bce66",
+      "summary": [
+        "Mayor Michelle Wu's budget proposal faces potential rejection from City Council members.",
+        "Councilors express anger over proposed cuts affecting city services and programs.",
+        "Budget decisions could directly impact funding for local education and public safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Scholars bar is closing after 15 years. A new concept is already planned.",
       "link": "https://www.boston.com/food/food-news/2026/05/15/scholars-bar-is-closing-after-15-years/",
@@ -635,19 +648,6 @@
         "Amelia's Taqueria on Brighton Avenue has permanently closed its doors.",
         "The restaurant served the Allston community for 14 years before closing.",
         "Residents will lose a popular dining option in the Allston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Teen arrested after allegedly leaving JP school with loaded firearm",
-      "link": "https://www.boston.com/news/crime/2026/05/14/teen-arrested-after-allegedly-leaving-jp-school-with-loaded-firearm/",
-      "pubDate": "Thu, 14 May 2026 16:22:52 +0000",
-      "description": "<p>The 16-year-old is facing delinquency charges, according to authorities.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/14/teen-arrested-after-allegedly-leaving-jp-school-with-loaded-firearm/\">Teen arrested after allegedly leaving JP school with loaded firearm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c68201aba3080a7eabfbb9b8f52d54e8",
-      "summary": [
-        "A 16-year-old was arrested for leaving a Jamaica Plain school with a loaded firearm.",
-        "The teen faces delinquency charges, raising safety concerns in local schools.",
-        "Authorities emphasize the need for increased security measures in Boston schools."
       ],
       "hookType": "LOCAL_IMPACT"
     }
