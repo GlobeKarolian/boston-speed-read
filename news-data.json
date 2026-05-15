@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-05-15T21:06:32.757056+00:00",
+  "lastUpdated": "2026-05-15T22:57:55.284610+00:00",
   "articles": [
     {
-      "title": "Mayor Wu remains firm as councilors consider rejecting her budget",
-      "link": "https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/",
-      "pubDate": "Fri, 15 May 2026 20:18:24 +0000",
-      "description": "<p>Mayor Michelle Wu's budget proposal contains cuts that have angered some City Council members. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/\">Mayor Wu remains firm as councilors consider rejecting her budget</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6f54cd3024b22967d958709c631bce66",
+      "title": "Here\u2019s what experts are predicting the Patriots\u2019 2026 record will be",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/15/patriots-2026-season-record-predictions/",
+      "pubDate": "Fri, 15 May 2026 22:49:25 +0000",
+      "description": "<p>Experts are tabbing New England to have a worse record than its 14-3 mark last season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/15/patriots-2026-season-record-predictions/\">Here\u2019s what experts are predicting the Patriots\u2019 2026 record will be</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "55a0bea97a907f4dd5c5f4df00552da6",
       "summary": [
-        "Mayor Michelle Wu's budget proposal faces potential rejection from City Council members.",
-        "Councilors express anger over proposed cuts affecting city services and programs.",
-        "Budget decisions could directly impact funding for local education and public safety."
+        "Experts predict the Patriots will have a worse record than 14-3 in 2026.",
+        "Analysts suggest a decline in performance for the New England Patriots next season.",
+        "Boston fans may face disappointment as team struggles to maintain last season's success."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 must-watch movies & TV shows streaming right now",
+      "link": "https://www.boston.com/culture/streaming/2026/05/15/new-movies-tv-shows-watch-streaming-now-may-15-2026/",
+      "pubDate": "Fri, 15 May 2026 22:34:54 +0000",
+      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/05/15/new-movies-tv-shows-watch-streaming-now-may-15-2026/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e90cffba3d661ed17ac9fa452100d401",
+      "summary": [
+        "Discover five new streaming titles available on major platforms like Netflix and Hulu.",
+        "Streaming recommendations include popular shows and movies as of May 15, 2026.",
+        "Boston residents can enjoy diverse entertainment options from home during the summer."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-15T21:06:32.757075+00:00"
+    "timestamp": "2026-05-15T22:57:55.284628+00:00"
   }
 }
