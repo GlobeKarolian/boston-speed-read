@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-05-15T10:28:14.582274+00:00",
+  "lastUpdated": "2026-05-15T14:15:11.675930+00:00",
   "articles": [
     {
-      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
-      "link": "https://www.boston.com/community/quizzes/2026/05/15/greater-boston-news-quiz-may-15-2026-dairy-queen-cape-cod-harvard/",
-      "pubDate": "Fri, 15 May 2026 10:21:49 +0000",
-      "description": "<p>A deluxe Dairy Queen, a Cape fave, and a grading debate all made this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/05/15/greater-boston-news-quiz-may-15-2026-dairy-queen-cape-cod-harvard/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e5f90668f7d51b729220cc1f165599ad",
+      "title": "New parking permits in South Shore town misspelled \u2018parking\u2019",
+      "link": "https://www.boston.com/news/off-beat/2026/05/15/new-parking-permits-in-south-shore-town-misspelled-parking/",
+      "pubDate": "Fri, 15 May 2026 13:51:54 +0000",
+      "description": "<p>While Hull officials issue corrected versions, parking enforcement tied to the new permits will be paused, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/off-beat/2026/05/15/new-parking-permits-in-south-shore-town-misspelled-parking/\">New parking permits in South Shore town misspelled &#8216;parking&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "92916ea87e473117011dc4fd15678795",
       "summary": [
-        "Dairy Queen plans to open a deluxe location in Greater Boston this summer.",
-        "Cape Cod favorite restaurant gains popularity among Boston residents, boosting local tourism.",
-        "Harvard University debates grading policies, impacting students' academic experiences in the area."
+        "Hull officials issued new parking permits with 'parking' misspelled.",
+        "Corrected permits are being issued while enforcement is paused.",
+        "Residents will not face penalties until corrected permits are distributed."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The last Boston Market in Mass. has closed. What happened to the once-beloved chicken chain?",
+      "link": "https://www.boston.com/food/the-boston-globe/2026/05/15/the-last-boston-market-in-mass-has-closed-what-happened-to-the-once-beloved-chicken-chain/",
+      "pubDate": "Fri, 15 May 2026 11:52:06 +0000",
+      "description": "<p>The food came fast, yet it didn\u2019t feel like fast food; Boston Market managed to feel like a home-cooked meal.</p>\n<p>The post <a href=\"https://www.boston.com/food/the-boston-globe/2026/05/15/the-last-boston-market-in-mass-has-closed-what-happened-to-the-once-beloved-chicken-chain/\">The last Boston Market in Mass. has closed. What happened to the once-beloved chicken chain?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ab772f4208d1a82bf0e6445b9183a7bd",
+      "summary": [
+        "Boston Market's last location in Massachusetts closed permanently on May 15, 2026.",
+        "The chain was known for its home-cooked meal feel and fast service.",
+        "Local residents lose a popular dining option, impacting community meal choices."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Chargers troll Patriots over Mike Vrabel, Dianna Russini, and more in schedule release video",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/15/new-england-patriots-los-angeles-chargers-mike-vrabel-dianna-russini-halo-video-schedule-2026/",
+      "pubDate": "Fri, 15 May 2026 11:29:26 +0000",
+      "description": "<p>The Chargers landed shots against Vrabel, Stefon Diggs, Cardi B, and the Patriots' Super Bowl loss in their Halo-themed video. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/15/new-england-patriots-los-angeles-chargers-mike-vrabel-dianna-russini-halo-video-schedule-2026/\">Chargers troll Patriots over Mike Vrabel, Dianna Russini, and more in schedule release video</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1e764f499405d158036b035038954d3c",
+      "summary": [
+        "Chargers released a Halo-themed video mocking the Patriots and Mike Vrabel.",
+        "The video referenced the Patriots' Super Bowl loss, impacting local fan sentiment.",
+        "Boston residents may feel heightened rivalry as Chargers target local sports figures."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ask the remodeler: How universal design can help homeowners age in place",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/05/15/universal-design-accessible-homes-for-seniors/",
+      "pubDate": "Fri, 15 May 2026 11:00:00 +0000",
+      "description": "<p>It creates a home that is safe and accessible to someone who is elderly, disabled, or recovering from an injury or surgery </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/05/15/universal-design-accessible-homes-for-seniors/\">Ask the remodeler: How universal design can help homeowners age in place</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "067afb632392559b8ff240dd6e0d64e3",
+      "summary": [
+        "Universal design enhances safety and accessibility for elderly Boston homeowners.",
+        "Home modifications can support seniors recovering from injuries or surgeries.",
+        "Increased accessibility promotes independence for Boston residents aging in place."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-05-15T10:28:14.582291+00:00"
+    "timestamp": "2026-05-15T14:15:11.675950+00:00"
   }
 }
