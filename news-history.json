@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-05-16T09:43:45.872291+00:00",
+  "lastUpdated": "2026-05-16T19:09:59.890447+00:00",
   "articles": [
+    {
+      "title": "Trump: Islamic State leader killed in joint US-Nigerian mission",
+      "link": "https://www.boston.com/news/world-news/2026/05/16/trump-islamic-state-leader-killed-in-joint-us-nigerian-mission/",
+      "pubDate": "Sat, 16 May 2026 18:07:17 +0000",
+      "description": "<p>He announced the joint operation in Africa\u2019s most populous country in a late-night social media post.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/05/16/trump-islamic-state-leader-killed-in-joint-us-nigerian-mission/\">Trump: Islamic State leader killed in joint US-Nigerian mission</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7b601913331aa9fc95974157c303e0a6",
+      "summary": [
+        "US and Nigerian forces killed an Islamic State leader in a joint operation.",
+        "Operation announced by Trump on May 16, 2026, via social media.",
+        "Boston residents may see increased security measures due to ongoing threats."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Maine communities mourn firefighter killed in lumber mill explosion",
+      "link": "https://www.boston.com/news/local-news/2026/05/16/maine-communities-mourn-firefighter-killed-in-lumber-mill-explosion/",
+      "pubDate": "Sat, 16 May 2026 16:07:21 +0000",
+      "description": "<p>A memorial of flowers dedicated to 27-year-old Andrew Cross was left outside the Morrill Volunteer Fire Department.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/16/maine-communities-mourn-firefighter-killed-in-lumber-mill-explosion/\">Maine communities mourn firefighter killed in lumber mill explosion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "95e025681e37361f5aebc63cae07ad3c",
+      "summary": [
+        "Maine firefighter Andrew Cross, 27, died in a lumber mill explosion.",
+        "A memorial was established outside the Morrill Volunteer Fire Department.",
+        "Local communities are uniting in grief, impacting regional support for first responders."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "\u2018Like lighting the guitar on fire,\u2019 Robby Roadsteamer\u2019s path to internet fame goes deep into MAGA country",
       "link": "https://www.boston.com/news/the-boston-globe/2026/05/16/like-lighting-the-guitar-on-fire-robby-roadsteamers-path-to-internet-fame-goes-deep-into-maga-country/",
@@ -622,32 +648,6 @@
         "Karen Read's 2021 Lexus LX 570 SUV was sold privately after a canceled auction.",
         "The auction was scheduled for Thursday at Manzi Appraisers in Woburn.",
         "Low turnout led to the cancellation, affecting local auction dynamics."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bruins re-sign Lukas Reichel to a 1-year contract",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/05/14/boston-bruins-lukas-reichel-nhl-hockey-offseason-contract/",
-      "pubDate": "Thu, 14 May 2026 20:46:10 +0000",
-      "description": "<p>Reichel stands as a depth option for a Bruins team looking to add more skill and speed up front. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/05/14/boston-bruins-lukas-reichel-nhl-hockey-offseason-contract/\">Bruins re-sign Lukas Reichel to a 1-year contract</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "94ab7caaf5f2ca6de9f7f3ccdbc49e2f",
-      "summary": [
-        "Bruins re-sign forward Lukas Reichel to a 1-year contract for the upcoming season.",
-        "Reichel aims to enhance team skill and speed, crucial for upcoming games.",
-        "Local fans can expect increased competition for roster spots this season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "At $38m, Back Bay townhouse becomes Boston\u2019s second-most expensive listing",
-      "link": "https://www.boston.com/real-estate/local-news/2026/05/14/back-bay-boston-townhouse-lists-for-38-million/",
-      "pubDate": "Thu, 14 May 2026 19:30:00 +0000",
-      "description": "<p>The five-bedroom townhouse comes with three parking spaces.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/local-news/2026/05/14/back-bay-boston-townhouse-lists-for-38-million/\">At $38m, Back Bay townhouse becomes Boston\u2019s second-most expensive listing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a099c9545102e6735e5192234cff063b",
-      "summary": [
-        "Back Bay townhouse listed for $38 million, becoming Boston's second-most expensive property.",
-        "The five-bedroom home includes three parking spaces, appealing to affluent buyers.",
-        "High-end listings like this may influence local real estate market trends and pricing."
       ],
       "hookType": "LOCAL_IMPACT"
     }
