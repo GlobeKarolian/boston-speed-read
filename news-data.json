@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-05-16T20:53:59.817920+00:00",
+  "lastUpdated": "2026-05-16T22:51:48.241797+00:00",
   "articles": [
     {
-      "title": "North America\u2019s largest commuter rail system shuts for strike",
-      "link": "https://www.boston.com/news/transportation/2026/05/16/north-americas-largest-commuter-rail-system-shuts-for-strike/",
-      "pubDate": "Sat, 16 May 2026 20:48:42 +0000",
-      "description": "<p>The railroad, which serves New York City and its eastern suburbs, ceased operations just after midnight after five unions representing about half its workforce walked off the job.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/05/16/north-americas-largest-commuter-rail-system-shuts-for-strike/\">North America\u2019s largest commuter rail system shuts for strike</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ea54c72d9275b2b259ed36eed6c3cf3c",
+      "title": "Legacy extend unbeaten streak to five games with draw at Bay FC despite playing second half with 10 players",
+      "link": "https://www.boston.com/sports/local-news/2026/05/16/boston-legacy-bay-fc-recap/",
+      "pubDate": "Sat, 16 May 2026 21:29:02 +0000",
+      "description": "<p>The draw stretched the expansion club's unbeaten run to five games at 2-0-3.</p>\n<p>The post <a href=\"https://www.boston.com/sports/local-news/2026/05/16/boston-legacy-bay-fc-recap/\">Legacy extend unbeaten streak to five games with draw at Bay FC despite playing second half with 10 players</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ecd2abd904cff797bdb6e7a28f280b35",
       "summary": [
-        "North America's largest commuter rail system halted operations due to a strike.",
-        "Five unions representing about half of the workforce initiated the strike at midnight.",
-        "Boston residents may face increased traffic and delays as alternative transportation options become crowded."
+        "Legacy's unbeaten streak reaches five games after a draw against Bay FC.",
+        "Team's record now stands at 2 wins, 0 losses, and 3 draws.",
+        "Boston residents see continued support for the expansion club's performance."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "One driver dead in NH collision between pickup truck and school bus",
-      "link": "https://www.boston.com/news/local-news/2026/05/16/one-driver-dead-in-nh-collision-between-pickup-truck-and-school-bus/",
-      "pubDate": "Sat, 16 May 2026 19:28:17 +0000",
-      "description": "<p>Authorities said 13 students were aboard the bus at the time of the fatal Marlborough, New Hampshire, crash, though none were seriously injured.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/16/one-driver-dead-in-nh-collision-between-pickup-truck-and-school-bus/\">One driver dead in NH collision between pickup truck and school bus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "72a8e20b75248d88548f301812e1178f",
+      "title": "Red Sox place Trevor Story on injured list with sports hernia, contemplating surgery",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/16/trevor-story-red-sox-injured-list-sports-hernia/",
+      "pubDate": "Sat, 16 May 2026 21:16:47 +0000",
+      "description": "<p>Boston recalled INF Nick Sogard from Triple-A as the corresponding move.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/16/trevor-story-red-sox-injured-list-sports-hernia/\">Red Sox place Trevor Story on injured list with sports hernia, contemplating surgery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "974faebeec0ee8c1cf5569bb4cbee3c5",
       "summary": [
-        "One driver died in a collision between a pickup truck and a school bus in Marlborough, NH.",
-        "Thirteen students were on the bus; none sustained serious injuries during the incident.",
-        "The crash raises concerns about school transportation safety for Boston area families."
+        "Red Sox placed Trevor Story on the injured list due to a sports hernia.",
+        "Boston recalled INF Nick Sogard from Triple-A to fill the roster gap.",
+        "Story's potential surgery may affect the team's performance this season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-16T20:53:59.817942+00:00"
+    "timestamp": "2026-05-16T22:51:48.241821+00:00"
   }
 }
