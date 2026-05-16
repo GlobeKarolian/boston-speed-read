@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-05-16T19:09:59.889673+00:00",
+  "lastUpdated": "2026-05-16T20:53:59.817920+00:00",
   "articles": [
     {
-      "title": "Trump: Islamic State leader killed in joint US-Nigerian mission",
-      "link": "https://www.boston.com/news/world-news/2026/05/16/trump-islamic-state-leader-killed-in-joint-us-nigerian-mission/",
-      "pubDate": "Sat, 16 May 2026 18:07:17 +0000",
-      "description": "<p>He announced the joint operation in Africa\u2019s most populous country in a late-night social media post.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/05/16/trump-islamic-state-leader-killed-in-joint-us-nigerian-mission/\">Trump: Islamic State leader killed in joint US-Nigerian mission</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7b601913331aa9fc95974157c303e0a6",
+      "title": "North America\u2019s largest commuter rail system shuts for strike",
+      "link": "https://www.boston.com/news/transportation/2026/05/16/north-americas-largest-commuter-rail-system-shuts-for-strike/",
+      "pubDate": "Sat, 16 May 2026 20:48:42 +0000",
+      "description": "<p>The railroad, which serves New York City and its eastern suburbs, ceased operations just after midnight after five unions representing about half its workforce walked off the job.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/05/16/north-americas-largest-commuter-rail-system-shuts-for-strike/\">North America\u2019s largest commuter rail system shuts for strike</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ea54c72d9275b2b259ed36eed6c3cf3c",
       "summary": [
-        "US and Nigerian forces killed an Islamic State leader in a joint operation.",
-        "Operation announced by Trump on May 16, 2026, via social media.",
-        "Boston residents may see increased security measures due to ongoing threats."
+        "North America's largest commuter rail system halted operations due to a strike.",
+        "Five unions representing about half of the workforce initiated the strike at midnight.",
+        "Boston residents may face increased traffic and delays as alternative transportation options become crowded."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Maine communities mourn firefighter killed in lumber mill explosion",
-      "link": "https://www.boston.com/news/local-news/2026/05/16/maine-communities-mourn-firefighter-killed-in-lumber-mill-explosion/",
-      "pubDate": "Sat, 16 May 2026 16:07:21 +0000",
-      "description": "<p>A memorial of flowers dedicated to 27-year-old Andrew Cross was left outside the Morrill Volunteer Fire Department.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/16/maine-communities-mourn-firefighter-killed-in-lumber-mill-explosion/\">Maine communities mourn firefighter killed in lumber mill explosion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "95e025681e37361f5aebc63cae07ad3c",
+      "title": "One driver dead in NH collision between pickup truck and school bus",
+      "link": "https://www.boston.com/news/local-news/2026/05/16/one-driver-dead-in-nh-collision-between-pickup-truck-and-school-bus/",
+      "pubDate": "Sat, 16 May 2026 19:28:17 +0000",
+      "description": "<p>Authorities said 13 students were aboard the bus at the time of the fatal Marlborough, New Hampshire, crash, though none were seriously injured.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/16/one-driver-dead-in-nh-collision-between-pickup-truck-and-school-bus/\">One driver dead in NH collision between pickup truck and school bus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "72a8e20b75248d88548f301812e1178f",
       "summary": [
-        "Maine firefighter Andrew Cross, 27, died in a lumber mill explosion.",
-        "A memorial was established outside the Morrill Volunteer Fire Department.",
-        "Local communities are uniting in grief, impacting regional support for first responders."
+        "One driver died in a collision between a pickup truck and a school bus in Marlborough, NH.",
+        "Thirteen students were on the bus; none sustained serious injuries during the incident.",
+        "The crash raises concerns about school transportation safety for Boston area families."
       ],
       "hookType": "LOCAL_IMPACT"
     }
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-16T19:09:59.889694+00:00"
+    "timestamp": "2026-05-16T20:53:59.817942+00:00"
   }
 }

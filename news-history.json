@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-05-16T19:09:59.890447+00:00",
+  "lastUpdated": "2026-05-16T20:53:59.818786+00:00",
   "articles": [
+    {
+      "title": "North America\u2019s largest commuter rail system shuts for strike",
+      "link": "https://www.boston.com/news/transportation/2026/05/16/north-americas-largest-commuter-rail-system-shuts-for-strike/",
+      "pubDate": "Sat, 16 May 2026 20:48:42 +0000",
+      "description": "<p>The railroad, which serves New York City and its eastern suburbs, ceased operations just after midnight after five unions representing about half its workforce walked off the job.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/05/16/north-americas-largest-commuter-rail-system-shuts-for-strike/\">North America\u2019s largest commuter rail system shuts for strike</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ea54c72d9275b2b259ed36eed6c3cf3c",
+      "summary": [
+        "North America's largest commuter rail system halted operations due to a strike.",
+        "Five unions representing about half of the workforce initiated the strike at midnight.",
+        "Boston residents may face increased traffic and delays as alternative transportation options become crowded."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "One driver dead in NH collision between pickup truck and school bus",
+      "link": "https://www.boston.com/news/local-news/2026/05/16/one-driver-dead-in-nh-collision-between-pickup-truck-and-school-bus/",
+      "pubDate": "Sat, 16 May 2026 19:28:17 +0000",
+      "description": "<p>Authorities said 13 students were aboard the bus at the time of the fatal Marlborough, New Hampshire, crash, though none were seriously injured.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/16/one-driver-dead-in-nh-collision-between-pickup-truck-and-school-bus/\">One driver dead in NH collision between pickup truck and school bus</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "72a8e20b75248d88548f301812e1178f",
+      "summary": [
+        "One driver died in a collision between a pickup truck and a school bus in Marlborough, NH.",
+        "Thirteen students were on the bus; none sustained serious injuries during the incident.",
+        "The crash raises concerns about school transportation safety for Boston area families."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Trump: Islamic State leader killed in joint US-Nigerian mission",
       "link": "https://www.boston.com/news/world-news/2026/05/16/trump-islamic-state-leader-killed-in-joint-us-nigerian-mission/",
@@ -622,32 +648,6 @@
         "Jared Wilson returns to center position, enhancing Patriots' offensive line stability.",
         "Wilson reunites with quarterback Drake Maye, fostering team chemistry.",
         "This switch could improve Patriots' performance in the upcoming 2026 season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Justice Dept. accuses Yale Medical School of discriminating against white and Asian applicants",
-      "link": "https://www.boston.com/news/politics/2026/05/14/justice-dept-accuses-yale-medical-school-of-discriminating-against-white-and-asian-applicants/",
-      "pubDate": "Thu, 14 May 2026 21:08:00 +0000",
-      "description": "<p>The finding was the second time in eight days that the Trump administration had targeted a major medical school over admissions policies.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/05/14/justice-dept-accuses-yale-medical-school-of-discriminating-against-white-and-asian-applicants/\">Justice Dept. accuses Yale Medical School of discriminating against white and Asian applicants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3ad7ea22173fdcd8d0ca96069f4e32a4",
-      "summary": [
-        "Justice Department accuses Yale Medical School of discrimination against white and Asian applicants.",
-        "This marks the second accusation in eight days from the Trump administration.",
-        "Boston residents may see implications for local medical school admissions policies."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Karen Read\u2019s Lexus SUV sold in private deal after low turnout canceled auction",
-      "link": "https://www.boston.com/news/local-news/2026/05/14/karen-read-lexus-suv-sold-private-deal/",
-      "pubDate": "Thu, 14 May 2026 20:52:35 +0000",
-      "description": "<p>The 2021 Lexus LX 570 SUV was slated for auction Thursday at Manzi Appraisers in Woburn by JJ Manning Auctioneers.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/14/karen-read-lexus-suv-sold-private-deal/\">Karen Read\u2019s Lexus SUV sold in private deal after low turnout canceled auction</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "558eb6f8f73f670b6bf97111ac09430b",
-      "summary": [
-        "Karen Read's 2021 Lexus LX 570 SUV was sold privately after a canceled auction.",
-        "The auction was scheduled for Thursday at Manzi Appraisers in Woburn.",
-        "Low turnout led to the cancellation, affecting local auction dynamics."
       ],
       "hookType": "LOCAL_IMPACT"
     }
