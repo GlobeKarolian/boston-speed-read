@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-05-17T14:59:46.985842+00:00",
+  "lastUpdated": "2026-05-17T20:57:42.445861+00:00",
   "articles": [
+    {
+      "title": "With largest US commuter rail system shut down, NY governor urges unions to resume talks",
+      "link": "https://www.boston.com/news/politics/2026/05/17/with-largest-us-commuter-rail-system-shut-down-ny-governor-urges-unions-to-resume-talks/",
+      "pubDate": "Sun, 17 May 2026 20:28:07 +0000",
+      "description": "<p>\u201cThis is my official invitation. We didn\u2019t want you to leave. You left. You\u2019re welcome to come back. I\u2019ll provide refreshments, whatever you like. Just c\u2019mon back,\u201d New York Gov. Kathy Hochul said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/05/17/with-largest-us-commuter-rail-system-shut-down-ny-governor-urges-unions-to-resume-talks/\">With largest US commuter rail system shut down, NY governor urges unions to resume talks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c16d4c30d07c25ce488d6ef5c7d600f3",
+      "summary": [
+        "New York's commuter rail system is shut down, affecting regional transit.",
+        "Governor Kathy Hochul invites unions to resume negotiations to end the shutdown.",
+        "Boston residents may face increased travel delays and congestion due to rail disruptions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says",
+      "link": "https://www.boston.com/news/national-news/2026/05/17/air-force-base-in-idaho-is-locked-down-after-witnesses-report-planes-collided-during-an-air-show/",
+      "pubDate": "Sun, 17 May 2026 20:16:09 +0000",
+      "description": "<p>Emergency crews responded after the two planes collided during the show at the Mountain Home Air Force Base in western Idaho.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/17/air-force-base-in-idaho-is-locked-down-after-witnesses-report-planes-collided-during-an-air-show/\">Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "848a9a1c8611a4e922bf3adf4e57051d",
+      "summary": [
+        "Two Navy jets collided during an air show at Mountain Home Air Force Base in Idaho.",
+        "Four crew members ejected safely, avoiding serious injuries during the incident.",
+        "The crash raises safety concerns for future air shows attended by Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "3 takeaways from the Revolution\u2019s 2-1 win over Minnesota United",
       "link": "https://www.boston.com/sports/new-england-revolution/2026/05/17/new-england-revolution-minnesota-recap-may-16-2026/",
@@ -624,32 +650,6 @@
         "This initiative encourages community engagement and creativity among Boston residents."
       ],
       "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018This was my baby\u2019: Blaze destroys popular Belmont ice cream shop, causes floor to collapse",
-      "link": "https://www.boston.com/news/local-news/2026/05/14/blaze-destroys-popular-belmont-ice-cream-shop-causes-floor-to-collapse/",
-      "pubDate": "Fri, 15 May 2026 00:56:48 +0000",
-      "description": "<p>The three-alarm fire broke out early Thursday morning, causing extensive, irreparable damage to the ice cream shop.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/14/blaze-destroys-popular-belmont-ice-cream-shop-causes-floor-to-collapse/\">&#8216;This was my baby&#8217;: Blaze destroys popular Belmont ice cream shop, causes floor to collapse</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ff9906c8b72991d1c568a6a5d4ca176c",
-      "summary": [
-        "A three-alarm fire destroyed a beloved ice cream shop in Belmont early Thursday morning.",
-        "The fire caused the shop's floor to collapse, resulting in extensive damage.",
-        "Local residents mourn the loss of a community favorite, impacting local business and culture."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Patriots officially unveil 2026 schedule that begins with Super Bowl rematch",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/14/new-england-patriots-2026-schedule-announcement-reveal-unveil-dates-times/",
-      "pubDate": "Fri, 15 May 2026 00:23:19 +0000",
-      "description": "<p>The Patriots will begin a daunting 2026 season with a rematch of Super Bowl LX against the Seahawks in Seattle on Wednesday, September 9. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/14/new-england-patriots-2026-schedule-announcement-reveal-unveil-dates-times/\">Patriots officially unveil 2026 schedule that begins with Super Bowl rematch</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a452a8676bd5a0d50629d3543e8c689d",
-      "summary": [
-        "Update: Patriots officially unveil 2026 schedule that begi",
-        "Details: <p>The Patriots will begin a daunting 2026 season ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
     }
   ],
   "totalArticles": 50

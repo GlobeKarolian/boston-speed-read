@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-05-17T19:13:47.174852+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-17T20:57:42.445050+00:00",
+  "articles": [
+    {
+      "title": "With largest US commuter rail system shut down, NY governor urges unions to resume talks",
+      "link": "https://www.boston.com/news/politics/2026/05/17/with-largest-us-commuter-rail-system-shut-down-ny-governor-urges-unions-to-resume-talks/",
+      "pubDate": "Sun, 17 May 2026 20:28:07 +0000",
+      "description": "<p>\u201cThis is my official invitation. We didn\u2019t want you to leave. You left. You\u2019re welcome to come back. I\u2019ll provide refreshments, whatever you like. Just c\u2019mon back,\u201d New York Gov. Kathy Hochul said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/05/17/with-largest-us-commuter-rail-system-shut-down-ny-governor-urges-unions-to-resume-talks/\">With largest US commuter rail system shut down, NY governor urges unions to resume talks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c16d4c30d07c25ce488d6ef5c7d600f3",
+      "summary": [
+        "New York's commuter rail system is shut down, affecting regional transit.",
+        "Governor Kathy Hochul invites unions to resume negotiations to end the shutdown.",
+        "Boston residents may face increased travel delays and congestion due to rail disruptions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says",
+      "link": "https://www.boston.com/news/national-news/2026/05/17/air-force-base-in-idaho-is-locked-down-after-witnesses-report-planes-collided-during-an-air-show/",
+      "pubDate": "Sun, 17 May 2026 20:16:09 +0000",
+      "description": "<p>Emergency crews responded after the two planes collided during the show at the Mountain Home Air Force Base in western Idaho.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/17/air-force-base-in-idaho-is-locked-down-after-witnesses-report-planes-collided-during-an-air-show/\">Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "848a9a1c8611a4e922bf3adf4e57051d",
+      "summary": [
+        "Two Navy jets collided during an air show at Mountain Home Air Force Base in Idaho.",
+        "Four crew members ejected safely, avoiding serious injuries during the incident.",
+        "The crash raises safety concerns for future air shows attended by Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-17T19:13:47.174861+00:00"
+    "timestamp": "2026-05-17T20:57:42.445074+00:00"
   }
 }
