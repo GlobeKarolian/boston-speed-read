@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-05-17T06:47:30.204358+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-17T09:49:15.146258+00:00",
+  "articles": [
+    {
+      "title": "Flashback: A look at previous times Tall Ships have sailed into Boston",
+      "link": "https://www.boston.com/community/events/2026/05/17/flashback-a-look-at-previous-times-tall-ships-have-sailed-into-boston/",
+      "pubDate": "Sun, 17 May 2026 09:00:00 +0000",
+      "description": "<p>1976 marked the first year of Sail Boston. </p>\n<p>The post <a href=\"https://www.boston.com/community/events/2026/05/17/flashback-a-look-at-previous-times-tall-ships-have-sailed-into-boston/\">Flashback: A look at previous times Tall Ships have sailed into Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "312fb7098e83e73afa27dddec6510b83",
+      "summary": [
+        "Sail Boston began in 1976, celebrating maritime heritage in the city.",
+        "Tall Ships events attract thousands of visitors, boosting local tourism and economy.",
+        "Upcoming events in 2026 will revive community engagement and cultural pride."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Is it \u2018the Back Bay\u2019 or just \u2018Back Bay\u2019? The answer might surprise you.",
+      "link": "https://www.boston.com/news/the-boston-globe/2026/05/17/is-it-the-back-bay-or-just-back-bay-the-answer-might-surprise-you/",
+      "pubDate": "Sun, 17 May 2026 09:00:00 +0000",
+      "description": "<p>When it comes to Boston neighborhoods, using the definite article is far from definitive.</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2026/05/17/is-it-the-back-bay-or-just-back-bay-the-answer-might-surprise-you/\">Is it \u2018the Back Bay\u2019 or just \u2018Back Bay\u2019? The answer might surprise you.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c4d73c80930677b39f8f8b9054c72749",
+      "summary": [
+        "Explore the debate over naming conventions in Boston's Back Bay neighborhood.",
+        "Local historians note variations in usage date back to the 19th century.",
+        "Understanding the correct terminology fosters community identity among Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-17T06:47:30.204368+00:00"
+    "timestamp": "2026-05-17T09:49:15.146271+00:00"
   }
 }
