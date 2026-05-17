@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-05-17T20:57:42.445050+00:00",
+  "lastUpdated": "2026-05-17T22:56:03.491791+00:00",
   "articles": [
     {
-      "title": "With largest US commuter rail system shut down, NY governor urges unions to resume talks",
-      "link": "https://www.boston.com/news/politics/2026/05/17/with-largest-us-commuter-rail-system-shut-down-ny-governor-urges-unions-to-resume-talks/",
-      "pubDate": "Sun, 17 May 2026 20:28:07 +0000",
-      "description": "<p>\u201cThis is my official invitation. We didn\u2019t want you to leave. You left. You\u2019re welcome to come back. I\u2019ll provide refreshments, whatever you like. Just c\u2019mon back,\u201d New York Gov. Kathy Hochul said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/05/17/with-largest-us-commuter-rail-system-shut-down-ny-governor-urges-unions-to-resume-talks/\">With largest US commuter rail system shut down, NY governor urges unions to resume talks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c16d4c30d07c25ce488d6ef5c7d600f3",
+      "title": "Boston man awaiting trial for allegedly dumping woman\u2019s body found guilty of rape, strangulation",
+      "link": "https://www.boston.com/news/crime/2026/05/17/boston-man-awaiting-trial-for-allegedly-dumping-womans-body-found-guilty-of-rape-strangulation/",
+      "pubDate": "Sun, 17 May 2026 22:43:02 +0000",
+      "description": "<p>The man was convicted on six counts, including rape, and acquitted on four others, including kidnapping and assault and battery.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/17/boston-man-awaiting-trial-for-allegedly-dumping-womans-body-found-guilty-of-rape-strangulation/\">Boston man awaiting trial for allegedly dumping woman\u2019s body found guilty of rape, strangulation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "765754f097ec2b24630e30fc718443b7",
       "summary": [
-        "New York's commuter rail system is shut down, affecting regional transit.",
-        "Governor Kathy Hochul invites unions to resume negotiations to end the shutdown.",
-        "Boston residents may face increased travel delays and congestion due to rail disruptions."
+        "Boston man convicted of rape and strangulation on May 17, 2026.",
+        "He faces six counts of conviction, including serious sexual offenses.",
+        "This case highlights ongoing concerns about violence against women in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says",
-      "link": "https://www.boston.com/news/national-news/2026/05/17/air-force-base-in-idaho-is-locked-down-after-witnesses-report-planes-collided-during-an-air-show/",
-      "pubDate": "Sun, 17 May 2026 20:16:09 +0000",
-      "description": "<p>Emergency crews responded after the two planes collided during the show at the Mountain Home Air Force Base in western Idaho.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/17/air-force-base-in-idaho-is-locked-down-after-witnesses-report-planes-collided-during-an-air-show/\">Four crew members ejected safely after two Navy jets crash during air show in Idaho, organizer says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "848a9a1c8611a4e922bf3adf4e57051d",
+      "title": "10 random weekend shootings leave 4 injured in Austin, Texas, mayor says",
+      "link": "https://www.boston.com/news/crime/2026/05/17/10-random-weekend-shootings-leave-4-injured-in-austin-texas-mayor-says/",
+      "pubDate": "Sun, 17 May 2026 21:33:11 +0000",
+      "description": "<p>The city ordered residents of a large part of the southern area of the Texas capital city to shelter in place Sunday while the search continues.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/17/10-random-weekend-shootings-leave-4-injured-in-austin-texas-mayor-says/\">10 random weekend shootings leave 4 injured in Austin, Texas, mayor says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "611de822215aea8ff62ae4e65eda0de2",
       "summary": [
-        "Two Navy jets collided during an air show at Mountain Home Air Force Base in Idaho.",
-        "Four crew members ejected safely, avoiding serious injuries during the incident.",
-        "The crash raises safety concerns for future air shows attended by Boston residents."
+        "Austin, Texas experienced 10 random shootings over the weekend, injuring 4 individuals.",
+        "Residents in a large southern area were ordered to shelter in place on Sunday.",
+        "Boston residents should remain vigilant as similar incidents can occur in urban areas."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox routed by Atlanta 8-1, drop series to Braves",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/17/red-sox-routed-by-atlanta-8-1-drop-series-to-braves/",
+      "pubDate": "Sun, 17 May 2026 21:10:19 +0000",
+      "description": "<p>The first-place Braves took two of three from Boston for their 13th win in 15 series this season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/17/red-sox-routed-by-atlanta-8-1-drop-series-to-braves/\">Red Sox routed by Atlanta 8-1, drop series to Braves</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "34638d14d2e6234a9d53fde27ae78b49",
+      "summary": [
+        "Red Sox lost 8-1 to Braves on May 17, 2026.",
+        "Braves secured their 13th win in 15 series this season.",
+        "Boston's playoff hopes diminish with series loss to top team."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-17T20:57:42.445074+00:00"
+    "timestamp": "2026-05-17T22:56:03.491815+00:00"
   }
 }
