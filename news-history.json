@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-05-17T09:49:15.146803+00:00",
+  "lastUpdated": "2026-05-17T14:59:46.985842+00:00",
   "articles": [
+    {
+      "title": "3 takeaways from the Revolution\u2019s 2-1 win over Minnesota United",
+      "link": "https://www.boston.com/sports/new-england-revolution/2026/05/17/new-england-revolution-minnesota-recap-may-16-2026/",
+      "pubDate": "Sun, 17 May 2026 14:47:53 +0000",
+      "description": "<p>\"Give Matt Turner some credit. He made some really good saves for them.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/05/17/new-england-revolution-minnesota-recap-may-16-2026/\">3 takeaways from the Revolution&#8217;s 2-1 win over Minnesota United</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5ec7bf3444239771a32e190f79271cf7",
+      "summary": [
+        "Revolution secured a 2-1 victory against Minnesota United on May 16, 2026.",
+        "Goalkeeper Matt Turner made crucial saves, contributing to the team's success.",
+        "This win boosts the Revolution's standings, enhancing local fan engagement and support."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "SNL recap: Best moments from Will Ferrell hosting \u2018Saturday Night Live\u2019 season finale",
+      "link": "https://www.boston.com/culture/entertainment/2026/05/17/snl-recap-will-ferrell-paul-mccartney-2026/",
+      "pubDate": "Sun, 17 May 2026 14:25:35 +0000",
+      "description": "<p>Will Ferrell hosted the season 51 finale of \"Saturday Night Live\" on May 16, with Paul McCartney serving as musical guest.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/05/17/snl-recap-will-ferrell-paul-mccartney-2026/\">SNL recap: Best moments from Will Ferrell hosting &#8216;Saturday Night Live&#8217; season finale</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "88ac6fdc57fa9567e0ec6c57b3056cba",
+      "summary": [
+        "Will Ferrell hosted SNL's season 51 finale on May 16, 2026.",
+        "Paul McCartney performed as the musical guest during the finale.",
+        "Local viewers enjoyed a night of comedy and music from iconic entertainers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Flashback: A look at previous times Tall Ships have sailed into Boston",
       "link": "https://www.boston.com/community/events/2026/05/17/flashback-a-look-at-previous-times-tall-ships-have-sailed-into-boston/",
@@ -624,32 +650,6 @@
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Did my vehicle miss out on an important safety recall?",
-      "link": "https://www.boston.com/cars/how-to/2026/05/14/car-doctor-did-my-vehicle-miss-out-on-an-important-safety-recall/",
-      "pubDate": "Fri, 15 May 2026 00:05:26 +0000",
-      "description": "<p>John Paul, AAA Northeast's Car Doctor, hears from a reader wondering why they were never notified of a recall for their VW.</p>\n<p>The post <a href=\"https://www.boston.com/cars/how-to/2026/05/14/car-doctor-did-my-vehicle-miss-out-on-an-important-safety-recall/\">Did my vehicle miss out on an important safety recall?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f8b58b4d7eda1e3a4aa299649ea5a69a",
-      "summary": [
-        "John Paul addresses safety recall notifications for vehicles, including VW models.",
-        "AAA Northeast reports many owners may miss critical recall alerts, affecting vehicle safety.",
-        "Boston residents urged to check recall status to ensure vehicle safety and compliance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bruins assistant GM leaving organization to \u2018pursue other opportunities\u2019",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/05/14/boston-bruins-gm-don-sweeney-jamie-langenbrunner-nhl-hockey/",
-      "pubDate": "Thu, 14 May 2026 23:31:58 +0000",
-      "description": "<p>Langenbrunner, 50, had been involved in the Bruins organization for the past 11 years. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/05/14/boston-bruins-gm-don-sweeney-jamie-langenbrunner-nhl-hockey/\">Bruins assistant GM leaving organization to \u2018pursue other opportunities\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fd24e2c316befb257c963b88047cee35",
-      "summary": [
-        "Bruins assistant GM Jamie Langenbrunner is leaving after 11 years with the organization.",
-        "Langenbrunner, 50, will pursue other opportunities outside the Bruins.",
-        "His departure may affect team strategy and future player development in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
     }
   ],
   "totalArticles": 50
