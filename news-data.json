@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-19T07:51:45.939161+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-19T11:23:49.121784+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: Two-bedroom condo minutes from Roslindale Square for $575k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/05/19/roslindale-square-condo-boston/",
+      "pubDate": "Tue, 19 May 2026 11:00:00 +0000",
+      "description": "<p>Its just steps from the Square with shops and restaurants, and a short walk from the MBTA\u2019s Roslindale Village commuter rail stop.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/05/19/roslindale-square-condo-boston/\">Home of the Week: Two-bedroom condo minutes from Roslindale Square for $575k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e4d83bca6858363f5d624193f9862b1c",
+      "summary": [
+        "Explore a two-bedroom condo listed at $575,000 near Roslindale Square.",
+        "Condo is steps away from shops, restaurants, and the MBTA commuter rail.",
+        "Ideal location enhances accessibility for Boston residents seeking urban living."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-19T07:51:45.939172+00:00"
+    "timestamp": "2026-05-19T11:23:49.121837+00:00"
   }
 }
