@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-20T07:51:10.699219+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-20T10:54:53.286958+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (May 20)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/20/recent-homes-sales-in-greater-boston-may-20/",
+      "pubDate": "Wed, 20 May 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 337 Randolph St. One-family Colonial, built in 1966, 2,520 square feet, 10 rooms, 5 bedrooms, 4 baths, on 25,246-square-foot lot. $784,900 34 Park Ave. One-family Cape Cod, built in 1960, 1,912 square feet, 7 rooms, 3 bedrooms, 3 baths, on 26,117-square-foot lot. $732,000 120 Temple St. One-family conventional, built in 1890, 1,305 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/20/recent-homes-sales-in-greater-boston-may-20/\">Recent homes sales in Greater Boston (May 20)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6882c7a36d5575db02e8c7dd3921dbc1",
+      "summary": [
+        "Abington home sales include a Colonial at 337 Randolph St. for $784,900.",
+        "34 Park Ave. sold for $732,000, featuring 3 bedrooms and 3 baths.",
+        "Rising home prices may affect affordability for Boston residents seeking new homes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-20T07:51:10.699228+00:00"
+    "timestamp": "2026-05-20T10:54:53.286977+00:00"
   }
 }

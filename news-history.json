@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-20T03:56:30.566694+00:00",
+  "lastUpdated": "2026-05-20T10:54:53.287574+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (May 20)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/20/recent-homes-sales-in-greater-boston-may-20/",
+      "pubDate": "Wed, 20 May 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 337 Randolph St. One-family Colonial, built in 1966, 2,520 square feet, 10 rooms, 5 bedrooms, 4 baths, on 25,246-square-foot lot. $784,900 34 Park Ave. One-family Cape Cod, built in 1960, 1,912 square feet, 7 rooms, 3 bedrooms, 3 baths, on 26,117-square-foot lot. $732,000 120 Temple St. One-family conventional, built in 1890, 1,305 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/20/recent-homes-sales-in-greater-boston-may-20/\">Recent homes sales in Greater Boston (May 20)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6882c7a36d5575db02e8c7dd3921dbc1",
+      "summary": [
+        "Abington home sales include a Colonial at 337 Randolph St. for $784,900.",
+        "34 Park Ave. sold for $732,000, featuring 3 bedrooms and 3 baths.",
+        "Rising home prices may affect affordability for Boston residents seeking new homes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "MBTA announces new ferry service starting in June that will loop around Boston Harbor",
       "link": "https://www.boston.com/news/transportation/2026/05/19/mbta-announces-new-ferry-service-starting-in-june/",
@@ -635,19 +648,6 @@
         "Stephen A. Smith criticized Jaylen Brown's Twitch comments about the Celtics' season ending.",
         "Smith emphasized the importance of being cautious with public statements.",
         "Boston fans may feel concerned about player attitudes after the disappointing season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The 2 suspects in a shooting at a San Diego mosque are dead, a police source says",
-      "link": "https://www.boston.com/news/crime/2026/05/18/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-islamic-center/",
-      "pubDate": "Mon, 18 May 2026 20:14:03 +0000",
-      "description": "<p>Authorities earlier said they believe multiple people have been shot. They have not released more details.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/18/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-islamic-center/\">The 2 suspects in a shooting at a San Diego mosque are dead, a police source says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "23d2469a91fe73c0bea7a2ba35642055",
-      "summary": [
-        "Two suspects involved in a San Diego mosque shooting are confirmed dead.",
-        "Multiple victims were reported, but specific numbers remain undisclosed.",
-        "Boston residents may feel heightened security concerns at local places of worship."
       ],
       "hookType": "LOCAL_IMPACT"
     }
