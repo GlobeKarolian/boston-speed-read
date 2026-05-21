@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-21T04:05:45.184054+00:00",
+  "lastUpdated": "2026-05-21T12:46:03.678201+00:00",
   "articles": [
+    {
+      "title": "Starter homes becoming \u2018thing of the past\u2019 in Greater Boston as buyers enter market at age 40",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/05/21/starter-home-boston-first-time-homebuyers/",
+      "pubDate": "Thu, 21 May 2026 11:00:00 +0000",
+      "description": "<p>First-time homebuyers are searching for homes they can grow into rather than trade up quickly</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/05/21/starter-home-boston-first-time-homebuyers/\">Starter homes becoming \u2018thing of the past\u2019 in Greater Boston as buyers enter market at age 40</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7f89d5082d9ef238bcc44bed261353ff",
+      "summary": [
+        "First-time homebuyers in Greater Boston are now entering the market at an average age of 40.",
+        "Buyers are seeking larger homes to accommodate future growth instead of starter homes.",
+        "This trend may reduce housing availability for younger families in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "7 MassDOT employees on leave after TV news investigation into overtime",
       "link": "https://www.boston.com/news/local-news/2026/05/20/7-massdot-employees-on-leave-after-tv-news-investigation-into-overtime/",
@@ -635,19 +648,6 @@
         "Red Sox will not sell players during the 2026 season, maintaining team stability.",
         "Ken Rosenthal reports the decision comes as the team aims for future success.",
         "Boston fans can expect continuity as the team focuses on building a competitive roster."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston broke the heat record at 96 degrees. Here\u2019s how long the steamy weather will last.",
-      "link": "https://www.boston.com/weather/local-news/2026/05/19/boston-broke-the-heat-record-at-96-degrees-heres-how-long-the-steamy-weather-will-last/",
-      "pubDate": "Tue, 19 May 2026 23:52:09 +0000",
-      "description": "<p>\"It will still be very hot with real relief not expected until Thursday.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/05/19/boston-broke-the-heat-record-at-96-degrees-heres-how-long-the-steamy-weather-will-last/\">Boston broke the heat record at 96 degrees. Here&#8217;s how long the steamy weather will last.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f31ec5ef7ac277bfc3c1d97817bd6c24",
-      "summary": [
-        "Boston recorded a high of 96 degrees, breaking previous temperature records.",
-        "Relief from the heat is not expected until Thursday, May 25.",
-        "Residents should prepare for continued high temperatures and potential health risks."
       ],
       "hookType": "LOCAL_IMPACT"
     }

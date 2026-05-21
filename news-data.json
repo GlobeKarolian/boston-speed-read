@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-21T09:49:23.160039+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-21T12:46:03.677518+00:00",
+  "articles": [
+    {
+      "title": "Starter homes becoming \u2018thing of the past\u2019 in Greater Boston as buyers enter market at age 40",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/05/21/starter-home-boston-first-time-homebuyers/",
+      "pubDate": "Thu, 21 May 2026 11:00:00 +0000",
+      "description": "<p>First-time homebuyers are searching for homes they can grow into rather than trade up quickly</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/05/21/starter-home-boston-first-time-homebuyers/\">Starter homes becoming \u2018thing of the past\u2019 in Greater Boston as buyers enter market at age 40</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7f89d5082d9ef238bcc44bed261353ff",
+      "summary": [
+        "First-time homebuyers in Greater Boston are now entering the market at an average age of 40.",
+        "Buyers are seeking larger homes to accommodate future growth instead of starter homes.",
+        "This trend may reduce housing availability for younger families in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-21T09:49:23.160050+00:00"
+    "timestamp": "2026-05-21T12:46:03.677538+00:00"
   }
 }
