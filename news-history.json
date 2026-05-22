@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-22T19:53:14.959249+00:00",
+  "lastUpdated": "2026-05-22T21:14:56.075250+00:00",
   "articles": [
+    {
+      "title": "Ex-judges say feds \u2018micromanaging\u2019 immigration courts",
+      "link": "https://www.boston.com/news/local-news/2026/05/22/ex-judges-say-feds-micromanaging-immigration-courts/",
+      "pubDate": "Fri, 22 May 2026 20:57:27 +0000",
+      "description": "<p> \u201cThe changes that are happening to immigration law are so quick and so beyond anything that we\u2019ve ever seen before.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/22/ex-judges-say-feds-micromanaging-immigration-courts/\">Ex-judges say feds \u2018micromanaging\u2019 immigration courts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1422b833b41e375b3480b633529eabaf",
+      "summary": [
+        "Ex-judges criticize federal control over Boston's immigration courts as unprecedented.",
+        "Changes in immigration law are occurring rapidly, affecting local legal processes.",
+        "Boston residents may face delays and confusion in immigration proceedings due to federal micromanagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Peter Wolf left one Boston art school to form the J. Geils Band. Six decades later, he earned an honorary doctorate from another.",
       "link": "https://www.boston.com/culture/music/2026/05/22/peter-wolf-j-geils-band/",
@@ -635,19 +648,6 @@
         "Jarren Duran expressed commitment to his pitchers after the Red Sox victory.",
         "Duran stated he would risk injury to make crucial plays for the team.",
         "His dedication could boost team morale and performance for Boston fans."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The founder of Alex and Ani is suing her sister, alleging misuse of the family\u2019s R.I. jewelry business assets",
-      "link": "https://www.boston.com/news/the-boston-globe/2026/05/21/the-founder-of-alex-and-ani-is-suing-her-sister-alleging-misuse-of-the-familys-r-i-jewelry-business-assets/",
-      "pubDate": "Thu, 21 May 2026 14:25:36 +0000",
-      "description": "<p>Jewelry designer Carolyn Rafaelian filed a lawsuit to resolve what court files describe as \u201ca family shareholder dispute.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2026/05/21/the-founder-of-alex-and-ani-is-suing-her-sister-alleging-misuse-of-the-familys-r-i-jewelry-business-assets/\">The founder of Alex and Ani is suing her sister, alleging misuse of the family\u2019s R.I. jewelry business assets</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d2adf224176d4fbb0650b3ee552039e9",
-      "summary": [
-        "Carolyn Rafaelian is suing her sister over alleged misuse of Alex and Ani assets.",
-        "The lawsuit addresses a family shareholder dispute affecting the Rhode Island jewelry business.",
-        "This legal battle could impact local jobs and the future of the Alex and Ani brand."
       ],
       "hookType": "LOCAL_IMPACT"
     }
