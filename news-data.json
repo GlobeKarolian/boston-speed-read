@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-05-22T21:14:56.074569+00:00",
+  "lastUpdated": "2026-05-22T23:04:45.477782+00:00",
   "articles": [
     {
-      "title": "Ex-judges say feds \u2018micromanaging\u2019 immigration courts",
-      "link": "https://www.boston.com/news/local-news/2026/05/22/ex-judges-say-feds-micromanaging-immigration-courts/",
-      "pubDate": "Fri, 22 May 2026 20:57:27 +0000",
-      "description": "<p> \u201cThe changes that are happening to immigration law are so quick and so beyond anything that we\u2019ve ever seen before.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/22/ex-judges-say-feds-micromanaging-immigration-courts/\">Ex-judges say feds \u2018micromanaging\u2019 immigration courts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1422b833b41e375b3480b633529eabaf",
+      "title": "Sam Kennedy says Red Sox looking to add bat \u2018earlier than ever\u2019",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/22/red-sox-sam-kennedy-adding-bat-quotes/",
+      "pubDate": "Fri, 22 May 2026 22:48:47 +0000",
+      "description": "<p>\u201cThere\u2019s been conversations going on earlier than ever before on that front.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/22/red-sox-sam-kennedy-adding-bat-quotes/\">Sam Kennedy says Red Sox looking to add bat \u2018earlier than ever\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b556f9256b8ddf537ae22828c07d9c24",
       "summary": [
-        "Ex-judges criticize federal control over Boston's immigration courts as unprecedented.",
-        "Changes in immigration law are occurring rapidly, affecting local legal processes.",
-        "Boston residents may face delays and confusion in immigration proceedings due to federal micromanagement."
+        "Sam Kennedy announces Red Sox aim to acquire a new bat this offseason.",
+        "Discussions about player additions are happening earlier than previous years.",
+        "Boston fans can expect roster changes to enhance team performance for 2024."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mock draft predicts Red Sox will select Bishop Feehan star in first round",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/22/red-sox-mock-draft-brody-bumila-bishop-feehan/",
+      "pubDate": "Fri, 22 May 2026 22:29:22 +0000",
+      "description": "<p>\"Leaning into the 'don\u2019t miss the guy in your own backyard' idea here,\" MLB.com's Jonathan Mayo wrote. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/22/red-sox-mock-draft-brody-bumila-bishop-feehan/\">Mock draft predicts Red Sox will select Bishop Feehan star in first round</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "df8f3d1c18b8c2c4dac9394a785edd0b",
+      "summary": [
+        "Red Sox may select Brody Bumila from Bishop Feehan in the first round of the draft.",
+        "MLB's Jonathan Mayo emphasizes local talent, suggesting teams should not overlook nearby prospects.",
+        "Selecting Bumila could energize local fans and strengthen community ties to the team."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox\u2019 Trevor Story undergoes sports hernia surgery",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/22/red-sox-trevor-story-undergoes-sports-hernia-surgery/",
+      "pubDate": "Fri, 22 May 2026 21:13:47 +0000",
+      "description": "<p>Story said last week his recovery time could be between 6-10 weeks.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/22/red-sox-trevor-story-undergoes-sports-hernia-surgery/\">Red Sox\u2019 Trevor Story undergoes sports hernia surgery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b7af951260790a9dad4276472eac8e11",
+      "summary": [
+        "Red Sox player Trevor Story underwent sports hernia surgery on May 22, 2026.",
+        "Story estimates a recovery time of 6-10 weeks, affecting his availability for upcoming games.",
+        "Fans may see a significant impact on the team's performance during Story's absence."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-22T21:14:56.074587+00:00"
+    "timestamp": "2026-05-22T23:04:45.477804+00:00"
   }
 }
