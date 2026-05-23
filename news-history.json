@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-23T13:43:47.678357+00:00",
+  "lastUpdated": "2026-05-23T15:03:56.684754+00:00",
   "articles": [
+    {
+      "title": "Here\u2019s where people are moving \u2014 and leaving \u2014 in Mass., according to new U.S. Census data",
+      "link": "https://www.boston.com/news/local-news/2026/05/23/heres-where-people-are-moving-and-leaving-in-mass-according-to-new-u-s-census-data/",
+      "pubDate": "Sat, 23 May 2026 14:11:15 +0000",
+      "description": "<p>Boston lost the most residents last year as population growth slowed across Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/23/heres-where-people-are-moving-and-leaving-in-mass-according-to-new-u-s-census-data/\">Here&#8217;s where people are moving \u2014 and leaving \u2014 in Mass., according to new U.S. Census data</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "72b66be306dd4e3ae66947532f76507b",
+      "summary": [
+        "Boston experienced the highest resident loss in Massachusetts last year.",
+        "Population growth across Massachusetts slowed, affecting local economies.",
+        "Residents may face increased housing costs due to declining population."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "These were the Mass. companies on the new Forbes list of largest family businesses",
       "link": "https://www.boston.com/uncategorized/local-news/2026/05/23/these-were-the-mass-companies-on-the-new-forbes-list-of-largest-family-businesses/",
@@ -635,19 +648,6 @@
         "Explore three getaway options for Boston residents heading to Cape Cod this Memorial Day weekend.",
         "Day trip costs approximately $100, while a couple's escape averages $300 for the weekend.",
         "Family vacation for four could reach around $800, impacting local travel budgets."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018I failed\u2019: Woman at center of sprawling Minnesota fraud gets nearly 42-year prison sentence",
-      "link": "https://www.boston.com/news/crime/2026/05/21/i-failed-woman-at-center-of-sprawling-minnesota-fraud-gets-nearly-42-year-prison-sentence/",
-      "pubDate": "Thu, 21 May 2026 20:17:30 +0000",
-      "description": "<p>\u201cWe will claw back every dollar you have stolen from the American people,\u201d Assistant Attorney General Colin McDonald said, noting that the government sent more prosecutors and agents to Minnesota this year.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/21/i-failed-woman-at-center-of-sprawling-minnesota-fraud-gets-nearly-42-year-prison-sentence/\">&#8216;I failed&#8217;: Woman at center of sprawling Minnesota fraud gets nearly 42-year prison sentence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b60cbc45253de4ee69eeda1746828d23",
-      "summary": [
-        "Minnesota woman sentenced to 42 years for large-scale fraud scheme.",
-        "Assistant Attorney General Colin McDonald emphasized efforts to recover stolen funds.",
-        "Increased federal resources may affect fraud cases in Boston and surrounding areas."
       ],
       "hookType": "LOCAL_IMPACT"
     }
