@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-05-23T11:18:25.641817+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-23T13:43:47.677506+00:00",
+  "articles": [
+    {
+      "title": "These were the Mass. companies on the new Forbes list of largest family businesses",
+      "link": "https://www.boston.com/uncategorized/local-news/2026/05/23/these-were-the-mass-companies-on-the-new-forbes-list-of-largest-family-businesses/",
+      "pubDate": "Sat, 23 May 2026 13:36:49 +0000",
+      "description": "<p>Fidelity and Market Basket\u2019s parent company landed among America\u2019s biggest family-run firms.</p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/local-news/2026/05/23/these-were-the-mass-companies-on-the-new-forbes-list-of-largest-family-businesses/\">These were the Mass. companies on the new Forbes list of largest family businesses</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "efe03e71e90920aba4acdc6a5ca3da4e",
+      "summary": [
+        "Fidelity and Market Basket's parent company ranked among America's largest family businesses.",
+        "Massachusetts companies featured in Forbes' list include Fidelity and Market Basket.",
+        "This recognition highlights the economic significance of family-run firms in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "UMass Amherst launches major housing revitalization project",
+      "link": "https://www.boston.com/news/local-news/2026/05/23/umass-amherst-launches-major-housing-revitalization-project/",
+      "pubDate": "Sat, 23 May 2026 13:05:59 +0000",
+      "description": "<p>As enrollment climbs, UMass Amherst has tapped a development team for a major campus housing overhaul.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/23/umass-amherst-launches-major-housing-revitalization-project/\">UMass Amherst launches major housing revitalization project</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d22700469110e0cfeea51117710f3ff0",
+      "summary": [
+        "UMass Amherst initiates a major housing revitalization project to accommodate rising enrollment.",
+        "The university has partnered with a development team for this significant campus overhaul.",
+        "Boston residents may see increased student housing demand and potential economic growth in the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Advocates celebrate 230th anniversary of Ona Judge\u2019s escape from enslavement by George Washington",
+      "link": "https://www.boston.com/news/history/2026/05/23/advocates-celebrate-230th-anniversary-of-ona-judges-escape-from-enslavement-by-george-washington/",
+      "pubDate": "Sat, 23 May 2026 12:30:04 +0000",
+      "description": "<p>Advocates for telling the whole truth of American history are celebrating the legacy of Ona Judge, from her footprints in Philadelphia to her face in New Hampshire</p>\n<p>The post <a href=\"https://www.boston.com/news/history/2026/05/23/advocates-celebrate-230th-anniversary-of-ona-judges-escape-from-enslavement-by-george-washington/\">Advocates celebrate 230th anniversary of Ona Judge&#8217;s escape from enslavement by George Washington</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18a98298236221a5ba8bffa6fb9d3daf",
+      "summary": [
+        "Advocates commemorate 230th anniversary of Ona Judge\u2019s escape from George Washington on May 23, 2023.",
+        "Ona Judge's legacy highlights the importance of acknowledging the full history of American slavery.",
+        "Boston residents are encouraged to engage in discussions about historical truths and racial justice."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "40,000 under evacuation for chemical tank leak in Southern California",
+      "link": "https://www.boston.com/news/national-news/2026/05/23/40000-under-evacuation-for-chemical-tank-leak-in-southern-california/",
+      "pubDate": "Sat, 23 May 2026 12:08:48 +0000",
+      "description": "<p>A storage tank holding between 6,000 and 7,000 gallons of methyl methacrylate overheated Thursday and began venting vapors into the air.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/23/40000-under-evacuation-for-chemical-tank-leak-in-southern-california/\">40,000 under evacuation for chemical tank leak in Southern California</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "acd87c50a4968a37a96c946a3253bc38",
+      "summary": [
+        "Over 40,000 residents evacuated due to chemical leak in Southern California.",
+        "Storage tank vented 6,000 to 7,000 gallons of methyl methacrylate on Thursday.",
+        "Potential air quality concerns may affect Boston residents traveling to the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Review & Setlist: Lucinda Williams brings protest songs, fighting spirit to Medford",
+      "link": "https://www.boston.com/culture/concert-reviews/2026/05/23/review-setlist-lucinda-williams-brings-protest-songs-fighting-spirit-to-medford/",
+      "pubDate": "Sat, 23 May 2026 11:47:04 +0000",
+      "description": "<p>Even as the Grammy nominations pile up and the Americana sound she helped pioneer becomes increasingly mainstream, Williams has lost none of her underdog cool. </p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/05/23/review-setlist-lucinda-williams-brings-protest-songs-fighting-spirit-to-medford/\">Review &amp; Setlist: Lucinda Williams brings protest songs, fighting spirit to Medford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e4ac38d5089845c7ed930b4437a6aee3",
+      "summary": [
+        "Lucinda Williams performed protest songs in Medford, showcasing her enduring underdog spirit.",
+        "The concert highlighted Williams' influence on the Americana genre, which has gained mainstream popularity.",
+        "Boston residents experienced a powerful musical message, reinforcing community engagement through art."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-05-23T11:18:25.641827+00:00"
+    "timestamp": "2026-05-23T13:43:47.677528+00:00"
   }
 }
