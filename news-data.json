@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-23T20:57:12.176930+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-23T22:55:56.699604+00:00",
+  "articles": [
+    {
+      "title": "Celtics reportedly plan to work out UConn basketball star ahead of NBA Draft",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/05/23/celtics-nba-draft-alex-karaban-uconn-report/",
+      "pubDate": "Sat, 23 May 2026 21:38:38 +0000",
+      "description": "<p>Alex Karaban\u2019s pre-draft workout for Boston reportedly will take place next week.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/05/23/celtics-nba-draft-alex-karaban-uconn-report/\">Celtics reportedly plan to work out UConn basketball star ahead of NBA Draft</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ca660501c541e54e14d2b4bfcb7e9baa",
+      "summary": [
+        "Celtics will conduct a pre-draft workout for UConn star Alex Karaban next week.",
+        "Karaban is a key prospect as the Celtics prepare for the upcoming NBA Draft.",
+        "Local fans may see increased excitement for the Celtics' future with potential new talent."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-23T20:57:12.176939+00:00"
+    "timestamp": "2026-05-23T22:55:56.699623+00:00"
   }
 }
