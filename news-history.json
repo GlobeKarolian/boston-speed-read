@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-05-24T13:43:25.391900+00:00",
+  "lastUpdated": "2026-05-24T15:07:25.893963+00:00",
   "articles": [
+    {
+      "title": "Oldest Pearl Harbor survivor now lives in Massachusetts",
+      "link": "https://www.boston.com/news/local-news/2026/05/24/oldest-pearl-harbor-survivor-keeps-memory-of-the-surprise-bombing-alive-at-106/",
+      "pubDate": "Sun, 24 May 2026 15:02:09 +0000",
+      "description": "<p>At 106, he vividly recalls the day of the surprise bombing.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/24/oldest-pearl-harbor-survivor-keeps-memory-of-the-surprise-bombing-alive-at-106/\">Oldest Pearl Harbor survivor now lives in Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "007432727cbec4bdf5eda39a81d2d5d7",
+      "summary": [
+        "106-year-old Pearl Harbor survivor now resides in Massachusetts, sharing his experiences.",
+        "He vividly recalls the December 7, 1941 bombing, impacting local history awareness.",
+        "His story fosters community remembrance and honors veterans in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Concord man, 73, convicted of raping 20-year-old in Sandwich restaurant bathroom in 2023",
+      "link": "https://www.boston.com/news/crime/2026/05/24/concord-man-73-convicted-of-raping-20-year-old-in-sandwich-restaurant-bathroom-in-2023/",
+      "pubDate": "Sun, 24 May 2026 13:56:04 +0000",
+      "description": "<p>A Barnstable County court said prior to sentencing the man that his actions were motivated by \u201ca shocking sense of entitlement.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/24/concord-man-73-convicted-of-raping-20-year-old-in-sandwich-restaurant-bathroom-in-2023/\">Concord man, 73, convicted of raping 20-year-old in Sandwich restaurant bathroom in 2023</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "64433baef0c0e54f4b35a9efc3855f80",
+      "summary": [
+        "Concord man, 73, convicted of raping a 20-year-old in Sandwich restaurant bathroom.",
+        "Barnstable County court highlighted the man's actions stemmed from a 'shocking sense of entitlement.'",
+        "This conviction raises concerns about safety in local dining establishments for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Newton Church, founded in 1893, is becoming condos",
       "link": "https://www.boston.com/news/local-news/2026/05/24/newton-church-founded-in-1893-is-becoming-condos/",
@@ -622,32 +648,6 @@
         "May heat wave records high temperatures affecting Boston residents' comfort and energy use.",
         "Jaylen Brown's recent performance sparks discussions among local basketball fans and analysts.",
         "Barney Frank's farewell marks the end of an influential political era in Massachusetts."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "How well do you know your World Cup trivia? Take our quiz.",
-      "link": "https://www.boston.com/sports/quizzes/2026/05/22/world-cup-trivia-quiz/",
-      "pubDate": "Fri, 22 May 2026 11:00:00 +0000",
-      "description": "<p>Test your World Cup knowledge to see whether you are a soccer pro or still need some practice.</p>\n<p>The post <a href=\"https://www.boston.com/sports/quizzes/2026/05/22/world-cup-trivia-quiz/\">How well do you know your World Cup trivia? Take our quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5bd8739b3b967ee1bf7c97e0faa1b7ed",
-      "summary": [
-        "Test your World Cup knowledge with Boston's trivia quiz available online.",
-        "Engage with local soccer culture ahead of the 2026 World Cup.",
-        "Participate to enhance community interest in soccer events in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "9 students brought to hospital after school bus crash in Everett",
-      "link": "https://www.boston.com/news/local-news/2026/05/21/nine-students-brought-to-hospital-after-school-bus-crash-everett/",
-      "pubDate": "Fri, 22 May 2026 02:54:09 +0000",
-      "description": "<p>Of the 11 students on the bus, nine were transported to area hospitals \u201cfor observation,\u201d officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/21/nine-students-brought-to-hospital-after-school-bus-crash-everett/\">9 students brought to hospital after school bus crash in Everett</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9c4d40fb37c5ddb62211884f551d324e",
-      "summary": [
-        "Nine of 11 students on a school bus were hospitalized after a crash in Everett.",
-        "Officials reported the students were taken to area hospitals for observation.",
-        "Local parents express concern over school bus safety following the incident."
       ],
       "hookType": "LOCAL_IMPACT"
     }
