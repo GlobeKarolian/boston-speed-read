@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-05-25T19:46:17.836830+00:00",
+  "lastUpdated": "2026-05-25T21:13:37.477338+00:00",
   "articles": [
     {
-      "title": "Read what Bruce Springsteen had to say about Trump, ICE, and America in Boston Sunday",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/05/25/read-what-bruce-springsteen-had-to-say-about-trump-ice-and-america-in-boston-sunday/",
-      "pubDate": "Mon, 25 May 2026 17:48:53 +0000",
-      "description": "<p>\"We will make it through because of the love, faith, anger, and hope in your heart and soul, and the timeless belief that better days lie ahead. This is how America renews itself.\"</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/05/25/read-what-bruce-springsteen-had-to-say-about-trump-ice-and-america-in-boston-sunday/\">Read what Bruce Springsteen had to say about Trump, ICE, and America in Boston Sunday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ccfc5404794d49a964288f2f56a8dd65",
+      "title": "How Congo is battling an Ebola outbreak complicated by aid cuts, armed rebels, and anger",
+      "link": "https://www.boston.com/news/world-news/2026/05/25/how-congo-is-battling-an-ebola-outbreak-complicated-by-aid-cuts-armed-rebels-and-anger/",
+      "pubDate": "Mon, 25 May 2026 21:04:44 +0000",
+      "description": "<p>Experts say several crises combine to make the Ebola outbreak in eastern Congo difficult to contain. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/05/25/how-congo-is-battling-an-ebola-outbreak-complicated-by-aid-cuts-armed-rebels-and-anger/\">How Congo is battling an Ebola outbreak complicated by aid cuts, armed rebels, and anger</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a850b0ef52b518380026e588283b5083",
       "summary": [
-        "Bruce Springsteen spoke in Boston on May 25, addressing themes of love and hope.",
-        "He emphasized resilience against challenges posed by Trump and ICE.",
-        "His message resonates with Boston residents facing social and political issues."
+        "Experts highlight multiple crises complicating Ebola containment in eastern Congo.",
+        "Aid cuts and armed rebels hinder response efforts, affecting over 1 million residents.",
+        "Local Boston health officials monitor the situation due to potential global health risks."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Bystander in serious condition after fatal shooting near White House checkpoint",
+      "link": "https://www.boston.com/news/national-news/2026/05/25/bystander-in-serious-condition-after-fatal-shooting-near-white-house-checkpoint/",
+      "pubDate": "Mon, 25 May 2026 21:01:19 +0000",
+      "description": "<p>A bystander who was struck by gunfire after a man fired on a checkpoint outside the White House remained in serious but stable condition Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/25/bystander-in-serious-condition-after-fatal-shooting-near-white-house-checkpoint/\">Bystander in serious condition after fatal shooting near White House checkpoint</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3d8c8b44324fe4bf652d4151ea923acf",
+      "summary": [
+        "A bystander was shot during an incident near the White House checkpoint.",
+        "The victim remains in serious but stable condition as of Sunday.",
+        "Boston residents may feel heightened security concerns following this shooting."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Pope Leo XIV makes historic apology for Vatican\u2019s role in legitimizing slavery",
+      "link": "https://www.boston.com/news/world-news/2026/05/25/pope-leo-xiv-makes-historic-apology-for-vaticans-role-in-legitimizing-slavery/",
+      "pubDate": "Mon, 25 May 2026 20:52:34 +0000",
+      "description": "<p>No pope has ever publicly acknowledged, much less apologized for, the role that past popes played in giving European kings explicit authority to subjugate and enslave \u201cinfidels.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/05/25/pope-leo-xiv-makes-historic-apology-for-vaticans-role-in-legitimizing-slavery/\">Pope Leo XIV makes historic apology for Vatican&#8217;s role in legitimizing slavery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "edfa10a176f1b615f6a4e7726d97a9d5",
+      "summary": [
+        "Pope Leo XIV publicly apologized for the Vatican's historical role in legitimizing slavery.",
+        "This marks the first apology by a pope regarding slavery's endorsement by past popes.",
+        "Boston residents may see renewed discussions on racial justice and historical accountability."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-05-25T19:46:17.836850+00:00"
+    "timestamp": "2026-05-25T21:13:37.477360+00:00"
   }
 }
