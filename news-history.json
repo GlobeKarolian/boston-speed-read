@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-05-26T15:43:32.609838+00:00",
+  "lastUpdated": "2026-05-26T18:29:52.554119+00:00",
   "articles": [
+    {
+      "title": "Millionaires tax surges past expectations, once again",
+      "link": "https://www.boston.com/news/local-news/2026/05/26/millionaires-tax-surges-past-expectations-once-again/",
+      "pubDate": "Tue, 26 May 2026 18:22:30 +0000",
+      "description": "<p>The voter-approved surtax has sailed past its $2 billion estimate for another year in a row. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/26/millionaires-tax-surges-past-expectations-once-again/\">Millionaires tax surges past expectations, once again</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d6b50376c6ffe31d9b3932a58c9b4c03",
+      "summary": [
+        "Millionaires tax exceeds $2 billion estimate for the second consecutive year.",
+        "Tax revenue will support local services and infrastructure improvements in Boston.",
+        "Residents can expect enhanced funding for education and public health initiatives."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Someone just won a $1M scratch ticket prize in Somerville",
+      "link": "https://www.boston.com/news/local-news/2026/05/26/someone-just-won-a-1m-scratch-ticket-prize-in-somerville/",
+      "pubDate": "Tue, 26 May 2026 17:59:48 +0000",
+      "description": "<p>The winner plans to buy a summer house.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/26/someone-just-won-a-1m-scratch-ticket-prize-in-somerville/\">Someone just won a $1M scratch ticket prize in Somerville</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6467fdcef8eff8858844e4a032719971",
+      "summary": [
+        "A Somerville resident won a $1 million scratch ticket prize.",
+        "The winner plans to purchase a summer house with the winnings.",
+        "This win highlights the potential for local economic boost in Somerville."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Winthrop man pleads not guilty in wife\u2019s shooting death",
+      "link": "https://www.boston.com/news/crime/2026/05/26/winthrop-man-pleads-not-guilty-in-wifes-shooting-death/",
+      "pubDate": "Tue, 26 May 2026 17:46:18 +0000",
+      "description": "<p>Sean Brewer, 58, is charged with manslaughter in the fatal shooting of Jacklyn Berry, 47.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/26/winthrop-man-pleads-not-guilty-in-wifes-shooting-death/\">Winthrop man pleads not guilty in wife\u2019s shooting death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fed496cbfed9ca30015a6c1384835d39",
+      "summary": [
+        "Sean Brewer, 58, pleads not guilty to manslaughter in wife Jacklyn Berry's shooting death.",
+        "Jacklyn Berry, 47, was fatally shot, raising concerns about domestic violence in Winthrop.",
+        "The case highlights ongoing issues of safety and legal proceedings in Boston-area communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trillium opens new waterfront beer garden at Boston Harbor Hotel",
+      "link": "https://www.boston.com/food/food-news/2026/05/26/trillium-opens-new-waterfront-beer-garden-at-boston-harbor-hotel/",
+      "pubDate": "Tue, 26 May 2026 16:29:55 +0000",
+      "description": "<p>After leaving the Greenway, the brewery\u2019s seasonal outdoor spot has opened at Boston Harbor Hotel with waterfront views.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/05/26/trillium-opens-new-waterfront-beer-garden-at-boston-harbor-hotel/\">Trillium opens new waterfront beer garden at Boston Harbor Hotel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "292217437938cac5e361b29610c763a1",
+      "summary": [
+        "Trillium opens a new waterfront beer garden at Boston Harbor Hotel.",
+        "The seasonal outdoor spot features scenic views of the harbor.",
+        "Local residents can enjoy a new dining option in the waterfront area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Live in a 1700s house next door to the Salem Witch House",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/05/26/314-essex-salem-witch-house/",
+      "pubDate": "Tue, 26 May 2026 16:13:43 +0000",
+      "description": "<p>It\u2019s been 80 years since 314 Essex St. was available as a residential property. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/05/26/314-essex-salem-witch-house/\">Live in a 1700s house next door to the Salem Witch House</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "31d910b5002666010c888effe0c06030",
+      "summary": [
+        "314 Essex St. is available for residential purchase after 80 years.",
+        "The property is located next to the historic Salem Witch House.",
+        "This opportunity may attract history enthusiasts and boost local tourism."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Anna\u2019s Taqueria opens in South Boston with $3.50 super burritos",
       "link": "https://www.boston.com/food/food-news/2026/05/26/annas-taqueria-opens-in-south-boston/",
@@ -583,71 +648,6 @@
         "UMass Amherst initiates a major housing revitalization project to accommodate rising enrollment.",
         "The university has partnered with a development team for this significant campus overhaul.",
         "Boston residents may see increased student housing demand and potential economic growth in the area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Advocates celebrate 230th anniversary of Ona Judge\u2019s escape from enslavement by George Washington",
-      "link": "https://www.boston.com/news/history/2026/05/23/advocates-celebrate-230th-anniversary-of-ona-judges-escape-from-enslavement-by-george-washington/",
-      "pubDate": "Sat, 23 May 2026 12:30:04 +0000",
-      "description": "<p>Advocates for telling the whole truth of American history are celebrating the legacy of Ona Judge, from her footprints in Philadelphia to her face in New Hampshire</p>\n<p>The post <a href=\"https://www.boston.com/news/history/2026/05/23/advocates-celebrate-230th-anniversary-of-ona-judges-escape-from-enslavement-by-george-washington/\">Advocates celebrate 230th anniversary of Ona Judge&#8217;s escape from enslavement by George Washington</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "18a98298236221a5ba8bffa6fb9d3daf",
-      "summary": [
-        "Advocates commemorate 230th anniversary of Ona Judge\u2019s escape from George Washington on May 23, 2023.",
-        "Ona Judge's legacy highlights the importance of acknowledging the full history of American slavery.",
-        "Boston residents are encouraged to engage in discussions about historical truths and racial justice."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "40,000 under evacuation for chemical tank leak in Southern California",
-      "link": "https://www.boston.com/news/national-news/2026/05/23/40000-under-evacuation-for-chemical-tank-leak-in-southern-california/",
-      "pubDate": "Sat, 23 May 2026 12:08:48 +0000",
-      "description": "<p>A storage tank holding between 6,000 and 7,000 gallons of methyl methacrylate overheated Thursday and began venting vapors into the air.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/23/40000-under-evacuation-for-chemical-tank-leak-in-southern-california/\">40,000 under evacuation for chemical tank leak in Southern California</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "acd87c50a4968a37a96c946a3253bc38",
-      "summary": [
-        "Over 40,000 residents evacuated due to chemical leak in Southern California.",
-        "Storage tank vented 6,000 to 7,000 gallons of methyl methacrylate on Thursday.",
-        "Potential air quality concerns may affect Boston residents traveling to the area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Review & Setlist: Lucinda Williams brings protest songs, fighting spirit to Medford",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/05/23/review-setlist-lucinda-williams-brings-protest-songs-fighting-spirit-to-medford/",
-      "pubDate": "Sat, 23 May 2026 11:47:04 +0000",
-      "description": "<p>Even as the Grammy nominations pile up and the Americana sound she helped pioneer becomes increasingly mainstream, Williams has lost none of her underdog cool. </p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/05/23/review-setlist-lucinda-williams-brings-protest-songs-fighting-spirit-to-medford/\">Review &amp; Setlist: Lucinda Williams brings protest songs, fighting spirit to Medford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e4ac38d5089845c7ed930b4437a6aee3",
-      "summary": [
-        "Lucinda Williams performed protest songs in Medford, showcasing her enduring underdog spirit.",
-        "The concert highlighted Williams' influence on the Americana genre, which has gained mainstream popularity.",
-        "Boston residents experienced a powerful musical message, reinforcing community engagement through art."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Twins unload on Justin Slaten as Red Sox lose 8-6 at Fenway Park",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/22/mlb-red-sox-twins-recap-justin-slaten-blown-game-comments/",
-      "pubDate": "Sat, 23 May 2026 02:58:58 +0000",
-      "description": "<p>Chad Tracy pulled Payton Tolle at 85 pitches to set up the Slaten, Garrett Whitlock, Aroldis Chapman combination, but it backfired on him Friday night.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/22/mlb-red-sox-twins-recap-justin-slaten-blown-game-comments/\">Twins unload on Justin Slaten as Red Sox lose 8-6 at Fenway Park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2dd0eb9e112c5f699868fa31ecdbd951",
-      "summary": [
-        "Red Sox lost 8-6 to the Minnesota Twins at Fenway Park on May 22.",
-        "Chad Tracy's pitching decision backfired, using Justin Slaten and Garrett Whitlock.",
-        "This loss affects the Red Sox's standings and fan morale in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Roger Clemens throws out first pitch at Fenway Park to son, Twins player Kody Clemens",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/22/roger-clemens-kody-clemens-red-sox-fenway-first-pitch-video/",
-      "pubDate": "Sat, 23 May 2026 02:52:38 +0000",
-      "description": "<p>The Red Sox gave away Roger Clemens bobbleheads to fans the same day.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/22/roger-clemens-kody-clemens-red-sox-fenway-first-pitch-video/\">Roger Clemens throws out first pitch at Fenway Park to son, Twins player Kody Clemens</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dcc5e65276ef6ee20eb52113586e5566",
-      "summary": [
-        "Roger Clemens threw the first pitch at Fenway Park on May 22, 2026.",
-        "His son, Kody Clemens, plays for the Minnesota Twins and caught the pitch.",
-        "Fans received Roger Clemens bobbleheads, enhancing the game day experience."
       ],
       "hookType": "LOCAL_IMPACT"
     }
