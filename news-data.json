@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-05-27T09:59:42.980955+00:00",
+  "lastUpdated": "2026-05-27T13:39:11.328750+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (May 27)",
-      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/27/recent-homes-sales-in-greater-boston-may-27/",
-      "pubDate": "Wed, 27 May 2026 09:00:00 +0000",
-      "description": "<p>ABINGTON 28 Linda St. One-family ranch, built in 1951, 960 square feet, 7 rooms, 2 bedrooms, 1 bath, on 7,350-square-foot lot. $455,000 56 Townsend St. #26 Condo. $305,000 ACTON 5 Perkins Lane. One-family Colonial, built in 1995, 3,076 square feet, 10 rooms, 4 bedrooms, 3 baths, on 23,704-square-foot lot. $1,266,000 8 Highland Road. One-family Colonial, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/27/recent-homes-sales-in-greater-boston-may-27/\">Recent homes sales in Greater Boston (May 27)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "69e44878224da332a96c14082eecb244",
+      "title": "Here are the Mass. beaches closed Wednesday as temps hit the high 80s",
+      "link": "https://www.boston.com/news/local-news/2026/05/27/here-are-the-mass-beaches-closed-wednesday-as-temps-hit-the-high-80s/",
+      "pubDate": "Wed, 27 May 2026 13:35:26 +0000",
+      "description": "<p>The closed beaches are in Quincy, Ashby, Plymouth, and Shutesbury. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/27/here-are-the-mass-beaches-closed-wednesday-as-temps-hit-the-high-80s/\">Here are the Mass. beaches closed Wednesday as temps hit the high 80s</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dc7a1af66b14b9d745b9ae66b6f44081",
       "summary": [
-        "Abington home at 28 Linda St. sold for $455,000 on May 27.",
-        "Acton Colonial at 5 Perkins Lane sold for $1,266,000, reflecting rising property values.",
-        "Local residents face increased housing costs as sales prices continue to climb."
+        "Quincy, Ashby, Plymouth, and Shutesbury beaches closed on Wednesday due to high temperatures.",
+        "Temperatures reached the high 80s, prompting safety concerns for beachgoers.",
+        "Local residents may need to seek alternative recreational areas during the heat."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Stephen Colbert\u2019s best \u2018Late Show\u2019 moments",
+      "link": "https://www.boston.com/culture/the-queue/2026/05/27/stephen-colberts-best-late-show-moments/",
+      "pubDate": "Wed, 27 May 2026 13:03:42 +0000",
+      "description": "<p>As Colbert signs off after 11 years, here are five standout moments from his CBS late-night run.</p>\n<p>The post <a href=\"https://www.boston.com/culture/the-queue/2026/05/27/stephen-colberts-best-late-show-moments/\">Stephen Colbert\u2019s best \u2018Late Show\u2019 moments</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d92b41fb85a96b784c163ee7cc81d723",
+      "summary": [
+        "Stephen Colbert concludes 11 years on CBS's 'Late Show' on May 27, 2026.",
+        "Colbert's tenure included five standout moments that resonated with Boston audiences.",
+        "His departure may shift late-night viewing habits for local residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox have had little to show for their \u2018Hail Mary\u2019 coaching change",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/27/boston-red-sox-coaching-chad-tracy-alex-cora-mlb-baseball/",
+      "pubDate": "Wed, 27 May 2026 11:38:35 +0000",
+      "description": "<p>\"I want to see us win, just like you guys do, just like our fans do, and these guys are fighting.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/27/boston-red-sox-coaching-chad-tracy-alex-cora-mlb-baseball/\">Red Sox have had little to show for their &#8216;Hail Mary&#8217; coaching change</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "861347aeb608c0107907329d117dfd51",
+      "summary": [
+        "Red Sox coaching change has not improved team performance this season.",
+        "Chad Tracy is currently leading the team after Alex Cora's departure.",
+        "Fans express frustration as team struggles to secure wins in 2026."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Home of the Week: For $625k, 14.6 acres of nature at the foothills of the Berkshires",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/05/27/cabin-style-home-charlemont-berkshires/",
+      "pubDate": "Wed, 27 May 2026 11:00:00 +0000",
+      "description": "<p>This cabin-style home sits 1,500 feet above the Deerfield River Valley.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/05/27/cabin-style-home-charlemont-berkshires/\">Home of the Week: For $625k, 14.6 acres of nature at the foothills of the Berkshires</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "294924eb9a259185109da64acf546669",
+      "summary": [
+        "Explore a cabin-style home listed at $625,000 in Charlemont, MA.",
+        "Enjoy 14.6 acres of nature, located 1,500 feet above the Deerfield River Valley.",
+        "Potential for Boston residents seeking a serene getaway in the Berkshires."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-05-27T09:59:42.980967+00:00"
+    "timestamp": "2026-05-27T13:39:11.328771+00:00"
   }
 }
