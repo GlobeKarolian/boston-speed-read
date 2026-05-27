@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-27T04:10:14.376576+00:00",
+  "lastUpdated": "2026-05-27T09:59:42.981262+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (May 27)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/05/27/recent-homes-sales-in-greater-boston-may-27/",
+      "pubDate": "Wed, 27 May 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 28 Linda St. One-family ranch, built in 1951, 960 square feet, 7 rooms, 2 bedrooms, 1 bath, on 7,350-square-foot lot. $455,000 56 Townsend St. #26 Condo. $305,000 ACTON 5 Perkins Lane. One-family Colonial, built in 1995, 3,076 square feet, 10 rooms, 4 bedrooms, 3 baths, on 23,704-square-foot lot. $1,266,000 8 Highland Road. One-family Colonial, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/05/27/recent-homes-sales-in-greater-boston-may-27/\">Recent homes sales in Greater Boston (May 27)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "69e44878224da332a96c14082eecb244",
+      "summary": [
+        "Abington home at 28 Linda St. sold for $455,000 on May 27.",
+        "Acton Colonial at 5 Perkins Lane sold for $1,266,000, reflecting rising property values.",
+        "Local residents face increased housing costs as sales prices continue to climb."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Michael Harris II homers, has 4 hits to help Braves outlast Red Sox 7-6",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/05/26/michael-harris-ii-homers-has-4-hits-to-help-braves-outlast-red-sox-7-6/",
@@ -635,19 +648,6 @@
         "Concord man, 73, convicted of raping a 20-year-old in Sandwich restaurant bathroom.",
         "Barnstable County court highlighted the man's actions stemmed from a 'shocking sense of entitlement.'",
         "This conviction raises concerns about safety in local dining establishments for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Newton Church, founded in 1893, is becoming condos",
-      "link": "https://www.boston.com/news/local-news/2026/05/24/newton-church-founded-in-1893-is-becoming-condos/",
-      "pubDate": "Sun, 24 May 2026 12:56:32 +0000",
-      "description": "<p>Once eyed as an arts center, the Church of the Open Word in Newtonville will become condos.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/24/newton-church-founded-in-1893-is-becoming-condos/\">Newton Church, founded in 1893, is becoming condos</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3f8de1dd8bab76e392899aad0ef1496e",
-      "summary": [
-        "Church of the Open Word in Newtonville will be converted into condominiums.",
-        "Founded in 1893, the church was previously considered for an arts center.",
-        "Local residents may see increased housing options in Newton as a result."
       ],
       "hookType": "LOCAL_IMPACT"
     }
