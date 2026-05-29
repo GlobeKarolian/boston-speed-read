@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-05-29T17:35:36.620829+00:00",
+  "lastUpdated": "2026-05-29T20:30:36.660072+00:00",
   "articles": [
+    {
+      "title": "Bus hits cars in Virginia, killing 5 people and injuring 34, state police say",
+      "link": "https://www.boston.com/news/local-news/2026/05/29/bus-hits-cars-in-virginia-killing-5-people-and-injuring-34-state-police-say/",
+      "pubDate": "Fri, 29 May 2026 20:05:00 +0000",
+      "description": "<p>The five people killed were from Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/29/bus-hits-cars-in-virginia-killing-5-people-and-injuring-34-state-police-say/\">Bus hits cars in Virginia, killing 5 people and injuring 34, state police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d8bee42de51e8153549b78ca2cd50d5",
+      "summary": [
+        "Bus accident in Virginia resulted in 5 fatalities and 34 injuries.",
+        "All five deceased were residents of Massachusetts.",
+        "The incident raises concerns for Boston families traveling out of state."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. man reports beating Mount Everest speed climbing record",
+      "link": "https://www.boston.com/news/local-news/2026/05/29/mass-man-reports-beating-mount-everest-speed-climbing-record/",
+      "pubDate": "Fri, 29 May 2026 19:40:32 +0000",
+      "description": "<p>\u201cThe fitness is the easy part,\u201d Tyler Andrews said in 2025. \u201cThe challenge is managing all the variables on the mountain itself.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/29/mass-man-reports-beating-mount-everest-speed-climbing-record/\">Mass. man reports beating Mount Everest speed climbing record</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "634b1469e9a1ee8fda76becdf50b4780",
+      "summary": [
+        "Tyler Andrews from Massachusetts claims to have set a new Mount Everest speed climbing record.",
+        "Andrews achieved this feat in 2025, showcasing his skills in extreme conditions.",
+        "His accomplishment inspires local climbers and highlights Massachusetts' growing presence in extreme sports."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "You may complain about the T, but a new ranking says it\u2019s one of the best in the U.S.",
+      "link": "https://www.boston.com/news/local-news/2026/05/29/you-may-complain-about-the-t-but-a-new-ranking-says-its-one-of-the-best-in-the-u-s/",
+      "pubDate": "Fri, 29 May 2026 18:25:03 +0000",
+      "description": "<p>The ranking emphasized Boston\u2019s extensive transit options.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/29/you-may-complain-about-the-t-but-a-new-ranking-says-its-one-of-the-best-in-the-u-s/\">You may complain about the T, but a new ranking says it&#8217;s one of the best in the U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "13509aeeb8473e82aa384558407d9ff8",
+      "summary": [
+        "Boston's transit system ranks among the best in the U.S. according to a new report.",
+        "The ranking highlights Boston's extensive transit options, benefiting over 1.5 million daily riders.",
+        "Improved perception of the T may encourage more residents to utilize public transportation."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Wu gets rid of green infrastructure office, lays off director",
+      "link": "https://www.boston.com/news/local-news/2026/05/29/wu-gets-rid-of-green-infrastructure-office-lays-off-director/",
+      "pubDate": "Fri, 29 May 2026 17:53:35 +0000",
+      "description": "<p>The director's position was eliminated in the fiscal year 2027 budget, and the Office of Green Infrastructure will be incorporated into the Streets Cabinet. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/29/wu-gets-rid-of-green-infrastructure-office-lays-off-director/\">Wu gets rid of green infrastructure office, lays off director</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c01712f8630e1ef43b45e4df761e5405",
+      "summary": [
+        "Mayor Wu eliminated the Office of Green Infrastructure in the FY 2027 budget.",
+        "The director's position was cut, affecting local green project oversight.",
+        "Green initiatives will now fall under the Streets Cabinet, impacting future infrastructure planning."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston reports uptick in mpox cases",
+      "link": "https://www.boston.com/news/health/2026/05/29/boston-reports-uptick-in-mpox-cases/",
+      "pubDate": "Fri, 29 May 2026 17:44:37 +0000",
+      "description": "<p>The city will be offering mpox vaccinations during the Pride flag-raising event at Boston City Hall on Monday, June 1.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/05/29/boston-reports-uptick-in-mpox-cases/\">Boston reports uptick in mpox cases</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9223ba416b284d3340eb7c400cb7a08b",
+      "summary": [
+        "Boston reports an increase in mpox cases ahead of Pride Month.",
+        "Mpox vaccinations will be available on June 1 at City Hall.",
+        "Residents encouraged to get vaccinated to protect community health."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Citgo sign goes dark \u2014 temporarily",
       "link": "https://www.boston.com/news/local-news/2026/05/29/citgo-sign-goes-dark-temporarily/",
@@ -583,71 +648,6 @@
         "David Rush, a former CIA official, was arrested for stealing gold bars worth over $40 million.",
         "Rush was charged with criminal theft of public money last week, impacting federal accountability.",
         "Boston residents may face increased scrutiny on government officials following this high-profile theft case."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "This Red Sox team makes a longtime fan yearn for home run-bashing editions of the past",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/28/red-sox-worst-offense-2026/",
-      "pubDate": "Thu, 28 May 2026 13:01:00 +0000",
-      "description": "<p>I will say, without hyperbole, that this has to be the worst Red Sox offense I have seen in my nearly 50 years of following the team.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/28/red-sox-worst-offense-2026/\">This Red Sox team makes a longtime fan yearn for home run-bashing editions of the past</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "450450c31354ea128bb2cd6abc5b743b",
-      "summary": [
-        "Red Sox offense is deemed the worst in 50 years by a longtime fan.",
-        "Fan expresses disappointment over the team's lack of home runs this season.",
-        "Local fans are concerned about the team's performance affecting attendance and morale."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Rapoport: Patriots, Eagles \u2018not particularly close\u2019 on a potential A.J. Brown trade",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/28/new-england-patriots-eagles-trade-rumors-a-j-brown-nfl-football/",
-      "pubDate": "Thu, 28 May 2026 12:16:26 +0000",
-      "description": "<p>\u201cI just don\u2019t know it\u2019s snap your fingers, and the deal is done.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/28/new-england-patriots-eagles-trade-rumors-a-j-brown-nfl-football/\">Rapoport: Patriots, Eagles \u2018not particularly close\u2019 on a potential A.J. Brown trade</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "564192f9d5f5091d52b01bc54dfd7559",
-      "summary": [
-        "Patriots and Eagles are not close to finalizing an A.J. Brown trade.",
-        "Insider Ian Rapoport stated a deal is not imminent as of May 28, 2026.",
-        "Boston fans may need to adjust expectations for the Patriots' roster changes."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Is Simon Nemec a player the Bruins should target this offseason?",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/05/28/boston-bruins-trade-rumors-nhl-hockey-simon-nemec-devils/",
-      "pubDate": "Thu, 28 May 2026 11:56:49 +0000",
-      "description": "<p>Simon Nemec was the second-overall pick in the 2022 NHL Draft. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/05/28/boston-bruins-trade-rumors-nhl-hockey-simon-nemec-devils/\">Is Simon Nemec a player the Bruins should target this offseason?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "74d99d5c079cde8d92852030f8576639",
-      "summary": [
-        "Simon Nemec, 2022 NHL Draft's second overall pick, may be a target for the Bruins.",
-        "Nemec's potential acquisition could strengthen the Bruins' defense for the upcoming season.",
-        "Boston residents could see increased excitement and ticket sales if Nemec joins the team."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Waltham animal control officers recover \u2018pile \u2019o pigs\u2019 dumped in woods, cemetery",
-      "link": "https://www.boston.com/news/local-news/2026/05/27/waltham-animal-control-officers-recover-pile-o-pigs-dumped-in-woods-cemetery/",
-      "pubDate": "Thu, 28 May 2026 02:07:53 +0000",
-      "description": "<p>Animal control officers recovered 19 guinea pigs, including 10 found at the cemetery and nine found in the woods.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/27/waltham-animal-control-officers-recover-pile-o-pigs-dumped-in-woods-cemetery/\">Waltham animal control officers recover \u2018pile \u2019o pigs\u2019 dumped in woods, cemetery</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fe875743a2baa92ba313292b6845c7cf",
-      "summary": [
-        "Animal control officers recovered 19 guinea pigs dumped in Waltham woods and a cemetery.",
-        "Ten guinea pigs were found at the cemetery, nine in the woods.",
-        "Local residents are urged to report any animal dumping to prevent similar incidents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What Drake Maye, Milton Williams said of A.J. Brown\u2019s potential arrival in New England",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/27/patriots-trade-rumors-a-j-brown-drake-maye-milton-williams-nfl-football-eagles-new-england/",
-      "pubDate": "Thu, 28 May 2026 01:43:37 +0000",
-      "description": "<p>\"If he ends up being on our team, great. What a great player. And if he doesn\u2019t, we\u2019ve still got to work these guys here.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/27/patriots-trade-rumors-a-j-brown-drake-maye-milton-williams-nfl-football-eagles-new-england/\">What Drake Maye, Milton Williams said of A.J. Brown\u2019s potential arrival in New England</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0b43d911e79eb166262e6675f7787f73",
-      "summary": [
-        "Drake Maye and Milton Williams discussed A.J. Brown's potential impact on the Patriots.",
-        "A.J. Brown is a top player, enhancing the team's offensive options if acquired.",
-        "Boston residents may see increased excitement for the Patriots' upcoming season with potential trades."
       ],
       "hookType": "LOCAL_IMPACT"
     }
