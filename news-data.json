@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-05-29T08:05:51.406138+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-29T12:48:09.283292+00:00",
+  "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/05/29/greater-boston-news-quiz-for-may-29-2026-springsteen-millionaires-tax-sarma/",
+      "pubDate": "Fri, 29 May 2026 10:27:55 +0000",
+      "description": "<p>Mass. millionaire money, Bruce\u2019s Boston memories, and a royal visit are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/05/29/greater-boston-news-quiz-for-may-29-2026-springsteen-millionaires-tax-sarma/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ab00439785677033332ce8b40493c794",
+      "summary": [
+        "Massachusetts millionaire tax discussions continue to affect local funding initiatives.",
+        "Bruce Springsteen's Boston memories highlighted in recent local news quiz.",
+        "Royal visit planned for Boston, expected to boost tourism and local businesses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The Hilltop Steak House family is parting ways with their eclectic 1970s house",
+      "link": "https://www.boston.com/real-estate/off-beat/2026/05/29/hilltop-steak-house-saugus-lynnfield/",
+      "pubDate": "Fri, 29 May 2026 09:30:00 +0000",
+      "description": "<p>The children of Frank and Irene Giuffrida, the founders of the famous restaurant on Route 1 in Saugus, are selling their Lynnfield home.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/off-beat/2026/05/29/hilltop-steak-house-saugus-lynnfield/\">The Hilltop Steak House family is parting ways with their eclectic 1970s house</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "971face7772375c9179de146f27c1c57",
+      "summary": [
+        "The Giuffrida family is selling their 1970s home in Lynnfield.",
+        "Frank and Irene Giuffrida founded the iconic Hilltop Steak House in Saugus.",
+        "This sale marks a significant change for a family tied to Boston's dining history."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-29T08:05:51.406148+00:00"
+    "timestamp": "2026-05-29T12:48:09.283315+00:00"
   }
 }
