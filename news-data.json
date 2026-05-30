@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-05-30T19:22:16.007496+00:00",
-  "articles": [],
+  "lastUpdated": "2026-05-30T21:02:45.833843+00:00",
+  "articles": [
+    {
+      "title": "Did you hear it? Here\u2019s what we know about a big boom heard around Mass.",
+      "link": "https://www.boston.com/news/local-news/2026/05/30/boom-heard-boston-massachusetts-social-media/",
+      "pubDate": "Sat, 30 May 2026 19:49:11 +0000",
+      "description": "<p>\"Bolide meteor created the thunderous sonic boom.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/30/boom-heard-boston-massachusetts-social-media/\">Did you hear it? Here\u2019s what we know about a big boom heard around Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "48e4401b5a4adbad5d5cf2d378b2def4",
+      "summary": [
+        "Residents across Boston reported a loud boom on May 30, 2026.",
+        "The sound was caused by a bolide meteor entering the atmosphere.",
+        "Local authorities confirmed no damage or injuries resulted from the event."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-05-30T19:22:16.007504+00:00"
+    "timestamp": "2026-05-30T21:02:45.833866+00:00"
   }
 }
