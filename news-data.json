@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-05-30T21:02:45.833843+00:00",
+  "lastUpdated": "2026-05-30T23:01:29.120297+00:00",
   "articles": [
     {
-      "title": "Did you hear it? Here\u2019s what we know about a big boom heard around Mass.",
-      "link": "https://www.boston.com/news/local-news/2026/05/30/boom-heard-boston-massachusetts-social-media/",
-      "pubDate": "Sat, 30 May 2026 19:49:11 +0000",
-      "description": "<p>\"Bolide meteor created the thunderous sonic boom.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/30/boom-heard-boston-massachusetts-social-media/\">Did you hear it? Here\u2019s what we know about a big boom heard around Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "48e4401b5a4adbad5d5cf2d378b2def4",
+      "title": "Here\u2019s the full lineup of athletes and celebrities involved in Drake Maye\u2019s charity softball game",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/30/nfl-patriots-drake-maye-charity-softball-game/",
+      "pubDate": "Sat, 30 May 2026 22:47:29 +0000",
+      "description": "<p>Maye's first annual charity game is at Polar Park in Worcester on Sunday, featuring a star-studded lineup.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/30/nfl-patriots-drake-maye-charity-softball-game/\">Here&#8217;s the full lineup of athletes and celebrities involved in Drake Maye&#8217;s charity softball game</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c58b0504fb931aa010988d9ff222f76",
       "summary": [
-        "Residents across Boston reported a loud boom on May 30, 2026.",
-        "The sound was caused by a bolide meteor entering the atmosphere.",
-        "Local authorities confirmed no damage or injuries resulted from the event."
+        "Drake Maye's charity softball game takes place at Polar Park in Worcester on Sunday.",
+        "The event features a lineup of notable athletes and celebrities supporting local causes.",
+        "Proceeds will benefit Boston-area charities, enhancing community support and engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Potential A.J. Brown Patriots-Eagles trade reportedly has \u2018framework in place\u2019",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/05/30/aj-brown-patriots-eagles-trade-framework-report/",
+      "pubDate": "Sat, 30 May 2026 21:21:10 +0000",
+      "description": "<p>The reported June 1 green light date is Monday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/30/aj-brown-patriots-eagles-trade-framework-report/\">Potential A.J. Brown Patriots-Eagles trade reportedly has \u2018framework in place\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a48e08cf07c4c9f51ef6ac9a2dd0de72",
+      "summary": [
+        "Patriots and Eagles reportedly have trade framework for A.J. Brown in place.",
+        "Trade discussions are expected to intensify following the June 1 green light date.",
+        "A.J. Brown's addition could significantly enhance the Patriots' offensive capabilities for the upcoming season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-05-30T21:02:45.833866+00:00"
+    "timestamp": "2026-05-30T23:01:29.120317+00:00"
   }
 }
