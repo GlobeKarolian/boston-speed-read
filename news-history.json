@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-05-31T15:18:48.327469+00:00",
+  "lastUpdated": "2026-05-31T21:03:15.648759+00:00",
   "articles": [
+    {
+      "title": "Claude Lemieux\u2019s brain is being donated to Boston University\u2019s CTE Center, his family says",
+      "link": "https://www.boston.com/sports/sports-news/2026/05/31/claude-lemieuxs-brain-is-being-donated-to-boston-universitys-cte-center-his-family-says/",
+      "pubDate": "Sun, 31 May 2026 20:32:05 +0000",
+      "description": "<p>Lemieux died of suicide at age 60 on Thursday, according to authorities, after earlier in the week serving as the Montreal Canadiens' torchbearer prior to a playoff game. </p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/05/31/claude-lemieuxs-brain-is-being-donated-to-boston-universitys-cte-center-his-family-says/\">Claude Lemieux&#8217;s brain is being donated to Boston University&#8217;s CTE Center, his family says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9eef6d337f19a767033b25f2e2c62583",
+      "summary": [
+        "Claude Lemieux, 60, died by suicide on Thursday, impacting the Boston sports community.",
+        "His brain will be donated to Boston University's CTE Center for research.",
+        "This donation aims to advance understanding of CTE, benefiting local athletes and families."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Mass. family, Worcester woman identified as victims in deadly Virginia bus crash",
       "link": "https://www.boston.com/news/local-news/2026/05/31/massachusetts-family-worcester-woman-identified-as-victims-in-deadly-virginia-bus-crash/",
@@ -635,19 +648,6 @@
         "Two teenage girls were arrested in Boston for possessing multiple firearms and drugs.",
         "Authorities found three bags of suspected cocaine in their vehicle.",
         "This incident raises concerns about youth involvement in gun violence and drug-related crime."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "T pushing new PSA after fatal escalator incident",
-      "link": "https://www.boston.com/news/local-news/2026/05/28/t-pushing-new-psa-after-fatal-escalator-incident/",
-      "pubDate": "Thu, 28 May 2026 19:05:08 +0000",
-      "description": "<p>The MBTA is raising awareness of escalator emergency stop buttons after a Boston man was fatally injured in a freak accident at Davis Station in February.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/28/t-pushing-new-psa-after-fatal-escalator-incident/\">T pushing new PSA after fatal escalator incident</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cc6631bd5ed023a4f7c34981f819a539",
-      "summary": [
-        "MBTA promotes escalator emergency stop buttons following February fatality at Davis Station.",
-        "A Boston man was killed in a freak escalator accident, raising safety concerns.",
-        "New PSA aims to enhance public awareness and prevent future escalator incidents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
