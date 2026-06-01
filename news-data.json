@@ -1,62 +1,23 @@
 {
-  "lastUpdated": "2026-06-01T04:26:19.122168+00:00",
+  "lastUpdated": "2026-06-01T11:42:27.430277+00:00",
   "articles": [
     {
-      "title": "Injured hiker rescued from White Mountains via helicopter",
-      "link": "https://www.boston.com/news/local-news/2026/05/31/injured-hiker-rescued-from-white-mountains-via-helicopter/",
-      "pubDate": "Mon, 01 Jun 2026 02:43:01 +0000",
-      "description": "<p>\u201cDue to the remote location, and in order to avoid a strenuous carryout, the NH Army National Guard was contacted to determine if they were available to assist with a helicopter extraction,\u201d officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/31/injured-hiker-rescued-from-white-mountains-via-helicopter/\">Injured hiker rescued from White Mountains via helicopter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5e63303304056f5250ed10dc1e77bf6d",
+      "title": "Drake and Ann Michael Maye\u2019s inaugural \u2018MayeDay\u2019 charity softball game is a big hit",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/06/01/drake-ann-michael-maye-nfl-football-new-england-patriots-charity-softball-game/",
+      "pubDate": "Mon, 01 Jun 2026 11:26:06 +0000",
+      "description": "<p>\"We\u2019ve grown to love this place in a short amount of time.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/06/01/drake-ann-michael-maye-nfl-football-new-england-patriots-charity-softball-game/\">Drake and Ann Michael Maye\u2019s inaugural \u2018MayeDay\u2019 charity softball game is a big hit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dd27b34b17de36d6507af71dccd02ab0",
       "summary": [
-        "NH Army National Guard rescued an injured hiker from the White Mountains on May 31.",
-        "Helicopter extraction was necessary due to the remote location of the incident.",
-        "Local hikers should be aware of potential rescue services available in emergencies."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Newark mayor imposes curfew around immigration detention center after clashes between police, protesters",
-      "link": "https://www.boston.com/news/national-news/2026/05/31/newark-mayor-imposes-curfew-around-immigration-detention-center-after-clashes-between-police-protesters/",
-      "pubDate": "Mon, 01 Jun 2026 00:19:00 +0000",
-      "description": "<p>One video posted on social media showed police on horseback marching into crowds attempting to break up protesters.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/05/31/newark-mayor-imposes-curfew-around-immigration-detention-center-after-clashes-between-police-protesters/\">Newark mayor imposes curfew around immigration detention center after clashes between police, protesters</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "84ee0516fe5f71321c782ff1a9f1d137",
-      "summary": [
-        "Newark mayor imposes curfew around immigration detention center following violent protests.",
-        "Police used horseback units to disperse crowds during the clashes.",
-        "Boston residents may see increased tensions regarding immigration policies and local protests."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "State trooper hospitalized after crash with alleged wrong-way driver in Peabody",
-      "link": "https://www.boston.com/news/crime/2026/05/31/state-trooper-hospitalized-after-crash-with-alleged-wrong-way-driver-in-peabody/",
-      "pubDate": "Sun, 31 May 2026 23:59:25 +0000",
-      "description": "<p>The Newburyport man who allegedly struck the state trooper is also facing a charge of operating under the influence.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/31/state-trooper-hospitalized-after-crash-with-alleged-wrong-way-driver-in-peabody/\">State trooper hospitalized after crash with alleged wrong-way driver in Peabody</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "04ba4388f78123ea23397cc1294f89e6",
-      "summary": [
-        "State trooper hospitalized after collision with wrong-way driver in Peabody.",
-        "Newburyport man charged with operating under the influence following the incident.",
-        "Local residents urged to drive cautiously to prevent similar accidents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018A surreal experience\u2019: Readers react to loud boom in Mass. caused by meteor",
-      "link": "https://www.boston.com/community/readers-say/2026/05/31/a-surreal-experience-readers-react-to-loud-boom-in-mass-caused-by-meteor/",
-      "pubDate": "Sun, 31 May 2026 23:20:56 +0000",
-      "description": "<p>The sonic boom was heard Saturday afternoon through Greater Boston and beyond, prompting lots of theories from confused residents.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2026/05/31/a-surreal-experience-readers-react-to-loud-boom-in-mass-caused-by-meteor/\">\u2018A surreal experience\u2019: Readers react to loud boom in Mass. caused by meteor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "676b59d4c9650b9c57f817f4247c22b2",
-      "summary": [
-        "Residents across Greater Boston heard a loud sonic boom on Saturday afternoon.",
-        "The boom was caused by a meteor, surprising many locals with its intensity.",
-        "Authorities confirmed the event, alleviating fears of an explosion or other dangers."
+        "Drake and Ann Michael Maye hosted the inaugural \u2018MayeDay\u2019 charity softball game in Boston.",
+        "The event raised significant funds for local charities, benefiting Boston communities.",
+        "Over 500 attendees participated, fostering community engagement and support for local initiatives."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-06-01T04:26:19.122188+00:00"
+    "timestamp": "2026-06-01T11:42:27.430299+00:00"
   }
 }
