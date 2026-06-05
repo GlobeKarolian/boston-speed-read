@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-06-05T19:59:48.459420+00:00",
+  "lastUpdated": "2026-06-05T21:40:40.697233+00:00",
   "articles": [
+    {
+      "title": "Endicott baseball falls to Denison in hard-fought DIII  National Championship Series",
+      "link": "https://www.boston.com/sports/college-sports/2026/06/05/endicott-college-gulls-baseball-national-championship/",
+      "pubDate": "Fri, 05 Jun 2026 20:37:30 +0000",
+      "description": "<p>The Gulls forced a winner-take-all Game 3 after a dramatic comeback victory in Game 2.</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/06/05/endicott-college-gulls-baseball-national-championship/\">Endicott baseball falls to Denison in hard-fought DIII  National Championship Series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f091f2e1207386ec50f4c54e3f9dc569",
+      "summary": [
+        "Endicott baseball team lost to Denison in DIII National Championship Series.",
+        "The Gulls forced a decisive Game 3 after winning Game 2 dramatically.",
+        "This loss impacts local sports morale and community support for Endicott athletics."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Canton, Norfolk DA issue statements on texts included in Karen Read\u2019s new lawsuit",
+      "link": "https://www.boston.com/news/local-news/2026/06/05/canton-statement-sgt-sean-goode/",
+      "pubDate": "Fri, 05 Jun 2026 18:02:46 +0000",
+      "description": "<p>\u201cThe messages are abhorrent, deeply offensive, hateful, and do not reflect the values of the Canton Police Department or its members.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/05/canton-statement-sgt-sean-goode/\">Canton, Norfolk DA issue statements on texts included in Karen Read\u2019s new lawsuit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a65cc07189c4cd09a6bcb7cba95fa09f",
+      "summary": [
+        "Canton Police Department condemned offensive texts revealed in Karen Read's lawsuit.",
+        "Norfolk DA stated the messages do not reflect department values.",
+        "Community concerns rise over police conduct and accountability in Canton."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Laxative-laced brownies rattle Nantucket School Committee meeting",
       "link": "https://www.boston.com/news/off-beat/2026/06/05/laxative-brownies-nantucket-school-committee/",
@@ -622,32 +648,6 @@
         "A 21-year-old was confronted by a 70-year-old at a restricted Hopkinton lake.",
         "The older man is charged with attempted murder for holding the younger man underwater.",
         "This incident raises safety concerns for residents regarding access to local recreational areas."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Review & setlist: With Ben Folds, Boston Pops proves it\u2019s capable of anything",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/06/04/review-setlist-ben-folds-boston-pops-june-3-2026/",
-      "pubDate": "Thu, 04 Jun 2026 14:34:38 +0000",
-      "description": "<p>The orchestra turned on a dime Wednesday, first accompanying Young Artists Competition winners and then expertly backing Ben Folds's quirky piano pop.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/06/04/review-setlist-ben-folds-boston-pops-june-3-2026/\">Review &amp; setlist: With Ben Folds, Boston Pops proves it&#8217;s capable of anything</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "04e702fe95e805f4d122b2a014b98539",
-      "summary": [
-        "Boston Pops showcased versatility by performing with Young Artists Competition winners on June 3, 2026.",
-        "Ben Folds joined the orchestra, blending quirky piano pop with classical music.",
-        "The concert highlights Boston's commitment to supporting local artists and diverse musical experiences."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Waterfront Quincy house with Boston skyline views \u2014 can you guess the price?",
-      "link": "https://www.boston.com/real-estate/quizzes/2026/06/04/waterfront-quincy-skyline-views-guess-price/",
-      "pubDate": "Thu, 04 Jun 2026 14:27:45 +0000",
-      "description": "<p>The house at 706 Sea St. boasts two decks with unobstructed ocean overlooks. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/quizzes/2026/06/04/waterfront-quincy-skyline-views-guess-price/\">Waterfront Quincy house with Boston skyline views \u2014 can you guess the price?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "598dfd067d739cebcad9daf858506275",
-      "summary": [
-        "House at 706 Sea St. offers unobstructed views of the Boston skyline.",
-        "Features two decks for enhanced outdoor living space.",
-        "Potential increase in property values for nearby waterfront homes."
       ],
       "hookType": "LOCAL_IMPACT"
     }
