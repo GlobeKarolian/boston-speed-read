@@ -1,36 +1,49 @@
 {
-  "lastUpdated": "2026-06-05T21:40:40.696409+00:00",
+  "lastUpdated": "2026-06-05T23:12:52.661287+00:00",
   "articles": [
     {
-      "title": "Endicott baseball falls to Denison in hard-fought DIII  National Championship Series",
-      "link": "https://www.boston.com/sports/college-sports/2026/06/05/endicott-college-gulls-baseball-national-championship/",
-      "pubDate": "Fri, 05 Jun 2026 20:37:30 +0000",
-      "description": "<p>The Gulls forced a winner-take-all Game 3 after a dramatic comeback victory in Game 2.</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/06/05/endicott-college-gulls-baseball-national-championship/\">Endicott baseball falls to Denison in hard-fought DIII  National Championship Series</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f091f2e1207386ec50f4c54e3f9dc569",
+      "title": "Colin Cowherd: Celtics future feels \u2018weird\u2019 compared to sustainable Knicks",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/06/05/colin-cowherd-celtics-jaylen-brown-jayson-tatum-future-comments/",
+      "pubDate": "Fri, 05 Jun 2026 22:04:34 +0000",
+      "description": "<p>\"Tatum and Brown's contracts limit the Celtics' cheap, youthful, limited front line. That's not good long term.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/06/05/colin-cowherd-celtics-jaylen-brown-jayson-tatum-future-comments/\">Colin Cowherd: Celtics future feels &#8216;weird&#8217; compared to sustainable Knicks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8d08faac6b2bda57f01c9caf6ec8d217",
       "summary": [
-        "Endicott baseball team lost to Denison in DIII National Championship Series.",
-        "The Gulls forced a decisive Game 3 after winning Game 2 dramatically.",
-        "This loss impacts local sports morale and community support for Endicott athletics."
+        "Colin Cowherd critiques Celtics' future compared to Knicks on June 5, 2026.",
+        "Tatum and Brown's contracts limit Celtics' roster flexibility and youth.",
+        "Boston residents may face challenges in team sustainability and competitiveness."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Canton, Norfolk DA issue statements on texts included in Karen Read\u2019s new lawsuit",
-      "link": "https://www.boston.com/news/local-news/2026/06/05/canton-statement-sgt-sean-goode/",
-      "pubDate": "Fri, 05 Jun 2026 18:02:46 +0000",
-      "description": "<p>\u201cThe messages are abhorrent, deeply offensive, hateful, and do not reflect the values of the Canton Police Department or its members.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/05/canton-statement-sgt-sean-goode/\">Canton, Norfolk DA issue statements on texts included in Karen Read\u2019s new lawsuit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a65cc07189c4cd09a6bcb7cba95fa09f",
+      "title": "5 must-watch movies & TV shows streaming right now",
+      "link": "https://www.boston.com/culture/streaming/2026/06/05/new-movies-tv-shows-watch-streaming-now-june-5-2026/",
+      "pubDate": "Fri, 05 Jun 2026 21:47:22 +0000",
+      "description": "<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/06/05/new-movies-tv-shows-watch-streaming-now-june-5-2026/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "68a81add16337e7d99af95f12ee94489",
       "summary": [
-        "Canton Police Department condemned offensive texts revealed in Karen Read's lawsuit.",
-        "Norfolk DA stated the messages do not reflect department values.",
-        "Community concerns rise over police conduct and accountability in Canton."
+        "Discover five new movies and TV shows streaming as of June 5, 2026.",
+        "Streaming platforms include Netflix, Hulu, HBO Max, and Disney Plus.",
+        "Boston residents can enhance their viewing options with these recommended titles."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox move Garrett Crochet to 60-day IL as ace continues to deal with discomfort",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/05/mlb-news-red-sox-ace-garrett-crochet-60-day-il/",
+      "pubDate": "Fri, 05 Jun 2026 21:44:02 +0000",
+      "description": "<p>Crochet was initially placed on 15-day IL at the end of April and hoped to return soon after he was eligible.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/05/mlb-news-red-sox-ace-garrett-crochet-60-day-il/\">Red Sox move Garrett Crochet to 60-day IL as ace continues to deal with discomfort</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bcbfeb627df3e6d000e9506f65a91308",
+      "summary": [
+        "Red Sox pitcher Garrett Crochet moved to 60-day IL due to ongoing discomfort.",
+        "Crochet was initially placed on 15-day IL at the end of April 2023.",
+        "His extended absence may impact the team's performance for Boston fans this season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-06-05T21:40:40.696431+00:00"
+    "timestamp": "2026-06-05T23:12:52.661308+00:00"
   }
 }
