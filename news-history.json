@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-06-05T09:57:57.500434+00:00",
+  "lastUpdated": "2026-06-05T12:44:24.650873+00:00",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/06/05/greater-boston-news-quiz-june-5-2026-meteor-hooters-aj-brown/",
+      "pubDate": "Fri, 05 Jun 2026 10:44:22 +0000",
+      "description": "<p>A memorable meteor, a Hooters adieu, and a proud new Patriot are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/06/05/greater-boston-news-quiz-june-5-2026-meteor-hooters-aj-brown/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4afd0c071c720a3b4d8851c4d6c01934",
+      "summary": [
+        "Meteor sighting reported across Greater Boston on June 5, 2026.",
+        "Hooters restaurant in Boston closes its doors after years of operation.",
+        "New England Patriots sign wide receiver AJ Brown, boosting local sports excitement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "FIFA prohibits fans from bringing refillable water bottles into World Cup stadiums",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/04/fifa-prohibits-fans-from-bringing-refillable-water-bottles-into-world-cup-stadiums/",
+      "pubDate": "Fri, 05 Jun 2026 01:12:46 +0000",
+      "description": "<p>\"Naturally, the immediate thought from supporters is this is just the latest money grab.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/04/fifa-prohibits-fans-from-bringing-refillable-water-bottles-into-world-cup-stadiums/\">FIFA prohibits fans from bringing refillable water bottles into World Cup stadiums</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b9fda50032bc20fb43f0d8f6bc265fec",
+      "summary": [
+        "FIFA bans refillable water bottles at World Cup stadiums starting in 2026.",
+        "Boston fans may face higher costs for water during matches.",
+        "Local businesses could see increased sales from thirsty attendees."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "From small plunge pools to $150k for gunite, how New Englanders are leveling up their backyard swim",
       "link": "https://www.boston.com/real-estate/home-improvement/2026/06/05/swimming-pools-massachusetts-backyards/",
@@ -622,32 +648,6 @@
         "Patriots WR Kayshon Boutte expresses interest in a trade, according to ESPN's Adam Schefter.",
         "Schefter predicts potential trade action could occur this summer, impacting team roster decisions.",
         "Boston fans may see changes in the Patriots' receiving lineup if a trade happens."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say",
-      "link": "https://www.boston.com/news/crime/2026/06/03/suspect-who-took-10-people-hostage-in-california-standoff-has-been-shot-and-killed-police-say/",
-      "pubDate": "Wed, 03 Jun 2026 19:58:57 +0000",
-      "description": "<p>Authorities stormed the building in downtown Bakersfield overnight, ending a nearly 16-hour standoff during which the suspect tied up half the hostages, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/03/suspect-who-took-10-people-hostage-in-california-standoff-has-been-shot-and-killed-police-say/\">Suspect who took 10 people hostage in California standoff has been shot and killed, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ba09e8b68ed823a06b704c9421e870ef",
-      "summary": [
-        "Police ended a 16-hour standoff in Bakersfield, California, resulting in the suspect's death.",
-        "Ten hostages were taken, with half tied up during the incident.",
-        "Boston residents should remain aware of heightened security measures following such violent events."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Visiting Boston this summer? Here are 8 navigation tips you need to know.",
-      "link": "https://www.boston.com/news/local-news/2026/06/03/boston-summer-2026-things-to-know/",
-      "pubDate": "Wed, 03 Jun 2026 19:54:32 +0000",
-      "description": "<p>Boston is preparing for a significant combination of major events this summer, from the FIFA World Cup to the return of Tall Ships and America\u2019s 250th anniversary celebrations.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/03/boston-summer-2026-things-to-know/\">Visiting Boston this summer? Here are 8 navigation tips you need to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "839fbd10faee39d437e81db672f9df12",
-      "summary": [
-        "Prepare for heavy traffic due to FIFA World Cup events starting June 2026.",
-        "Tall Ships will return to Boston Harbor for celebrations in July 2026.",
-        "America\u2019s 250th anniversary will attract large crowds, affecting local transportation."
       ],
       "hookType": "LOCAL_IMPACT"
     }

@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-06-05T09:57:57.499636+00:00",
+  "lastUpdated": "2026-06-05T12:44:24.650092+00:00",
   "articles": [
     {
-      "title": "From small plunge pools to $150k for gunite, how New Englanders are leveling up their backyard swim",
-      "link": "https://www.boston.com/real-estate/home-improvement/2026/06/05/swimming-pools-massachusetts-backyards/",
-      "pubDate": "Fri, 05 Jun 2026 09:30:00 +0000",
-      "description": "<p>Here\u2019s the latest in swimming pool trends  \u2014 and how much it could cost you to install one. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/06/05/swimming-pools-massachusetts-backyards/\">From small plunge pools to $150k for gunite, how New Englanders are leveling up their backyard swim</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0879a6a324b9160f14180f7764b0d486",
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/06/05/greater-boston-news-quiz-june-5-2026-meteor-hooters-aj-brown/",
+      "pubDate": "Fri, 05 Jun 2026 10:44:22 +0000",
+      "description": "<p>A memorable meteor, a Hooters adieu, and a proud new Patriot are all part of this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/06/05/greater-boston-news-quiz-june-5-2026-meteor-hooters-aj-brown/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4afd0c071c720a3b4d8851c4d6c01934",
       "summary": [
-        "New Englanders are investing in backyard pools, with costs ranging from $10k to $150k.",
-        "Gunite pools are the most expensive option, costing up to $150,000 for installation.",
-        "Increased pool installations may boost local economy and home values in Boston neighborhoods."
+        "Meteor sighting reported across Greater Boston on June 5, 2026.",
+        "Hooters restaurant in Boston closes its doors after years of operation.",
+        "New England Patriots sign wide receiver AJ Brown, boosting local sports excitement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "FIFA prohibits fans from bringing refillable water bottles into World Cup stadiums",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/04/fifa-prohibits-fans-from-bringing-refillable-water-bottles-into-world-cup-stadiums/",
+      "pubDate": "Fri, 05 Jun 2026 01:12:46 +0000",
+      "description": "<p>\"Naturally, the immediate thought from supporters is this is just the latest money grab.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/04/fifa-prohibits-fans-from-bringing-refillable-water-bottles-into-world-cup-stadiums/\">FIFA prohibits fans from bringing refillable water bottles into World Cup stadiums</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b9fda50032bc20fb43f0d8f6bc265fec",
+      "summary": [
+        "FIFA bans refillable water bottles at World Cup stadiums starting in 2026.",
+        "Boston fans may face higher costs for water during matches.",
+        "Local businesses could see increased sales from thirsty attendees."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-05T09:57:57.499660+00:00"
+    "timestamp": "2026-06-05T12:44:24.650112+00:00"
   }
 }
