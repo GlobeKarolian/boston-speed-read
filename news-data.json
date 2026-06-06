@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-06T21:07:44.355423+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-06T23:07:02.993674+00:00",
+  "articles": [
+    {
+      "title": "Red Sox reportedly \u2018shopping\u2019 Connor Wong, receiving calls on relief pitchers",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/06/red-sox-trade-rumors-connor-wong/",
+      "pubDate": "Sat, 06 Jun 2026 22:00:38 +0000",
+      "description": "<p>Boston, in last place in the AL East, reportedly is fielding calls about numerous players with less than two months until MLB\u2019s trade deadline.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/06/red-sox-trade-rumors-connor-wong/\">Red Sox reportedly \u2018shopping\u2019 Connor Wong, receiving calls on relief pitchers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9ef6f2218b08d8c9d64f6d5672d2c483",
+      "summary": [
+        "Update: Red Sox reportedly \u2018shopping\u2019 Connor Wong, receivi",
+        "Details: <p>Boston, in last place in the AL East, reportedl",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Aroldis Chapman pitching through minor injury, Garrett Whitlock\u2019s return looms & more Red Sox pitching updates",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/06/mlb-red-sox-pitching-updates-chapman-whitlock-bello/",
+      "pubDate": "Sat, 06 Jun 2026 21:29:37 +0000",
+      "description": "<p>Whitlock is eligible to return to the Red Sox lineup next week.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/06/mlb-red-sox-pitching-updates-chapman-whitlock-bello/\">Aroldis Chapman pitching through minor injury, Garrett Whitlock&#8217;s return looms &amp; more Red Sox pitching updates</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "90fa00720f28bf6d3e6f799d86147fa3",
+      "summary": [
+        "Update: Aroldis Chapman pitching through minor injury, Gar",
+        "Details: <p>Whitlock is eligible to return to the Red Sox l",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-06T21:07:44.355434+00:00"
+    "timestamp": "2026-06-06T23:07:02.993693+00:00"
   }
 }
