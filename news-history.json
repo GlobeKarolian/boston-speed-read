@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-06T13:51:23.034410+00:00",
+  "lastUpdated": "2026-06-06T15:18:38.026124+00:00",
   "articles": [
+    {
+      "title": "Fuel prices are shaping summer plans as boaters hit the water",
+      "link": "https://www.boston.com/news/business/2026/06/06/fuel-prices-are-shaping-summer-plans-as-boaters-hit-the-water/",
+      "pubDate": "Sat, 06 Jun 2026 14:21:48 +0000",
+      "description": "<p>Gas prices are also impacting boating-related businesses.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/06/06/fuel-prices-are-shaping-summer-plans-as-boaters-hit-the-water/\">Fuel prices are shaping summer plans as boaters hit the water</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f1dec4465457b04d7f5dae628e59b7e2",
+      "summary": [
+        "Gas prices are affecting summer boating plans for Boston residents.",
+        "Local boating-related businesses report a decline in customer activity due to rising fuel costs.",
+        "Boaters are adjusting their budgets, potentially reducing spending on local services and amenities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "New England Aquarium to celebrate World Ocean Day with free waterfront events on Sunday",
       "link": "https://www.boston.com/news/local-news/2026/06/06/new-england-aquarium-to-celebrate-world-ocean-day-with-free-waterfront-events-on-sunday/",
@@ -635,19 +648,6 @@
         "Police are investigating a suspected arson at the Museum of African American History in Boston.",
         "The incident occurred on June 4, 2026, raising concerns about historical preservation.",
         "Museum president emphasizes the need to continue sharing African American history despite opposition."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Woman, 69, killed in Swampscott fire",
-      "link": "https://www.boston.com/news/local-news/2026/06/04/woman-69-killed-in-swampscott-fire/",
-      "pubDate": "Thu, 04 Jun 2026 22:30:02 +0000",
-      "description": "<p>The woman was found in her apartment, the DA said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/04/woman-69-killed-in-swampscott-fire/\">Woman, 69, killed in Swampscott fire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "66bd5cdc509bdf9f5974bd99d5eb84c1",
-      "summary": [
-        "A 69-year-old woman was killed in a fire in Swampscott.",
-        "The woman was discovered in her apartment by authorities.",
-        "This incident raises concerns about fire safety in residential buildings."
       ],
       "hookType": "LOCAL_IMPACT"
     }
