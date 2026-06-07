@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-06-07T11:51:06.284371+00:00",
+  "lastUpdated": "2026-06-07T14:01:28.112458+00:00",
   "articles": [
     {
-      "title": "At least 12 people shot at an Ohio festival",
-      "link": "https://www.boston.com/news/national-news/2026/06/07/at-least-12-people-shot-at-an-ohio-festival/",
-      "pubDate": "Sun, 07 Jun 2026 11:41:33 +0000",
-      "description": "<p>No suspects were in custody hours afterward, Toledo Deputy Police Chief Joe Heffernan said.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/06/07/at-least-12-people-shot-at-an-ohio-festival/\">At least 12 people shot at an Ohio festival</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "852f63cd5b567d4e8990c8ef7fde479b",
+      "title": "Everett native Ellen Pompeo to star in Boston-set crime dramedy",
+      "link": "https://www.boston.com/culture/tv/2026/06/07/everett-native-ellen-pompeo-to-star-in-boston-set-crime-dramedy/",
+      "pubDate": "Sun, 07 Jun 2026 13:26:44 +0000",
+      "description": "<p>Pompeo will star in a lead role and serve as an executive producer for the upcoming series, which has been given a pilot order.</p>\n<p>The post <a href=\"https://www.boston.com/culture/tv/2026/06/07/everett-native-ellen-pompeo-to-star-in-boston-set-crime-dramedy/\">Everett native Ellen Pompeo to star in Boston-set crime dramedy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fab05b0d3899bb74420d6ecd33d75d86",
       "summary": [
-        "Update: At least 12 people shot at an Ohio festival",
-        "Details: <p>No suspects were in custody hours afterward, To",
+        "Update: Everett native Ellen Pompeo to star in Boston-set ",
+        "Details: <p>Pompeo will star in a lead role and serve as an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Vampires, literary monsters and a cake: The Tony Awards are here",
+      "link": "https://www.boston.com/culture/entertainment/2026/06/07/vampires-literary-monsters-and-a-cake-the-tony-awards-are-here/",
+      "pubDate": "Sun, 07 Jun 2026 12:14:15 +0000",
+      "description": "<p>Twenty-four Broadway shows\u00a0will hope to nab at least one win Sunday across the 26 Tony categories. Grammy Award-winner Pink\u00a0is the host.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/06/07/vampires-literary-monsters-and-a-cake-the-tony-awards-are-here/\">Vampires, literary monsters and a cake: The Tony Awards are here</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "845b1d804907941d4d2b3a0ad8d028b7",
+      "summary": [
+        "Update: Vampires, literary monsters and a cake: The Tony A",
+        "Details: <p>Twenty-four Broadway shows\u00a0will hope to nab at ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-07T11:51:06.284390+00:00"
+    "timestamp": "2026-06-07T14:01:28.112478+00:00"
   }
 }
