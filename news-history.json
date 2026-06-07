@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-07T04:17:18.368690+00:00",
+  "lastUpdated": "2026-06-07T11:51:06.285123+00:00",
   "articles": [
+    {
+      "title": "At least 12 people shot at an Ohio festival",
+      "link": "https://www.boston.com/news/national-news/2026/06/07/at-least-12-people-shot-at-an-ohio-festival/",
+      "pubDate": "Sun, 07 Jun 2026 11:41:33 +0000",
+      "description": "<p>No suspects were in custody hours afterward, Toledo Deputy Police Chief Joe Heffernan said.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/06/07/at-least-12-people-shot-at-an-ohio-festival/\">At least 12 people shot at an Ohio festival</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "852f63cd5b567d4e8990c8ef7fde479b",
+      "summary": [
+        "Update: At least 12 people shot at an Ohio festival",
+        "Details: <p>No suspects were in custody hours afterward, To",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "NBA insider believes Giannis Antetokounmpo\u2019s intrigue in Celtics \u2018is real\u2019",
       "link": "https://www.boston.com/sports/boston-celtics/2026/06/06/nba-rumors-giannis-antetokounmpo-celtics-latest/",
@@ -635,19 +648,6 @@
         "New Hampshire man arrested for 1993 homicide of a Maine woman.",
         "Arrest occurred early Thursday morning; extradition to Maine is pending.",
         "Case closure may provide answers for families affected in Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Red Sox demote Brayan Bello after another disastrous start",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/04/boston-red-sox-bryan-bello-mlb-baseball-demote-demotion-triple-a-worcester/",
-      "pubDate": "Fri, 05 Jun 2026 02:14:21 +0000",
-      "description": "<p>\u201cIt just feels like for us to be successful, we need Bello to start.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/04/boston-red-sox-bryan-bello-mlb-baseball-demote-demotion-triple-a-worcester/\">Red Sox demote Brayan Bello after another disastrous start</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b226aa191de7028efbaac714465f9c31",
-      "summary": [
-        "Red Sox demote pitcher Brayan Bello to Triple-A Worcester after poor performance.",
-        "Bello's recent start on June 4 contributed to the team's struggles this season.",
-        "This decision affects the team's rotation and hopes for improvement in upcoming games."
       ],
       "hookType": "LOCAL_IMPACT"
     }

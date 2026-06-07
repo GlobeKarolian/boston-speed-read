@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-06-07T09:19:16.478270+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-07T11:51:06.284371+00:00",
+  "articles": [
+    {
+      "title": "At least 12 people shot at an Ohio festival",
+      "link": "https://www.boston.com/news/national-news/2026/06/07/at-least-12-people-shot-at-an-ohio-festival/",
+      "pubDate": "Sun, 07 Jun 2026 11:41:33 +0000",
+      "description": "<p>No suspects were in custody hours afterward, Toledo Deputy Police Chief Joe Heffernan said.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/06/07/at-least-12-people-shot-at-an-ohio-festival/\">At least 12 people shot at an Ohio festival</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "852f63cd5b567d4e8990c8ef7fde479b",
+      "summary": [
+        "Update: At least 12 people shot at an Ohio festival",
+        "Details: <p>No suspects were in custody hours afterward, To",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-06-07T09:19:16.478280+00:00"
+    "timestamp": "2026-06-07T11:51:06.284390+00:00"
   }
 }
