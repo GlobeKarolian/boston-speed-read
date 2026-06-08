@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-08T04:21:54.095879+00:00",
+  "lastUpdated": "2026-06-08T11:03:06.389762+00:00",
   "articles": [
+    {
+      "title": "Known for murder and intrigue, this Providence carriage house is on the market for $2.5m",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/06/08/barnaby-castle-carriage-house-providence-rhode-island/",
+      "pubDate": "Mon, 08 Jun 2026 11:00:00 +0000",
+      "description": "<p>With a hayloft and a creepy back story, the Barnaby Castle Carriage House will appeal to those who want something unique.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/06/08/barnaby-castle-carriage-house-providence-rhode-island/\">Known for murder and intrigue, this Providence carriage house is on the market for $2.5m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "89f9a6eda4ed9b406eeb15953a22958c",
+      "summary": [
+        "Update: Known for murder and intrigue, this Providence car",
+        "Details: <p>With a hayloft and a creepy back story, the Bar",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Fall River man sentenced to 23 years for selling drugs linked to teen\u2019s 2023 death",
       "link": "https://www.boston.com/news/local-news/2026/06/07/fall-river-man-sentenced-to-23-years-for-selling-drugs-linked-to-teens-2023-death/",
@@ -635,19 +648,6 @@
         "Endicott baseball team lost to Denison in DIII National Championship Series.",
         "The Gulls forced a decisive Game 3 after winning Game 2 dramatically.",
         "This loss impacts local sports morale and community support for Endicott athletics."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Canton, Norfolk DA issue statements on texts included in Karen Read\u2019s new lawsuit",
-      "link": "https://www.boston.com/news/local-news/2026/06/05/canton-statement-sgt-sean-goode/",
-      "pubDate": "Fri, 05 Jun 2026 18:02:46 +0000",
-      "description": "<p>\u201cThe messages are abhorrent, deeply offensive, hateful, and do not reflect the values of the Canton Police Department or its members.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/05/canton-statement-sgt-sean-goode/\">Canton, Norfolk DA issue statements on texts included in Karen Read\u2019s new lawsuit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a65cc07189c4cd09a6bcb7cba95fa09f",
-      "summary": [
-        "Canton Police Department condemned offensive texts revealed in Karen Read's lawsuit.",
-        "Norfolk DA stated the messages do not reflect department values.",
-        "Community concerns rise over police conduct and accountability in Canton."
       ],
       "hookType": "LOCAL_IMPACT"
     }
