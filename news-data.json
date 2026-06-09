@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-09T07:53:25.970167+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-09T11:19:43.523905+00:00",
+  "articles": [
+    {
+      "title": "An approachable World Cup guide: Scotland",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/09/scotland-world-cup-guide/",
+      "pubDate": "Tue, 09 Jun 2026 11:10:13 +0000",
+      "description": "<p>Boston will play host to the bagpipes, the \"Tartan Army,\" and the relentlessness of Scott McTominay.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/09/scotland-world-cup-guide/\">An approachable World Cup guide: Scotland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a54d5fa7e82bca8f4c18d845e40da535",
+      "summary": [
+        "Update: An approachable World Cup guide: Scotland",
+        "Details: <p>Boston will play host to the bagpipes, the \"Tar",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: A five-bedroom lakeside Victorian in Sharon for $1.395m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/06/09/sharon-lake-massapoag-victorian-house/",
+      "pubDate": "Tue, 09 Jun 2026 11:00:00 +0000",
+      "description": "<p>2 East St., Sharon $1.395 million Style Victorian Year built 1879 Square feet 3,000 Bedrooms 5 Baths 2 full, 1 half Sewer Private Water Public Taxes $14,351 (2026) It\u2019s an original \u2014 Lake Massapoag, that is. This 392-acre lake is a geologic leftover from the age of glaciers, a stream-fed natural resource in the Neponset [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/06/09/sharon-lake-massapoag-victorian-house/\">Home of the Week: A five-bedroom lakeside Victorian in Sharon for $1.395m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e37b31900fe70cd65a819b10ed3bedc",
+      "summary": [
+        "Update: Home of the Week: A five-bedroom lakeside Victoria",
+        "Details: <p>2 East St., Sharon $1.395 million Style Victori",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-09T07:53:25.970176+00:00"
+    "timestamp": "2026-06-09T11:19:43.523929+00:00"
   }
 }
