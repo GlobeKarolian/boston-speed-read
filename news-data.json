@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-13T09:21:13.808523+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-13T11:55:41.589438+00:00",
+  "articles": [
+    {
+      "title": "Ford recalls more than 250,000 Focus models because engines can stall unexpectedly",
+      "link": "https://www.boston.com/news/business/2026/06/13/ford-recalls-focus-engines-can-stall-unexpectedly/",
+      "pubDate": "Sat, 13 Jun 2026 11:51:28 +0000",
+      "description": "<p>The recall includes 255,404 Ford Focus automobiles, model years 2012-2018. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/06/13/ford-recalls-focus-engines-can-stall-unexpectedly/\">Ford recalls more than 250,000 Focus models because engines can stall unexpectedly</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "020bfcc0b4fa0855a00a56dfb575a1b6",
+      "summary": [
+        "Update: Ford recalls more than 250,000 Focus models becaus",
+        "Details: <p>The recall includes 255,404 Ford Focus automobi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "How Gillette Stadium went from turf to grass for the World Cup, and what it could mean for the NFL",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/13/gillette-stadium-turf-grass-world-cup-nfl/",
+      "pubDate": "Sat, 13 Jun 2026 10:31:05 +0000",
+      "description": "<p>\"The temporary installation of natural grass fields for the World Cup is a choice by certain NFL team owners to do for soccer players what they refuse to do for NFL players.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/13/gillette-stadium-turf-grass-world-cup-nfl/\">How Gillette Stadium went from turf to grass for the World Cup, and what it could mean for the NFL</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "14ece2198d6b010d5998c250eb8e9104",
+      "summary": [
+        "Update: How Gillette Stadium went from turf to grass for t",
+        "Details: <p>\"The temporary installation of natural grass fi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-13T09:21:13.808532+00:00"
+    "timestamp": "2026-06-13T11:55:41.589458+00:00"
   }
 }
