@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-13T21:19:47.158331+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-13T23:09:05.006071+00:00",
+  "articles": [
+    {
+      "title": "Scotland vs. Haiti live coverage: World Cup fever spikes at Boston Stadium in opening match",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/13/scotland-haiti-live-updates-score-video-world-cup-soccer-football/",
+      "pubDate": "Sat, 13 Jun 2026 22:08:52 +0000",
+      "description": "<p>Scotland and Haiti will kick-off at 9 p.m. on Saturday night. </p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/13/scotland-haiti-live-updates-score-video-world-cup-soccer-football/\">Scotland vs. Haiti live coverage: World Cup fever spikes at Boston Stadium in opening match</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f93c6d84b048d30520c9df7c52506a84",
+      "summary": [
+        "Update: Scotland vs. Haiti live coverage: World Cup fever ",
+        "Details: <p>Scotland and Haiti will kick-off at 9 p.m. on S",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Roman Anthony gives update on injured wrist: \u2018Progressing a lot slower than I\u2019d imagined\u2019",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/13/roman-anthony-wrist-injury-latest-update/",
+      "pubDate": "Sat, 13 Jun 2026 21:27:03 +0000",
+      "description": "<p>Anthony said he swings a light bat when he feels up for it once in a while, but still isn\u2019t taking true swings yet.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/13/roman-anthony-wrist-injury-latest-update/\">Roman Anthony gives update on injured wrist: \u2018Progressing a lot slower than I\u2019d imagined\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "233bd55fb9106dc36682ae0284d3e251",
+      "summary": [
+        "Update: Roman Anthony gives update on injured wrist: \u2018Prog",
+        "Details: <p>Anthony said he swings a light bat when he feel",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-13T21:19:47.158342+00:00"
+    "timestamp": "2026-06-13T23:09:05.006093+00:00"
   }
 }
