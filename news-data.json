@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-06-14T14:22:57.178584+00:00",
+  "lastUpdated": "2026-06-14T17:22:50.129647+00:00",
   "articles": [
     {
-      "title": "Boston cop rallies ecstatic World Cup crowd with soccer juggling skills",
-      "link": "https://www.boston.com/sports/world-cup/2026/06/14/boston-cop-rallies-ecstatic-world-cup-crowd-with-soccer-juggling-skills/",
-      "pubDate": "Sun, 14 Jun 2026 13:28:37 +0000",
-      "description": "<p>A video of the cop juggling a soccer ball for an energized crowd of World Cup fans has gone viral on social media.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/14/boston-cop-rallies-ecstatic-world-cup-crowd-with-soccer-juggling-skills/\">Boston cop rallies ecstatic World Cup crowd with soccer juggling skills</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5b992d980743784475e2d0c719d70be1",
+      "title": "World Cup traffic creates long lines but stays organized, easing citywide fears",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/14/world-cup-traffic-creates-long-lines-but-stays-organized-easing-citywide-fears/",
+      "pubDate": "Sun, 14 Jun 2026 15:18:39 +0000",
+      "description": "<p>Months of planning went into figuring out how to transport thousands of fans from the city to Boston Stadium in Foxborough.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/14/world-cup-traffic-creates-long-lines-but-stays-organized-easing-citywide-fears/\">World Cup traffic creates long lines but stays organized, easing citywide fears</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "733c617b8ff73873fcf0e3c36fbaf2f5",
       "summary": [
-        "Update: Boston cop rallies ecstatic World Cup crowd with s",
-        "Details: <p>A video of the cop juggling a soccer ball for a",
+        "Update: World Cup traffic creates long lines but stays org",
+        "Details: <p>Months of planning went into figuring out how t",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom.",
-      "link": "https://www.boston.com/sports/politics/2026/06/14/trump-turns-80-with-a-showstopping-spectacle-of-cage-fights-at-the-white-house-but-big-issues-loom/",
-      "pubDate": "Sun, 14 Jun 2026 13:23:29 +0000",
-      "description": "<p>\u201cIn ancient Rome, the phrase would be, \u2018bread and circuses.\u2019\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/politics/2026/06/14/trump-turns-80-with-a-showstopping-spectacle-of-cage-fights-at-the-white-house-but-big-issues-loom/\">Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "afed25ed02ef076079781b37f74b3bb0",
+      "title": "Man shot and killed in dining room at Cape Cod restaurant",
+      "link": "https://www.boston.com/uncategorized/crime/2026/06/14/man-shot-and-killed-in-dining-room-at-cape-cod-restaurant/",
+      "pubDate": "Sun, 14 Jun 2026 14:29:22 +0000",
+      "description": "<p>The restaurant\u2019s owner said she doesn\u2019t know the victim but offered her condolences to his family on social media.</p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/crime/2026/06/14/man-shot-and-killed-in-dining-room-at-cape-cod-restaurant/\">Man shot and killed in dining room at Cape Cod restaurant</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "059474ff95398fa456a0ab35f4c66cb3",
       "summary": [
-        "Update: Trump turns 80 with a showstopping spectacle of ca",
-        "Details: <p>\u201cIn ancient Rome, the phrase would be, \u2018bread a",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Boy, 14, arrested for armed robbery of kids\u2019 lemonade stand in Southie",
-      "link": "https://www.boston.com/news/local-news/2026/06/14/boy-14-arrested-for-armed-robbery-of-kids-lemonade-stand-in-southie/",
-      "pubDate": "Sun, 14 Jun 2026 12:02:32 +0000",
-      "description": "<p>Boston police are still searching for a second suspect in connection with the incident. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/14/boy-14-arrested-for-armed-robbery-of-kids-lemonade-stand-in-southie/\">Boy, 14, arrested for armed robbery of kids&#8217; lemonade stand in Southie</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d076d2530412e8f8acfc9bf0ef74e9a7",
-      "summary": [
-        "Update: Boy, 14, arrested for armed robbery of kids\u2019 lemon",
-        "Details: <p>Boston police are still searching for a second ",
+        "Update: Man shot and killed in dining room at Cape Cod res",
+        "Details: <p>The restaurant\u2019s owner said she doesn\u2019t know th",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-14T14:22:57.178604+00:00"
+    "timestamp": "2026-06-14T17:22:50.129670+00:00"
   }
 }
