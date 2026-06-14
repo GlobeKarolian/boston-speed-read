@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-06-14T19:41:04.621156+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-14T21:16:14.604818+00:00",
+  "articles": [
+    {
+      "title": "Theater review: \u2018Black Swan\u2019 dazzles with stunning choreography despite a forgettable score",
+      "link": "https://www.boston.com/community/entertainment/2026/06/14/theater-review-black-swan-dazzles-with-stunning-choreography-despite-a-forgettable-score/",
+      "pubDate": "Sun, 14 Jun 2026 20:58:40 +0000",
+      "description": "<p>While the score lacks memorable hooks, \u201cBlack Swan\u201d soars through breathtaking choreography, striking visuals, and powerhouse performances.</p>\n<p>The post <a href=\"https://www.boston.com/community/entertainment/2026/06/14/theater-review-black-swan-dazzles-with-stunning-choreography-despite-a-forgettable-score/\">Theater review: &#8216;Black Swan&#8217; dazzles with stunning choreography despite a forgettable score</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b51695d0f86d4e6633d20e0f132c6378",
+      "summary": [
+        "Update: Theater review: \u2018Black Swan\u2019 dazzles with stunning",
+        "Details: <p>While the score lacks memorable hooks, \u201cBlack S",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "12 dead in crash of plane on skydiving outing in Missouri, authorities say",
+      "link": "https://www.boston.com/news/national-news/2026/06/14/12-dead-in-crash-of-plane-on-skydiving-outing-in-missouri-authorities-say/",
+      "pubDate": "Sun, 14 Jun 2026 20:18:42 +0000",
+      "description": "<p>Missouri Highway Patrol Sgt. Justin Ewing said the plane was taking people up to skydive. Emergency responders got a call that a plane was down and engulfed in fire around 11:30 a.m. Sunday morning, he said.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/06/14/12-dead-in-crash-of-plane-on-skydiving-outing-in-missouri-authorities-say/\">12 dead in crash of plane on skydiving outing in Missouri, authorities say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f9ccdfa7507dcd05f0de517507e3f7d2",
+      "summary": [
+        "Update: 12 dead in crash of plane on skydiving outing in M",
+        "Details: <p>Missouri Highway Patrol Sgt. Justin Ewing said ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Former Senate leader Mitch McConnell is in the hospital, but little more information is known",
+      "link": "https://www.boston.com/news/politics/2026/06/14/former-senate-leader-mitch-mcconnell-is-in-the-hospital-but-little-more-information-is-known/",
+      "pubDate": "Sun, 14 Jun 2026 20:07:44 +0000",
+      "description": "<p>McConnell, 84, was the longest serving Senate leader in history before stepping aside from that role while finishing his final term, which ends in January.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/06/14/former-senate-leader-mitch-mcconnell-is-in-the-hospital-but-little-more-information-is-known/\">Former Senate leader Mitch McConnell is in the hospital, but little more information is known</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c6bb557f15b32ddcd6fc7e518ddb3ffa",
+      "summary": [
+        "Update: Former Senate leader Mitch McConnell is in the hos",
+        "Details: <p>McConnell, 84, was the longest serving Senate l",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Scotland felt the love in Boston before, during, and after opening World Cup win",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/14/scotl-haiti-player-comments/",
+      "pubDate": "Sun, 14 Jun 2026 20:05:37 +0000",
+      "description": "<p>Members of the Scotland national team got a \"buzz\" from the atmosphere in Boston before their 1-0 win over Haiti at the 2026 World Cup.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/14/scotl-haiti-player-comments/\">Scotland felt the love in Boston before, during, and after opening World Cup win</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45991214fa3fd0a72063669c66caa251",
+      "summary": [
+        "Update: Scotland felt the love in Boston before, during, a",
+        "Details: <p>Members of the Scotland national team got a \"bu",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-06-14T19:41:04.621183+00:00"
+    "timestamp": "2026-06-14T21:16:14.604840+00:00"
   }
 }
