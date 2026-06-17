@@ -1,88 +1,23 @@
 {
-  "lastUpdated": "2026-06-17T04:26:47.417900+00:00",
+  "lastUpdated": "2026-06-17T11:03:31.051654+00:00",
   "articles": [
     {
-      "title": "Entangled humpback whale freed from fishing gear off Mass. coast",
-      "link": "https://www.boston.com/news/local-news/2026/06/16/entangled-humpback-whale-freed-from-fishing-gear-off-mass-coast/",
-      "pubDate": "Wed, 17 Jun 2026 02:42:34 +0000",
-      "description": "<p>Responders used a hook-shaped knife at the end of a 30-foot pole to free the young whale. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/16/entangled-humpback-whale-freed-from-fishing-gear-off-mass-coast/\">Entangled humpback whale freed from fishing gear off Mass. coast</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "372c74aaf029c0218576e621ee7d600d",
+      "title": "Recent homes sales in Greater Boston (June 17)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/06/17/recent-homes-sales-in-greater-boston-june-17/",
+      "pubDate": "Wed, 17 Jun 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 220 Hancock St. One-family Colonial, built in 1985, 3,164 square feet, 10 rooms, 5 bedrooms, 4 baths, on 40,056-square-foot lot. $849,900 149 Lincoln St. One-family conventional, built in 1900, 1,440 square feet, 8 rooms, 4 bedrooms, 2 baths, on 38,750-square-foot lot. $700,000 239 Birch St. One-family conventional, built in 1890, 1,677 square feet, 6 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/06/17/recent-homes-sales-in-greater-boston-june-17/\">Recent homes sales in Greater Boston (June 17)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7c21bdcf264a46f50cd71f00b0e94f4e",
       "summary": [
-        "Update: Entangled humpback whale freed from fishing gear o",
-        "Details: <p>Responders used a hook-shaped knife at the end ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Blue Jays back Cease with 3 homers in 6-1 victory over Red Sox at Fenway",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/16/blue-jays-back-cease-with-3-homers-in-6-1-victory-over-red-sox-at-fenway/",
-      "pubDate": "Wed, 17 Jun 2026 02:31:16 +0000",
-      "description": "<p>Payton Tolle was tagged for three runs and four hits in five innings. The left-hander struck out six and walked two.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/16/blue-jays-back-cease-with-3-homers-in-6-1-victory-over-red-sox-at-fenway/\">Blue Jays back Cease with 3 homers in 6-1 victory over Red Sox at Fenway</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dfcb994d385b9823c96152590606b88f",
-      "summary": [
-        "Update: Blue Jays back Cease with 3 homers in 6-1 victory ",
-        "Details: <p>Payton Tolle was tagged for three runs and four",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Chelmsford firefighter union declares no confidence in town chief",
-      "link": "https://www.boston.com/news/local-news/2026/06/16/chelmsford-firefighter-union-declares-no-confidence-in-town-chief/",
-      "pubDate": "Wed, 17 Jun 2026 02:18:03 +0000",
-      "description": "<p>The union cited staffing and operational issues and a lack of communication from the chief among the reasons for its vote.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/16/chelmsford-firefighter-union-declares-no-confidence-in-town-chief/\">Chelmsford firefighter union declares no confidence in town chief</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e73330969615034c1ad76ef36eece8bc",
-      "summary": [
-        "Update: Chelmsford firefighter union declares no confidenc",
-        "Details: <p>The union cited staffing and operational issues",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Dorchester man admits to robbing an East Boston Santander Bank",
-      "link": "https://www.boston.com/news/crime/2026/06/16/dorchester-man-admits-to-robbing-an-east-boston-santander-bank/",
-      "pubDate": "Wed, 17 Jun 2026 01:29:04 +0000",
-      "description": "<p>The 58-year-old has a prior federal and state convictions for bank robbery. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/16/dorchester-man-admits-to-robbing-an-east-boston-santander-bank/\">Dorchester man admits to robbing an East Boston Santander Bank</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "23999b09858111f792ca4cb31cbac0a5",
-      "summary": [
-        "Update: Dorchester man admits to robbing an East Boston Sa",
-        "Details: <p>The 58-year-old has a prior federal and state c",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018Blue envelope\u2019 bill enacted to help autistic drivers communicate with law enforcement",
-      "link": "https://www.boston.com/news/local-news/2026/06/16/blue-envelope-bill-enacted-to-help-autistic-drivers-communicate-with-law-enforcement/",
-      "pubDate": "Wed, 17 Jun 2026 00:51:15 +0000",
-      "description": "<p>The bill will allow drivers with autism to carry an envelope containing their license, registration, and information about their diagnosis.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/16/blue-envelope-bill-enacted-to-help-autistic-drivers-communicate-with-law-enforcement/\">\u2018Blue envelope\u2019 bill enacted to help autistic drivers communicate with law enforcement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a72df11ac3a3e4a86bcd1b14e28b1d6b",
-      "summary": [
-        "Update: \u2018Blue envelope\u2019 bill enacted to help autistic driv",
-        "Details: <p>The bill will allow drivers with autism to carr",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Brockton woman pleads guilty to stealing more than $900,000 in government funds",
-      "link": "https://www.boston.com/news/crime/2026/06/16/brockton-woman-pleads-guilty-to-stealing-more-than-900000-in-government-funds/",
-      "pubDate": "Wed, 17 Jun 2026 00:21:08 +0000",
-      "description": "<p>Prosecutors say the 70-year-old woman tried to cash a six-figure check a month after her arrest.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/16/brockton-woman-pleads-guilty-to-stealing-more-than-900000-in-government-funds/\">Brockton woman pleads guilty to stealing more than $900,000 in government funds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "43f419fb1c053a55dc76af305be3c4da",
-      "summary": [
-        "Update: Brockton woman pleads guilty to stealing more than",
-        "Details: <p>Prosecutors say the 70-year-old woman tried to ",
+        "Update: Recent homes sales in Greater Boston (June 17)",
+        "Details: <p>ABINGTON 220 Hancock St. One-family Colonial, b",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 6,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-06-17T04:26:47.417921+00:00"
+    "timestamp": "2026-06-17T11:03:31.051674+00:00"
   }
 }
