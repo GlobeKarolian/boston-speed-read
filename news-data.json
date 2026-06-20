@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-06-20T21:20:43.557038+00:00",
+  "lastUpdated": "2026-06-20T23:12:11.896291+00:00",
   "articles": [
     {
-      "title": "Photos: The best World Cup scenes from Scotland vs. Morocco at \u2018Boston Stadium\u2019",
-      "link": "https://www.boston.com/sports/world-cup/2026/06/20/scotland-morocco-world-cup-photos-boston-stadium/",
-      "pubDate": "Sat, 20 Jun 2026 20:10:50 +0000",
-      "description": "<p>Some of the best photos from a perfect summer night in Foxborough</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/20/scotland-morocco-world-cup-photos-boston-stadium/\">Photos: The best World Cup scenes from Scotland vs. Morocco at &#8216;Boston Stadium&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9768802b3e8d119709ac483cad811747",
+      "title": "Report: Celtics could pursue trade for Rudy Gobert with Derrick White as key returning piece",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/06/20/nba-trade-rumors-celtics-rudy-gobert-derrick-white/",
+      "pubDate": "Sat, 20 Jun 2026 22:00:06 +0000",
+      "description": "<p>White and Gobert's salaries match, making the path to a trade much easier for the Celtics. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/06/20/nba-trade-rumors-celtics-rudy-gobert-derrick-white/\">Report: Celtics could pursue trade for Rudy Gobert with Derrick White as key returning piece</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5847a68c098d8a571f28ec71c868e09e",
       "summary": [
-        "Update: Photos: The best World Cup scenes from Scotland vs",
-        "Details: <p>Some of the best photos from a perfect summer n",
+        "Update: Report: Celtics could pursue trade for Rudy Gobert",
+        "Details: <p>White and Gobert's salaries match, making the p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox\u2019 Ranger Suarez took a no-hitter into 7th inning in win vs. Mariners",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/20/ranger-suarez-no-hitter-bid-red-sox-mariners/",
+      "pubDate": "Sat, 20 Jun 2026 21:42:32 +0000",
+      "description": "<p>Boston\u2019s last successful no-hitter was thrown by Jon Lester on May 19, 2008, against the Kansas City Royals.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/20/ranger-suarez-no-hitter-bid-red-sox-mariners/\">Red Sox\u2019 Ranger Suarez took a no-hitter into 7th inning in win vs. Mariners</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a4bdeb88b86ed0dd7935e475500dae23",
+      "summary": [
+        "Update: Red Sox\u2019 Ranger Suarez took a no-hitter into 7th i",
+        "Details: <p>Boston\u2019s last successful no-hitter was thrown b",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-20T21:20:43.557062+00:00"
+    "timestamp": "2026-06-20T23:12:11.896312+00:00"
   }
 }
