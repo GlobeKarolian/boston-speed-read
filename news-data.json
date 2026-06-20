@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-06-20T19:42:05.034256+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-20T21:20:43.557038+00:00",
+  "articles": [
+    {
+      "title": "Photos: The best World Cup scenes from Scotland vs. Morocco at \u2018Boston Stadium\u2019",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/20/scotland-morocco-world-cup-photos-boston-stadium/",
+      "pubDate": "Sat, 20 Jun 2026 20:10:50 +0000",
+      "description": "<p>Some of the best photos from a perfect summer night in Foxborough</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/20/scotland-morocco-world-cup-photos-boston-stadium/\">Photos: The best World Cup scenes from Scotland vs. Morocco at &#8216;Boston Stadium&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9768802b3e8d119709ac483cad811747",
+      "summary": [
+        "Update: Photos: The best World Cup scenes from Scotland vs",
+        "Details: <p>Some of the best photos from a perfect summer n",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-06-20T19:42:05.034266+00:00"
+    "timestamp": "2026-06-20T21:20:43.557062+00:00"
   }
 }
