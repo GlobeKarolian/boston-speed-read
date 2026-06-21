@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-06-21T19:47:59.325077+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-21T21:18:11.220697+00:00",
+  "articles": [
+    {
+      "title": "\u2018Toy Story 5\u2019 rakes in the biggest box-office debut of the year with a franchise-best $160 million",
+      "link": "https://www.boston.com/culture/entertainment/2026/06/21/toy-story-5-rakes-in-the-biggest-box-office-debut-of-the-year-with-a-franchise-best-160-million/",
+      "pubDate": "Sun, 21 Jun 2026 20:43:03 +0000",
+      "description": "<p>The \u201cToy Story\u201d franchise is one of the most profitable for The Walt Disney Co.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/06/21/toy-story-5-rakes-in-the-biggest-box-office-debut-of-the-year-with-a-franchise-best-160-million/\">&#8216;Toy Story 5&#8217; rakes in the biggest box-office debut of the year with a franchise-best $160 million</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3dba2edf4bae2b5a18925463b6666709",
+      "summary": [
+        "Update: \u2018Toy Story 5\u2019 rakes in the biggest box-office debu",
+        "Details: <p>The \u201cToy Story\u201d franchise is one of the most pr",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Conn. man falls to his death during rock concert at Madison Square Garden",
+      "link": "https://www.boston.com/culture/local-news/2026/06/21/conn-man-falls-to-his-death-during-rock-concert-at-madison-square-garden/",
+      "pubDate": "Sun, 21 Jun 2026 20:31:44 +0000",
+      "description": "<p>Officers responding to a 911 call around 9:51 p.m. found the man unconscious and unresponsive with injuries indicating a fall from an \u201celevated position,\u201d New York City police said.</p>\n<p>The post <a href=\"https://www.boston.com/culture/local-news/2026/06/21/conn-man-falls-to-his-death-during-rock-concert-at-madison-square-garden/\">Conn. man falls to his death during rock concert at Madison Square Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6a5f3fc3bcbd5eb894924466b2fb5076",
+      "summary": [
+        "Update: Conn. man falls to his death during rock concert a",
+        "Details: <p>Officers responding to a 911 call around 9:51 p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
+      "link": "https://www.boston.com/news/politics/2026/06/21/as-vance-meets-top-iranian-officials-in-switzerland-trump-threatens-tehran-from-afar/",
+      "pubDate": "Sun, 21 Jun 2026 20:22:40 +0000",
+      "description": "<p>\u201cIran must immediately stop their highly paid PROXIES in Lebanon from causing trouble,\u201d Trump said on social media, one of multiple provocative warnings to Iran on Sunday. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/06/21/as-vance-meets-top-iranian-officials-in-switzerland-trump-threatens-tehran-from-afar/\">As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a8ec59fbf5fce2549c89d4bd569c3f78",
+      "summary": [
+        "Update: As Vance meets top Iranian officials in Switzerlan",
+        "Details: <p>\u201cIran must immediately stop their highly paid P",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Starmer is on the precipice as pressure builds for the UK leader to resign",
+      "link": "https://www.boston.com/news/politics/2026/06/21/starmer-is-on-the-precipice-as-pressure-builds-for-the-uk-leader-to-resign/",
+      "pubDate": "Sun, 21 Jun 2026 20:13:02 +0000",
+      "description": "<p>Expectation is growing that he will announce a timetable for his resignation as soon as Monday. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/06/21/starmer-is-on-the-precipice-as-pressure-builds-for-the-uk-leader-to-resign/\">Starmer is on the precipice as pressure builds for the UK leader to resign</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a8af341be6b1872089e0029172788cae",
+      "summary": [
+        "Update: Starmer is on the precipice as pressure builds for",
+        "Details: <p>Expectation is growing that he will announce a ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-06-21T19:47:59.325085+00:00"
+    "timestamp": "2026-06-21T21:18:11.220715+00:00"
   }
 }
