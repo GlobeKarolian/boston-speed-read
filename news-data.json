@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-06-23T07:52:25.513286+00:00",
+  "lastUpdated": "2026-06-23T11:20:49.802773+00:00",
   "articles": [
     {
-      "title": "Celtics lose out on Giannis sweepstakes as Bucks trade star to Miami",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/06/23/boston-celtics-trade-rumors-miami-heat-milwaukee-bucks-giannis-antetokounmpo/",
-      "pubDate": "Tue, 23 Jun 2026 04:21:33 +0000",
-      "description": "<p>The Celtics reportedly offered up Jaylen Brown and two first-round picks as part of their offer to the Bucks. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/06/23/boston-celtics-trade-rumors-miami-heat-milwaukee-bucks-giannis-antetokounmpo/\">Celtics lose out on Giannis sweepstakes as Bucks trade star to Miami</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "719b272f2ff8f03379989d009d0718b5",
+      "title": "Trading for Elias Pettersson might be a risk worth taking for Bruins",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/06/23/boston-bruins-trade-rumors-elias-pettersson-nhl-hockey-vancouver-canucks/",
+      "pubDate": "Tue, 23 Jun 2026 11:15:16 +0000",
+      "description": "<p>If the Bruins are willing to roll the dice, Elias Pettersson is a potential top-line center operating at low value. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/06/23/boston-bruins-trade-rumors-elias-pettersson-nhl-hockey-vancouver-canucks/\">Trading for Elias Pettersson might be a risk worth taking for Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "68a2737cffda5a4247fa1cedc46f6916",
       "summary": [
-        "Update: Celtics lose out on Giannis sweepstakes as Bucks t",
-        "Details: <p>The Celtics reportedly offered up Jaylen Brown ",
+        "Update: Trading for Elias Pettersson might be a risk worth",
+        "Details: <p>If the Bruins are willing to roll the dice, Eli",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: Near Marblehead Harbor, 1800s Colonial for under $1.8m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/06/23/marblehead-harbor-historic-district-house-for-sale/",
+      "pubDate": "Tue, 23 Jun 2026 11:00:00 +0000",
+      "description": "<p>The owners became self-described \u201ccustodians\u201d of the historic home after a family who had lived there for 60 years. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/06/23/marblehead-harbor-historic-district-house-for-sale/\">Home of the Week: Near Marblehead Harbor, 1800s Colonial for under $1.8m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d311ba5713058060d85bb15a38ec40a4",
+      "summary": [
+        "Update: Home of the Week: Near Marblehead Harbor, 1800s Co",
+        "Details: <p>The owners became self-described \u201ccustodians\u201d o",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-23T07:52:25.513306+00:00"
+    "timestamp": "2026-06-23T11:20:49.802792+00:00"
   }
 }
