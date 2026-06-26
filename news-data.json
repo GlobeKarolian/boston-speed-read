@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-06-26T21:22:00.012200+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-26T23:10:20.812660+00:00",
+  "articles": [
+    {
+      "title": "Bruins reportedly trade for Utah forward JJ Peterka",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/06/26/boston-bruins-jj-peterka-nhl-hockey-trade-report-utah-mammoth/",
+      "pubDate": "Fri, 26 Jun 2026 23:04:20 +0000",
+      "description": "<p>Peterka, 24, has hit 50 points in two of his four full seasons in the NHL. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/06/26/boston-bruins-jj-peterka-nhl-hockey-trade-report-utah-mammoth/\">Bruins reportedly trade for Utah forward JJ Peterka</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c1736014dd923dcfe246adaa233d2ba",
+      "summary": [
+        "Bruins acquire forward JJ Peterka from Utah Mammoth in a trade.",
+        "Peterka, 24, has scored 50 points in two of his four NHL seasons.",
+        "This trade aims to strengthen the Bruins' offense for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "As Mass. ballot initiatives multiply, critics want to limit them",
+      "link": "https://www.boston.com/news/local-news/2026/06/26/as-mass-ballot-initiatives-multiply-critics-want-to-limit-them/",
+      "pubDate": "Fri, 26 Jun 2026 23:01:13 +0000",
+      "description": "<p>Voters have passed several major laws by initiative in past elections. A 2016 initiative legalized marijuana, and a 2022 initiative created a tax on millionaires.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/26/as-mass-ballot-initiatives-multiply-critics-want-to-limit-them/\">As Mass. ballot initiatives multiply, critics want to limit them</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e14bac5ae268df99bddfb84c89dd51b7",
+      "summary": [
+        "Massachusetts voters passed significant laws via ballot initiatives, including marijuana legalization in 2016.",
+        "In 2022, a millionaire tax initiative was approved, affecting high-income residents.",
+        "Critics propose limiting initiatives to reduce potential voter confusion and streamline legislation."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Craig Breslow on his job security, whether the Red Sox will buy or sell, and more",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/26/craig-breslow-weei-radio-interview-red-sox/",
+      "pubDate": "Fri, 26 Jun 2026 22:08:08 +0000",
+      "description": "<p>Breslow faced some tough questions about the state of the team and his role in what has transpired this season during a recent radio interview.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/26/craig-breslow-weei-radio-interview-red-sox/\">Craig Breslow on his job security, whether the Red Sox will buy or sell, and more</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e1b48ff233deb857c53519f601b03d85",
+      "summary": [
+        "Craig Breslow addressed his job security during a recent radio interview on June 26.",
+        "Breslow discussed potential trades, indicating the Red Sox may buy or sell players soon.",
+        "Boston residents may see roster changes impacting the team's performance this season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-06-26T21:22:00.012210+00:00"
+    "timestamp": "2026-06-26T23:10:20.812680+00:00"
   }
 }
