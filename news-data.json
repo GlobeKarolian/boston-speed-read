@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-06-26T09:33:12.700955+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-26T12:13:26.634045+00:00",
+  "articles": [
+    {
+      "title": "4 takeaways from the U.S. loss against T\u00fcrkiye in the World Cup",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/26/us-turkiye-world-cup-takeaways/",
+      "pubDate": "Fri, 26 Jun 2026 11:36:26 +0000",
+      "description": "<p>A back-and-forth group stage finale had an intensity that belied the game's actual importance.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/26/us-turkiye-world-cup-takeaways/\">4 takeaways from the U.S. loss against T\u00fcrkiye in the World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cd87eb89bee38ce5fbdac93065a0c70a",
+      "summary": [
+        "U.S. men's soccer team lost 3-2 to T\u00fcrkiye in World Cup group stage.",
+        "Boston's local soccer fans expressed disappointment over the team's performance on June 26.",
+        "The loss affects U.S. chances for advancement, impacting local viewing events planned for future matches."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Who designates a historic home in Massachusetts \u2014 and can you paint it?",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/06/26/historic-districts-homes-massachusetts/",
+      "pubDate": "Fri, 26 Jun 2026 11:00:00 +0000",
+      "description": "<p>From the National Register of Historic Places to local historic districts and commissions, navigating rules around your old home </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/06/26/historic-districts-homes-massachusetts/\">Who designates a historic home in Massachusetts \u2014 and can you paint it?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dd12fe03fc11cfdec782ea62d3081354",
+      "summary": [
+        "Learn how historic homes in Boston are designated by local commissions.",
+        "Understand that painting restrictions may apply to homes in historic districts.",
+        "Residents must navigate regulations to maintain property value and historical integrity."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/06/26/greater-boston-news-quiz-june-26-2026-mike-wankum-tall-ships-world-cup/",
+      "pubDate": "Fri, 26 Jun 2026 10:26:02 +0000",
+      "description": "<p>Wankum\u2019s departure, Tall Ship visits, and more World Cup wonders are all in this week\u2019s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/06/26/greater-boston-news-quiz-june-26-2026-mike-wankum-tall-ships-world-cup/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f539e41e2f451da23377f4ca548ba40d",
+      "summary": [
+        "Wankum's departure from local news marks a significant change for Boston media.",
+        "Tall Ships event scheduled for July 4 weekend will attract thousands to the waterfront.",
+        "World Cup preparations continue, enhancing Boston's profile as a major sports city."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Pochettino annoyed by perceived disappointment after US finishes group play with 3-2 loss to Turkey",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/26/pochettino-annoyed-by-perceived-disappointment-after-us-finishes-group-play-with-3-2-loss-to-turkey/",
+      "pubDate": "Fri, 26 Jun 2026 05:57:05 +0000",
+      "description": "<p>\"It\u2019s a little bit petty, if you will. You\u2019re thinking just a little bit too small.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/26/pochettino-annoyed-by-perceived-disappointment-after-us-finishes-group-play-with-3-2-loss-to-turkey/\">Pochettino annoyed by perceived disappointment after US finishes group play with 3-2 loss to Turkey</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "403e25a3db232b7886d2163e9fef96e2",
+      "summary": [
+        "US men's soccer team lost 3-2 to Turkey in group play.",
+        "Coach Pochettino expressed annoyance over perceived disappointment on June 26.",
+        "Loss may affect local fan morale ahead of future matches."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-06-26T09:33:12.700966+00:00"
+    "timestamp": "2026-06-26T12:13:26.634066+00:00"
   }
 }
