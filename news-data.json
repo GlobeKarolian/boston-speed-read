@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-27T19:25:33.849868+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-27T21:08:31.627423+00:00",
+  "articles": [
+    {
+      "title": "Bruins trade Fabian Lysell to Colorado for forward Ivan Ivan",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/06/27/boston-bruins-nhl-hockey-fabian-lysell-trade-ivan-ivan-colorado/",
+      "pubDate": "Sat, 27 Jun 2026 20:34:38 +0000",
+      "description": "<p>Fabian Lysell only appeared in 12 games with the Bruins after getting drafted 21st overall in 2021. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/06/27/boston-bruins-nhl-hockey-fabian-lysell-trade-ivan-ivan-colorado/\">Bruins trade Fabian Lysell to Colorado for forward Ivan Ivan</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "44eb1b716845df06549e346db9f71d62",
+      "summary": [
+        "Bruins trade forward Fabian Lysell to Colorado for Ivan Ivan on June 27, 2026.",
+        "Lysell, drafted 21st overall in 2021, played only 12 games for the Bruins.",
+        "This trade may impact Bruins' roster dynamics and future player development."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Forget the celebrities in the crowd, France are the entertainers of the 2026 World Cup",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/27/france-2026-world-cup-entertainers/",
+      "pubDate": "Sat, 27 Jun 2026 20:13:27 +0000",
+      "description": "<p>In a World Cup that seems fixated on trying to make soccer more entertaining for its American audience, local fans were lucky on Friday to see a game in which the most compelling figures were the French ones in front of goal.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/27/france-2026-world-cup-entertainers/\">Forget the celebrities in the crowd, France are the entertainers of the 2026 World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e654e12238e7a863efb83d649936c9f6",
+      "summary": [
+        "France showcased exceptional soccer skills during the 2026 World Cup match on June 27.",
+        "Local Boston fans enjoyed a thrilling game featuring standout performances from French players.",
+        "The entertaining match enhances local interest in soccer ahead of the World Cup in the U.S."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-27T19:25:33.849876+00:00"
+    "timestamp": "2026-06-27T21:08:31.627439+00:00"
   }
 }
