@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-06-28T15:20:09.463710+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-28T17:16:54.113792+00:00",
+  "articles": [
+    {
+      "title": "Messi subs in and scores again as defending World Cup champ Argentina beats Jordan to sweep group",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/28/messi-subs-in-and-scores-again-as-defending-world-cup-champ-argentina-beats-jordan-to-sweep-group/",
+      "pubDate": "Sun, 28 Jun 2026 05:38:19 +0000",
+      "description": "<p>\u201cI am very happy for him, for the moment he is having.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/28/messi-subs-in-and-scores-again-as-defending-world-cup-champ-argentina-beats-jordan-to-sweep-group/\">Messi subs in and scores again as defending World Cup champ Argentina beats Jordan to sweep group</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fc03c7eb726fa63513a4f67a24787377",
+      "summary": [
+        "Argentina defeats Jordan, securing a spot in the knockout stage of the World Cup.",
+        "Lionel Messi scored after subbing in, showcasing his continued impact on the team.",
+        "Boston fans celebrate Messi's performance, enhancing local interest in the World Cup."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Austria, Algeria trade goals in stoppage time, both advance at World Cup with stunning 3-3 draw",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/28/austria-algeria-trade-goals-in-stoppage-time-both-advance-at-world-cup-with-stunning-3-3-draw/",
+      "pubDate": "Sun, 28 Jun 2026 05:07:53 +0000",
+      "description": "<p>\u201cI've been a coach for about 40 years. I don't remember a game that had such a dramatic course, and such an unexpected trajectory,\u201d Austria coach Ralf Rangnick said, shaking his head.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/28/austria-algeria-trade-goals-in-stoppage-time-both-advance-at-world-cup-with-stunning-3-3-draw/\">Austria, Algeria trade goals in stoppage time, both advance at World Cup with stunning 3-3 draw</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "97820282386cd2bbc19cb3eb19c1ef95",
+      "summary": [
+        "Austria and Algeria played to a dramatic 3-3 draw in World Cup match.",
+        "Both teams advanced to the knockout stage after the June 28 match.",
+        "Local fans can expect heightened excitement as both teams progress in the tournament."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Iran narrowly knocked out of tumultuous World Cup on Austria\u2019s last-second goal",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/28/iran-narrowly-knocked-out-of-tumultuous-world-cup-on-austrias-last-second-goal/",
+      "pubDate": "Sun, 28 Jun 2026 04:27:49 +0000",
+      "description": "<p>\u201cWhat these young Iranian national team players have done should be recorded in history,\u201d Iran coach Amir Ghalenoei said. \u201cWhy? Because the host treated us in the worst possible way.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/28/iran-narrowly-knocked-out-of-tumultuous-world-cup-on-austrias-last-second-goal/\">Iran narrowly knocked out of tumultuous World Cup on Austria&#8217;s last-second goal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8968604682b0bf14bb10886352845a94",
+      "summary": [
+        "Iran's national team eliminated from World Cup by Austria's last-second goal.",
+        "Coach Amir Ghalenoei criticized host treatment of players during the tournament.",
+        "Local Iranian community in Boston reflects on team's historic performance despite challenges."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-06-28T15:20:09.463719+00:00"
+    "timestamp": "2026-06-28T17:16:54.113813+00:00"
   }
 }
