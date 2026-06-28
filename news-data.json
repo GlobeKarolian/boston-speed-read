@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-28T19:26:02.973356+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-28T21:05:53.103315+00:00",
+  "articles": [
+    {
+      "title": "Photos: Here are the best scenes from the Norway-France World Cup matchup at \u2018Boston Stadium\u2019",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/28/best-world-cup-photos-norway-france-boston-stadium/",
+      "pubDate": "Sun, 28 Jun 2026 20:59:46 +0000",
+      "description": "<p>Kylian Mbappe, Ousmane Demb\u00e9l\u00e9, and the Norwegian fans highlighted the iconic imagery.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/28/best-world-cup-photos-norway-france-boston-stadium/\">Photos: Here are the best scenes from the Norway-France World Cup matchup at \u2018Boston Stadium\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a4467fe9ecedd4e0bf33e550492a4380",
+      "summary": [
+        "Norway faced France in a World Cup match at Boston Stadium on June 28.",
+        "Kylian Mbappe and Ousmane Demb\u00e9l\u00e9 showcased their skills, thrilling local fans.",
+        "The event boosted local tourism and engagement in Boston's sports culture."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 prospects to watch during Bruins Development Camp",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/06/28/boston-bruins-rookies-nhl-draft-hockey-development-camp-dean-letourneau/",
+      "pubDate": "Sun, 28 Jun 2026 20:46:35 +0000",
+      "description": "<p>Dean Letourneau and Cooper Simpson are among the headlines in Boston's upcoming Development Camp. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/06/28/boston-bruins-rookies-nhl-draft-hockey-development-camp-dean-letourneau/\">5 prospects to watch during Bruins Development Camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "df885a270d26b63768d1796a7c8ac972",
+      "summary": [
+        "Bruins Development Camp features top prospects Dean Letourneau and Cooper Simpson.",
+        "Camp runs from June 28 to July 1, showcasing five key players.",
+        "Local fans can evaluate future talent for the Bruins' roster."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-28T19:26:02.973365+00:00"
+    "timestamp": "2026-06-28T21:05:53.103333+00:00"
   }
 }
