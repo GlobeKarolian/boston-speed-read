@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-06-29T21:37:45.661933+00:00",
+  "lastUpdated": "2026-06-29T23:01:03.407263+00:00",
   "articles": [
+    {
+      "title": "Car carrying family of 3 pulled from Seekonk River in Rhode Island",
+      "link": "https://www.boston.com/news/local-news/2026/06/29/car-carrying-family-of-3-pulled-from-seekonk-river-in-rhode-island/",
+      "pubDate": "Mon, 29 Jun 2026 22:23:36 +0000",
+      "description": "<p>The vehicle\u2019s three occupants are believed to still be inside.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/29/car-carrying-family-of-3-pulled-from-seekonk-river-in-rhode-island/\">Car carrying family of 3 pulled from Seekonk River in Rhode Island</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0f8ab520612cb8876c42e625ce869026",
+      "summary": [
+        "Rescue teams recovered a car from Seekonk River, Rhode Island, on June 29.",
+        "Three occupants, a family, are believed to still be inside the vehicle.",
+        "Local authorities are investigating the incident, raising safety concerns for nearby residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Jamaica Mi Hungry closes restaurant, shifts focus back to food truck",
       "link": "https://www.boston.com/food/food-news/2026/06/29/jamaica-mi-hungry-closes-returns-to-food-truck/",
@@ -635,19 +648,6 @@
         "The Great American State Fair opened this week in Boston, showcasing unique exhibits.",
         "Freedom 250, linked to Trump, organizes the fair's official events.",
         "Local residents can explore attractions like a dinosaur's rib cage at the fair."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Are Taylor Swift and Travis Kelce getting married at Madison Square Garden? What we know.",
-      "link": "https://www.boston.com/culture/entertainment/2026/06/27/are-taylor-swift-and-travis-kelce-getting-married-at-madison-square-garden-what-we-know/",
-      "pubDate": "Sat, 27 Jun 2026 14:01:47 +0000",
-      "description": "<p>Nothing has been publicly confirmed by the couple.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/06/27/are-taylor-swift-and-travis-kelce-getting-married-at-madison-square-garden-what-we-know/\">Are Taylor Swift and Travis Kelce getting married at Madison Square Garden? What we know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "34b419101108b07c9fc5d86d32306916",
-      "summary": [
-        "Taylor Swift and Travis Kelce have not confirmed marriage plans at Madison Square Garden.",
-        "Boston residents speculate on potential celebrity wedding events impacting local businesses.",
-        "Local fans express excitement over possible celebrity presence in the city."
       ],
       "hookType": "LOCAL_IMPACT"
     }
