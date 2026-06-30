@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-06-30T17:59:26.233251+00:00",
+  "lastUpdated": "2026-06-30T20:10:42.917472+00:00",
   "articles": [
+    {
+      "title": "Extreme heat is gripping New England. An ER doctor shares how to stay safe.",
+      "link": "https://www.boston.com/news/local-news/2026/06/30/how-to-survive-extreme-heat-er-doctor/",
+      "pubDate": "Tue, 30 Jun 2026 19:55:54 +0000",
+      "description": "<p>Another stretch of dangerous heat is settling over New England this week. Here's how to stay safe.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/30/how-to-survive-extreme-heat-er-doctor/\">Extreme heat is gripping New England. An ER doctor shares how to stay safe.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0bdd98313b3242f5e7cea44b1f5b789e",
+      "summary": [
+        "Extreme heat warnings issued for New England, affecting Boston residents this week.",
+        "ER doctors recommend hydration and avoiding outdoor activities during peak hours.",
+        "High temperatures could lead to increased emergency room visits for heat-related illnesses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Market Basket named a top employer in latest U.S. News & World Report list",
+      "link": "https://www.boston.com/news/business/2026/06/30/market-basket-named-top-employer-us-news-world-report/",
+      "pubDate": "Tue, 30 Jun 2026 19:50:53 +0000",
+      "description": "<p>The announcement comes at the heels of a high-profile corporate power struggle that saw former Market Basket CEO Arthur T. Demoulas ousted.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/06/30/market-basket-named-top-employer-us-news-world-report/\">Market Basket named a top employer in latest U.S. News &amp; World Report list</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a10eeaf55617bcafc0b1b662d2614ad5",
+      "summary": [
+        "Market Basket recognized as a top employer by U.S. News & World Report.",
+        "Recognition follows a corporate struggle leading to former CEO Arthur T. Demoulas's ousting.",
+        "This accolade may boost employee morale and attract job seekers in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Revolution still chasing permanent move for Matt Turner, possible Designated Player acquisition",
+      "link": "https://www.boston.com/sports/new-england-revolution/2026/06/30/revolution-matt-turner-designated-player/",
+      "pubDate": "Tue, 30 Jun 2026 19:00:59 +0000",
+      "description": "<p>New England unveiled its new-look front office, with Mass. native Chris Tierney becoming the team's general manager.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/06/30/revolution-matt-turner-designated-player/\">Revolution still chasing permanent move for Matt Turner, possible Designated Player acquisition</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2cdd7fff3536e952473a1cac698122d4",
+      "summary": [
+        "Update: Revolution still chasing permanent move for Matt T",
+        "Details: <p>New England unveiled its new-look front office,",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "One charged with OUI after woman allegedly fell from the roof of a moving car in South Boston",
+      "link": "https://www.boston.com/news/crime/2026/06/30/man-charged-oui-fall-from-car-south-boston/",
+      "pubDate": "Tue, 30 Jun 2026 18:46:22 +0000",
+      "description": "<p>Video of the incident \u201cclearly shows the female party sitting and smoking something on top of the vehicle as it was moving,\u201d police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/30/man-charged-oui-fall-from-car-south-boston/\">One charged with OUI after woman allegedly fell from the roof of a moving car in South Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9f64adf1533cad93bef73e41f0855ec4",
+      "summary": [
+        "A woman fell from the roof of a moving car in South Boston.",
+        "Police charged the driver with Operating Under the Influence (OUI).",
+        "The incident raises safety concerns for pedestrians and drivers in the area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston magazine names Cambridge\u2019s Fallow Kin the Best New Restaurant of 2026",
+      "link": "https://www.boston.com/food/food-news/2026/06/30/best-new-restaurant-fallow-kin-boston-magazine/",
+      "pubDate": "Tue, 30 Jun 2026 18:29:15 +0000",
+      "description": "<p>The Cambridge farm-to-table restaurant was named Best New Restaurant in the 2026 Best of Boston awards.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/06/30/best-new-restaurant-fallow-kin-boston-magazine/\">Boston magazine names Cambridge&#8217;s Fallow Kin the Best New Restaurant of 2026</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bc55c8025ea4dabd82d542b064cd9079",
+      "summary": [
+        "Boston magazine awarded Fallow Kin as Best New Restaurant in 2026.",
+        "The farm-to-table restaurant is located in Cambridge, enhancing local dining options.",
+        "This recognition may attract more visitors and boost local economy in Cambridge."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "What makes a \u2018heat dome\u2019 and what does it mean?",
       "link": "https://www.boston.com/weather/environment/2026/06/30/heat-dome-what-to-know/",
@@ -583,71 +648,6 @@
         "Motor coach bus caught fire on I-95 in New Hampshire on June 28.",
         "All occupants exited the bus safely, according to fire officials.",
         "Boston residents traveling to New Hampshire should be aware of potential delays."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "At least 117 dead dogs found in \u2018horrific scene\u2019 at California \u2018no-kill\u2019 shelter",
-      "link": "https://www.boston.com/news/national-news/2026/06/28/at-least-117-dead-dogs-found-in-horrific-scene-at-california-no-kill-shelter/",
-      "pubDate": "Mon, 29 Jun 2026 00:04:15 +0000",
-      "description": "<p>The sheriff\u2019s office said it started investigating the shelter after receiving \u201ccredible information\u201d in April \u201cregarding allegations of felony animal abuse, animal cruelty, fraud, and conspiracy.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/06/28/at-least-117-dead-dogs-found-in-horrific-scene-at-california-no-kill-shelter/\">At least 117 dead dogs found in &#8216;horrific scene&#8217; at California &#8216;no-kill&#8217; shelter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "016fd4b8ed8a2769701021cf545d2ee0",
-      "summary": [
-        "Sheriff's investigation revealed 117 dead dogs at a California no-kill shelter.",
-        "Investigation began in April 2023 due to allegations of animal abuse and fraud.",
-        "Boston residents may face increased scrutiny of local shelters and animal welfare practices."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "NASA races to save Swift telescope from falling back to Earth with daring rescue mission",
-      "link": "https://www.boston.com/news/national-news/2026/06/28/nasa-races-to-save-swift-telescope-from-falling-back-to-earth-with-daring-rescue-mission/",
-      "pubDate": "Sun, 28 Jun 2026 23:58:40 +0000",
-      "description": "<p>\u201cThis is the first American space robot to go up and do anything like this.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/06/28/nasa-races-to-save-swift-telescope-from-falling-back-to-earth-with-daring-rescue-mission/\">NASA races to save Swift telescope from falling back to Earth with daring rescue mission</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "50016fe87feb231d1e440f38eaddaebb",
-      "summary": [
-        "NASA initiates a rescue mission for the Swift telescope to prevent its re-entry into Earth's atmosphere.",
-        "The Swift telescope is the first American space robot designed for such a mission.",
-        "Boston scientists are closely monitoring the mission's success, impacting local space research initiatives."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cambridge man who threw cat out of window sentenced for animal cruelty",
-      "link": "https://www.boston.com/news/crime/2026/06/28/cambridge-man-who-threw-cat-out-of-window-sentenced-for-animal-cruelty/",
-      "pubDate": "Sun, 28 Jun 2026 23:53:56 +0000",
-      "description": "<p>The man admitted to stepping on the cat, grabbing it by the tail and neck, and slamming it on the ground head-first.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/28/cambridge-man-who-threw-cat-out-of-window-sentenced-for-animal-cruelty/\">Cambridge man who threw cat out of window sentenced for animal cruelty</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "171aa8bdeeb4c0f3121dbaa5eb5f115f",
-      "summary": [
-        "Cambridge man sentenced for animal cruelty after throwing cat from window.",
-        "The man admitted to violently handling the cat on June 28, 2026.",
-        "Local animal advocates emphasize the need for stricter animal protection laws."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Man killed on Boston highway after head-on crash with wrong-way driver",
-      "link": "https://www.boston.com/news/local-news/2026/06/28/man-killed-on-boston-highway-after-head-on-crash-with-wrong-way-driver/",
-      "pubDate": "Sun, 28 Jun 2026 23:14:15 +0000",
-      "description": "<p>State police say the 81-year-old driver had caused a crash involving a family of four before colliding head-on with the victim\u2019s vehicle. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/28/man-killed-on-boston-highway-after-head-on-crash-with-wrong-way-driver/\">Man killed on Boston highway after head-on crash with wrong-way driver</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "62e69792cf412fa05bf96a7fed1b634c",
-      "summary": [
-        "An 81-year-old wrong-way driver caused a head-on crash on a Boston highway.",
-        "The crash involved a family of four before colliding with the victim's vehicle.",
-        "Boston residents face increased concerns over highway safety following this tragic incident."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Jarren Duran had another confrontation with a fan at Fenway Park",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/06/28/boston-red-sox-jarren-duran-mlb-baseball-fan-heckling-incident-yankees/",
-      "pubDate": "Sun, 28 Jun 2026 22:42:00 +0000",
-      "description": "<p>\u201cI don\u2019t want to get into the details, just enough for us to say, \u2018Can you please get him out?'\u201d </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/28/boston-red-sox-jarren-duran-mlb-baseball-fan-heckling-incident-yankees/\">Jarren Duran had another confrontation with a fan at Fenway Park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "35eda7d7cbfb2ac51256cc474435c4af",
-      "summary": [
-        "Jarren Duran confronted a fan at Fenway Park during a recent game.",
-        "Duran requested security to remove the fan involved in the incident.",
-        "This incident raises concerns about player-fan interactions at Boston sporting events."
       ],
       "hookType": "LOCAL_IMPACT"
     }
