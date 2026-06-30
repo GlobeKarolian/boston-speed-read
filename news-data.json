@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-06-30T07:58:38.692418+00:00",
-  "articles": [],
+  "lastUpdated": "2026-06-30T11:16:29.391475+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: Built at the Bicentennial, a 1700s Colonial reproduction for $589k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/06/30/worthington-1700s-colonial-recreation/",
+      "pubDate": "Tue, 30 Jun 2026 11:00:00 +0000",
+      "description": "<p>George Washington would likely feel at home in this house, but he missed it by a couple centuries  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/06/30/worthington-1700s-colonial-recreation/\">Home of the Week: Built at the Bicentennial, a 1700s Colonial reproduction for $589k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "08ca95aa1ad57f80195b4335d5df92cb",
+      "summary": [
+        "Explore a 1700s Colonial reproduction home listed for $589k in Boston.",
+        "The house was built during the 1976 Bicentennial celebration.",
+        "Potential for historic charm appeals to local homebuyers seeking unique properties."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Are these Boston-area colleges really $100K a year? It\u2019s complicated.",
+      "link": "https://www.boston.com/news/business/2026/06/30/are-these-boston-area-colleges-really-100k-a-year-its-complicated/",
+      "pubDate": "Tue, 30 Jun 2026 10:34:30 +0000",
+      "description": "<p>While the total costs at some area colleges do exceed 100K, what students are actually paying varies significantly. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/06/30/are-these-boston-area-colleges-really-100k-a-year-its-complicated/\">Are these Boston-area colleges really $100K a year? It\u2019s complicated.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "deef0e8f38f6ec3c353b903b04425374",
+      "summary": [
+        "Boston-area college costs can exceed $100K, but actual student payments vary widely.",
+        "Some institutions, like Harvard and MIT, have total costs over $100K per year.",
+        "Students and families need to understand financial aid options to manage expenses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-06-30T07:58:38.692426+00:00"
+    "timestamp": "2026-06-30T11:16:29.391494+00:00"
   }
 }
