@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-07-01T09:54:56.877455+00:00",
+  "lastUpdated": "2026-07-01T12:36:28.258982+00:00",
   "articles": [
     {
-      "title": "Recent homes sales in Greater Boston (July 1)",
-      "link": "https://www.boston.com/real-estate/latest-sales/2026/07/01/recent-homes-sales-in-greater-boston-july-1/",
-      "pubDate": "Wed, 01 Jul 2026 09:00:00 +0000",
-      "description": "<p>ABINGTON 451 Lincoln St. One-family raised ranch, built in 1969, 2,667 square feet, 7 rooms, 3 bedrooms, 2 baths, on 47,462-square-foot lot. $875,000 294 Lincoln St. One-family Colonial, built in 1999, 1,632 square feet, 9 rooms, 3 bedrooms, 3 baths, on 29,602-square-foot lot. $785,000 42 Bayberry Road. One-family raised ranch, built in 1974, 1,439 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/07/01/recent-homes-sales-in-greater-boston-july-1/\">Recent homes sales in Greater Boston (July 1)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e2b1e1a501658950ea48d332d31fbbd1",
+      "title": "Educators balk as Merrimack, Suffolk plan to roll out 3-year bachelor\u2019s degrees",
+      "link": "https://www.boston.com/news/local-news/2026/07/01/educators-balk-as-merrimack-suffolk-plan-to-roll-out-3-year-bachelors-degrees/",
+      "pubDate": "Wed, 01 Jul 2026 11:47:12 +0000",
+      "description": "<p>Supporters say students will save time and money, while critics argue shorter programs could come at the expense of a well-rounded education. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/01/educators-balk-as-merrimack-suffolk-plan-to-roll-out-3-year-bachelors-degrees/\">Educators balk as Merrimack, Suffolk plan to roll out 3-year bachelor\u2019s degrees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4596977b4880623d0d41e945d73ccba4",
       "summary": [
-        "Abington's 451 Lincoln St. sold for $875,000, a raised ranch built in 1969.",
-        "294 Lincoln St. in Abington, a Colonial built in 1999, sold for $785,000.",
-        "Recent sales indicate a stable housing market in Greater Boston for families."
+        "Merrimack and Suffolk universities plan to introduce 3-year bachelor's degrees starting in 2026.",
+        "Supporters claim students could save up to 25% on tuition costs with accelerated programs.",
+        "Critics warn that shortened degrees may compromise educational quality for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "HGTV\u2019s Taniya Nayak talks designing a Bruin\u2019s home and new Boston restaurants",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/07/01/hgtv-taniya-nayak-bruins-home-boston-restaurants/",
+      "pubDate": "Wed, 01 Jul 2026 11:00:00 +0000",
+      "description": "<p>Nayak hosted HGTV's \"Rock the Block\" with Drew Lachey of 98 Degrees. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/07/01/hgtv-taniya-nayak-bruins-home-boston-restaurants/\">HGTV&#8217;s Taniya Nayak talks designing a Bruin&#8217;s home and new Boston restaurants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "94878eaba7672c49b9c937873f62df41",
+      "summary": [
+        "Taniya Nayak discussed designing a Bruins-themed home for local fans in Boston.",
+        "Nayak co-hosted HGTV's 'Rock the Block' with Drew Lachey, enhancing local visibility.",
+        "New restaurant openings in Boston aim to boost the local dining scene and economy."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-01T09:54:56.877476+00:00"
+    "timestamp": "2026-07-01T12:36:28.258993+00:00"
   }
 }
