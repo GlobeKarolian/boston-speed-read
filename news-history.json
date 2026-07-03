@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-03T03:36:31.352350+00:00",
+  "lastUpdated": "2026-07-03T07:24:10.150579+00:00",
   "articles": [
+    {
+      "title": "N.H. State Police announce unexpected death of 19-year veteran",
+      "link": "https://www.boston.com/news/local-news/2026/07/02/n-h-state-police-announce-unexpected-death-of-19-year-veteran/",
+      "pubDate": "Fri, 03 Jul 2026 03:48:47 +0000",
+      "description": "<p>\u201cOur hearts are broken by this loss,\u201d New Hampshire State Police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/02/n-h-state-police-announce-unexpected-death-of-19-year-veteran/\">N.H. State Police announce unexpected death of 19-year veteran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e51f4db6def04a0ac6ea57b632333ec5",
+      "summary": [
+        "New Hampshire State Police announced the unexpected death of a 19-year veteran officer.",
+        "The officer's passing has deeply affected the New Hampshire law enforcement community.",
+        "Boston residents may feel the impact of reduced cross-state collaboration in policing."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jaylen Brown says Celtics showed \u2018lack of respect\u2019 after trade to Sixers",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/07/02/jaylen-brown-says-celtics-showed-lack-of-respect-after-trade-to-sixers/",
+      "pubDate": "Fri, 03 Jul 2026 03:47:46 +0000",
+      "description": "<p>\"I think Brad [Stevens] is getting a lot of the criticism. I wasn\u2019t thrilled with the way he facilitated some of the conversations.\u201d </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/07/02/jaylen-brown-says-celtics-showed-lack-of-respect-after-trade-to-sixers/\">Jaylen Brown says Celtics showed \u2018lack of respect\u2019 after trade to Sixers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3c65393c1aed8e49d8bc2b7867b21e2d",
+      "summary": [
+        "Jaylen Brown criticized Celtics for lack of respect during trade talks with Sixers.",
+        "Brown expressed dissatisfaction with Brad Stevens' handling of conversations regarding the trade.",
+        "Celtics' management decisions may affect fan trust and team dynamics moving forward."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Hull man dies after apparent drowning at Nantasket Beach, officials say",
       "link": "https://www.boston.com/news/local-news/2026/07/02/hull-man-dies-after-apparent-drowning-at-nantasket-beach-officials-say/",
@@ -622,32 +648,6 @@
         "Judge investigates leak of sensitive information in Karen Read's wrongful death lawsuit.",
         "Proctor's information deemed 'sensitive' raises concerns about fairness in the legal process.",
         "Local residents worry about the implications for justice and transparency in Boston courts."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Authorities charge 4 adults after 16 children rescued from dilapidated Ohio home",
-      "link": "https://www.boston.com/news/crime/2026/07/01/authorities-charge-4-adults-after-16-children-rescued-from-dilapidated-ohio-home/",
-      "pubDate": "Wed, 01 Jul 2026 20:18:41 +0000",
-      "description": "<p>Some of the children discovered Tuesday were unable to speak and one \u2014 an 18 year-old who was developmentally disabled \u2014 could not even write her name, investigators said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/01/authorities-charge-4-adults-after-16-children-rescued-from-dilapidated-ohio-home/\">Authorities charge 4 adults after 16 children rescued from dilapidated Ohio home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6f8bfde2cec3504fb2e58f319eae0465",
-      "summary": [
-        "Authorities rescued 16 children from a dilapidated home in Ohio on Tuesday.",
-        "Four adults have been charged in connection with the children's neglect.",
-        "Boston residents should be aware of ongoing child welfare issues affecting vulnerable youth."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018I couldn\u2019t sleep because of it\u2019: Nats\u2019 Cade Cavalli discusses telling Willson Contreras to \u2018sit down, boy\u2019",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/01/i-couldnt-sleep-because-of-it-nats-cade-cavalli-discusses-telling-willson-contreras-to-sit-down-boy/",
-      "pubDate": "Wed, 01 Jul 2026 19:27:37 +0000",
-      "description": "<p>\"It\u2019ll never happen again.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/01/i-couldnt-sleep-because-of-it-nats-cade-cavalli-discusses-telling-willson-contreras-to-sit-down-boy/\">&#8216;I couldn\u2019t sleep because of it&#8217;: Nats&#8217; Cade Cavalli discusses telling Willson Contreras to &#8216;sit down, boy&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a3faf6a327b336387991c2be04d56cc5",
-      "summary": [
-        "Cade Cavalli apologized for his remarks to Willson Contreras during a game on July 1.",
-        "Cavalli expressed regret, stating, 'It\u2019ll never happen again,' reflecting on his actions.",
-        "Local fans are concerned about sportsmanship and player conduct in Boston's sports culture."
       ],
       "hookType": "LOCAL_IMPACT"
     }
