@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-07-03T19:27:36.027352+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-03T21:10:42.913016+00:00",
+  "articles": [
+    {
+      "title": "Taylor Swift and Travis Kelce\u2019s Madison Square Garden wedding starts soon",
+      "link": "https://www.boston.com/culture/entertainment/2026/07/03/taylor-swift-and-travis-kelces-madison-square-garden-wedding-starts-soon/",
+      "pubDate": "Fri, 03 Jul 2026 20:42:59 +0000",
+      "description": "<p>Taylor Swift and Travis Kelce's wedding is fast approaching at Madison Square Garden</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/07/03/taylor-swift-and-travis-kelces-madison-square-garden-wedding-starts-soon/\">Taylor Swift and Travis Kelce&rsquo;s Madison Square Garden wedding starts soon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4c766def0811136e559b7d41ecd77a5d",
+      "summary": [
+        "Taylor Swift and Travis Kelce's wedding is set at Madison Square Garden.",
+        "The event is expected to attract significant media attention and fans.",
+        "Local businesses may benefit from increased tourism during the wedding weekend."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Celtics, Neemias Queta reportedly agree to four-year extension",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/07/03/neemias-queta-celtics-contract-extension-report/",
+      "pubDate": "Fri, 03 Jul 2026 19:56:19 +0000",
+      "description": "<p>Boston picked up Queta's option for next season, and added four more years in a new extension through 2030-31.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/07/03/neemias-queta-celtics-contract-extension-report/\">Celtics, Neemias Queta reportedly agree to four-year extension</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7aac23cd9ca7ae3b618284f522e478cb",
+      "summary": [
+        "Celtics extend Neemias Queta's contract for four years through 2030-31.",
+        "Boston exercised Queta's option for the upcoming season, ensuring his presence next year.",
+        "Queta's extension strengthens the Celtics' roster, impacting local fan engagement and team performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-03T19:27:36.027366+00:00"
+    "timestamp": "2026-07-03T21:10:42.913034+00:00"
   }
 }
