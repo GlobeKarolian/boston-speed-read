@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-07-03T10:39:38.954166+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-03T14:14:24.072932+00:00",
+  "articles": [
+    {
+      "title": "Boston\u2019s biggest summer events collide over the next 8 days. Buckle up.",
+      "link": "https://www.boston.com/news/local-news/2026/07/03/bostons-busiest-week/",
+      "pubDate": "Fri, 03 Jul 2026 12:00:00 +0000",
+      "description": "<p>From the Pops fireworks to a World Cup quarterfinal and Sail Boston\u2019s Parade of Sail, Boston is about to cram its biggest summer moments into an eight-day stretch.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/03/bostons-busiest-week/\">Boston\u2019s biggest summer events collide over the next 8 days. Buckle up.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d0daa9fb11e5390df5d356db29c17142",
+      "summary": [
+        "Boston hosts major events including the Pops fireworks and World Cup quarterfinal from July 3-10.",
+        "Sail Boston's Parade of Sail will also take place, attracting thousands of visitors.",
+        "Residents should prepare for increased traffic and crowds during this busy eight-day period."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Union Oyster House turns 200: Inside America\u2019s oldest continuously operating restaurant",
+      "link": "https://www.boston.com/food/restaurants/2026/07/03/union-oyster-house-americas-oldest-restaurant/",
+      "pubDate": "Fri, 03 Jul 2026 12:00:00 +0000",
+      "description": "<p>From Revolutionary War-era Boston to John F. Kennedy\u2019s favorite booth, Union Oyster House has served oysters\u2014and history\u2014for 200 years.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/07/03/union-oyster-house-americas-oldest-restaurant/\">Union Oyster House turns 200: Inside America\u2019s oldest continuously operating restaurant</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45395a688be0687a5e70e71613210f02",
+      "summary": [
+        "Union Oyster House celebrates 200 years as America's oldest continuously operating restaurant.",
+        "The restaurant has served iconic figures, including John F. Kennedy, in its historic booths.",
+        "Local residents can enjoy a piece of Boston's history while dining on traditional oysters."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The presidents, celebrities, and famous regulars of Boston\u2019s Union Oyster House",
+      "link": "https://www.boston.com/food/celebs/2026/07/03/union-oyster-house-famous-guests/",
+      "pubDate": "Fri, 03 Jul 2026 12:00:00 +0000",
+      "description": "<p>From John F. Kennedy to Matt Damon, here\u2019s a look at the famous guests who\u2019ve dined at America's oldest continuously operating restaurant. </p>\n<p>The post <a href=\"https://www.boston.com/food/celebs/2026/07/03/union-oyster-house-famous-guests/\">The presidents, celebrities, and famous regulars of Boston&#8217;s Union Oyster House</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1b806b719082745915d22dc9851403d9",
+      "summary": [
+        "Union Oyster House, established in 1826, is America's oldest continuously operating restaurant.",
+        "Notable guests include John F. Kennedy and Matt Damon, highlighting Boston's rich cultural history.",
+        "The restaurant's legacy attracts tourists, benefiting local businesses and preserving Boston's culinary heritage."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-07-03T10:39:38.954176+00:00"
+    "timestamp": "2026-07-03T14:14:24.072953+00:00"
   }
 }
