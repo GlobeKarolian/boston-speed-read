@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-04T13:40:50.679757+00:00",
+  "lastUpdated": "2026-07-04T15:08:03.832602+00:00",
   "articles": [
+    {
+      "title": "Allstate names the most collision-prone cities in the U.S.",
+      "link": "https://www.boston.com/news/local-news/2026/07/04/allstate-names-the-most-collision-prone-cities-in-the-u-s/",
+      "pubDate": "Sat, 04 Jul 2026 13:47:26 +0000",
+      "description": "<p>Boston and two other Massachusetts cities landed on the list, along with Rhode Island's capital.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/04/allstate-names-the-most-collision-prone-cities-in-the-u-s/\">Allstate names the most collision-prone cities in the U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ffdfc19fda9f2f7958e113abd3149016",
+      "summary": [
+        "Boston ranked among the most collision-prone cities in the U.S. according to Allstate.",
+        "Two other Massachusetts cities also made the list, highlighting statewide traffic concerns.",
+        "Increased accidents may lead to higher insurance rates for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Falmouth man, 74, arrested after police say he led troopers on wrong-way, high-speed chase over Bourne Bridge",
       "link": "https://www.boston.com/news/local-news/2026/07/04/falmouth-man-74-arrested-after-police-say-he-led-troopers-on-wrong-way-high-speed-chase-over-bourne-bridge/",
@@ -635,19 +648,6 @@
         "Celtics' trade of Jaylen Brown receives 'F' grades from multiple sports outlets.",
         "Analysts criticize the deal as 'baffling' and detrimental to team dynamics.",
         "Local fans express disappointment over potential negative impact on the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "What led to the Celtics trading Jaylen Brown? Recapping a drama-filled offseason",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/07/02/boston-celtics-jaylen-brown-trade-nba-basketball-philadelphia-76ers-espn-trade-brad-stevens/",
-      "pubDate": "Thu, 02 Jul 2026 11:18:26 +0000",
-      "description": "<p>Jaylen Brown's final months with the Celtics were rife with trade rumors, Twitch streams, and back-and-forth beefs with media pundits. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/07/02/boston-celtics-jaylen-brown-trade-nba-basketball-philadelphia-76ers-espn-trade-brad-stevens/\">What led to the Celtics trading Jaylen Brown? Recapping a drama-filled offseason</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7a66e1855ca2a55cc7697bd12231a959",
-      "summary": [
-        "Celtics traded Jaylen Brown amid ongoing trade rumors and media conflicts.",
-        "Brown's departure follows a tumultuous offseason filled with public scrutiny.",
-        "The trade impacts Celtics' roster dynamics and fan expectations for the upcoming season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
