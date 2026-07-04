@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2026-07-04T03:29:19.197001+00:00",
+  "lastUpdated": "2026-07-04T13:40:50.679757+00:00",
   "articles": [
+    {
+      "title": "Falmouth man, 74, arrested after police say he led troopers on wrong-way, high-speed chase over Bourne Bridge",
+      "link": "https://www.boston.com/news/local-news/2026/07/04/falmouth-man-74-arrested-after-police-say-he-led-troopers-on-wrong-way-high-speed-chase-over-bourne-bridge/",
+      "pubDate": "Sat, 04 Jul 2026 12:31:44 +0000",
+      "description": "<p>Authorities say Armando Deleon led troopers on a 105 mph pursuit over the iconic Cape Cod bridge Thursday before barricading himself in his home.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/04/falmouth-man-74-arrested-after-police-say-he-led-troopers-on-wrong-way-high-speed-chase-over-bourne-bridge/\">Falmouth man, 74, arrested after police say he led troopers on wrong-way, high-speed chase over Bourne Bridge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9311730c7729cce0593fea25aeaaf230",
+      "summary": [
+        "Armando Deleon, 74, led police on a 105 mph chase over Bourne Bridge.",
+        "The incident occurred on Thursday, causing significant traffic disruptions in the area.",
+        "Deleon's actions raised safety concerns for local residents and travelers on Cape Cod."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump hails US exceptionalism before veering into darkly political speech",
+      "link": "https://www.boston.com/news/politics/2026/07/04/trump-hails-us-exceptionalism-before-veering-into-darkly-political-speech/",
+      "pubDate": "Sat, 04 Jul 2026 11:57:29 +0000",
+      "description": "<p>The president's speech capped an Independence Day eve that was otherwise most notable for a brutal heat wave the gripped much of the eastern portion of the country. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/04/trump-hails-us-exceptionalism-before-veering-into-darkly-political-speech/\">Trump hails US exceptionalism before veering into darkly political speech</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fcee74c8e62d569a19570132e953ceae",
+      "summary": [
+        "Trump's speech on July 3 emphasized US exceptionalism amid a brutal heat wave.",
+        "The eastern US experienced record-high temperatures, affecting Boston residents' Independence Day plans.",
+        "Local officials urged residents to stay hydrated and avoid outdoor activities during the heat."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Aroldis Chapman sets relief Ks record, Red Sox rookie Jake Bennett stifles Angels in 5-2 win",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/04/aroldis-chapman-sets-relief-ks-record-red-sox-rookie-jake-bennett-stifles-angels-in-5-2-win/",
+      "pubDate": "Sat, 04 Jul 2026 04:22:21 +0000",
+      "description": "<p>The 38-year-old Chapman broke Hoyt Wilhelm's record with his 1,364th career strikeout as a reliever when he fanned Denzer Guzman leading off the ninth. The knuckleballing Wilhelm last pitched in 1972.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/04/aroldis-chapman-sets-relief-ks-record-red-sox-rookie-jake-bennett-stifles-angels-in-5-2-win/\">Aroldis Chapman sets relief Ks record, Red Sox rookie Jake Bennett stifles Angels in 5-2 win</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6a73ea849520735d464f6d27ac5db94e",
+      "summary": [
+        "Aroldis Chapman sets new relief strikeout record with 1,364 Ks on July 4, 2026.",
+        "Red Sox rookie Jake Bennett contributes to 5-2 victory against the Angels.",
+        "Boston fans celebrate Chapman's historic achievement as the team improves playoff chances."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Magical World Cup ride of Vozinha and Cape Verde ends after pushing Messi and Argentina to the brink",
+      "link": "https://www.boston.com/sports/world-cup/2026/07/03/magical-world-cup-ride-of-vozinha-and-cape-verde-ends-after-pushing-messi-and-argentina-to-the-brink/",
+      "pubDate": "Sat, 04 Jul 2026 02:37:00 +0000",
+      "description": "<p>\u201cWe have dignified Cape Verde as a national team in most parts of the world,\u201d Vozinha said in Portuguese. \u201cToday, we fought on an equal footing against Argentina.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/07/03/magical-world-cup-ride-of-vozinha-and-cape-verde-ends-after-pushing-messi-and-argentina-to-the-brink/\">Magical World Cup ride of Vozinha and Cape Verde ends after pushing Messi and Argentina to the brink</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e8605faf607ac6b4aede27f5251d8ff",
+      "summary": [
+        "Cape Verde's national team showcased their talent against Argentina in the World Cup.",
+        "Goalkeeper Vozinha praised the team's performance, emphasizing their dignity on the world stage.",
+        "Boston's Cape Verdean community celebrates the team's achievement, fostering local pride and unity."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Boston police release new photos of alleged lemonade stand robber",
       "link": "https://www.boston.com/uncategorized/local-news/2026/07/03/boston-police-release-new-photos-of-alleged-lemonade-stand-robber/",
@@ -596,58 +648,6 @@
         "Celtics traded Jaylen Brown amid ongoing trade rumors and media conflicts.",
         "Brown's departure follows a tumultuous offseason filled with public scrutiny.",
         "The trade impacts Celtics' roster dynamics and fan expectations for the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "6 takeaways from the U.S. World Cup win over Bosnia-Herzegovina",
-      "link": "https://www.boston.com/sports/world-cup/2026/07/01/6-takeaways-from-the-u-s-world-cup-win-over-bosnia-herzegovina/",
-      "pubDate": "Thu, 02 Jul 2026 02:54:56 +0000",
-      "description": "<p>A clutch free kick goal in the second half helped the American men's team clinch a knockout round win for the first time since 2002.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/07/01/6-takeaways-from-the-u-s-world-cup-win-over-bosnia-herzegovina/\">6 takeaways from the U.S. World Cup win over Bosnia-Herzegovina</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4c7a7573ee8c0dd03eef68ba677064ec",
-      "summary": [
-        "U.S. men's soccer team wins knockout round for first time since 2002.",
-        "Boston residents celebrate as team advances in World Cup, boosting local sports enthusiasm.",
-        "Victory enhances community pride and engagement in upcoming World Cup events in 2026."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Brighton man charged in 2025 killing of 15-year-old in Allston",
-      "link": "https://www.boston.com/news/crime/2026/07/01/brighton-man-charged-in-2025-killing-of-15-year-old-in-allston/",
-      "pubDate": "Thu, 02 Jul 2026 02:36:07 +0000",
-      "description": "<p>The suspect is being held without bail, court records show. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/01/brighton-man-charged-in-2025-killing-of-15-year-old-in-allston/\">Brighton man charged in 2025 killing of 15-year-old in Allston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "80b61ea844c7e2d5b9ce1ff67761294b",
-      "summary": [
-        "Brighton man charged with killing a 15-year-old in Allston in 2025.",
-        "Suspect is currently held without bail, according to court records.",
-        "Incident raises concerns about youth violence in Boston neighborhoods."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Bus driver strike disrupts bus service in Merrimack Valley",
-      "link": "https://www.boston.com/news/local-news/2026/07/01/bus-driver-strike-halts-bus-service-in-merrimack-valley/",
-      "pubDate": "Thu, 02 Jul 2026 02:24:24 +0000",
-      "description": "<p>The transit authority says the restructure and new shifts intend to address increased demand for weekend services.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/01/bus-driver-strike-halts-bus-service-in-merrimack-valley/\">Bus driver strike disrupts bus service in Merrimack Valley</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c3f06e5a51b68feeaa61907a7b1a7671",
-      "summary": [
-        "Bus driver strike halts services in Merrimack Valley, affecting local commuters.",
-        "Transit authority plans new shifts to meet increased weekend demand.",
-        "Residents face disruptions in transportation options due to ongoing strike."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Charania: Jaylen Brown \u2018never requested a trade\u2019 from Celtics",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/07/01/boston-celtics-trade-jaylen-brown-request-philadelphia-76ers-nba-shams-espn-basketball-charania/",
-      "pubDate": "Thu, 02 Jul 2026 01:37:17 +0000",
-      "description": "<p>\"He never asked out of Boston. This was all the Celtics.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/07/01/boston-celtics-trade-jaylen-brown-request-philadelphia-76ers-nba-shams-espn-basketball-charania/\">Charania: Jaylen Brown \u2018never requested a trade\u2019 from Celtics</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e251dfd009745f103689e0ab1bd3adf5",
-      "summary": [
-        "Jaylen Brown did not request a trade from the Boston Celtics.",
-        "NBA insider Shams Charania confirmed this on July 1, 2026.",
-        "Celtics fans can feel reassured about Brown's commitment to the team."
       ],
       "hookType": "LOCAL_IMPACT"
     }
