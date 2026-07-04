@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T15:08:03.831861+00:00",
-  "articles": [
-    {
-      "title": "Allstate names the most collision-prone cities in the U.S.",
-      "link": "https://www.boston.com/news/local-news/2026/07/04/allstate-names-the-most-collision-prone-cities-in-the-u-s/",
-      "pubDate": "Sat, 04 Jul 2026 13:47:26 +0000",
-      "description": "<p>Boston and two other Massachusetts cities landed on the list, along with Rhode Island's capital.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/04/allstate-names-the-most-collision-prone-cities-in-the-u-s/\">Allstate names the most collision-prone cities in the U.S.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ffdfc19fda9f2f7958e113abd3149016",
-      "summary": [
-        "Boston ranked among the most collision-prone cities in the U.S. according to Allstate.",
-        "Two other Massachusetts cities also made the list, highlighting statewide traffic concerns.",
-        "Increased accidents may lead to higher insurance rates for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-07-04T17:09:14.735962+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-07-04T15:08:03.831881+00:00"
+    "timestamp": "2026-07-04T17:09:14.735971+00:00"
   }
 }
