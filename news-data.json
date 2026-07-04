@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-07-04T21:01:11.562992+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-04T23:00:05.869187+00:00",
+  "articles": [
+    {
+      "title": "Is Caleb Durbin\u2019s turnaround enough to solidify his future with the Red Sox?",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/04/mlb-red-sox-caleb-durbin-highlights/",
+      "pubDate": "Sat, 04 Jul 2026 22:26:42 +0000",
+      "description": "<p>Over the last 30 days, Durbin has the best OPS on the Red Sox.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/04/mlb-red-sox-caleb-durbin-highlights/\">Is Caleb Durbin\u2019s turnaround enough to solidify his future with the Red Sox?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ca51da83953924416071d13bdf6d2096",
+      "summary": [
+        "Caleb Durbin leads the Red Sox with the best OPS over the last 30 days.",
+        "His performance may influence his future with the team as the season progresses.",
+        "Boston residents could see increased excitement for the Red Sox if Durbin continues to excel."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "US striker Folarin Balogun says a yellow card, not red card, would have been \u2018fair\u2019 at the World Cup",
+      "link": "https://www.boston.com/sports/world-cup/2026/07/04/folarin-balogun-red-card-united-states-bosnia/",
+      "pubDate": "Sat, 04 Jul 2026 21:43:20 +0000",
+      "description": "<p>\u201cBut, for me personally, I think a yellow card would have been fair. It\u2019s something that\u2019s happened, so we have to move forward and I have to accept it.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/07/04/folarin-balogun-red-card-united-states-bosnia/\">US striker Folarin Balogun says a yellow card, not red card, would have been &lsquo;fair&rsquo; at the World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "221f852cde18c818de4af4c7a7dfd6cf",
+      "summary": [
+        "US striker Folarin Balogun discusses World Cup officiating decisions.",
+        "Balogun believes a yellow card would have been more appropriate than a red.",
+        "His comments reflect ongoing discussions about officiating standards affecting local soccer fans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox\u2019 Aroldis Chapman breaks MLB relief pitcher strikeout record in save vs. Angels",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/04/aroldis-chapman-relief-pitcher-strikeout-record-red-sox/",
+      "pubDate": "Sat, 04 Jul 2026 21:41:32 +0000",
+      "description": "<p>Chapman passed Hoyt Wilhelm for the most all-time strikeouts as a reliever with his 1,364th on Friday night.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/04/aroldis-chapman-relief-pitcher-strikeout-record-red-sox/\">Red Sox&#8217; Aroldis Chapman breaks MLB relief pitcher strikeout record in save vs. Angels</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "66d17d182251a09b9be88bebf47825ae",
+      "summary": [
+        "Aroldis Chapman set a new MLB record for relief pitcher strikeouts on July 4.",
+        "Chapman achieved his 1,364th strikeout, surpassing Hoyt Wilhelm's long-standing record.",
+        "This milestone boosts Red Sox pride and enhances local fan engagement in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Podcast series tells full story of Mark \u2018The Bird\u2019 Fidrych, Northborough\u2019s own who shot to national stardom 50 years ago",
+      "link": "https://www.boston.com/sports/media/2026/07/04/mark-fidrych-northborough-andy-baron-podcast/",
+      "pubDate": "Sat, 04 Jul 2026 21:22:24 +0000",
+      "description": "<p>Fidrych captured the nation\u2019s fancy in 1976 with quirks that were both endearing and authentic.</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/07/04/mark-fidrych-northborough-andy-baron-podcast/\">Podcast series tells full story of Mark &#8216;The Bird&#8217; Fidrych, Northborough\u2019s own who shot to national stardom 50 years ago</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "981ae9b2eb1e7d61fe1005d4e74b3718",
+      "summary": [
+        "Podcast series explores Mark 'The Bird' Fidrych's rise to fame in 1976.",
+        "Fidrych, from Northborough, captivated fans with his unique playing style and personality.",
+        "Local residents celebrate Fidrych's legacy as a cultural icon in Massachusetts."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-07-04T21:01:11.563000+00:00"
+    "timestamp": "2026-07-04T23:00:05.869206+00:00"
   }
 }
