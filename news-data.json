@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-07-05T07:29:50.906678+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-05T10:18:46.428380+00:00",
+  "articles": [
+    {
+      "title": "Trump mixes patriotism with partisanship as he celebrates America\u2019s \u2018joyous\u2019 250th anniversary",
+      "link": "https://www.boston.com/culture/politics/2026/07/05/trump-mixes-patriotism-with-partisanship-as-he-celebrates-americas-joyous-250th-anniversary/",
+      "pubDate": "Sun, 05 Jul 2026 05:11:18 +0000",
+      "description": "<p>\u201cWe will always be on top,\u201d Trump said. \"We will never let our country fall. We will always be the best.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/politics/2026/07/05/trump-mixes-patriotism-with-partisanship-as-he-celebrates-americas-joyous-250th-anniversary/\">Trump mixes patriotism with partisanship as he celebrates America&#8217;s &#8216;joyous&#8217; 250th anniversary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cdff568f8554e67d49c297f140dbbfc0",
+      "summary": [
+        "Trump celebrated America's 250th anniversary with a speech emphasizing patriotism and national pride.",
+        "The event highlighted a partisan divide, impacting local political discussions in Boston.",
+        "Residents may see increased political engagement as the anniversary sparks national pride."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-05T07:29:50.906687+00:00"
+    "timestamp": "2026-07-05T10:18:46.428399+00:00"
   }
 }
