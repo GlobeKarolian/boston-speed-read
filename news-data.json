@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-07-05T10:18:46.428380+00:00",
+  "lastUpdated": "2026-07-05T13:47:39.956697+00:00",
   "articles": [
     {
-      "title": "Trump mixes patriotism with partisanship as he celebrates America\u2019s \u2018joyous\u2019 250th anniversary",
-      "link": "https://www.boston.com/culture/politics/2026/07/05/trump-mixes-patriotism-with-partisanship-as-he-celebrates-americas-joyous-250th-anniversary/",
-      "pubDate": "Sun, 05 Jul 2026 05:11:18 +0000",
-      "description": "<p>\u201cWe will always be on top,\u201d Trump said. \"We will never let our country fall. We will always be the best.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/culture/politics/2026/07/05/trump-mixes-patriotism-with-partisanship-as-he-celebrates-americas-joyous-250th-anniversary/\">Trump mixes patriotism with partisanship as he celebrates America&#8217;s &#8216;joyous&#8217; 250th anniversary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cdff568f8554e67d49c297f140dbbfc0",
+      "title": "Cambridge man killed in early-morning shooting, investigators say",
+      "link": "https://www.boston.com/news/crime/2026/07/05/cambridge-man-killed-in-early-morning-shooting-investigators-say/",
+      "pubDate": "Sun, 05 Jul 2026 12:58:07 +0000",
+      "description": "<p>At around 5:30 a.m., the man was found dead near the intersection of Broadway and Norfolk Street in Cambridge.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/05/cambridge-man-killed-in-early-morning-shooting-investigators-say/\">Cambridge man killed in early-morning shooting, investigators say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9236eace650c207789212aeab2fbbe4c",
       "summary": [
-        "Trump celebrated America's 250th anniversary with a speech emphasizing patriotism and national pride.",
-        "The event highlighted a partisan divide, impacting local political discussions in Boston.",
-        "Residents may see increased political engagement as the anniversary sparks national pride."
+        "Cambridge man found dead from shooting at 5:30 a.m. near Broadway and Norfolk Street.",
+        "Investigation ongoing as police seek witnesses to the early-morning incident.",
+        "Residents concerned about safety following this violent event in their neighborhood."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "All-Star snub helps fuel Red Sox pitcher Sonny Gray in 8-1 win over Angels",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/05/all-star-snub-helps-fuel-red-sox-pitcher-sonny-gray-in-8-1-win-over-angels/",
+      "pubDate": "Sun, 05 Jul 2026 12:12:48 +0000",
+      "description": "<p> \u201cThings happen, so I\u2019m still holding out hope for a couple more guys on the team who I feel are deserving.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/05/all-star-snub-helps-fuel-red-sox-pitcher-sonny-gray-in-8-1-win-over-angels/\">All-Star snub helps fuel Red Sox pitcher Sonny Gray in 8-1 win over Angels</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ee6569cbbc0843e510150f4b4bfc21f1",
+      "summary": [
+        "Red Sox pitcher Sonny Gray led the team to an 8-1 victory over the Angels.",
+        "Gray expressed hope for teammates deserving All-Star recognition after his own snub.",
+        "This win boosts team morale as they aim for playoff contention in 2026."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "New England Aquarium trainer joins effort to save endangered penguin chicks in South Africa",
+      "link": "https://www.boston.com/news/local-news/2026/07/05/new-england-aquarium-trainer-joins-effort-to-save-endangered-penguin-chicks-in-south-africa/",
+      "pubDate": "Sun, 05 Jul 2026 11:54:08 +0000",
+      "description": "<p>Scientists warn the species is nearing extinction within the next decade, but conservationists say there's still hope.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/05/new-england-aquarium-trainer-joins-effort-to-save-endangered-penguin-chicks-in-south-africa/\">New England Aquarium trainer joins effort to save endangered penguin chicks in South Africa</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "070bfa54c8d402bb0723b7cd1d07d167",
+      "summary": [
+        "New England Aquarium trainer collaborates on penguin conservation efforts in South Africa.",
+        "Scientists predict extinction for the species within the next decade without intervention.",
+        "Boston residents can support local conservation initiatives to help endangered wildlife."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-07-05T10:18:46.428399+00:00"
+    "timestamp": "2026-07-05T13:47:39.956717+00:00"
   }
 }
