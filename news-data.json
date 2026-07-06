@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-07-06T08:24:29.524699+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-06T13:49:52.857583+00:00",
+  "articles": [
+    {
+      "title": "Hampton Beach shooting suspect dead; two injured",
+      "link": "https://www.boston.com/news/crime/2026/07/06/hampton-beach-shooting/",
+      "pubDate": "Mon, 06 Jul 2026 13:24:29 +0000",
+      "description": "<p>Two people were injured, and another died after gunfire broke out early Sunday morning in Hampton Beach. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/06/hampton-beach-shooting/\">Hampton Beach shooting suspect dead; two injured</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f123c3bf3354f1f244a18b57fb510123",
+      "summary": [
+        "Gunfire erupted early Sunday morning, injuring two and killing the suspect at Hampton Beach.",
+        "The incident occurred on July 6, 2026, raising safety concerns for local residents.",
+        "Local authorities are increasing patrols to enhance safety in the Hampton Beach area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Across the Great Divide: Every Noah Kahan song ranked from worst to best",
+      "link": "https://www.boston.com/culture/music/2026/07/06/across-the-great-divide-every-noah-kahan-song-ranked-from-worst-to-best/",
+      "pubDate": "Mon, 06 Jul 2026 11:23:56 +0000",
+      "description": "<p>Ahead of the Vermont singer-songwriter\u2019s summer shows at Fenway Park, here\u2019s every Noah Kahan song ranked.</p>\n<p>The post <a href=\"https://www.boston.com/culture/music/2026/07/06/across-the-great-divide-every-noah-kahan-song-ranked-from-worst-to-best/\">Across the Great Divide: Every Noah Kahan song ranked from worst to best</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3a6ca8cace296d4c68c93e5998a697a0",
+      "summary": [
+        "Noah Kahan will perform at Fenway Park this summer, attracting local fans.",
+        "The article ranks all of Kahan's songs, providing insights for concertgoers.",
+        "Residents can prepare for the shows by familiarizing themselves with Kahan's music."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Historic island house on 25 acres in Maine hits market",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/07/06/gilbert-head-long-island-georgetown-maine/",
+      "pubDate": "Mon, 06 Jul 2026 11:00:00 +0000",
+      "description": "<p>It's accessible only by boat and is being sold furnished. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/07/06/gilbert-head-long-island-georgetown-maine/\">Historic island house on 25 acres in Maine hits market</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d24874148c069cc6c445c428a419d20a",
+      "summary": [
+        "Historic island house on 25 acres in Maine is now for sale.",
+        "The property is accessible only by boat and comes furnished.",
+        "Boston residents may consider it for vacation or investment opportunities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox pitcher Ranger Suarez leaves 7-5 win over Angels because of injury",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/06/red-sox-pitcher-ranger-suarez-leaves-7-5-win-over-angels-because-of-injury/",
+      "pubDate": "Mon, 06 Jul 2026 05:43:01 +0000",
+      "description": "<p>\u201cThe training staff wants to see how I feel tomorrow and the next day, and then we\u2019ll make a decision on where we go from there.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/06/red-sox-pitcher-ranger-suarez-leaves-7-5-win-over-angels-because-of-injury/\">Red Sox pitcher Ranger Suarez leaves 7-5 win over Angels because of injury</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cf490601b035b55ce20c63831965484",
+      "summary": [
+        "Ranger Suarez exited the game after the Red Sox's 7-5 victory over the Angels.",
+        "Suarez's injury status will be evaluated by the training staff in the coming days.",
+        "His potential absence could affect the Red Sox's pitching rotation in upcoming games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "England hands Mexico its first World Cup loss at Estadio Azteca, winning 3-2 to reach quarterfinals",
+      "link": "https://www.boston.com/sports/world-cup/2026/07/06/england-mexico-world-cup-estadio-azteca/",
+      "pubDate": "Mon, 06 Jul 2026 05:14:29 +0000",
+      "description": "<p>\u201cThe best night of my England career.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/07/06/england-mexico-world-cup-estadio-azteca/\">England hands Mexico its first World Cup loss at Estadio Azteca, winning 3-2 to reach quarterfinals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b92566a9b7df86e95a811cbee600e8ff",
+      "summary": [
+        "England defeated Mexico 3-2 at Estadio Azteca, marking Mexico's first World Cup loss.",
+        "This victory advances England to the quarterfinals of the World Cup.",
+        "Local fans in Boston celebrate England's success, boosting interest in upcoming matches."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-07-06T08:24:29.524708+00:00"
+    "timestamp": "2026-07-06T13:49:52.857602+00:00"
   }
 }
