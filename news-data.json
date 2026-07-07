@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-07-07T07:42:11.806460+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-07T11:11:13.515970+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: Built in 2026, a modern three-bedroom condo in Newton for $1.6m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/07/28-wilson-circle-condo-newton/",
+      "pubDate": "Tue, 07 Jul 2026 11:00:00 +0000",
+      "description": "<p>The unit has a private outdoor patio  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/07/28-wilson-circle-condo-newton/\">Home of the Week: Built in 2026, a modern three-bedroom condo in Newton for $1.6m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c8f21e3f805b188f6db28bc0ed5aa3cd",
+      "summary": [
+        "Explore a modern three-bedroom condo in Newton listed for $1.6 million.",
+        "The condo features a private outdoor patio for residents' enjoyment.",
+        "This property reflects the growing luxury real estate market in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-07T07:42:11.806468+00:00"
+    "timestamp": "2026-07-07T11:11:13.515994+00:00"
   }
 }
