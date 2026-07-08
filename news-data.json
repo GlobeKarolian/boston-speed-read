@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-07-08T06:30:52.872458+00:00",
+  "lastUpdated": "2026-07-08T10:21:47.426876+00:00",
   "articles": [
     {
-      "title": "Foxborough files counterclaim to Patriots, Kraft Group\u2019s lawsuit over annual stadium licensing fees",
-      "link": "https://www.boston.com/news/local-news/2026/07/07/foxborough-files-counterclaim-to-patriots-kraft-groups-lawsuit-over-annual-stadium-licensing-fees/",
-      "pubDate": "Wed, 08 Jul 2026 03:45:53 +0000",
-      "description": "<p>The town argues Kraft Sports is attempting to avoid contractual obligations by characterizing public safety reimbursements as unlawful licensing fees. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/07/foxborough-files-counterclaim-to-patriots-kraft-groups-lawsuit-over-annual-stadium-licensing-fees/\">Foxborough files counterclaim to Patriots, Kraft Group\u2019s lawsuit over annual stadium licensing fees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "44963c1e46e62e6e74b72c02a26d168c",
+      "title": "Recent homes sales in Greater Boston (July 8)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/07/08/recent-homes-sales-in-greater-boston-july-8/",
+      "pubDate": "Wed, 08 Jul 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 9 Karen Lane. One-family raised ranch, built in 1973, 1,652 square feet, 6 rooms, 3 bedrooms, 2 baths, on 20,019-square-foot lot. $750,000 77 Clapp St. One-family ranch, built in 1952, 1,012 square feet, 6 rooms, 3 bedrooms, 1 bath, on 6,914-square-foot lot. $525,000 ACTON 44 Wood Lane. One-family Colonial, built in 2009, 2,594 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/07/08/recent-homes-sales-in-greater-boston-july-8/\">Recent homes sales in Greater Boston (July 8)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b2fbf7bb91182e4732c3cc9c443084ed",
       "summary": [
-        "Foxborough counters Patriots' lawsuit over stadium licensing fees on July 7, 2026.",
-        "Town claims Kraft Sports mischaracterizes public safety reimbursements as unlawful licensing fees.",
-        "Potential financial implications for local taxpayers if Kraft avoids contractual obligations."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Monasterio and Rafaela homer to power Red Sox to an 8-1 win over White Sox",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/07/monasterio-and-rafaela-homer-to-power-red-sox-to-an-8-1-win-over-white-sox/",
-      "pubDate": "Wed, 08 Jul 2026 03:22:29 +0000",
-      "description": "<p>Boston (41-48) has won four in a row and nine of its last 11 to close within seven games of .500 for the first time since May 23.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/07/monasterio-and-rafaela-homer-to-power-red-sox-to-an-8-1-win-over-white-sox/\">Monasterio and Rafaela homer to power Red Sox to an 8-1 win over White Sox</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8d1cbe090bf7cd0b624e1ee2012d8414",
-      "summary": [
-        "Red Sox defeated White Sox 8-1 on July 7, 2023.",
-        "Monasterio and Rafaela each hit home runs in the game.",
-        "Boston's record improves to 41-48, closing in on .500."
+        "Recent home sales in Greater Boston highlight diverse properties and prices.",
+        "Abington's 9 Karen Lane sold for $750,000; 77 Clapp St. for $525,000.",
+        "Rising home prices may affect affordability for Boston residents seeking housing."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-08T06:30:52.872475+00:00"
+    "timestamp": "2026-07-08T10:21:47.426897+00:00"
   }
 }
