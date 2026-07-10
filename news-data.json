@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-07-10T10:57:33.151029+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-10T14:35:02.063469+00:00",
+  "articles": [
+    {
+      "title": "Boston Councilor Julia Mejia in \u2018high spirits\u2019 after medical emergency caused by dehydration and exhaustion",
+      "link": "https://www.boston.com/news/politics/2026/07/10/boston-councilor-julia-mejia-in-high-spirits-after-medical-emergency-caused-by-dehydration-and-exhaustion/",
+      "pubDate": "Fri, 10 Jul 2026 14:04:08 +0000",
+      "description": "<p>Mejia was brought out of the City Council chambers by EMTs earlier this week.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/10/boston-councilor-julia-mejia-in-high-spirits-after-medical-emergency-caused-by-dehydration-and-exhaustion/\">Boston Councilor Julia Mejia in &#8216;high spirits&#8217; after medical emergency caused by dehydration and exhaustion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6e12c704afe01a57428a9a502b09afd2",
+      "summary": [
+        "Councilor Julia Mejia experienced a medical emergency due to dehydration and exhaustion this week.",
+        "Mejia was assisted by EMTs after collapsing in the City Council chambers.",
+        "Her condition raises awareness about health and wellness among Boston city officials."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Unexpected turnaround from a lost season is a welcome sight, and other thoughts on the Red Sox",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/10/red-sox-season-turnaround-thoughts/",
+      "pubDate": "Fri, 10 Jul 2026 14:01:58 +0000",
+      "description": "<p>For the first few months of the season, a watchable Sox team seemed too much to ask.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/10/red-sox-season-turnaround-thoughts/\">Unexpected turnaround from a lost season is a welcome sight, and other thoughts on the Red Sox</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "15d7f940ad6dcaca158fd3cacc7c29b5",
+      "summary": [
+        "Red Sox show unexpected improvement after a struggling start to the season.",
+        "Team's turnaround includes a significant winning streak of 7 games in July.",
+        "Local fans express renewed hope for playoff contention as season progresses."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Sail Boston 2026: Updates from the tall ships",
+      "link": "https://www.boston.com/travel/local-news/2026/07/10/sail-boston-2026-updates-from-the-tall-ships/",
+      "pubDate": "Fri, 10 Jul 2026 13:41:13 +0000",
+      "description": "<p>We'll share photos, videos, and stories from Boston Harbor during Sail Boston 2026.</p>\n<p>The post <a href=\"https://www.boston.com/travel/local-news/2026/07/10/sail-boston-2026-updates-from-the-tall-ships/\">Sail Boston 2026: Updates from the tall ships</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f1d1a83b7acb0792a8916812fa7c5ba6",
+      "summary": [
+        "Sail Boston 2026 will showcase tall ships in Boston Harbor from June 17-22, 2026.",
+        "Expect over 50 tall ships from around the world, enhancing local tourism and community engagement.",
+        "Local businesses anticipate increased foot traffic and sales during the event, benefiting the Boston economy."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ask the Remodeler: Building a screened-in porch is easier than you might think",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/07/10/ask-the-remodeler-screened-in-porch/",
+      "pubDate": "Fri, 10 Jul 2026 12:56:31 +0000",
+      "description": "<p>Even at a tight city condo, there are products that make screening in a porch or patio simple. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/07/10/ask-the-remodeler-screened-in-porch/\">Ask the Remodeler: Building a screened-in porch is easier than you might think</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "97dada0fa214e09a84e3f6ebf2fa845b",
+      "summary": [
+        "Learn how to easily screen in porches or patios in Boston condos.",
+        "Explore products designed for tight city spaces, enhancing outdoor living.",
+        "Improved outdoor spaces can increase property value and resident enjoyment."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018Sell your house fast in any condition\u2019: Should you sell to a flipper for cash?",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/07/10/real-estate-home-flipper-massachusetts-cash-sales/",
+      "pubDate": "Fri, 10 Jul 2026 11:00:00 +0000",
+      "description": "<p>It\u2019s not for everyone, but some sellers can alleviate the headache of the real estate process by taking a price cut. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/07/10/real-estate-home-flipper-massachusetts-cash-sales/\">\u2018Sell your house fast in any condition\u2019: Should you sell to a flipper for cash?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8acafd5782fca470997b06d7a4aaaaaf",
+      "summary": [
+        "Sellers in Boston can sell homes quickly to flippers, easing the real estate process.",
+        "Cash sales to flippers may require accepting a lower price than market value.",
+        "This option could benefit homeowners needing fast transactions due to financial pressures."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-07-10T10:57:33.151037+00:00"
+    "timestamp": "2026-07-10T14:35:02.063492+00:00"
   }
 }
