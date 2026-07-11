@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-11T02:53:58.278513+00:00",
+  "lastUpdated": "2026-07-11T06:16:51.538196+00:00",
   "articles": [
+    {
+      "title": "Red Sox win 7th straight game just hours after landing in New York",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/11/red-sox-mets-sonny-gray/",
+      "pubDate": "Sat, 11 Jul 2026 04:00:55 +0000",
+      "description": "<p>Sonny Gray once again led the way on the bump for Boston.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/11/red-sox-mets-sonny-gray/\">Red Sox win 7th straight game just hours after landing in New York</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "70d91a29f8906307d1f114a1bdf0275d",
+      "summary": [
+        "Red Sox secured their 7th consecutive victory against the Mets in New York.",
+        "Sonny Gray excelled on the mound, contributing to the team's winning streak.",
+        "This win boosts Boston's morale and playoff hopes among local fans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Graham Platner withdraws from Maine Senate race, kicking off Democrats\u2019 quest for nominee",
       "link": "https://www.boston.com/news/local-news/2026/07/10/graham-platner-withdraws-from-maine-senate-race-kicking-off-democrats-quest-for-nominee/",
@@ -635,19 +648,6 @@
         "Scientists captured footage of a great white shark near Block Island.",
         "The shark was located near a dead humpback whale on July 9, 2026.",
         "This sighting may indicate increased shark activity near Boston's coastal waters."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Iconic Christmas Tree Shops signs are headed to auction",
-      "link": "https://www.boston.com/news/local-news/2026/07/09/iconic-christmas-tree-shops-signs-are-headed-to-auction/",
-      "pubDate": "Thu, 09 Jul 2026 18:45:38 +0000",
-      "description": "<p>The signs from the former Hyannis store will be sold to benefit Habitat for Humanity as the building is transformed into a Best Buy.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/09/iconic-christmas-tree-shops-signs-are-headed-to-auction/\">Iconic Christmas Tree Shops signs are headed to auction</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "10dd8273e4e5c94cd9e896191f56fdea",
-      "summary": [
-        "Iconic Christmas Tree Shops signs will be auctioned to benefit Habitat for Humanity.",
-        "The former Hyannis store is being transformed into a Best Buy.",
-        "Local residents can participate in the auction to support community housing initiatives."
       ],
       "hookType": "LOCAL_IMPACT"
     }
