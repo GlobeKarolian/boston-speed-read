@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-07-11T14:57:13.588940+00:00",
+  "lastUpdated": "2026-07-11T17:01:09.941457+00:00",
   "articles": [
     {
-      "title": "Host of ratings and viewership data show this World Cup to be a winner across the United States",
-      "link": "https://www.boston.com/sports/media/2026/07/11/world-cup-2026-ratings/",
-      "pubDate": "Sat, 11 Jul 2026 14:42:52 +0000",
-      "description": "<p>The joy and entertainment that the World Cup has delivered in a broad way has been reflected in staggering viewership numbers for its broadcast partners.</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/07/11/world-cup-2026-ratings/\">Host of ratings and viewership data show this World Cup to be a winner across the United States</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c7abe427df16f1871141639a94c50469",
+      "title": "Red Sox face all too familiar question heading into MLB trade deadline: Buy or sell?",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/11/mlb-red-sox-trade-deadline-buy-or-sell/",
+      "pubDate": "Sat, 11 Jul 2026 16:19:06 +0000",
+      "description": "<p>Boston's recent string of wins has it within striking distance of a wildcard spot.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/11/mlb-red-sox-trade-deadline-buy-or-sell/\">Red Sox face all too familiar question heading into MLB trade deadline: Buy or sell?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e6043800ff5f8b08f1d7ad98c974a4b6",
       "summary": [
-        "World Cup viewership numbers surged, reflecting strong interest in Boston and nationwide.",
-        "Broadcast partners reported record ratings, with millions tuning in across the United States.",
-        "Increased local engagement and community events expected as Boston residents celebrate the tournament."
+        "Red Sox's recent wins put them in contention for a wildcard spot.",
+        "The MLB trade deadline is approaching on July 31, 2023.",
+        "Boston residents are eager to see if the team will strengthen its roster."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Healey announces tax credit awards to build almost 700 new homes in six Mass. cities",
-      "link": "https://www.boston.com/news/local-news/2026/07/11/healey-announces-tax-credit-awards-to-build-almost-700-new-homes-in-six-mass-cities/",
-      "pubDate": "Sat, 11 Jul 2026 14:24:37 +0000",
-      "description": "<p>Historic buildings and former mills are set to become hundreds of new residences in Fall River, Lawrence, Lowell, Pittsfield, Taunton, and Worcester.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/11/healey-announces-tax-credit-awards-to-build-almost-700-new-homes-in-six-mass-cities/\">Healey announces tax credit awards to build almost 700 new homes in six Mass. cities</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0faeca12f4a66f8f3d9358a9bd000333",
+      "title": "Review & Setlist: Shakira delivers high-energy nostalgia and new beginnings at TD Garden",
+      "link": "https://www.boston.com/culture/concert-reviews/2026/07/11/review-setlist-shakira-delivers-high-energy-nostalgia-and-new-beginnings-at-td-garden/",
+      "pubDate": "Sat, 11 Jul 2026 15:49:23 +0000",
+      "description": "<p>After a seven-year hiatus from releasing music, Shakira turned her difficult phase of life into an LP that won the 2025 Grammy for Best Latin Pop Album.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/07/11/review-setlist-shakira-delivers-high-energy-nostalgia-and-new-beginnings-at-td-garden/\">Review &amp; Setlist: Shakira delivers high-energy nostalgia and new beginnings at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1503ef421504e8ce788b1e68370e8a87",
       "summary": [
-        "Healey announces tax credits to develop nearly 700 new homes across six Massachusetts cities.",
-        "Historic buildings in Fall River, Lawrence, Lowell, Pittsfield, Taunton, and Worcester will be transformed.",
-        "This initiative aims to address housing shortages and improve local communities for residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "FBI arrests Mass. man in armed bank robberies in NH, NJ",
-      "link": "https://www.boston.com/uncategorized/local-news/2026/07/11/fbi-arrests-mass-man-in-armed-bank-robberies-in-nh-nj/",
-      "pubDate": "Sat, 11 Jul 2026 13:41:42 +0000",
-      "description": "<p>A SWAT team arrested Joseph Sawyer, 52, in upstate New York on Wednesday in connection with two bank robberies last month. </p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/local-news/2026/07/11/fbi-arrests-mass-man-in-armed-bank-robberies-in-nh-nj/\">FBI arrests Mass. man in armed bank robberies in NH, NJ</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b47e512116865791fa31e9c858dfd7a0",
-      "summary": [
-        "FBI arrested Joseph Sawyer, 52, for armed bank robberies in New Hampshire and New Jersey.",
-        "Sawyer was apprehended by a SWAT team in upstate New York on Wednesday.",
-        "The arrests may enhance safety for Boston residents concerned about regional crime."
+        "Shakira performed at TD Garden, marking her return after a seven-year music hiatus.",
+        "Her new LP won the 2025 Grammy for Best Latin Pop Album, showcasing her resilience.",
+        "Boston residents enjoyed a high-energy concert, celebrating Shakira's nostalgia and new beginnings."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-11T14:57:13.588956+00:00"
+    "timestamp": "2026-07-11T17:01:09.941479+00:00"
   }
 }
