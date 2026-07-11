@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-11T20:53:53.585811+00:00",
+  "lastUpdated": "2026-07-11T22:53:39.790275+00:00",
   "articles": [
+    {
+      "title": "Photos: Stunning views of Sail Boston 250",
+      "link": "https://www.boston.com/community/events/2026/07/11/photos-stunning-views-of-sail-boston-250/",
+      "pubDate": "Sat, 11 Jul 2026 21:31:18 +0000",
+      "description": "<p>More than 60 international tall ships and military vessels sailed into Boston for the six-day event. </p>\n<p>The post <a href=\"https://www.boston.com/community/events/2026/07/11/photos-stunning-views-of-sail-boston-250/\">Photos: Stunning views of Sail Boston 250</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c8d757dd9075b088ead0aa86899197d1",
+      "summary": [
+        "Over 60 tall ships and military vessels participated in Sail Boston 250 event.",
+        "Event lasted six days, attracting thousands of visitors to the waterfront.",
+        "Local businesses benefited from increased foot traffic and tourism during the event."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Red Sox draft SS Jake Schaffner with No. 20 pick",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/07/11/red-sox-jake-schaffner-mlb-draft-pick/",
@@ -635,19 +648,6 @@
         "West Nile Virus detected in a mosquito sample in Jamaica Plain.",
         "Officials report low transmission risk; residents advised to take precautions.",
         "Health officials recommend using insect repellent and eliminating standing water."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston man accused of making homemade explosives, threats on MBTA Commuter Rail",
-      "link": "https://www.boston.com/news/crime/2026/07/09/boston-man-accused-of-making-homemade-explosives-threats-on-mbta-commuter-rail/",
-      "pubDate": "Fri, 10 Jul 2026 01:15:07 +0000",
-      "description": "<p>A witness reported the man making threats said he was inspired by the Jan. 6, 2021, attacks at the U.S. Capitol.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/09/boston-man-accused-of-making-homemade-explosives-threats-on-mbta-commuter-rail/\">Boston man accused of making homemade explosives, threats on MBTA Commuter Rail</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "82d8132d1eb114ee7d6fc2235a5be16f",
-      "summary": [
-        "Boston man arrested for making homemade explosives and threatening MBTA Commuter Rail services.",
-        "Witness reported threats inspired by the January 6, 2021 Capitol attacks.",
-        "Increased security measures expected on MBTA following this incident."
       ],
       "hookType": "LOCAL_IMPACT"
     }
