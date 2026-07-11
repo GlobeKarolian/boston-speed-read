@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-07-11T19:09:10.288414+00:00",
+  "lastUpdated": "2026-07-11T20:53:53.584990+00:00",
   "articles": [
     {
-      "title": "Brayan Bello named midseason AL \u2018Cy Yuk\u2019 winner by The Athletic for poor first-half performance",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/11/brayan-bello-red-sox-cy-yuk/",
-      "pubDate": "Sat, 11 Jul 2026 17:39:33 +0000",
-      "description": "<p>\u201cHow could he not win this thing?\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/11/brayan-bello-red-sox-cy-yuk/\">Brayan Bello named midseason AL \u2018Cy Yuk\u2019 winner by The Athletic for poor first-half performance</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "cb7204fe7456ceb14b4337d259e1cef3",
+      "title": "Red Sox draft SS Jake Schaffner with No. 20 pick",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/11/red-sox-jake-schaffner-mlb-draft-pick/",
+      "pubDate": "Sat, 11 Jul 2026 20:21:23 +0000",
+      "description": "<p>MLB.com tabbed Schaffner the 75th-ranked prospect in the 2026 draft.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/11/red-sox-jake-schaffner-mlb-draft-pick/\">Red Sox draft SS Jake Schaffner with No. 20 pick</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "35f249bb77ee178f91c4d4a61ca9a55b",
       "summary": [
-        "Brayan Bello received the midseason AL 'Cy Yuk' award for poor performance.",
-        "Bello's struggles included a 5.78 ERA in the first half of 2023.",
-        "This recognition raises concerns about the Red Sox pitching staff's effectiveness."
+        "Red Sox selected shortstop Jake Schaffner with the 20th overall pick in the 2026 draft.",
+        "Schaffner is ranked 75th among prospects, according to MLB.com.",
+        "His addition aims to strengthen the Red Sox's infield for future seasons."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Sail Boston 2026: The Grand Parade of Sail is rooted in rich history and tradition in the Commonwealth",
+      "link": "https://www.boston.com/news/local-news/2026/07/11/sail-boston-2026-grand-parade-of-sail-history/",
+      "pubDate": "Sat, 11 Jul 2026 19:43:16 +0000",
+      "description": "<p>The Grand Parade of Sail gave onlookers a chance to marvel at timelessly crafted boats that fueled generations of trade and travel.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/11/sail-boston-2026-grand-parade-of-sail-history/\">Sail Boston 2026: The Grand Parade of Sail is rooted in rich history and tradition in the Commonwealth</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7baa63bdd3526f72a3d456b3e593caaa",
+      "summary": [
+        "Sail Boston 2026 will showcase historic boats in a Grand Parade of Sail.",
+        "The event celebrates maritime history, attracting thousands of local spectators.",
+        "Residents can expect increased tourism and local business engagement during the event."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-11T19:09:10.288433+00:00"
+    "timestamp": "2026-07-11T20:53:53.585047+00:00"
   }
 }
