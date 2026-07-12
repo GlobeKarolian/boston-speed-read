@@ -1,23 +1,75 @@
 {
-  "lastUpdated": "2026-07-12T20:54:12.274809+00:00",
+  "lastUpdated": "2026-07-12T22:53:59.694357+00:00",
   "articles": [
     {
-      "title": "Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness",
-      "link": "https://www.boston.com/news/politics/2026/07/12/us-sen-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/",
-      "pubDate": "Sun, 12 Jul 2026 11:03:34 +0000",
-      "description": "<p>A noted hawk, Graham was one of the most influential figures in Washington on foreign affairs and he advised Trump on matters such as the\u00a0Iran\u00a0war and Russia.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/12/us-sen-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/\">Sen. Lindsey Graham, a close Trump ally and foreign policy hawk, dies after a brief illness</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3aa8bf77d948e36360d80470a5b6816d",
+      "title": "2 killed in crash on Route 6 near Westport-Dartmouth town line",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/2-killed-in-crash-on-route-6-near-westport-dartmouth-town-line/",
+      "pubDate": "Sun, 12 Jul 2026 22:34:11 +0000",
+      "description": "<p>The two occupants in the other car sustained non-life-threatening injuries, authorities said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/2-killed-in-crash-on-route-6-near-westport-dartmouth-town-line/\">2 killed in crash on Route 6 near Westport-Dartmouth town line</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "38d08ddc55a17170722f3119749a701b",
       "summary": [
-        "Sen. Lindsey Graham died on July 12, 2026, after a brief illness.",
-        "Graham was a key advisor to Trump on foreign policy issues, influencing U.S. relations.",
-        "His death may impact local political dynamics and foreign policy discussions in Boston."
+        "Two individuals died in a crash on Route 6 near Westport-Dartmouth town line.",
+        "The other vehicle's occupants suffered non-life-threatening injuries, according to authorities.",
+        "Local residents may face increased traffic disruptions and safety concerns on Route 6."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Bus driver strike ends in Merrimack Valley after nearly 2 weeks",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/bus-driver-strike-ends-in-merrimack-valley-after-nearly-2-weeks/",
+      "pubDate": "Sun, 12 Jul 2026 22:08:50 +0000",
+      "description": "<p>A one-year agreement gives workers a $4 hourly raise, preserves Saturday overtime, and returns fare-free bus service, the union says. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/bus-driver-strike-ends-in-merrimack-valley-after-nearly-2-weeks/\">Bus driver strike ends in Merrimack Valley after nearly 2 weeks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cb93c4f0eb4db129985bc300bdc8174",
+      "summary": [
+        "Bus driver strike in Merrimack Valley ends after nearly two weeks.",
+        "Workers receive a $4 hourly raise and maintain Saturday overtime.",
+        "Fare-free bus service returns, benefiting local commuters in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition",
+      "link": "https://www.boston.com/news/politics/2026/07/12/mcconnell-says-a-fall-led-to-his-hospitalization-breaking-weeks-of-silence-about-health-condition/",
+      "pubDate": "Sun, 12 Jul 2026 22:02:30 +0000",
+      "description": "<p>McConnell, 84, said in a statement that he also suffered a case of mild pneumonia and has undergone a battery of tests as doctors try to determine what led to his fall. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/12/mcconnell-says-a-fall-led-to-his-hospitalization-breaking-weeks-of-silence-about-health-condition/\">McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "76d085d1690ffdec19f6777e3a21617b",
+      "summary": [
+        "Senate Minority Leader Mitch McConnell, 84, hospitalized after a fall and mild pneumonia.",
+        "McConnell underwent multiple tests to determine the cause of his fall.",
+        "His health status may impact legislative decisions affecting Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 takeaways as red-hot Red Sox rally past Mets, 3-2, for 9th straight victory",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/12/5-takeaways-as-red-hot-red-sox-rally-past-mets-3-2-for-9th-straight-victory/",
+      "pubDate": "Sun, 12 Jul 2026 21:51:58 +0000",
+      "description": "<p>This team simply doesn't know how to lose.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/12/5-takeaways-as-red-hot-red-sox-rally-past-mets-3-2-for-9th-straight-victory/\">5 takeaways as red-hot Red Sox rally past Mets, 3-2, for 9th straight victory</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0a818590801c83a1bd7daa577d64a3e0",
+      "summary": [
+        "Red Sox secured their 9th consecutive victory against the Mets on July 12.",
+        "The team rallied to win 3-2, showcasing strong performance.",
+        "Local fans can expect increased excitement as the team continues its winning streak."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Lindor error leads to Red Sox comeback win over Mets; Boston completes 9-0 trip",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/12/lindor-error-leads-to-red-sox-comeback-win-over-mets-boston-completes-9-0-trip/",
+      "pubDate": "Sun, 12 Jul 2026 21:14:48 +0000",
+      "description": "<p>Boston (46-48) completed its second 9-0 trip in franchise history after one from July 29 to Aug. 7, 1977. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/12/lindor-error-leads-to-red-sox-comeback-win-over-mets-boston-completes-9-0-trip/\">Lindor error leads to Red Sox comeback win over Mets; Boston completes 9-0 trip</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "862dc53f9bcd381c050c7d2835b5d8d9",
+      "summary": [
+        "Red Sox secured a comeback win over Mets on July 12, 2026.",
+        "Boston achieved a rare 9-0 road trip, matching a record from 1977.",
+        "This victory boosts team morale and playoff hopes for local fans."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-07-12T20:54:12.274829+00:00"
+    "timestamp": "2026-07-12T22:53:59.694377+00:00"
   }
 }
