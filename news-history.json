@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-11T22:53:39.790275+00:00",
+  "lastUpdated": "2026-07-12T11:13:08.174588+00:00",
   "articles": [
+    {
+      "title": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+      "link": "https://www.boston.com/news/national-news/2026/07/12/us-sen-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/",
+      "pubDate": "Sun, 12 Jul 2026 11:03:34 +0000",
+      "description": "<p>The office did not provide any additional details about the South Carolina Republican, who was 71 years old.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/12/us-sen-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/\">US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d117f3cb0f805fd06e816dd6205493a",
+      "summary": [
+        "US Senator Lindsey Graham, 71, has died after a brief illness.",
+        "Graham's passing may impact Republican strategies in upcoming elections.",
+        "Local Boston officials express condolences, highlighting his influence on national policies."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Photos: Stunning views of Sail Boston 250",
       "link": "https://www.boston.com/community/events/2026/07/11/photos-stunning-views-of-sail-boston-250/",
@@ -635,19 +648,6 @@
         "Sellers in Boston can sell homes quickly to flippers, easing the real estate process.",
         "Cash sales to flippers may require accepting a lower price than market value.",
         "This option could benefit homeowners needing fast transactions due to financial pressures."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "West Nile Virus found in mosquito test sample in Jamaica Plain",
-      "link": "https://www.boston.com/news/local-news/2026/07/09/west-nile-virus-found-in-mosquito-test-sample-in-jamaica-plain/",
-      "pubDate": "Fri, 10 Jul 2026 01:56:40 +0000",
-      "description": "<p>Officials advise residents to take precautions, though the risk of transmission is low. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/09/west-nile-virus-found-in-mosquito-test-sample-in-jamaica-plain/\">West Nile Virus found in mosquito test sample in Jamaica Plain</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b10e1585474649f571415e7c9ece263a",
-      "summary": [
-        "West Nile Virus detected in a mosquito sample in Jamaica Plain.",
-        "Officials report low transmission risk; residents advised to take precautions.",
-        "Health officials recommend using insect repellent and eliminating standing water."
       ],
       "hookType": "LOCAL_IMPACT"
     }

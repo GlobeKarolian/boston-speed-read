@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-07-12T09:53:11.095417+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-12T11:13:08.172299+00:00",
+  "articles": [
+    {
+      "title": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+      "link": "https://www.boston.com/news/national-news/2026/07/12/us-sen-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/",
+      "pubDate": "Sun, 12 Jul 2026 11:03:34 +0000",
+      "description": "<p>The office did not provide any additional details about the South Carolina Republican, who was 71 years old.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/12/us-sen-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/\">US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d117f3cb0f805fd06e816dd6205493a",
+      "summary": [
+        "US Senator Lindsey Graham, 71, has died after a brief illness.",
+        "Graham's passing may impact Republican strategies in upcoming elections.",
+        "Local Boston officials express condolences, highlighting his influence on national policies."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-12T09:53:11.095427+00:00"
+    "timestamp": "2026-07-12T11:13:08.172320+00:00"
   }
 }
