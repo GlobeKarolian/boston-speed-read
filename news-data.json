@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2026-07-12T13:27:35.859414+00:00",
+  "lastUpdated": "2026-07-12T14:59:41.917090+00:00",
   "articles": [
     {
-      "title": "Mexican builder fatally shot by an ICE officer is mourned",
-      "link": "https://www.boston.com/news/national-news/2026/07/12/mexican-builder-fatally-shot-by-an-ice-officer-is-mourned/",
-      "pubDate": "Sun, 12 Jul 2026 12:35:39 +0000",
-      "description": "<p>\u201cWe are not at war. Lorenzo Salgado Araujo was not a casualty. He was a human being who was murdered by our government.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/12/mexican-builder-fatally-shot-by-an-ice-officer-is-mourned/\">Mexican builder fatally shot by an ICE officer is mourned</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "691cbc50279a396ad301bb4f3ed6650f",
+      "title": "AG: Mass. to receive $730,000 from Cash App in alleged deception settlement",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/ag-mass-to-receive-730000-from-cash-app-in-alleged-deception-settlement/",
+      "pubDate": "Sun, 12 Jul 2026 14:09:14 +0000",
+      "description": "<p>The company that owns Cash App allegedly not only failed to protect users from fraud but enabled it through promotions.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/ag-mass-to-receive-730000-from-cash-app-in-alleged-deception-settlement/\">AG: Mass. to receive $730,000 from Cash App in alleged deception settlement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9df1ecefe9f0d9d2f329a87a7cda72f0",
       "summary": [
-        "Lorenzo Salgado Araujo was fatally shot by an ICE officer in Boston.",
-        "Community members mourn Araujo, emphasizing his humanity and calling for justice.",
-        "The incident raises concerns about immigration enforcement practices in local neighborhoods."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Tyngsborough man may face charges after allegedly taking police boat, posing as officer",
-      "link": "https://www.boston.com/uncategorized/local-news/2026/07/12/tyngsborough-man-may-face-charges-after-allegedly-taking-police-boat-posing-as-officer/",
-      "pubDate": "Sun, 12 Jul 2026 11:32:26 +0000",
-      "description": "<p>Authorities say the man operated a police boat with the emergency lights activated.</p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/local-news/2026/07/12/tyngsborough-man-may-face-charges-after-allegedly-taking-police-boat-posing-as-officer/\">Tyngsborough man may face charges after allegedly taking police boat, posing as officer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2adccc25c3e3cec77eef69ca62fef856",
-      "summary": [
-        "Tyngsborough man allegedly took a police boat and activated emergency lights.",
-        "The incident may lead to criminal charges against the unidentified man.",
-        "Local authorities emphasize the seriousness of impersonating law enforcement."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "US attacks Iran over ship being hit in Strait of Hormuz",
-      "link": "https://www.boston.com/news/world-news/2026/07/12/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz/",
-      "pubDate": "Sun, 12 Jul 2026 11:13:01 +0000",
-      "description": "<p>Tehran lashes out again at Gulf Arab states</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/07/12/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz/\">US attacks Iran over ship being hit in Strait of Hormuz</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bdfe95c7af6f4e338e2d8ffb5510cda5",
-      "summary": [
-        "US military launched strikes against Iran following ship attacks in the Strait of Hormuz.",
-        "Tensions escalate as Iran threatens Gulf Arab states, impacting regional security.",
-        "Boston residents may face increased gas prices due to potential disruptions in oil supply."
+        "Massachusetts will receive $730,000 from Cash App for alleged user fraud deception.",
+        "The settlement addresses claims of Cash App promoting features that enabled fraud.",
+        "Boston residents may benefit from increased consumer protection measures following this settlement."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-12T13:27:35.859436+00:00"
+    "timestamp": "2026-07-12T14:59:41.917110+00:00"
   }
 }

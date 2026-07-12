@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-12T13:27:35.860147+00:00",
+  "lastUpdated": "2026-07-12T14:59:41.917834+00:00",
   "articles": [
+    {
+      "title": "AG: Mass. to receive $730,000 from Cash App in alleged deception settlement",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/ag-mass-to-receive-730000-from-cash-app-in-alleged-deception-settlement/",
+      "pubDate": "Sun, 12 Jul 2026 14:09:14 +0000",
+      "description": "<p>The company that owns Cash App allegedly not only failed to protect users from fraud but enabled it through promotions.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/ag-mass-to-receive-730000-from-cash-app-in-alleged-deception-settlement/\">AG: Mass. to receive $730,000 from Cash App in alleged deception settlement</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9df1ecefe9f0d9d2f329a87a7cda72f0",
+      "summary": [
+        "Massachusetts will receive $730,000 from Cash App for alleged user fraud deception.",
+        "The settlement addresses claims of Cash App promoting features that enabled fraud.",
+        "Boston residents may benefit from increased consumer protection measures following this settlement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Mexican builder fatally shot by an ICE officer is mourned",
       "link": "https://www.boston.com/news/national-news/2026/07/12/mexican-builder-fatally-shot-by-an-ice-officer-is-mourned/",
@@ -635,19 +648,6 @@
         "Councilor Julia Mejia experienced a medical emergency due to dehydration and exhaustion this week.",
         "Mejia was assisted by EMTs after collapsing in the City Council chambers.",
         "Her condition raises awareness about health and wellness among Boston city officials."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Unexpected turnaround from a lost season is a welcome sight, and other thoughts on the Red Sox",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/10/red-sox-season-turnaround-thoughts/",
-      "pubDate": "Fri, 10 Jul 2026 14:01:58 +0000",
-      "description": "<p>For the first few months of the season, a watchable Sox team seemed too much to ask.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/10/red-sox-season-turnaround-thoughts/\">Unexpected turnaround from a lost season is a welcome sight, and other thoughts on the Red Sox</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "15d7f940ad6dcaca158fd3cacc7c29b5",
-      "summary": [
-        "Red Sox show unexpected improvement after a struggling start to the season.",
-        "Team's turnaround includes a significant winning streak of 7 games in July.",
-        "Local fans express renewed hope for playoff contention as season progresses."
       ],
       "hookType": "LOCAL_IMPACT"
     }
