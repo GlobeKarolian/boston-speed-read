@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-12T22:53:59.695234+00:00",
+  "lastUpdated": "2026-07-13T03:21:32.118098+00:00",
   "articles": [
+    {
+      "title": "Man arrested for alleged assault of rideshare passenger at Logan Airport",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/",
+      "pubDate": "Mon, 13 Jul 2026 01:46:52 +0000",
+      "description": "<p>The Lowell man is charged with assault and battery with a dangerous weapon causing serious bodily injury, State Police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/\">Man arrested for alleged assault of rideshare passenger at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b469ccda6570bc8e0a073e1dce555452",
+      "summary": [
+        "Lowell man arrested for assaulting a rideshare passenger at Logan Airport.",
+        "Charged with assault and battery causing serious bodily injury, according to State Police.",
+        "Incident raises safety concerns for rideshare users at Boston's Logan Airport."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "WBZ meteorologist returns after taking 3 years away to care for her son with cancer",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/wbz-meteorologist-returns-after-taking-3-years-away-to-care-for-her-son-with-cancer/",
+      "pubDate": "Mon, 13 Jul 2026 00:42:15 +0000",
+      "description": "<p>\u201cI finally feel like I'm back at a place where I can sort of let him begin to thrive and let myself thrive.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/wbz-meteorologist-returns-after-taking-3-years-away-to-care-for-her-son-with-cancer/\">WBZ meteorologist returns after taking 3 years away to care for her son with cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "20b1684422b3fb44af85b362ac867f7b",
+      "summary": [
+        "WBZ meteorologist returns after a three-year hiatus to care for her son.",
+        "She expressed relief at being able to focus on both her son and her career.",
+        "Her return enhances local weather coverage for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "2 killed in crash on Route 6 near Westport-Dartmouth town line",
       "link": "https://www.boston.com/news/local-news/2026/07/12/2-killed-in-crash-on-route-6-near-westport-dartmouth-town-line/",
@@ -622,32 +648,6 @@
         "Trump denied disaster relief for Massachusetts following a February blizzard.",
         "The blizzard dropped 3 feet of snow, straining municipal budgets.",
         "Governor Healey plans to appeal the decision to secure funding."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Downtown Boston could see two new apartment towers, with 900-plus units",
-      "link": "https://www.boston.com/real-estate/the-boston-globe/2026/07/10/downtown-boston-could-see-two-new-apartment-towers-with-900-plus-units/",
-      "pubDate": "Fri, 10 Jul 2026 17:29:45 +0000",
-      "description": "<p>Midwood has planned a development at Bromfield and Washington since 2008.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/the-boston-globe/2026/07/10/downtown-boston-could-see-two-new-apartment-towers-with-900-plus-units/\">Downtown Boston could see two new apartment towers, with 900-plus units</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "41ffc005270986afdffdc3e84570711f",
-      "summary": [
-        "Midwood plans to develop two new apartment towers in Downtown Boston.",
-        "The project will add over 900 residential units to the area.",
-        "Construction aims to address Boston's housing shortage and boost local economy."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Local obituary: Donato Ventura, aka Danny V., longtime Boston Herald high school sports reporter",
-      "link": "https://www.boston.com/news/massachusetts-obituaries/2026/07/10/local-obituary-donato-ventura-aka-danny-v-longtime-boston-herald-high-school-sports-reporter/",
-      "pubDate": "Fri, 10 Jul 2026 17:04:44 +0000",
-      "description": "<p>He was 66.</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2026/07/10/local-obituary-donato-ventura-aka-danny-v-longtime-boston-herald-high-school-sports-reporter/\">Local obituary: Donato Ventura, aka Danny V., longtime Boston Herald high school sports reporter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "59fa42845ac1c1934442ab7e4a554bb6",
-      "summary": [
-        "Donato Ventura, known as Danny V., passed away at age 66.",
-        "He was a longtime sports reporter for the Boston Herald, covering high school athletics.",
-        "His contributions shaped local sports journalism, impacting Boston's youth sports community."
       ],
       "hookType": "LOCAL_IMPACT"
     }
