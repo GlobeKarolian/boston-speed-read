@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-13T03:21:32.118098+00:00",
+  "lastUpdated": "2026-07-13T06:57:19.799661+00:00",
   "articles": [
+    {
+      "title": "Body found in river near Brockton water treatment plant, DA says",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/body-found-in-river-near-brockton-department-of-public-works-da-says/",
+      "pubDate": "Mon, 13 Jul 2026 03:49:39 +0000",
+      "description": "<p>Authorities said they have not been able to identify the deceased man. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/body-found-in-river-near-brockton-department-of-public-works-da-says/\">Body found in river near Brockton water treatment plant, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "006792ccf31e7d56730502fbeef77728",
+      "summary": [
+        "Authorities discovered a body in the river near Brockton water treatment plant.",
+        "The deceased man has not yet been identified by officials.",
+        "This incident raises concerns about safety and water quality for nearby residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Man arrested for alleged assault of rideshare passenger at Logan Airport",
       "link": "https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/",
@@ -635,19 +648,6 @@
         "A 62-year-old woman from Fairfield, CT, was charged after a deadly crash on Nantucket.",
         "The incident occurred late last month, raising concerns about pedestrian safety.",
         "Boston residents may face increased scrutiny on traffic regulations following this tragic event."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Trump denies Mass. disaster relief for Feb. blizzard; Healey says she will appeal",
-      "link": "https://www.boston.com/news/local-news/2026/07/10/trump-denies-mass-disaster-relief-for-feb-blizzard-healey-says-she-will-appeal/",
-      "pubDate": "Fri, 10 Jul 2026 18:06:19 +0000",
-      "description": "<p>After a blizzard dumped 3 feet of snow on parts of Massachusetts, snow removal costs weighed on state agencies and municipal budgets.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/10/trump-denies-mass-disaster-relief-for-feb-blizzard-healey-says-she-will-appeal/\">Trump denies Mass. disaster relief for Feb. blizzard; Healey says she will appeal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f3178fd5b3658703d53ea5ce36b221b0",
-      "summary": [
-        "Trump denied disaster relief for Massachusetts following a February blizzard.",
-        "The blizzard dropped 3 feet of snow, straining municipal budgets.",
-        "Governor Healey plans to appeal the decision to secure funding."
       ],
       "hookType": "LOCAL_IMPACT"
     }

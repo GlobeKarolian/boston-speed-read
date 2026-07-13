@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-07-13T03:21:32.117315+00:00",
+  "lastUpdated": "2026-07-13T06:57:19.798946+00:00",
   "articles": [
     {
-      "title": "Man arrested for alleged assault of rideshare passenger at Logan Airport",
-      "link": "https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/",
-      "pubDate": "Mon, 13 Jul 2026 01:46:52 +0000",
-      "description": "<p>The Lowell man is charged with assault and battery with a dangerous weapon causing serious bodily injury, State Police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/\">Man arrested for alleged assault of rideshare passenger at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b469ccda6570bc8e0a073e1dce555452",
+      "title": "Body found in river near Brockton water treatment plant, DA says",
+      "link": "https://www.boston.com/news/local-news/2026/07/12/body-found-in-river-near-brockton-department-of-public-works-da-says/",
+      "pubDate": "Mon, 13 Jul 2026 03:49:39 +0000",
+      "description": "<p>Authorities said they have not been able to identify the deceased man. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/body-found-in-river-near-brockton-department-of-public-works-da-says/\">Body found in river near Brockton water treatment plant, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "006792ccf31e7d56730502fbeef77728",
       "summary": [
-        "Lowell man arrested for assaulting a rideshare passenger at Logan Airport.",
-        "Charged with assault and battery causing serious bodily injury, according to State Police.",
-        "Incident raises safety concerns for rideshare users at Boston's Logan Airport."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "WBZ meteorologist returns after taking 3 years away to care for her son with cancer",
-      "link": "https://www.boston.com/news/local-news/2026/07/12/wbz-meteorologist-returns-after-taking-3-years-away-to-care-for-her-son-with-cancer/",
-      "pubDate": "Mon, 13 Jul 2026 00:42:15 +0000",
-      "description": "<p>\u201cI finally feel like I'm back at a place where I can sort of let him begin to thrive and let myself thrive.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/wbz-meteorologist-returns-after-taking-3-years-away-to-care-for-her-son-with-cancer/\">WBZ meteorologist returns after taking 3 years away to care for her son with cancer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "20b1684422b3fb44af85b362ac867f7b",
-      "summary": [
-        "WBZ meteorologist returns after a three-year hiatus to care for her son.",
-        "She expressed relief at being able to focus on both her son and her career.",
-        "Her return enhances local weather coverage for Boston residents."
+        "Authorities discovered a body in the river near Brockton water treatment plant.",
+        "The deceased man has not yet been identified by officials.",
+        "This incident raises concerns about safety and water quality for nearby residents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-13T03:21:32.117335+00:00"
+    "timestamp": "2026-07-13T06:57:19.798966+00:00"
   }
 }
