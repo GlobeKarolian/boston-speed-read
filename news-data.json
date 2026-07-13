@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-07-13T11:15:10.796050+00:00",
+  "lastUpdated": "2026-07-13T14:41:27.011995+00:00",
   "articles": [
     {
-      "title": "One of the few remaining privately owned Berkshire \u2018cottages\u2019 sold for $4 million",
-      "link": "https://www.boston.com/real-estate/luxury-homes/2026/07/13/pine-needles-berkshires-cottage-lenox/",
-      "pubDate": "Mon, 13 Jul 2026 11:00:00 +0000",
-      "description": "<p>Many of the grand 19th and early 20th-century Berkshires cottages are now part of resorts like Miraval and Canyon Ranch.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/07/13/pine-needles-berkshires-cottage-lenox/\">One of the few remaining privately owned Berkshire \u2018cottages\u2019 sold for $4 million</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c70761e3608d0038dae61732ec4ab6a6",
+      "title": "Nurses are back at Brigham and Women\u2019s Hospital, but the fight is not over",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/nurses-are-back-at-brigham-and-womens-hospital-but-the-fight-is-not-over/",
+      "pubDate": "Mon, 13 Jul 2026 14:26:05 +0000",
+      "description": "<p>The historic nursing strike is over, but negotiations between the union and the hospital over wages and better workplace protections continue.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/nurses-are-back-at-brigham-and-womens-hospital-but-the-fight-is-not-over/\">Nurses are back at Brigham and Women&#8217;s Hospital, but the fight is not over</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "06e7c9472bee748c4674dd234899f2bd",
       "summary": [
-        "A historic Berkshire cottage sold for $4 million, reducing private ownership in the area.",
-        "The cottage, known as Pine Needles, is one of the last remaining privately owned properties.",
-        "This sale highlights the ongoing trend of converting historic cottages into commercial resorts."
+        "Nurses return to Brigham and Women\u2019s Hospital after a historic strike.",
+        "Negotiations for better wages and workplace protections are ongoing.",
+        "Local patients may experience improved care as staffing stabilizes."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "These are the beaches closed in Mass. as the latest heat wave hits",
+      "link": "https://www.boston.com/news/environment/2026/07/13/these-are-the-beaches-closed-in-mass-as-the-latest-heat-wave-hits/",
+      "pubDate": "Mon, 13 Jul 2026 14:25:27 +0000",
+      "description": "<p>About 50 beaches were deemed unfit for swimming as of Monday.</p>\n<p>The post <a href=\"https://www.boston.com/news/environment/2026/07/13/these-are-the-beaches-closed-in-mass-as-the-latest-heat-wave-hits/\">These are the beaches closed in Mass. as the latest heat wave hits</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a31455bead0410ecd62032c459e40811",
+      "summary": [
+        "About 50 beaches in Massachusetts are closed for swimming due to heat wave conditions.",
+        "Beaches were deemed unfit for swimming as of Monday, affecting local recreation options.",
+        "Boston residents may need to seek alternative cooling spots during the ongoing heat wave."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "17-year-old drowns in Fall River pond",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/17-year-old-drowns-in-fall-river-pond/",
+      "pubDate": "Mon, 13 Jul 2026 14:04:58 +0000",
+      "description": "<p>The incident happened Sunday night.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/17-year-old-drowns-in-fall-river-pond/\">17-year-old drowns in Fall River pond</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bacb20d0b4104eeac98f87ec6c1ed32a",
+      "summary": [
+        "A 17-year-old drowned in a Fall River pond on Sunday night.",
+        "The incident highlights ongoing safety concerns at local swimming areas.",
+        "Community members are urged to prioritize water safety to prevent future tragedies."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Ranking Bruins\u2019 top 10 prospects: Who stands out in Boston\u2019s growing pipeline?",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/07/13/boston-bruins-nhl-hockey-prospect-rankings-james-hagens-letourneau/",
+      "pubDate": "Mon, 13 Jul 2026 11:24:45 +0000",
+      "description": "<p>James Hagens, Dean Letourneau, and Will Zellers are leading the way in Boston's prospect pool. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/07/13/boston-bruins-nhl-hockey-prospect-rankings-james-hagens-letourneau/\">Ranking Bruins&#8217; top 10 prospects: Who stands out in Boston\u2019s growing pipeline?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b45f5540fe30b28ced3e656a667ed60c",
+      "summary": [
+        "James Hagens, Dean Letourneau, and Will Zellers lead Boston's top 10 NHL prospects.",
+        "The Bruins' prospect pool is expanding, enhancing future team competitiveness.",
+        "Local fans can expect increased talent and excitement in upcoming seasons."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-07-13T11:15:10.796071+00:00"
+    "timestamp": "2026-07-13T14:41:27.012020+00:00"
   }
 }
