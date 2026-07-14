@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-14T21:02:47.875810+00:00",
+  "lastUpdated": "2026-07-14T22:58:39.614474+00:00",
   "articles": [
+    {
+      "title": "Man fleeing immigration officers in Florida is struck and killed by tractor trailer, police say",
+      "link": "https://www.boston.com/news/national-news/2026/07/14/man-fleeing-immigration-officers-in-florida-is-struck-and-killed-by-tractor-trailer-police-say/",
+      "pubDate": "Tue, 14 Jul 2026 22:35:55 +0000",
+      "description": "<p>The 28-year-old was among four occupants of a vehicle that stopped in the parking lot of a gas station and convenience store in St. Augustine before 7 a.m.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/14/man-fleeing-immigration-officers-in-florida-is-struck-and-killed-by-tractor-trailer-police-say/\">Man fleeing immigration officers in Florida is struck and killed by tractor trailer, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "79c78b891347a54d6e5d4c638638e7cf",
+      "summary": [
+        "A 28-year-old man was killed by a tractor trailer in St. Augustine, Florida.",
+        "The incident occurred around 7 a.m. involving four occupants in the vehicle.",
+        "Boston residents should be aware of increased scrutiny on immigration enforcement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Here\u2019s what meteorologists are saying about the yellow skies across the region",
+      "link": "https://www.boston.com/weather/local-news/2026/07/14/heres-what-meteorologists-are-saying-about-the-yellow-skies-across-the-region/",
+      "pubDate": "Tue, 14 Jul 2026 21:16:37 +0000",
+      "description": "<p>\"Expect a fiery sunset tonight &amp; more smoke in the coming days.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/07/14/heres-what-meteorologists-are-saying-about-the-yellow-skies-across-the-region/\">Here&#8217;s what meteorologists are saying about the yellow skies across the region</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0d524005c1834da6a0dcf9f4e56d4426",
+      "summary": [
+        "Meteorologists predict a fiery sunset for Boston residents tonight due to smoke.",
+        "Increased smoke levels expected in the coming days, affecting air quality.",
+        "Residents should prepare for potential respiratory issues from the smoke."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "A very special traffic cone arrives in Boston, courtesy of our new friends in Glasgow",
       "link": "https://www.boston.com/news/off-beat/2026/07/14/traffic-cone-tartan-army-boston-glasgow/",
@@ -622,32 +648,6 @@
         "A historic Berkshire cottage sold for $4 million, reducing private ownership in the area.",
         "The cottage, known as Pine Needles, is one of the last remaining privately owned properties.",
         "This sale highlights the ongoing trend of converting historic cottages into commercial resorts."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Body found in river near Brockton water treatment plant, DA says",
-      "link": "https://www.boston.com/news/local-news/2026/07/12/body-found-in-river-near-brockton-department-of-public-works-da-says/",
-      "pubDate": "Mon, 13 Jul 2026 03:49:39 +0000",
-      "description": "<p>Authorities said they have not been able to identify the deceased man. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/body-found-in-river-near-brockton-department-of-public-works-da-says/\">Body found in river near Brockton water treatment plant, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "006792ccf31e7d56730502fbeef77728",
-      "summary": [
-        "Authorities discovered a body in the river near Brockton water treatment plant.",
-        "The deceased man has not yet been identified by officials.",
-        "This incident raises concerns about safety and water quality for nearby residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Man arrested for alleged assault of rideshare passenger at Logan Airport",
-      "link": "https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/",
-      "pubDate": "Mon, 13 Jul 2026 01:46:52 +0000",
-      "description": "<p>The Lowell man is charged with assault and battery with a dangerous weapon causing serious bodily injury, State Police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/12/man-arrested-for-alleged-assault-of-rideshare-passenger-at-logan-airport/\">Man arrested for alleged assault of rideshare passenger at Logan Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b469ccda6570bc8e0a073e1dce555452",
-      "summary": [
-        "Lowell man arrested for assaulting a rideshare passenger at Logan Airport.",
-        "Charged with assault and battery causing serious bodily injury, according to State Police.",
-        "Incident raises safety concerns for rideshare users at Boston's Logan Airport."
       ],
       "hookType": "LOCAL_IMPACT"
     }
