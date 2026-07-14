@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-13T22:57:48.762024+00:00",
+  "lastUpdated": "2026-07-14T02:45:55.357342+00:00",
   "articles": [
+    {
+      "title": "Bicyclist, 74, killed in collision with dump truck in Dartmouth, DA says",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/bicyclist-74-killed-in-collision-with-dump-truck-in-dartmouth-da-says/",
+      "pubDate": "Tue, 14 Jul 2026 00:33:13 +0000",
+      "description": "<p>The truck driver remained \"cooperative with police,\" officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/bicyclist-74-killed-in-collision-with-dump-truck-in-dartmouth-da-says/\">Bicyclist, 74, killed in collision with dump truck in Dartmouth, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "622f964f3ef762098027e642f4860bbb",
+      "summary": [
+        "A 74-year-old bicyclist was killed in a collision with a dump truck in Dartmouth.",
+        "The truck driver is cooperating with police investigations following the incident.",
+        "This tragedy raises concerns about cyclist safety on local roads in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston man charged after allegedly assaulting Burger King employee, punching customer",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/boston-man-charged-after-allegedly-assaulting-burger-king-employee-punching-customer/",
+      "pubDate": "Mon, 13 Jul 2026 23:24:20 +0000",
+      "description": "<p>The customer, who was evaluated for \u201cvisible lacerations to the forehead,\u201d was punched three times while being called racial slurs, prosecutors say. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/boston-man-charged-after-allegedly-assaulting-burger-king-employee-punching-customer/\">Boston man charged after allegedly assaulting Burger King employee, punching customer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6c759f14c9cb327b547bab08a30663f3",
+      "summary": [
+        "Boston man charged for assaulting a Burger King employee and a customer on July 13.",
+        "Customer suffered visible lacerations after being punched three times and facing racial slurs.",
+        "Incident raises concerns about safety and racial tensions in local fast-food establishments."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Canton man charged in killing of Cambridge DPW worker, DA says",
       "link": "https://www.boston.com/news/crime/2026/07/13/canton-man-charged-in-killing-of-cambridge-dpw-worker-da-says/",
@@ -622,32 +648,6 @@
         "Wesley Grondin, 41, was found dead near his motorcycle in Shelburne, NH.",
         "Grondin went missing on July 4, prompting extensive search efforts.",
         "His death raises concerns about motorcycle safety and awareness among Boston riders."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Gov. Maura Healey declares July 11 \u2018Noah Kahan Day\u2019",
-      "link": "https://www.boston.com/news/local-news/2026/07/11/gov-maura-healey-declares-july-11-noah-kahan-day/",
-      "pubDate": "Sat, 11 Jul 2026 12:24:11 +0000",
-      "description": "<p>With four sold-out Fenway shows and more than 150,000 fans, Massachusetts is giving Noah Kahan an official day in his honor.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/11/gov-maura-healey-declares-july-11-noah-kahan-day/\">Gov. Maura Healey declares July 11 &#8216;Noah Kahan Day&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bcd2bbb2ee50f47e55a9519e1c3bf649",
-      "summary": [
-        "Gov. Maura Healey declares July 11 as 'Noah Kahan Day' in Massachusetts.",
-        "Noah Kahan performed four sold-out shows at Fenway Park for over 150,000 fans.",
-        "The declaration celebrates local talent and boosts community pride in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018Let\u2019s just call it a tour\u2019: Judy Collins says her farewell tour isn\u2019t a farewell",
-      "link": "https://www.boston.com/culture/music/2026/07/11/lets-just-call-it-a-tour-judy-collins-says-her-farewell-tour-isnt-a-farewell/",
-      "pubDate": "Sat, 11 Jul 2026 12:04:24 +0000",
-      "description": "<p>The former New Englander brings \u201cSweet Judy Blue Eyes\u201d to Cape Cod and Tanglewood this summer with all-star pals \u2014 and to film a special.</p>\n<p>The post <a href=\"https://www.boston.com/culture/music/2026/07/11/lets-just-call-it-a-tour-judy-collins-says-her-farewell-tour-isnt-a-farewell/\">&#8216;Let\u2019s just call it a tour&#8217;: Judy Collins says her farewell tour isn\u2019t a farewell</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7a414b6c76819eb368e8c10da0aececa",
-      "summary": [
-        "Judy Collins will perform at Cape Cod and Tanglewood this summer.",
-        "The concerts feature all-star guests and will film a special.",
-        "Boston residents can enjoy her music despite the tour's 'farewell' label."
       ],
       "hookType": "LOCAL_IMPACT"
     }
