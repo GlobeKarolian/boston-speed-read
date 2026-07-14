@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-07-14T02:45:55.356632+00:00",
+  "lastUpdated": "2026-07-14T06:13:18.093879+00:00",
   "articles": [
     {
-      "title": "Bicyclist, 74, killed in collision with dump truck in Dartmouth, DA says",
-      "link": "https://www.boston.com/news/local-news/2026/07/13/bicyclist-74-killed-in-collision-with-dump-truck-in-dartmouth-da-says/",
-      "pubDate": "Tue, 14 Jul 2026 00:33:13 +0000",
-      "description": "<p>The truck driver remained \"cooperative with police,\" officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/bicyclist-74-killed-in-collision-with-dump-truck-in-dartmouth-da-says/\">Bicyclist, 74, killed in collision with dump truck in Dartmouth, DA says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "622f964f3ef762098027e642f4860bbb",
+      "title": "Waltham police searching for girl, 17, missing since July 3",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/waltham-police-searching-for-girl-17-missing-since-july-3/",
+      "pubDate": "Tue, 14 Jul 2026 03:14:30 +0000",
+      "description": "<p>Victoria \"Tori\" Amore, 17, was last seen on leaving her home in Waltham on Friday, July 3, the Waltham Police Department said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/waltham-police-searching-for-girl-17-missing-since-july-3/\">Waltham police searching for girl, 17, missing since July 3</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f9da7bb92ce9ecdd25a0891b3f0bfad3",
       "summary": [
-        "A 74-year-old bicyclist was killed in a collision with a dump truck in Dartmouth.",
-        "The truck driver is cooperating with police investigations following the incident.",
-        "This tragedy raises concerns about cyclist safety on local roads in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston man charged after allegedly assaulting Burger King employee, punching customer",
-      "link": "https://www.boston.com/news/local-news/2026/07/13/boston-man-charged-after-allegedly-assaulting-burger-king-employee-punching-customer/",
-      "pubDate": "Mon, 13 Jul 2026 23:24:20 +0000",
-      "description": "<p>The customer, who was evaluated for \u201cvisible lacerations to the forehead,\u201d was punched three times while being called racial slurs, prosecutors say. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/boston-man-charged-after-allegedly-assaulting-burger-king-employee-punching-customer/\">Boston man charged after allegedly assaulting Burger King employee, punching customer</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6c759f14c9cb327b547bab08a30663f3",
-      "summary": [
-        "Boston man charged for assaulting a Burger King employee and a customer on July 13.",
-        "Customer suffered visible lacerations after being punched three times and facing racial slurs.",
-        "Incident raises concerns about safety and racial tensions in local fast-food establishments."
+        "Waltham police are searching for 17-year-old Victoria 'Tori' Amore, missing since July 3.",
+        "Tori was last seen leaving her home in Waltham on Friday, July 3.",
+        "Community members are urged to assist in locating Tori to ensure her safe return."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-14T02:45:55.356652+00:00"
+    "timestamp": "2026-07-14T06:13:18.093900+00:00"
   }
 }

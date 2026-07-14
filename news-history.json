@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-14T02:45:55.357342+00:00",
+  "lastUpdated": "2026-07-14T06:13:18.094641+00:00",
   "articles": [
+    {
+      "title": "Waltham police searching for girl, 17, missing since July 3",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/waltham-police-searching-for-girl-17-missing-since-july-3/",
+      "pubDate": "Tue, 14 Jul 2026 03:14:30 +0000",
+      "description": "<p>Victoria \"Tori\" Amore, 17, was last seen on leaving her home in Waltham on Friday, July 3, the Waltham Police Department said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/waltham-police-searching-for-girl-17-missing-since-july-3/\">Waltham police searching for girl, 17, missing since July 3</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f9da7bb92ce9ecdd25a0891b3f0bfad3",
+      "summary": [
+        "Waltham police are searching for 17-year-old Victoria 'Tori' Amore, missing since July 3.",
+        "Tori was last seen leaving her home in Waltham on Friday, July 3.",
+        "Community members are urged to assist in locating Tori to ensure her safe return."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Bicyclist, 74, killed in collision with dump truck in Dartmouth, DA says",
       "link": "https://www.boston.com/news/local-news/2026/07/13/bicyclist-74-killed-in-collision-with-dump-truck-in-dartmouth-da-says/",
@@ -635,19 +648,6 @@
         "FBI arrested Joseph Sawyer, 52, for armed bank robberies in New Hampshire and New Jersey.",
         "Sawyer was apprehended by a SWAT team in upstate New York on Wednesday.",
         "The arrests may enhance safety for Boston residents concerned about regional crime."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Motorcyclist missing since July 4 found dead in NH",
-      "link": "https://www.boston.com/news/local-news/2026/07/11/motorcyclist-missing-since-july-4-found-dead-in-nh/",
-      "pubDate": "Sat, 11 Jul 2026 12:57:03 +0000",
-      "description": "<p>Investigators said they found the body of Wesley Grondin, 41, near his motorcycle off Route 2 in Shelburne.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/11/motorcyclist-missing-since-july-4-found-dead-in-nh/\">Motorcyclist missing since July 4 found dead in NH</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2f06309c313c3c5c341c6b54e60384c7",
-      "summary": [
-        "Wesley Grondin, 41, was found dead near his motorcycle in Shelburne, NH.",
-        "Grondin went missing on July 4, prompting extensive search efforts.",
-        "His death raises concerns about motorcycle safety and awareness among Boston riders."
       ],
       "hookType": "LOCAL_IMPACT"
     }
