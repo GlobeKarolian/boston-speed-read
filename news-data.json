@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-07-14T10:01:13.118594+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-14T13:51:25.399570+00:00",
+  "articles": [
+    {
+      "title": "Local obituary: Louisa Gag, 36, lifelong Boston resident and safe streets advocate",
+      "link": "https://www.boston.com/news/massachusetts-obituaries/2026/07/14/local-obituary-louisa-gag-36-lifelong-boston-resident-and-safe-streets-advocate/",
+      "pubDate": "Tue, 14 Jul 2026 13:18:26 +0000",
+      "description": "<p>\"Her friends and family remember her as the most outgoing introvert you can imagine.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2026/07/14/local-obituary-louisa-gag-36-lifelong-boston-resident-and-safe-streets-advocate/\">Local obituary: Louisa Gag, 36, lifelong Boston resident and safe streets advocate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a76148a0485f90c3bf91f0cc356e61f6",
+      "summary": [
+        "Louisa Gag, 36, passed away, remembered as a passionate advocate for safe streets in Boston.",
+        "She was a lifelong Boston resident, impacting local community safety initiatives significantly.",
+        "Her advocacy work inspired many, highlighting the importance of safe streets for residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Home of the Week: Furnished island home on Lake Winnipesaukee for $889.5k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/14/lake-winnipesaukee-summer-house-lockes-island/",
+      "pubDate": "Tue, 14 Jul 2026 11:00:00 +0000",
+      "description": "<p>There is potential to use the summer home as a short-term rental property.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/14/lake-winnipesaukee-summer-house-lockes-island/\">Home of the Week: Furnished island home on Lake Winnipesaukee for $889.5k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4281be3e62e156c17acd9bfc2ab96262",
+      "summary": [
+        "Explore a furnished island home on Lake Winnipesaukee listed for $889.5k.",
+        "Consider potential for short-term rental income for Boston residents.",
+        "Property offers a unique summer getaway option for local families."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Jordan Walker spoils Philly\u2019s Kyle Schwarber party, rallies to win Home Run Derby",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/14/home-run-derby-jordan-walker-kyle-schwarber/",
+      "pubDate": "Tue, 14 Jul 2026 04:03:14 +0000",
+      "description": "<p>\u201cMy thought was Philly is brutal,\u201d Walker said.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/14/home-run-derby-jordan-walker-kyle-schwarber/\">Jordan Walker spoils Philly&rsquo;s Kyle Schwarber party, rallies to win Home Run Derby</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b2894ef49578d5befe8a45c6c617c8c4",
+      "summary": [
+        "Jordan Walker won the Home Run Derby, defeating Kyle Schwarber on July 14.",
+        "Walker expressed his thoughts on Philadelphia's challenging atmosphere during the event.",
+        "Boston fans celebrate Walker's victory, highlighting local talent in national sports."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The heat is on: The average MLB fastball velocity is up for the 6th straight year to 94.7 mph",
+      "link": "https://www.boston.com/sports/sports/2026/07/13/mlb-average-fastball-velocity-up/",
+      "pubDate": "Mon, 13 Jul 2026 22:27:30 +0000",
+      "description": "<p>\u201cYou watch a Triple-A game, most everybody that\u2019s coming out of the bullpen left-handed or right-handed is throwing 95-plus.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/07/13/mlb-average-fastball-velocity-up/\">The heat is on: The average MLB fastball velocity is up for the 6th straight year to 94.7 mph</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ca83d04f023d735226b40d12ecf7a0d8",
+      "summary": [
+        "MLB fastball velocity averages 94.7 mph, marking a six-year increase.",
+        "Triple-A pitchers frequently exceed 95 mph, reflecting rising talent levels.",
+        "Boston fans may see faster-paced games and increased strikeouts this season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-07-14T10:01:13.118605+00:00"
+    "timestamp": "2026-07-14T13:51:25.399591+00:00"
   }
 }
