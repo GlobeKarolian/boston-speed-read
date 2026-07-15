@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-15T02:44:26.386217+00:00",
+  "lastUpdated": "2026-07-15T06:17:54.586274+00:00",
   "articles": [
+    {
+      "title": "Active-duty Everett firefighter dies from occupational cancer after 30 years of service, department says",
+      "link": "https://www.boston.com/news/local-news/2026/07/14/active-duty-everett-firefighter-dies-from-occupational-cancer-after-30-years-of-service-department-says/",
+      "pubDate": "Wed, 15 Jul 2026 03:27:32 +0000",
+      "description": "<p>John Benoit, 63, served in the Air Force before fulfilling his \"family legacy\" of becoming an Everett firefighter, his obituary says.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/14/active-duty-everett-firefighter-dies-from-occupational-cancer-after-30-years-of-service-department-says/\">Active-duty Everett firefighter dies from occupational cancer after 30 years of service, department says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2ff9f34b63b36317b71545e5439768af",
+      "summary": [
+        "John Benoit, 63, died from occupational cancer after 30 years as an Everett firefighter.",
+        "Benoit previously served in the Air Force, continuing a family legacy in firefighting.",
+        "His death highlights health risks for Boston firefighters, prompting discussions on occupational safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "2 Dorchester women charged in alleged human trafficking scheme",
       "link": "https://www.boston.com/news/crime/2026/07/14/2-dorchester-women-charged-in-alleged-human-trafficking-scheme/",
@@ -635,19 +648,6 @@
         "Alexis Hardy, 29, was rescued from a New Hampshire mountain on Saturday.",
         "Her boyfriend proposed immediately after her rescue, marking a memorable moment.",
         "The incident highlights the importance of safety in outdoor activities for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Nurses are back at Brigham and Women\u2019s Hospital, but the fight is not over",
-      "link": "https://www.boston.com/news/local-news/2026/07/13/nurses-are-back-at-brigham-and-womens-hospital-but-the-fight-is-not-over/",
-      "pubDate": "Mon, 13 Jul 2026 14:26:05 +0000",
-      "description": "<p>The historic nursing strike is over, but negotiations between the union and the hospital over wages and better workplace protections continue.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/nurses-are-back-at-brigham-and-womens-hospital-but-the-fight-is-not-over/\">Nurses are back at Brigham and Women&#8217;s Hospital, but the fight is not over</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "06e7c9472bee748c4674dd234899f2bd",
-      "summary": [
-        "Nurses return to Brigham and Women\u2019s Hospital after a historic strike.",
-        "Negotiations for better wages and workplace protections are ongoing.",
-        "Local patients may experience improved care as staffing stabilizes."
       ],
       "hookType": "LOCAL_IMPACT"
     }
