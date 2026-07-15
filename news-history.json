@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-07-15T19:16:14.955944+00:00",
+  "lastUpdated": "2026-07-15T21:03:14.625834+00:00",
   "articles": [
+    {
+      "title": "\u2018Being at sea does change a person\u2019: Tall Ships inspire Boston\u2019s young sailors",
+      "link": "https://www.boston.com/news/local-news/2026/07/15/being-at-sea-does-change-a-person-tall-ships-inspire-bostons-young-sailors/",
+      "pubDate": "Wed, 15 Jul 2026 20:33:34 +0000",
+      "description": "<p>Local sailing centers turn a week of harbor crowds and logistical challenges into an unforgettable experience on the water.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/15/being-at-sea-does-change-a-person-tall-ships-inspire-bostons-young-sailors/\">&#8216;Being at sea does change a person&#8217;: Tall Ships inspire Boston\u2019s young sailors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "33ef515d01a7f7860bd681e8548ddbef",
+      "summary": [
+        "Local sailing centers host Tall Ships event, enhancing youth sailing experiences.",
+        "Over 200 young sailors participated in the week-long event in July 2026.",
+        "The event fosters community engagement and inspires future generations of sailors."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Massachusetts issues statewide air quality alert due to Canadian wildfire smoke",
+      "link": "https://www.boston.com/news/local-news/2026/07/15/massachusetts-air-quality-index-by-region/",
+      "pubDate": "Wed, 15 Jul 2026 20:31:18 +0000",
+      "description": "<p>The statewide air quality alert is in effect through 12 a.m. Thursday. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/15/massachusetts-air-quality-index-by-region/\">Massachusetts issues statewide air quality alert due to Canadian wildfire smoke</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2b43cd28f1147b92e9796168ca09e615",
+      "summary": [
+        "Massachusetts issues air quality alert due to Canadian wildfire smoke until 12 a.m. Thursday.",
+        "Residents advised to limit outdoor activities, especially those with respiratory issues.",
+        "Air quality may affect visibility and health across the state, including Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Look inside Oosterschelde, the historic Dutch tall ship at Sail Boston",
+      "link": "https://www.boston.com/travel/local-news/2026/07/15/look-inside-oosterschelde-the-historic-dutch-tall-ship-at-sail-boston/",
+      "pubDate": "Wed, 15 Jul 2026 20:29:35 +0000",
+      "description": "<p>Also, check out the Dutch martini and other Dutch goodies being served at nearby Rowes Wharf Sea Grille. </p>\n<p>The post <a href=\"https://www.boston.com/travel/local-news/2026/07/15/look-inside-oosterschelde-the-historic-dutch-tall-ship-at-sail-boston/\">Look inside Oosterschelde, the historic Dutch tall ship at Sail Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "11044c938b38a42adcc42739e3c08389",
+      "summary": [
+        "Visit the historic Dutch tall ship Oosterschelde at Sail Boston through July 15.",
+        "Enjoy Dutch martinis and other specialties at Rowes Wharf Sea Grille nearby.",
+        "Experience cultural exchange and maritime history during this local event for residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Hegseth announces new policy to test troops for low testosterone",
+      "link": "https://www.boston.com/news/politics/2026/07/15/hegseth-announces-new-policy-to-test-troops-for-low-testosterone/",
+      "pubDate": "Wed, 15 Jul 2026 20:24:01 +0000",
+      "description": "<p>The screenings will be conducted annually as part of service members' required medical screenings for those 30 and older, Hegseth said.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/15/hegseth-announces-new-policy-to-test-troops-for-low-testosterone/\">Hegseth announces new policy to test troops for low testosterone</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d3c90e539b40c68c4027007213bde078",
+      "summary": [
+        "Hegseth announces annual testosterone screenings for troops aged 30 and older.",
+        "Policy affects Boston-area service members, enhancing their health monitoring.",
+        "Improved health screenings aim to address potential issues in military readiness."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Biden will publish \u2018Promise Me, America\u2019 memoir after the November midterm elections",
+      "link": "https://www.boston.com/news/politics/2026/07/15/biden-will-publish-promise-me-america-memoir-after-the-november-midterm-elections/",
+      "pubDate": "Wed, 15 Jul 2026 20:16:50 +0000",
+      "description": "<p>\u201c'Promise Me, America' is about the challenges we faced as a nation. It\u2019s about the decisions I made and why I made them,\u201d Biden said in a video statement.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/15/biden-will-publish-promise-me-america-memoir-after-the-november-midterm-elections/\">Biden will publish &#8216;Promise Me, America&#8217; memoir after the November midterm elections</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9b156344944452f0eefbbad87f62d20f",
+      "summary": [
+        "Biden's memoir 'Promise Me, America' will be released post-November midterm elections.",
+        "The book discusses national challenges and Biden's decision-making processes.",
+        "Boston residents may gain insights into federal policies affecting local communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Brittney Spencer found Bob Dylan in her dressing room. Here\u2019s what happened next.",
       "link": "https://www.boston.com/culture/music/2026/07/15/brittney-spencer-found-bob-dylan-in-her-dressing-room-heres-what-happened-next/",
@@ -583,71 +648,6 @@
         "A 27-year-old man was arrested for damaging multiple cars in East Boston.",
         "The incident occurred on Sunday, involving a wooden stick and a cinder block.",
         "Local residents face increased concerns over vehicle safety and vandalism in the area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Local obituary: Louisa Gag, 36, lifelong Boston resident and safe streets advocate",
-      "link": "https://www.boston.com/news/massachusetts-obituaries/2026/07/14/local-obituary-louisa-gag-36-lifelong-boston-resident-and-safe-streets-advocate/",
-      "pubDate": "Tue, 14 Jul 2026 13:18:26 +0000",
-      "description": "<p>\"Her friends and family remember her as the most outgoing introvert you can imagine.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2026/07/14/local-obituary-louisa-gag-36-lifelong-boston-resident-and-safe-streets-advocate/\">Local obituary: Louisa Gag, 36, lifelong Boston resident and safe streets advocate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a76148a0485f90c3bf91f0cc356e61f6",
-      "summary": [
-        "Louisa Gag, 36, passed away, remembered as a passionate advocate for safe streets in Boston.",
-        "She was a lifelong Boston resident, impacting local community safety initiatives significantly.",
-        "Her advocacy work inspired many, highlighting the importance of safe streets for residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Home of the Week: Furnished island home on Lake Winnipesaukee for $889.5k",
-      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/14/lake-winnipesaukee-summer-house-lockes-island/",
-      "pubDate": "Tue, 14 Jul 2026 11:00:00 +0000",
-      "description": "<p>There is potential to use the summer home as a short-term rental property.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/14/lake-winnipesaukee-summer-house-lockes-island/\">Home of the Week: Furnished island home on Lake Winnipesaukee for $889.5k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4281be3e62e156c17acd9bfc2ab96262",
-      "summary": [
-        "Explore a furnished island home on Lake Winnipesaukee listed for $889.5k.",
-        "Consider potential for short-term rental income for Boston residents.",
-        "Property offers a unique summer getaway option for local families."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Jordan Walker spoils Philly\u2019s Kyle Schwarber party, rallies to win Home Run Derby",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/14/home-run-derby-jordan-walker-kyle-schwarber/",
-      "pubDate": "Tue, 14 Jul 2026 04:03:14 +0000",
-      "description": "<p>\u201cMy thought was Philly is brutal,\u201d Walker said.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/14/home-run-derby-jordan-walker-kyle-schwarber/\">Jordan Walker spoils Philly&rsquo;s Kyle Schwarber party, rallies to win Home Run Derby</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b2894ef49578d5befe8a45c6c617c8c4",
-      "summary": [
-        "Jordan Walker won the Home Run Derby, defeating Kyle Schwarber on July 14.",
-        "Walker expressed his thoughts on Philadelphia's challenging atmosphere during the event.",
-        "Boston fans celebrate Walker's victory, highlighting local talent in national sports."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The heat is on: The average MLB fastball velocity is up for the 6th straight year to 94.7 mph",
-      "link": "https://www.boston.com/sports/sports/2026/07/13/mlb-average-fastball-velocity-up/",
-      "pubDate": "Mon, 13 Jul 2026 22:27:30 +0000",
-      "description": "<p>\u201cYou watch a Triple-A game, most everybody that\u2019s coming out of the bullpen left-handed or right-handed is throwing 95-plus.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports/2026/07/13/mlb-average-fastball-velocity-up/\">The heat is on: The average MLB fastball velocity is up for the 6th straight year to 94.7 mph</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ca83d04f023d735226b40d12ecf7a0d8",
-      "summary": [
-        "MLB fastball velocity averages 94.7 mph, marking a six-year increase.",
-        "Triple-A pitchers frequently exceed 95 mph, reflecting rising talent levels.",
-        "Boston fans may see faster-paced games and increased strikeouts this season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Waltham police searching for girl, 17, missing since July 3",
-      "link": "https://www.boston.com/news/local-news/2026/07/13/waltham-police-searching-for-girl-17-missing-since-july-3/",
-      "pubDate": "Tue, 14 Jul 2026 03:14:30 +0000",
-      "description": "<p>Victoria \"Tori\" Amore, 17, was last seen on leaving her home in Waltham on Friday, July 3, the Waltham Police Department said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/waltham-police-searching-for-girl-17-missing-since-july-3/\">Waltham police searching for girl, 17, missing since July 3</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f9da7bb92ce9ecdd25a0891b3f0bfad3",
-      "summary": [
-        "Waltham police are searching for 17-year-old Victoria 'Tori' Amore, missing since July 3.",
-        "Tori was last seen leaving her home in Waltham on Friday, July 3.",
-        "Community members are urged to assist in locating Tori to ensure her safe return."
       ],
       "hookType": "LOCAL_IMPACT"
     }
