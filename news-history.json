@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-16T21:03:48.979797+00:00",
+  "lastUpdated": "2026-07-16T22:59:35.531392+00:00",
   "articles": [
+    {
+      "title": "Woman, 25, dead, driver and 3 children hospitalized in crash on I-495 in Andover",
+      "link": "https://www.boston.com/news/local-news/2026/07/16/woman-25-dead-driver-and-3-children-hospitalized-in-crash-on-i-495-in-andover/",
+      "pubDate": "Thu, 16 Jul 2026 22:07:30 +0000",
+      "description": "<p>The three children involved had \"unknown injuries,\" State Police said, while an adult suffered serious injuries in the crash.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/16/woman-25-dead-driver-and-3-children-hospitalized-in-crash-on-i-495-in-andover/\">Woman, 25, dead, driver and 3 children hospitalized in crash on I-495 in Andover</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fabaa4cc7f92ba71207e9fdc5aa5035d",
+      "summary": [
+        "A 25-year-old woman died in a crash on I-495 in Andover.",
+        "Three children were hospitalized with unknown injuries; an adult suffered serious injuries.",
+        "The incident raises concerns about road safety for Boston commuters."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "3 longtime tenants to close or move after Alpha Management buys prominent Allston commercial building",
+      "link": "https://www.boston.com/news/business/2026/07/16/3-longtime-tenants-to-close-or-move-after-alpha-management-buys-prominent-allston-commercial-building/",
+      "pubDate": "Thu, 16 Jul 2026 21:26:34 +0000",
+      "description": "<p>Three tenants from the Allston building \u2013 the Pet Shop, Ritual Arts, and Regeneration Tattoo \u2013 say they're now being priced out.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/07/16/3-longtime-tenants-to-close-or-move-after-alpha-management-buys-prominent-allston-commercial-building/\">3 longtime tenants to close or move after Alpha Management buys prominent Allston commercial building</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bb1571dffa78dcc52ef8827718a8272d",
+      "summary": [
+        "Alpha Management purchased a prominent Allston commercial building, affecting local businesses.",
+        "Three tenants, including the Pet Shop, Ritual Arts, and Regeneration Tattoo, are being priced out.",
+        "Closure or relocation of these businesses may impact community services and local culture."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Trump\u2019s teleprompter operator on unpaid leave for alleged prediction market bets on Trump speeches",
       "link": "https://www.boston.com/news/politics/2026/07/16/trumps-teleprompter-operator-on-unpaid-leave-for-alleged-prediction-market-bets-on-trump-speeches/",
@@ -622,32 +648,6 @@
         "U.S. Marshals captured fugitive wanted for 2017 South End murder in North Carolina.",
         "The suspect had evaded arrest for nine years after the fatal shooting.",
         "Boston residents may feel increased safety with the suspect finally apprehended."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The people keeping Cape Cod\u2019s car culture alive",
-      "link": "https://www.boston.com/news/local-news/2026/07/15/the-people-keeping-cape-cods-car-culture-alive/",
-      "pubDate": "Wed, 15 Jul 2026 14:10:32 +0000",
-      "description": "<p>From decked-out minivans to antique race cars, enthusiasts gather for cruises, car shows, parades, and scenic drives across the Cape. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/15/the-people-keeping-cape-cods-car-culture-alive/\">The people keeping Cape Cod\u2019s car culture alive</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "945dec92dec1edc6777acaf1fdbec6a8",
-      "summary": [
-        "Car enthusiasts host events like cruises and shows across Cape Cod, enhancing local tourism.",
-        "Antique race cars and minivans attract hundreds of visitors during summer events.",
-        "Local businesses benefit from increased foot traffic and sales during car culture gatherings."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New Hampshire\u2019s tiny Seacoast is a beachy tax haven for Massachusetts buyers",
-      "link": "https://www.boston.com/real-estate/home-buying/2026/07/15/new-hampshire-seacoast-housing-market/",
-      "pubDate": "Wed, 15 Jul 2026 13:30:00 +0000",
-      "description": "<p>Unlike in the Cape or the Berkshires, most Seacoast home buyers aren\u2019t here for a vacation getaway.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/07/15/new-hampshire-seacoast-housing-market/\">New Hampshire\u2019s tiny Seacoast is a beachy tax haven for Massachusetts buyers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "83353b55862df85a5b677023d42bd689",
-      "summary": [
-        "Massachusetts buyers are increasingly purchasing homes in New Hampshire's Seacoast for tax benefits.",
-        "Seacoast offers lower property taxes compared to Cape Cod and the Berkshires.",
-        "This trend may drive up housing demand and prices in the Seacoast region."
       ],
       "hookType": "LOCAL_IMPACT"
     }
