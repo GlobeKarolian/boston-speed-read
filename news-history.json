@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-15T22:59:30.196747+00:00",
+  "lastUpdated": "2026-07-16T02:50:50.219873+00:00",
   "articles": [
+    {
+      "title": "Man, 29, killed in daytime shooting in Dorchester",
+      "link": "https://www.boston.com/news/crime/2026/07/15/man-29-killed-in-daytime-shooting-in-dorchester/",
+      "pubDate": "Thu, 16 Jul 2026 00:04:36 +0000",
+      "description": "<p>Authorities have not publicly identified the victim. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/15/man-29-killed-in-daytime-shooting-in-dorchester/\">Man, 29, killed in daytime shooting in Dorchester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "157045b336314f5c33e7ee63f50cdb39",
+      "summary": [
+        "A 29-year-old man was shot and killed in Dorchester during the daytime.",
+        "Authorities have not yet identified the victim or released further details.",
+        "The shooting raises concerns about public safety in the Dorchester community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "U.S. Marshals arrest 2 alleged fugitives weeks after mass shooting in Blue Hill Avenue",
       "link": "https://www.boston.com/news/crime/2026/07/15/u-s-marshals-arrest-2-alleged-fugitives-weeks-after-mass-shooting-in-blue-hill-avenue/",
@@ -635,19 +648,6 @@
         "Visitors at Sail Boston are connecting with vessels linked to their heritage.",
         "Sail Boston features numerous tall ships, enhancing local cultural engagement.",
         "The event fosters community pride and historical appreciation among Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "\u2018I can\u2019t believe that just happened\u2019: Noah Kahan celebrated a hole-in-one at Boston Golf Club",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/07/14/noah-kahan-hole-in-one-boston-golf-club/",
-      "pubDate": "Tue, 14 Jul 2026 14:13:26 +0000",
-      "description": "<p>\"Hole in one, hole 11, Boston Golf Club.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/07/14/noah-kahan-hole-in-one-boston-golf-club/\">&#8216;I can&#8217;t believe that just happened&#8217;: Noah Kahan celebrated a hole-in-one at Boston Golf Club</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2a1d669c9ce86b4286279c46bcf41bfc",
-      "summary": [
-        "Noah Kahan achieved a hole-in-one on hole 11 at Boston Golf Club.",
-        "The event took place at the prestigious Boston Golf Club, enhancing its local reputation.",
-        "Kahan's achievement boosts community pride and interest in local golf events."
       ],
       "hookType": "LOCAL_IMPACT"
     }

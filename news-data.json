@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2026-07-15T22:59:30.195883+00:00",
+  "lastUpdated": "2026-07-16T02:50:50.219211+00:00",
   "articles": [
     {
-      "title": "U.S. Marshals arrest 2 alleged fugitives weeks after mass shooting in Blue Hill Avenue",
-      "link": "https://www.boston.com/news/crime/2026/07/15/u-s-marshals-arrest-2-alleged-fugitives-weeks-after-mass-shooting-in-blue-hill-avenue/",
-      "pubDate": "Wed, 15 Jul 2026 22:25:58 +0000",
-      "description": "<p>The two Boston men face charges of assault to murder and assault and battery with a dangerous weapon, court records show.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/15/u-s-marshals-arrest-2-alleged-fugitives-weeks-after-mass-shooting-in-blue-hill-avenue/\">U.S. Marshals arrest 2 alleged fugitives weeks after mass shooting in Blue Hill Avenue</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e20075d3aa6e2468785dac3eaf20dbbf",
+      "title": "Man, 29, killed in daytime shooting in Dorchester",
+      "link": "https://www.boston.com/news/crime/2026/07/15/man-29-killed-in-daytime-shooting-in-dorchester/",
+      "pubDate": "Thu, 16 Jul 2026 00:04:36 +0000",
+      "description": "<p>Authorities have not publicly identified the victim. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/15/man-29-killed-in-daytime-shooting-in-dorchester/\">Man, 29, killed in daytime shooting in Dorchester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "157045b336314f5c33e7ee63f50cdb39",
       "summary": [
-        "U.S. Marshals arrested two Boston men linked to a recent Blue Hill Avenue mass shooting.",
-        "The suspects face charges of assault to murder and assault with a dangerous weapon.",
-        "These arrests aim to enhance public safety in Boston following the violent incident."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Mass. is seeing \u2018normal\u2019 levels in cases of the explosive diarrhea parasite despite Midwestern outbreak, DPH says",
-      "link": "https://www.boston.com/news/health/2026/07/15/mass-is-seeing-normal-levels-in-cases-of-the-explosive-diarrhea-parasite-despite-midwestern-outbreak-dph-says/",
-      "pubDate": "Wed, 15 Jul 2026 22:10:47 +0000",
-      "description": "<p>State officials say the next update of reported cases \u2014 which currently sits at 18 from May 1 to July 1 \u2014 will be available in the first week of August. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/07/15/mass-is-seeing-normal-levels-in-cases-of-the-explosive-diarrhea-parasite-despite-midwestern-outbreak-dph-says/\">Mass. is seeing &#8216;normal&#8217; levels in cases of the explosive diarrhea parasite despite Midwestern outbreak, DPH says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "035294e0f81013d292f3b96ada1757f2",
-      "summary": [
-        "Massachusetts reports 18 cases of explosive diarrhea parasite from May 1 to July 1.",
-        "State officials will provide the next update on cases in the first week of August.",
-        "Boston residents currently face no increased risk despite a Midwestern outbreak."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Vance says Trump administration \u2018screwed up\u2019 communications around Epstein files",
-      "link": "https://www.boston.com/news/politics/2026/07/15/vance-administration-screwed-up-communications-on-epstein-files/",
-      "pubDate": "Wed, 15 Jul 2026 21:13:34 +0000",
-      "description": "<p>During a podcast interview with Joe Rogan, Vance pointed largely to former Attorney General Pam Bondi, who infamously stated that an alleged \u201cclient list\u201d of Epstein\u2019s was \u201csitting on my desk right now.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/15/vance-administration-screwed-up-communications-on-epstein-files/\">Vance says Trump administration &#8216;screwed up&#8217; communications around Epstein files</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "794f9d12f779794d98e1dd138ca9bff1",
-      "summary": [
-        "Vance criticized the Trump administration's handling of Epstein files during a Joe Rogan podcast.",
-        "Former Attorney General Pam Bondi claimed an Epstein client list was on her desk.",
-        "Boston residents may see renewed scrutiny on Epstein-related cases due to these revelations."
+        "A 29-year-old man was shot and killed in Dorchester during the daytime.",
+        "Authorities have not yet identified the victim or released further details.",
+        "The shooting raises concerns about public safety in the Dorchester community."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-15T22:59:30.195904+00:00"
+    "timestamp": "2026-07-16T02:50:50.219234+00:00"
   }
 }
