@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-07-18T11:06:34.297817+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-18T13:22:40.699906+00:00",
+  "articles": [
+    {
+      "title": "4 charged in connection with alleged kidnapping, beating near Nantucket park",
+      "link": "https://www.boston.com/news/local-news/2026/07/18/4-charged-in-connection-with-alleged-kidnapping-beating-near-nantucket-park/",
+      "pubDate": "Sat, 18 Jul 2026 12:29:30 +0000",
+      "description": "<p>A 28-year-old man was allegedly beaten and dragged to a nearby residence, where police say he was tied up with an extension cord and left injured and bleeding.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/18/4-charged-in-connection-with-alleged-kidnapping-beating-near-nantucket-park/\">4 charged in connection with alleged kidnapping, beating near Nantucket park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a9caa259bebcfec2390aefbbb2c53095",
+      "summary": [
+        "Four individuals charged in connection with a kidnapping and beating incident near Nantucket park.",
+        "A 28-year-old man was allegedly beaten, tied up, and left injured on July 18.",
+        "Local residents express concern over safety following this violent incident in their community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2 arrested at Logan Airport as ICE activity ramps up",
+      "link": "https://www.boston.com/news/local-news/2026/07/18/2-arrested-at-logan-airport-as-ice-activity-ramps-up/",
+      "pubDate": "Sat, 18 Jul 2026 12:12:39 +0000",
+      "description": "<p>A Noah Kahan concertgoer and a Seattle DJ who was in Massachusetts to watch a World Cup game were arrested as they tried to board flights back home last week.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/18/2-arrested-at-logan-airport-as-ice-activity-ramps-up/\">2 arrested at Logan Airport as ICE activity ramps up</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "57c5e326b9dbfcae45a72e9836017bdf",
+      "summary": [
+        "ICE arrests increased at Logan Airport, impacting travelers returning home.",
+        "Two individuals, a concertgoer and a DJ, were detained last week.",
+        "Local residents may face heightened scrutiny during travel due to ICE operations."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 movies to watch after \u2018The Odyssey\u2019",
+      "link": "https://www.boston.com/culture/streaming/2026/07/18/5-movies-to-watch-after-the-odyssey/",
+      "pubDate": "Sat, 18 Jul 2026 12:00:00 +0000",
+      "description": "<p>Plus, here's whether to press play or skip on a handful of new movies and shows.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/07/18/5-movies-to-watch-after-the-odyssey/\">5 movies to watch after &#8216;The Odyssey&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d9a200a03c8ea482aaf833df557e5454",
+      "summary": [
+        "Discover five recommended films to watch after 'The Odyssey' for local movie enthusiasts.",
+        "Explore new releases and reviews to enhance your viewing experience this summer.",
+        "Stay updated on local streaming options to enjoy quality entertainment in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "The US and Iran lurch toward all-out war",
+      "link": "https://www.boston.com/news/world-news/2026/07/18/the-us-and-iran-lurch-toward-all-out-war/",
+      "pubDate": "Sat, 18 Jul 2026 11:30:44 +0000",
+      "description": "<p>An attack set off hostilities that put the two countries on a path back toward war less than a month after they agreed to stop fighting.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/07/18/the-us-and-iran-lurch-toward-all-out-war/\">The US and Iran lurch toward all-out war</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ec33db94a07e10a251b1cad001187746",
+      "summary": [
+        "US-Iran tensions escalate following a recent attack, raising concerns for local security.",
+        "Boston residents may face increased military presence due to heightened conflict risks.",
+        "Local businesses could experience economic impacts from potential sanctions or military actions."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-07-18T11:06:34.297829+00:00"
+    "timestamp": "2026-07-18T13:22:40.699925+00:00"
   }
 }
