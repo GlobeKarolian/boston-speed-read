@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-07-18T20:53:44.127999+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-18T22:53:35.458292+00:00",
+  "articles": [
+    {
+      "title": "John Strong and Stu Holden enjoy \u2018wonderfully chaotic\u2019 experience as Fox\u2019 lead World Cup broadcasters",
+      "link": "https://www.boston.com/sports/world-cup/2026/07/18/world-cup-2026-john-strong-stu-holden/",
+      "pubDate": "Sat, 18 Jul 2026 22:28:09 +0000",
+      "description": "<p>\u201cThat moment we take off our headsets after these big games, we exhale, because we love what we do and we get wrapped up in it,\u201d Holden said.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/07/18/world-cup-2026-john-strong-stu-holden/\">John Strong and Stu Holden enjoy \u2018wonderfully chaotic\u2019 experience as Fox\u2019 lead World Cup broadcasters</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7507cf80e8274111b3daf2947cd5eb6c",
+      "summary": [
+        "John Strong and Stu Holden are Fox's lead broadcasters for the 2026 World Cup.",
+        "Holden expressed excitement about the chaotic nature of live sports broadcasting.",
+        "Boston residents can expect enhanced coverage of the World Cup from local broadcasters."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Tom Brady busy at Fanatics Fest, from a face slap to showing off his arm",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/07/18/tom-brady-logan-paul-slap-fanatics/",
+      "pubDate": "Sat, 18 Jul 2026 21:40:33 +0000",
+      "description": "<p>Brady went viral after smacking Logan Paul\u2019s face on Friday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/07/18/tom-brady-logan-paul-slap-fanatics/\">Tom Brady busy at Fanatics Fest, from a face slap to showing off his arm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "416a846769024e5477c66a6e58473ff4",
+      "summary": [
+        "Tom Brady went viral for slapping Logan Paul at Fanatics Fest on July 18.",
+        "Brady showcased his throwing skills, engaging fans at the event.",
+        "Local residents can expect increased interest in sports events featuring Brady."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-18T20:53:44.128009+00:00"
+    "timestamp": "2026-07-18T22:53:35.458305+00:00"
   }
 }
