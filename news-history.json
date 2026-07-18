@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-18T13:22:40.700647+00:00",
+  "lastUpdated": "2026-07-18T14:57:00.050831+00:00",
   "articles": [
+    {
+      "title": "Wildfire smoke from Canada, Minnesota pushes farther into the US",
+      "link": "https://www.boston.com/news/health/2026/07/18/wildfire-smoke-from-canada-minnesota-pushes-farther-into-the-us/",
+      "pubDate": "Sat, 18 Jul 2026 13:27:38 +0000",
+      "description": "<p>Saturday brings a high chance of thunderstorms across much of the Northeast and Mid-Atlantic, which will help dampen the bad air.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/07/18/wildfire-smoke-from-canada-minnesota-pushes-farther-into-the-us/\">Wildfire smoke from Canada, Minnesota pushes farther into the US</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "34f4966baba8c0f04f3c9797f4be12fc",
+      "summary": [
+        "Wildfire smoke from Canada and Minnesota reaches Boston, affecting air quality.",
+        "Thunderstorms expected Saturday will help improve air conditions across the Northeast.",
+        "Residents advised to stay indoors during high smoke levels for health safety."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "4 charged in connection with alleged kidnapping, beating near Nantucket park",
       "link": "https://www.boston.com/news/local-news/2026/07/18/4-charged-in-connection-with-alleged-kidnapping-beating-near-nantucket-park/",
@@ -635,19 +648,6 @@
         "Trump's national address on election conspiracies is scheduled for 9 p.m. tonight.",
         "Boston residents may see increased discussions on election integrity following Trump's address.",
         "Local political groups are preparing for potential protests or rallies in response."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Paul Pierce, Kevin Garnett to introduce Doc Rivers at Hall of Fame ceremony",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/07/16/celtics-paul-pierce-kevin-garnett-doc-rivers-hall-of-fame/",
-      "pubDate": "Thu, 16 Jul 2026 19:50:43 +0000",
-      "description": "<p>Rivers picked Pierce and Garnett as his enshrinement presenters. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/07/16/celtics-paul-pierce-kevin-garnett-doc-rivers-hall-of-fame/\">Paul Pierce, Kevin Garnett to introduce Doc Rivers at Hall of Fame ceremony</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1ad1ea27910afd7c826a3502391a2e91",
-      "summary": [
-        "Doc Rivers will be introduced by Paul Pierce and Kevin Garnett at the Hall of Fame.",
-        "The ceremony is set for July 16, 2026, celebrating Rivers' contributions to the Celtics.",
-        "This event highlights Boston's rich basketball history and honors local sports legends."
       ],
       "hookType": "LOCAL_IMPACT"
     }
