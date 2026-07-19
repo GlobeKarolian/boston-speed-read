@@ -1,62 +1,23 @@
 {
-  "lastUpdated": "2026-07-19T13:24:08.263754+00:00",
+  "lastUpdated": "2026-07-19T14:59:13.153295+00:00",
   "articles": [
     {
-      "title": "Rhode Island couple unexpectedly become parents while on vacation in Florida",
-      "link": "https://www.boston.com/news/local-news/2026/07/19/rhode-island-couple-unexpectedly-become-parents-while-on-vacation-in-florida/",
-      "pubDate": "Sun, 19 Jul 2026 13:14:52 +0000",
-      "description": "<p>The couple was preparing to set sail on a cruise when they got the surprise of a lifetime: they were going to be parents.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/19/rhode-island-couple-unexpectedly-become-parents-while-on-vacation-in-florida/\">Rhode Island couple unexpectedly become parents while on vacation in Florida</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d311d8eacf3057f08f38f2f20df52736",
+      "title": "Healey aims to close great divide of resale ticket prices with new proposal",
+      "link": "https://www.boston.com/culture/local-news/2026/07/19/healey-aims-to-close-great-divide-of-resale-ticket-prices-with-new-proposal/",
+      "pubDate": "Sun, 19 Jul 2026 14:23:13 +0000",
+      "description": "<p>Dubbed \u201cThe Great Divide Act,\u201d the legislation would cap resale prices, limit fees, and prohibit deceptive practices.</p>\n<p>The post <a href=\"https://www.boston.com/culture/local-news/2026/07/19/healey-aims-to-close-great-divide-of-resale-ticket-prices-with-new-proposal/\">Healey aims to close great divide of resale ticket prices with new proposal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "20ea194c05eae440a98da521c3a4139d",
       "summary": [
-        "Rhode Island couple unexpectedly became parents while vacationing in Florida.",
-        "They were preparing to set sail on a cruise when they received the news.",
-        "This event highlights the unpredictability of travel and family planning for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Juvenile humpback whale washes ashore in Winthrop",
-      "link": "https://www.boston.com/news/local-news/2026/07/19/juvenile-humpback-whale-washes-ashore-in-winthrop/",
-      "pubDate": "Sun, 19 Jul 2026 12:42:07 +0000",
-      "description": "<p>An investigation is underway into the death of the young whale, which was discovered lodged under a private dock on Wednesday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/19/juvenile-humpback-whale-washes-ashore-in-winthrop/\">Juvenile humpback whale washes ashore in Winthrop</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f1ba1c521f78cfa6d68d1211ba9ee0d7",
-      "summary": [
-        "Juvenile humpback whale found dead under a dock in Winthrop on Wednesday.",
-        "Investigation launched to determine the cause of death for the young whale.",
-        "Residents urged to report any stranded marine life to local authorities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Taylor Farms recalls lettuce shipped to 27 states, including Mass. and NH, over cyclospora risk",
-      "link": "https://www.boston.com/news/local-news/2026/07/19/taylor-farms-recalls-lettuce-shipped-to-27-states-including-mass-and-nh-over-cyclospora-risk/",
-      "pubDate": "Sun, 19 Jul 2026 12:11:42 +0000",
-      "description": "<p>The Taylor Farms recall announcement listed 25 shredded lettuce and salad mix products sold under eight different brand codes. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/19/taylor-farms-recalls-lettuce-shipped-to-27-states-including-mass-and-nh-over-cyclospora-risk/\">Taylor Farms recalls lettuce shipped to 27 states, including Mass. and NH, over cyclospora risk</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "247e58166ac4ccfda296413c78f9704c",
-      "summary": [
-        "Taylor Farms recalls 25 lettuce products due to cyclospora contamination risk.",
-        "Affected products shipped to 27 states, including Massachusetts and New Hampshire.",
-        "Boston residents should check for recalled items to avoid potential health risks."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
-      "link": "https://www.boston.com/news/crime/2026/07/19/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-us-marshals-service-tells-ap/",
-      "pubDate": "Sun, 19 Jul 2026 11:31:00 +0000",
-      "description": "<p>The pending charges in the United Kingdom accused the brothers of abusing women in an area north of London, where they grew up.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/19/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-us-marshals-service-tells-ap/\">Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d4accd30865b10ce87b9dff7faa85048",
-      "summary": [
-        "Andrew and Tristan Tate arrested in Miami by US Marshals on July 19.",
-        "Brothers face charges related to abuse of women in the UK.",
-        "Local residents may see increased scrutiny on social media influencers."
+        "Healey introduces 'The Great Divide Act' to regulate ticket resale prices in Massachusetts.",
+        "Proposal includes caps on resale prices and limits on fees for consumers.",
+        "Boston residents may benefit from fairer ticket pricing and reduced deceptive practices."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 4,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-19T13:24:08.263772+00:00"
+    "timestamp": "2026-07-19T14:59:13.153316+00:00"
   }
 }
