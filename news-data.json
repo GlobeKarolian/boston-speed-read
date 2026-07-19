@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-07-19T19:10:40.747657+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-19T20:54:27.219657+00:00",
+  "articles": [
+    {
+      "title": "Nolan\u2019s \u2018The Odyssey\u2019 storms the box office with a $264.1 million global debut",
+      "link": "https://www.boston.com/culture/entertainment/2026/07/19/nolans-the-odyssey-storms-the-box-office-with-a-264-1-million-global-debut/",
+      "pubDate": "Sun, 19 Jul 2026 20:01:00 +0000",
+      "description": "<p>Christopher Nolan\u2019s \u201cThe Odyssey\u201d launched with an estimated $124.5 million in domestic ticket sales and another $139.6 million from overseas, even better than the filmmaker's \u201cOppenheimer\u201d debut.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/07/19/nolans-the-odyssey-storms-the-box-office-with-a-264-1-million-global-debut/\">Nolan&rsquo;s &#8216;The Odyssey&#8217; storms the box office with a $264.1 million global debut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4ba814eb4cb2d778112a83a45679935c",
+      "summary": [
+        "Update: Nolan\u2019s \u2018The Odyssey\u2019 storms the box office with a",
+        "Details: <p>Christopher Nolan\u2019s \u201cThe Odyssey\u201d launched with",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-19T19:10:40.747664+00:00"
+    "timestamp": "2026-07-19T20:54:27.219677+00:00"
   }
 }
