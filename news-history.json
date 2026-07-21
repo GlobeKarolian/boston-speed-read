@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-07-21T02:56:03.533877+00:00",
+  "lastUpdated": "2026-07-21T13:59:51.291210+00:00",
   "articles": [
+    {
+      "title": "Boston City Councilor Henry Santana hospitalized",
+      "link": "https://www.boston.com/news/local-news/2026/07/21/boston-city-councilor-henry-santana-hospitalized/",
+      "pubDate": "Tue, 21 Jul 2026 13:49:24 +0000",
+      "description": "<p>Santana is undergoing testing at Brigham and Women\u2019s Hospital and will be away from City Hall for an extended period of time. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/boston-city-councilor-henry-santana-hospitalized/\">Boston City Councilor Henry Santana hospitalized</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cdcc81946cff84061fb68566897ac12",
+      "summary": [
+        "Update: Boston City Councilor Henry Santana hospitalized",
+        "Details: <p>Santana is undergoing testing at Brigham and Wo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A 127-foot yacht runs aground off the Cape",
+      "link": "https://www.boston.com/news/local-news/2026/07/21/a-127-foot-yacht-runs-aground-off-the-cape/",
+      "pubDate": "Tue, 21 Jul 2026 13:39:42 +0000",
+      "description": "<p>The luxury charter yacht had 13 people on board when it ran aground off the coast of Woods Hole in Falmouth. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/a-127-foot-yacht-runs-aground-off-the-cape/\">A 127-foot yacht runs aground off the Cape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d771d71c76ef825c6c0d9e7cb744aa9",
+      "summary": [
+        "Update: A 127-foot yacht runs aground off the Cape",
+        "Details: <p>The luxury charter yacht had 13 people on board",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 dead in attempt to save a struggling swimmer in an Ohio river, sheriff says",
+      "link": "https://www.boston.com/news/national-news/2026/07/21/5-dead-in-attempt-to-save-a-struggling-swimmer-in-an-ohio-river-sheriff-says/",
+      "pubDate": "Tue, 21 Jul 2026 13:28:03 +0000",
+      "description": "<p>A motorist called 911 after spotting a frightened child who was running along a nearby road to seek help.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/21/5-dead-in-attempt-to-save-a-struggling-swimmer-in-an-ohio-river-sheriff-says/\">5 dead in attempt to save a struggling swimmer in an Ohio river, sheriff says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c32a2559d282111e5220569b432ea218",
+      "summary": [
+        "Update: 5 dead in attempt to save a struggling swimmer in ",
+        "Details: <p>A motorist called 911 after spotting a frighten",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The 10-day Red Line shutdown has begun. Here\u2019s what to know.",
+      "link": "https://www.boston.com/news/transportation/2026/07/21/the-10-day-red-line-shutdown-has-begun/",
+      "pubDate": "Tue, 21 Jul 2026 13:04:14 +0000",
+      "description": "<p>The Red Line will be closed between Alewife and Park Street stations from July 21 through July 30.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/07/21/the-10-day-red-line-shutdown-has-begun/\">The 10-day Red Line shutdown has begun. Here&#8217;s what to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cf61c54a249e091927158f3eb0770b1c",
+      "summary": [
+        "Update: The 10-day Red Line shutdown has begun. Here\u2019s wha",
+        "Details: <p>The Red Line will be closed between Alewife and",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: Perched high, this solar-powered home on 52.6 acres showcases Vermont\u2019s natural beauty",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/21/tunbridge-vermont-solar-powered-house/",
+      "pubDate": "Tue, 21 Jul 2026 11:00:00 +0000",
+      "description": "<p>The owners built it to be energy efficient and private. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/21/tunbridge-vermont-solar-powered-house/\">Home of the Week: Perched high, this solar-powered home on 52.6 acres showcases Vermont\u2019s natural beauty</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e8badaa41fa78d7e542e1e4721a2e95",
+      "summary": [
+        "Update: Home of the Week: Perched high, this solar-powered",
+        "Details: <p>The owners built it to be energy efficient and ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Trump administration opens investigation into Harvard\u2019s financial aid for international students",
       "link": "https://www.boston.com/news/politics/2026/07/20/trump-administration-opens-investigation-into-harvards-financial-aid-for-international-students/",
@@ -583,71 +648,6 @@
         "Juvenile humpback whale found dead under a dock in Winthrop on Wednesday.",
         "Investigation launched to determine the cause of death for the young whale.",
         "Residents urged to report any stranded marine life to local authorities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Taylor Farms recalls lettuce shipped to 27 states, including Mass. and NH, over cyclospora risk",
-      "link": "https://www.boston.com/news/local-news/2026/07/19/taylor-farms-recalls-lettuce-shipped-to-27-states-including-mass-and-nh-over-cyclospora-risk/",
-      "pubDate": "Sun, 19 Jul 2026 12:11:42 +0000",
-      "description": "<p>The Taylor Farms recall announcement listed 25 shredded lettuce and salad mix products sold under eight different brand codes. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/19/taylor-farms-recalls-lettuce-shipped-to-27-states-including-mass-and-nh-over-cyclospora-risk/\">Taylor Farms recalls lettuce shipped to 27 states, including Mass. and NH, over cyclospora risk</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "247e58166ac4ccfda296413c78f9704c",
-      "summary": [
-        "Taylor Farms recalls 25 lettuce products due to cyclospora contamination risk.",
-        "Affected products shipped to 27 states, including Massachusetts and New Hampshire.",
-        "Boston residents should check for recalled items to avoid potential health risks."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
-      "link": "https://www.boston.com/news/crime/2026/07/19/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-us-marshals-service-tells-ap/",
-      "pubDate": "Sun, 19 Jul 2026 11:31:00 +0000",
-      "description": "<p>The pending charges in the United Kingdom accused the brothers of abusing women in an area north of London, where they grew up.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/19/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-us-marshals-service-tells-ap/\">Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d4accd30865b10ce87b9dff7faa85048",
-      "summary": [
-        "Andrew and Tristan Tate arrested in Miami by US Marshals on July 19.",
-        "Brothers face charges related to abuse of women in the UK.",
-        "Local residents may see increased scrutiny on social media influencers."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Jahmai Jones hits memorable first home run for Red Sox",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/18/mlb-red-sox-rays-highlights-jahmai-jones-home-run/",
-      "pubDate": "Sun, 19 Jul 2026 01:53:46 +0000",
-      "description": "<p>In front of the Fenway Crowd, Jones launched a two-run homer over the Green Monster Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/18/mlb-red-sox-rays-highlights-jahmai-jones-home-run/\">Jahmai Jones hits memorable first home run for Red Sox</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "166163a35f4f7b7a379f1250c91369f9",
-      "summary": [
-        "Jahmai Jones hit his first home run for the Red Sox on July 18, 2026.",
-        "The two-run homer cleared the Green Monster at Fenway Park.",
-        "This moment boosts local fan excitement and supports Jones's growing role in the team."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Wilyer Abreu joins elite Red Sox company following his back-to-back multi-HR games",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/18/mlb-red-sox-wilyer-abreu-multi-hr-highlights/",
-      "pubDate": "Sun, 19 Jul 2026 01:41:50 +0000",
-      "description": "<p>Abreu is the first Red Sox player to accomplish that feat since Mookie Betts in 2016.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/18/mlb-red-sox-wilyer-abreu-multi-hr-highlights/\">Wilyer Abreu joins elite Red Sox company following his back-to-back multi-HR games</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f682ed3a5eb13b66ed99fbbbdb1a4476",
-      "summary": [
-        "Wilyer Abreu hit back-to-back multi-HR games for the Red Sox.",
-        "Abreu is the first player since Mookie Betts in 2016 to achieve this.",
-        "His performance boosts fan excitement and team morale in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Red Sox extend season-altering win streak to 12 games in epic comeback fashion",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/18/red-sox-12-game-win-streak-rays/",
-      "pubDate": "Sun, 19 Jul 2026 01:31:11 +0000",
-      "description": "<p>Boston trailed by three runs entering the seventh inning. Naturally, it won.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/18/red-sox-12-game-win-streak-rays/\">Red Sox extend season-altering win streak to 12 games in epic comeback fashion</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9e3645446ce7ba84f8b17d06959e6a46",
-      "summary": [
-        "Red Sox achieved a 12-game win streak with a comeback victory over the Rays.",
-        "Boston overcame a three-run deficit in the seventh inning on July 18.",
-        "This winning streak boosts team morale and playoff hopes for local fans."
       ],
       "hookType": "LOCAL_IMPACT"
     }

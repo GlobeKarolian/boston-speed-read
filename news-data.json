@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-07-21T10:27:13.111909+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-21T13:59:51.290452+00:00",
+  "articles": [
+    {
+      "title": "Boston City Councilor Henry Santana hospitalized",
+      "link": "https://www.boston.com/news/local-news/2026/07/21/boston-city-councilor-henry-santana-hospitalized/",
+      "pubDate": "Tue, 21 Jul 2026 13:49:24 +0000",
+      "description": "<p>Santana is undergoing testing at Brigham and Women\u2019s Hospital and will be away from City Hall for an extended period of time. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/boston-city-councilor-henry-santana-hospitalized/\">Boston City Councilor Henry Santana hospitalized</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cdcc81946cff84061fb68566897ac12",
+      "summary": [
+        "Update: Boston City Councilor Henry Santana hospitalized",
+        "Details: <p>Santana is undergoing testing at Brigham and Wo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A 127-foot yacht runs aground off the Cape",
+      "link": "https://www.boston.com/news/local-news/2026/07/21/a-127-foot-yacht-runs-aground-off-the-cape/",
+      "pubDate": "Tue, 21 Jul 2026 13:39:42 +0000",
+      "description": "<p>The luxury charter yacht had 13 people on board when it ran aground off the coast of Woods Hole in Falmouth. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/a-127-foot-yacht-runs-aground-off-the-cape/\">A 127-foot yacht runs aground off the Cape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d771d71c76ef825c6c0d9e7cb744aa9",
+      "summary": [
+        "Update: A 127-foot yacht runs aground off the Cape",
+        "Details: <p>The luxury charter yacht had 13 people on board",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 dead in attempt to save a struggling swimmer in an Ohio river, sheriff says",
+      "link": "https://www.boston.com/news/national-news/2026/07/21/5-dead-in-attempt-to-save-a-struggling-swimmer-in-an-ohio-river-sheriff-says/",
+      "pubDate": "Tue, 21 Jul 2026 13:28:03 +0000",
+      "description": "<p>A motorist called 911 after spotting a frightened child who was running along a nearby road to seek help.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/21/5-dead-in-attempt-to-save-a-struggling-swimmer-in-an-ohio-river-sheriff-says/\">5 dead in attempt to save a struggling swimmer in an Ohio river, sheriff says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c32a2559d282111e5220569b432ea218",
+      "summary": [
+        "Update: 5 dead in attempt to save a struggling swimmer in ",
+        "Details: <p>A motorist called 911 after spotting a frighten",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "The 10-day Red Line shutdown has begun. Here\u2019s what to know.",
+      "link": "https://www.boston.com/news/transportation/2026/07/21/the-10-day-red-line-shutdown-has-begun/",
+      "pubDate": "Tue, 21 Jul 2026 13:04:14 +0000",
+      "description": "<p>The Red Line will be closed between Alewife and Park Street stations from July 21 through July 30.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/07/21/the-10-day-red-line-shutdown-has-begun/\">The 10-day Red Line shutdown has begun. Here&#8217;s what to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "cf61c54a249e091927158f3eb0770b1c",
+      "summary": [
+        "Update: The 10-day Red Line shutdown has begun. Here\u2019s wha",
+        "Details: <p>The Red Line will be closed between Alewife and",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: Perched high, this solar-powered home on 52.6 acres showcases Vermont\u2019s natural beauty",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/21/tunbridge-vermont-solar-powered-house/",
+      "pubDate": "Tue, 21 Jul 2026 11:00:00 +0000",
+      "description": "<p>The owners built it to be energy efficient and private. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/21/tunbridge-vermont-solar-powered-house/\">Home of the Week: Perched high, this solar-powered home on 52.6 acres showcases Vermont\u2019s natural beauty</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5e8badaa41fa78d7e542e1e4721a2e95",
+      "summary": [
+        "Update: Home of the Week: Perched high, this solar-powered",
+        "Details: <p>The owners built it to be energy efficient and ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-07-21T10:27:13.111918+00:00"
+    "timestamp": "2026-07-21T13:59:51.290472+00:00"
   }
 }
