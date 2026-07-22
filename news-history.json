@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-22T02:53:45.754712+00:00",
+  "lastUpdated": "2026-07-22T06:31:22.268946+00:00",
   "articles": [
+    {
+      "title": "BU signs $104M PILOT agreement with city, the largest in Boston history",
+      "link": "https://www.boston.com/news/local-news/2026/07/21/bu-signs-104m-pilot-agreement-with-city-the-largest-in-boston-history/",
+      "pubDate": "Wed, 22 Jul 2026 03:56:10 +0000",
+      "description": "<p>This is BU's first PILOT agreement in more than 25 years. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/bu-signs-104m-pilot-agreement-with-city-the-largest-in-boston-history/\">BU signs $104M PILOT agreement with city, the largest in Boston history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d3ac4e32c057fe2ba37f88da2900d4a",
+      "summary": [
+        "Update: BU signs $104M PILOT agreement with city, the larg",
+        "Details: <p>This is BU's first PILOT agreement in more than",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Logan Airport sees hundreds of delays and cancellations due to thunderstorms",
       "link": "https://www.boston.com/news/transportation/2026/07/21/logan-airport-sees-hundreds-of-delays-and-cancellations-due-to-thunderstorms/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Pamela Smart, serving life, seeks a new trial as a",
         "Details: <p>Smart, 58, attended the hearing remotely from t",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "2 arrested following commuter rail station carjacking",
-      "link": "https://www.boston.com/news/crime/2026/07/20/2-arrested-following-commuter-rail-station-carjacking/",
-      "pubDate": "Mon, 20 Jul 2026 15:18:24 +0000",
-      "description": "<p>A man was assaulted near the Norwood Central commuter rail station by two men before his car was stolen, police said. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/20/2-arrested-following-commuter-rail-station-carjacking/\">2 arrested following commuter rail station carjacking</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1aff1bc36b257029408b60a6ab88108b",
-      "summary": [
-        "Update: 2 arrested following commuter rail station carjack",
-        "Details: <p>A man was assaulted near the Norwood Central co",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

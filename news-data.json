@@ -1,49 +1,23 @@
 {
-  "lastUpdated": "2026-07-22T02:53:45.753893+00:00",
+  "lastUpdated": "2026-07-22T06:31:22.268159+00:00",
   "articles": [
     {
-      "title": "Logan Airport sees hundreds of delays and cancellations due to thunderstorms",
-      "link": "https://www.boston.com/news/transportation/2026/07/21/logan-airport-sees-hundreds-of-delays-and-cancellations-due-to-thunderstorms/",
-      "pubDate": "Wed, 22 Jul 2026 02:19:08 +0000",
-      "description": "<p>More than 300 flights were canceled and more than 400 flights were delayed, with rain expected to continue throughout the night. </p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/07/21/logan-airport-sees-hundreds-of-delays-and-cancellations-due-to-thunderstorms/\">Logan Airport sees hundreds of delays and cancellations due to thunderstorms</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9f37a15d3b6618a7f17b408a99781702",
+      "title": "BU signs $104M PILOT agreement with city, the largest in Boston history",
+      "link": "https://www.boston.com/news/local-news/2026/07/21/bu-signs-104m-pilot-agreement-with-city-the-largest-in-boston-history/",
+      "pubDate": "Wed, 22 Jul 2026 03:56:10 +0000",
+      "description": "<p>This is BU's first PILOT agreement in more than 25 years. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/bu-signs-104m-pilot-agreement-with-city-the-largest-in-boston-history/\">BU signs $104M PILOT agreement with city, the largest in Boston history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9d3ac4e32c057fe2ba37f88da2900d4a",
       "summary": [
-        "Update: Logan Airport sees hundreds of delays and cancella",
-        "Details: <p>More than 300 flights were canceled and more th",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Cape Cod influencer sues, says she was barred from JD Vance event because of social media posts mocking VP",
-      "link": "https://www.boston.com/news/local-news/2026/07/21/cape-cod-influencer-sues-says-she-was-barred-from-jd-vance-event-because-of-social-media-posts-mocking-vp/",
-      "pubDate": "Wed, 22 Jul 2026 01:17:11 +0000",
-      "description": "<p>\"The government simply can't retaliate against you for your political viewpoint.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/cape-cod-influencer-sues-says-she-was-barred-from-jd-vance-event-because-of-social-media-posts-mocking-vp/\">Cape Cod influencer sues, says she was barred from JD Vance event because of social media posts mocking VP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "016ccf16cd2156248053bb8a22e6c569",
-      "summary": [
-        "Update: Cape Cod influencer sues, says she was barred from",
-        "Details: <p>\"The government simply can't retaliate against ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "These 9 statewide ballot questions will be up for a vote in November",
-      "link": "https://www.boston.com/news/politics/2026/07/21/there-9-ballot-questions-will-be-up-for-a-vote-in-november/",
-      "pubDate": "Tue, 21 Jul 2026 23:50:17 +0000",
-      "description": "<p>The ballot measures range from adjusting the cap on state tax revenue and modifying the state's voting and election procedures to overturning previous legislation related to firearms and marijuana.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/21/there-9-ballot-questions-will-be-up-for-a-vote-in-november/\">These 9 statewide ballot questions will be up for a vote in November</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3ecee1ad3b6d60e16905cecd9b9d6816",
-      "summary": [
-        "Update: These 9 statewide ballot questions will be up for ",
-        "Details: <p>The ballot measures range from adjusting the ca",
+        "Update: BU signs $104M PILOT agreement with city, the larg",
+        "Details: <p>This is BU's first PILOT agreement in more than",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-22T02:53:45.753916+00:00"
+    "timestamp": "2026-07-22T06:31:22.268181+00:00"
   }
 }
