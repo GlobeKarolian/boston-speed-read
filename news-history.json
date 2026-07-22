@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-22T21:12:28.475500+00:00",
+  "lastUpdated": "2026-07-22T23:07:54.081155+00:00",
   "articles": [
+    {
+      "title": "Boston man charged with murder in Fourth of July weekend shooting on Blue Hill Ave.",
+      "link": "https://www.boston.com/news/local-news/2026/07/22/boston-man-charged-with-murder-in-fourth-of-july-weekend-shooting-on-blue-hill-ave/",
+      "pubDate": "Wed, 22 Jul 2026 21:48:04 +0000",
+      "description": "<p>The 24-year-old was held without bail, court records show. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/22/boston-man-charged-with-murder-in-fourth-of-july-weekend-shooting-on-blue-hill-ave/\">Boston man charged with murder in Fourth of July weekend shooting on Blue Hill Ave.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "829886569f8ac476379eab875c6f40c0",
+      "summary": [
+        "Update: Boston man charged with murder in Fourth of July w",
+        "Details: <p>The 24-year-old was held without bail, court re",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "After a truck blocked a bike lane, an irate Boston cyclist blocked a lane of traffic in retaliation",
       "link": "https://www.boston.com/news/local-news/2026/07/22/boston-cyclist-bike-lane-blocked-video/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: Boston City Councilor Henry Santana hospitalized",
         "Details: <p>Santana is undergoing testing at Brigham and Wo",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "A 127-foot yacht runs aground off the Cape",
-      "link": "https://www.boston.com/news/local-news/2026/07/21/a-127-foot-yacht-runs-aground-off-the-cape/",
-      "pubDate": "Tue, 21 Jul 2026 13:39:42 +0000",
-      "description": "<p>The luxury charter yacht had 13 people on board when it ran aground off the coast of Woods Hole in Falmouth. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/21/a-127-foot-yacht-runs-aground-off-the-cape/\">A 127-foot yacht runs aground off the Cape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6d771d71c76ef825c6c0d9e7cb744aa9",
-      "summary": [
-        "Update: A 127-foot yacht runs aground off the Cape",
-        "Details: <p>The luxury charter yacht had 13 people on board",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
