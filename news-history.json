@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-07-22T10:28:14.778153+00:00",
+  "lastUpdated": "2026-07-22T14:02:42.338239+00:00",
   "articles": [
+    {
+      "title": "Oversight commission suspends BPD officer\u2019s certification 2 years after misconduct allegations",
+      "link": "https://www.boston.com/news/local-news/2026/07/22/oversight-commission-suspends-bpd-officers-certification-2-years-after-misconduct-allegations/",
+      "pubDate": "Wed, 22 Jul 2026 13:57:41 +0000",
+      "description": "<p>The officer was accused of viewing or sharing graphic videos, records show.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/22/oversight-commission-suspends-bpd-officers-certification-2-years-after-misconduct-allegations/\">Oversight commission suspends BPD officer&#8217;s certification 2 years after misconduct allegations</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e1eb8e9c36bdc1d10023bd2fb6210e17",
+      "summary": [
+        "Update: Oversight commission suspends BPD officer\u2019s certif",
+        "Details: <p>The officer was accused of viewing or sharing g",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Health officials investigating possible harmful algae bloom in the Charles River after dog\u2019s death",
+      "link": "https://www.boston.com/news/local-news/2026/07/22/health-officials-investigating-possible-harmful-algae-bloom-in-the-charles-river/",
+      "pubDate": "Wed, 22 Jul 2026 13:57:05 +0000",
+      "description": "<p>The Boston Public Health Commission is warning residents to avoid the water between Kendrick Street in Needham and Spring Street in West Roxbury after a dog died earlier this week. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/22/health-officials-investigating-possible-harmful-algae-bloom-in-the-charles-river/\">Health officials investigating possible harmful algae bloom in the Charles River after dog&#8217;s death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7cd4b46176c82822afaa4b8eba12feaa",
+      "summary": [
+        "Update: Health officials investigating possible harmful al",
+        "Details: <p>The Boston Public Health Commission is warning ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Here\u2019s what Boston meteorologists are saying about the possibility of \u2018strong thunderstorms\u2019 Wednesday",
+      "link": "https://www.boston.com/weather/local-news/2026/07/22/heres-what-boston-meteorologists-are-saying-about-the-possibility-of-strong-thunderstorms-wednesday/",
+      "pubDate": "Wed, 22 Jul 2026 12:51:56 +0000",
+      "description": "<p>\"Should get the games in at Fenway today.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/07/22/heres-what-boston-meteorologists-are-saying-about-the-possibility-of-strong-thunderstorms-wednesday/\">Here&#8217;s what Boston meteorologists are saying about the possibility of &#8216;strong thunderstorms&#8217; Wednesday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "af8d0cada7b93ae35687351447077376",
+      "summary": [
+        "Update: Here\u2019s what Boston meteorologists are saying about",
+        "Details: <p>\"Should get the games in at Fenway today.\"</p>\n",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Sports radio WEEI will soon be available on SiriusXM satellite radio",
+      "link": "https://www.boston.com/sports/sports-news/2026/07/22/sports-radio-weei-will-soon-be-available-on-siriusxm-satellite-radio/",
+      "pubDate": "Wed, 22 Jul 2026 12:25:46 +0000",
+      "description": "<p>The deal does not affect WEEI\u2019s availability on its flagship station or on its regional affiliates throughout New England.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/07/22/sports-radio-weei-will-soon-be-available-on-siriusxm-satellite-radio/\">Sports radio WEEI will soon be available on SiriusXM satellite radio</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "914ff008966b159136d48e021f4aef9a",
+      "summary": [
+        "Update: Sports radio WEEI will soon be available on Sirius",
+        "Details: <p>The deal does not affect WEEI\u2019s availability on",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "This $1.25 million Gloucester home is like a time machine to the 1600s",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/07/22/william-haskell-house-gloucester/",
+      "pubDate": "Wed, 22 Jul 2026 11:00:00 +0000",
+      "description": "<p>Built in 1678, the William Haskell House looks about the same as it would have back then. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/07/22/william-haskell-house-gloucester/\">This $1.25 million Gloucester home is like a time machine to the 1600s</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f4ad5968595b310a78f3a4c1074a5f92",
+      "summary": [
+        "Update: This $1.25 million Gloucester home is like a time ",
+        "Details: <p>Built in 1678, the William Haskell House looks ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Recent homes sales in Greater Boston (July 22)",
       "link": "https://www.boston.com/real-estate/latest-sales/2026/07/22/recent-homes-sales-in-greater-boston-july-22/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: Community Healthlink more than doubles layoffs as ",
         "Details: <p>The Worcester-based behavioral health provider ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "New England soccer\u2019s thriving ecosystem views USL\u2019s promotion-relegation plan with excitement and uncertainty",
-      "link": "https://www.boston.com/sports/world-cup/2026/07/20/new-england-soccer-usl-promotion-relegation/",
-      "pubDate": "Mon, 20 Jul 2026 17:10:14 +0000",
-      "description": "<p>\u201cIt allows you a chance to dream.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/07/20/new-england-soccer-usl-promotion-relegation/\">New England soccer\u2019s thriving ecosystem views USL\u2019s promotion-relegation plan with excitement and uncertainty</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b120d8e8d6db1afae896cee6e711c853",
-      "summary": [
-        "Update: New England soccer\u2019s thriving ecosystem views USL\u2019",
-        "Details: <p>\u201cIt allows you a chance to dream.\u201d</p>\n<p>The p",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Mass. man, 91, found dead 11 days after going missing",
-      "link": "https://www.boston.com/news/local-news/2026/07/20/missing-man-elliott-blackwell-found-dead/",
-      "pubDate": "Mon, 20 Jul 2026 15:59:23 +0000",
-      "description": "<p>Authorities believe believe Elliott Blackwell, who had dementia, went missing while walking in the woods behind his home July 8. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/20/missing-man-elliott-blackwell-found-dead/\">Mass. man, 91, found dead 11 days after going missing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b19ead0c4d369aceed0ccac124f575f1",
-      "summary": [
-        "Update: Mass. man, 91, found dead 11 days after going miss",
-        "Details: <p>Authorities believe believe Elliott Blackwell, ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "U.S. soldiers killed by Iran were from Texas and Hawaii, military says",
-      "link": "https://www.boston.com/news/national-news/2026/07/20/u-s-soldiers-killed-by-iran-were-from-texas-and-hawaii-military-says/",
-      "pubDate": "Mon, 20 Jul 2026 15:57:09 +0000",
-      "description": "<p>The Defense Department said in a statement that 1st Lt. Tyler James Feehan, 25, of Ewa Beach, Hawaii, and Pvt. Isabella Gonzales, 19, of Carrollton, Texas, were killed in Jordan.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/20/u-s-soldiers-killed-by-iran-were-from-texas-and-hawaii-military-says/\">U.S. soldiers killed by Iran were from Texas and Hawaii, military says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e96b177f369cf0d85a8049a85449f8bb",
-      "summary": [
-        "Update: U.S. soldiers killed by Iran were from Texas and H",
-        "Details: <p>The Defense Department said in a statement that",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Robert Kraft was treated to an awkward Trump reference about the New England Revolution",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/07/20/robert-kraft-donald-trump-world-cup-revolution-patriots-reference/",
-      "pubDate": "Mon, 20 Jul 2026 15:56:20 +0000",
-      "description": "<p>\"He's OK with that actually in this country.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/07/20/robert-kraft-donald-trump-world-cup-revolution-patriots-reference/\">Robert Kraft was treated to an awkward Trump reference about the New England Revolution</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "37de98b608a106958c021b5367e8d2df",
-      "summary": [
-        "Update: Robert Kraft was treated to an awkward Trump refer",
-        "Details: <p>\"He's OK with that actually in this country.\"</",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Person in custody after smoke and flames erupt outside New York federal building, FBI says",
-      "link": "https://www.boston.com/news/national-news/2026/07/20/incendiary-device-erupts-outside-new-york-federal-building-fbi-says-person-in-custody/",
-      "pubDate": "Mon, 20 Jul 2026 15:41:49 +0000",
-      "description": "<p>The individual in custody, whose name has not been released, was reportedly carrying anti-ICE material.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/07/20/incendiary-device-erupts-outside-new-york-federal-building-fbi-says-person-in-custody/\">Person in custody after smoke and flames erupt outside New York federal building, FBI says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e364d82e6510c3da0adaf534fce9d968",
-      "summary": [
-        "Update: Person in custody after smoke and flames erupt out",
-        "Details: <p>The individual in custody, whose name has not b",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
