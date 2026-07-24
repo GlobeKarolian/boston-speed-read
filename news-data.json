@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-07-24T10:21:50.101389+00:00",
+  "lastUpdated": "2026-07-24T13:50:57.080588+00:00",
   "articles": [
     {
-      "title": "Transit advocates call the Orange Line extension proposal \u2018not very serious.\u2019 Two Boston councilors say it\u2019s overdue.",
-      "link": "https://www.boston.com/news/local-news/2026/07/24/transit-advocates-call-the-orange-line-extension-proposal-not-very-serious-two-boston-councilors-say-its-overdue/",
-      "pubDate": "Fri, 24 Jul 2026 09:00:00 +0000",
-      "description": "<p>While a proposed Orange Line extension could take 15 to 20 years to finish, the bus project is a more \u201cnear-term improvement,\u201d a transit advocate said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/24/transit-advocates-call-the-orange-line-extension-proposal-not-very-serious-two-boston-councilors-say-its-overdue/\">Transit advocates call the Orange Line extension proposal &#8216;not very serious.&#8217; Two Boston councilors say it&#8217;s overdue.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7b2c6ee1f436d6da95b683809e46530e",
+      "title": "Review & setlist: Ariana Grande returns to the stage \u2014 and proves she was worth the wait",
+      "link": "https://www.boston.com/culture/concert-reviews/2026/07/24/review-setlist-ariana-grande-at-td-garden-july-23-2026/",
+      "pubDate": "Fri, 24 Jul 2026 13:41:29 +0000",
+      "description": "<p>The pop superstar returned to TD Garden with astonishing vocals, nostalgic hits, and a theatrical production that reminded fans why she\u2019s one of pop\u2019s defining performers. </p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/07/24/review-setlist-ariana-grande-at-td-garden-july-23-2026/\">Review &amp; setlist: Ariana Grande returns to the stage \u2014 and proves she was worth the wait</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1c629aca6c792dffd7ae9f49ff4cb917",
       "summary": [
-        "Update: Transit advocates call the Orange Line extension p",
-        "Details: <p>While a proposed Orange Line extension could ta",
+        "Update: Review & setlist: Ariana Grande returns to the sta",
+        "Details: <p>The pop superstar returned to TD Garden with as",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Meet the people behind New England\u2019s most iconic travel experiences",
+      "link": "https://www.boston.com/travel/scenic-six/2026/07/24/meet-the-people-behind-new-englands-most-iconic-travel-experiences/",
+      "pubDate": "Fri, 24 Jul 2026 13:07:10 +0000",
+      "description": "<p>Plus: New England\u2019s largest Renaissance festival, a View Boston summer special, and more.</p>\n<p>The post <a href=\"https://www.boston.com/travel/scenic-six/2026/07/24/meet-the-people-behind-new-englands-most-iconic-travel-experiences/\">Meet the people behind New England&#8217;s most iconic travel experiences</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "41980163fe43c34fc2a4bad42d02412d",
+      "summary": [
+        "Update: Meet the people behind New England\u2019s most iconic t",
+        "Details: <p>Plus: New England\u2019s largest Renaissance festiva",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Local obituary: Christopher Affleck, mother to Ben and Casey, dies at 83",
+      "link": "https://www.boston.com/news/massachusetts-obituaries/2026/07/24/local-obituary-christopher-affleck-mother-to-ben-and-casey-dies-at-83/",
+      "pubDate": "Fri, 24 Jul 2026 12:24:15 +0000",
+      "description": "<p>\"Every student, whether just arrived from Haiti or Cambridge upper crust, was a cherished citizen of her classroom republic, equal to each other and to herself.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2026/07/24/local-obituary-christopher-affleck-mother-to-ben-and-casey-dies-at-83/\">Local obituary: Christopher Affleck, mother to Ben and Casey, dies at 83</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "37198a418efcb9b2c76bb9f22001389b",
+      "summary": [
+        "Update: Local obituary: Christopher Affleck, mother to Ben",
+        "Details: <p>\"Every student, whether just arrived from Haiti",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the Remodeler: Where to donate appliances and fixtures prior to your home renovation in Greater Boston",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/07/24/home-remodel-donate-appliances-fixtures-boston/",
+      "pubDate": "Fri, 24 Jul 2026 11:00:00 +0000",
+      "description": "<p>Before ripping out your kitchen cabinets and appliances, consider donating them to be recycled in someone else\u2019s home   </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/07/24/home-remodel-donate-appliances-fixtures-boston/\">Ask the Remodeler: Where to donate appliances and fixtures prior to your home renovation in Greater Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e482c424bba6ffaca1761cfeffe1fdcc",
+      "summary": [
+        "Update: Ask the Remodeler: Where to donate appliances and ",
+        "Details: <p>Before ripping out your kitchen cabinets and ap",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-07-24T10:21:50.101410+00:00"
+    "timestamp": "2026-07-24T13:50:57.080610+00:00"
   }
 }
