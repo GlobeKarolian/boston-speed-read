@@ -1,36 +1,23 @@
 {
-  "lastUpdated": "2026-07-24T19:34:11.128365+00:00",
+  "lastUpdated": "2026-07-24T21:06:31.271047+00:00",
   "articles": [
     {
-      "title": "Cyclospora cases traced to hospital cafeteria in N.H.",
-      "link": "https://www.boston.com/news/health/2026/07/24/cyclospora-cases-new-hampshire-hospital-cafeteria/",
-      "pubDate": "Fri, 24 Jul 2026 18:58:35 +0000",
-      "description": "<p>Nine people who ate lettuce served at Cheshire Medical Center in Keene have become infected with the parasite, public health officials said. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/07/24/cyclospora-cases-new-hampshire-hospital-cafeteria/\">Cyclospora cases traced to hospital cafeteria in N.H.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4c677ad9be75490b2e40dca191589389",
+      "title": "CBS NFL analyst and former Cowboys QB Tony Romo arrested on suspicion of OWI",
+      "link": "https://www.boston.com/sports/nfl/2026/07/24/tony-romo-arrested-owi/",
+      "pubDate": "Fri, 24 Jul 2026 19:00:52 +0000",
+      "description": "<p>According to the Milwaukee County Sheriff\u2019s Office\u2019s arrest report, Romo performed poorly on field sobriety tests on Thursday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/nfl/2026/07/24/tony-romo-arrested-owi/\">CBS NFL analyst and former Cowboys QB Tony Romo arrested on suspicion of OWI</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5876d78273f41eb27e27ba999259cd90",
       "summary": [
-        "Update: Cyclospora cases traced to hospital cafeteria in N",
-        "Details: <p>Nine people who ate lettuce served at Cheshire ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Newport Folk Festival 2026: Live updates from the fest",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/07/24/newport-folk-festival-2026-live-updates-from-the-fest/",
-      "pubDate": "Fri, 24 Jul 2026 18:55:50 +0000",
-      "description": "<p>Follow along for all of the best photos, videos, and stories from all three days at this year's Newport Folk Festival.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/07/24/newport-folk-festival-2026-live-updates-from-the-fest/\">Newport Folk Festival 2026: Live updates from the fest</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "27c0172b04376f5d805f526bff65d3d1",
-      "summary": [
-        "Update: Newport Folk Festival 2026: Live updates from the ",
-        "Details: <p>Follow along for all of the best photos, videos",
+        "Update: CBS NFL analyst and former Cowboys QB Tony Romo ar",
+        "Details: <p>According to the Milwaukee County Sheriff\u2019s Off",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 2,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-24T19:34:11.128386+00:00"
+    "timestamp": "2026-07-24T21:06:31.271068+00:00"
   }
 }
