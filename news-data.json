@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-07-25T02:53:54.685911+00:00",
+  "lastUpdated": "2026-07-25T06:20:06.582734+00:00",
   "articles": [
     {
-      "title": "Red Sox No. 1 prospect Franklin Arias promoted to Triple-A Worcester",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/24/red-sox-no-1-prospect-franklin-arias-promoted-to-triple-a-worcester/",
-      "pubDate": "Sat, 25 Jul 2026 01:14:55 +0000",
-      "description": "<p>Arias, 20, is MLB's No. 7-ranked prospect.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/24/red-sox-no-1-prospect-franklin-arias-promoted-to-triple-a-worcester/\">Red Sox No. 1 prospect Franklin Arias promoted to Triple-A Worcester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "33fb98a59865b01f7919c5bb67b364e1",
+      "title": "Red Sox come back late, prevail in first game post-win streak",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/24/red-sox-blue-jays-recap-anthony-seigler/",
+      "pubDate": "Sat, 25 Jul 2026 03:33:42 +0000",
+      "description": "<p>Is another double-digit win streak en route to Boston? Time will tell.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/24/red-sox-blue-jays-recap-anthony-seigler/\">Red Sox come back late, prevail in first game post-win streak</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3ca6095709a0f691d38a88fa103fd80a",
       "summary": [
-        "Update: Red Sox No. 1 prospect Franklin Arias promoted to ",
-        "Details: <p>Arias, 20, is MLB's No. 7-ranked prospect.</p>\n",
+        "Update: Red Sox come back late, prevail in first game post",
+        "Details: <p>Is another double-digit win streak en route to ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Some people in Red Sox organization are reportedly \u2018questioning\u2019 Marcelo Mayer, Roman Anthony",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/24/mlb-red-sox-comments-roman-anthony-marcelo-mayer/",
+      "pubDate": "Sat, 25 Jul 2026 03:25:23 +0000",
+      "description": "<p>Interim manager Chad Tracy backed both Mayer and Anthony earlier in the week.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/24/mlb-red-sox-comments-roman-anthony-marcelo-mayer/\">Some people in Red Sox organization are reportedly &#8216;questioning&#8217; Marcelo Mayer, Roman Anthony</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e10898235536ef0ba0b81af0c4bce6ae",
+      "summary": [
+        "Update: Some people in Red Sox organization are reportedly",
+        "Details: <p>Interim manager Chad Tracy backed both Mayer an",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-25T02:53:54.685928+00:00"
+    "timestamp": "2026-07-25T06:20:06.582755+00:00"
   }
 }
