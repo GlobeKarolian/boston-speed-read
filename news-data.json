@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-07-25T19:12:14.439445+00:00",
+  "lastUpdated": "2026-07-25T20:56:10.869979+00:00",
   "articles": [
     {
-      "title": "Newport Folk Fest photos: An updating collections of images from the concerts and crowds",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/07/25/newport-folk-fest-2026-photos-an-updating-collections-of-images/",
-      "pubDate": "Sat, 25 Jul 2026 17:28:56 +0000",
-      "description": "<p>Photographer Ben Stas is there capturing the Newport Folk action all weekend.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/07/25/newport-folk-fest-2026-photos-an-updating-collections-of-images/\">Newport Folk Fest photos: An updating collections of images from the concerts and crowds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "346146d881a6dd8d55dd8e2d86304fa5",
+      "title": "5 takeaways from Day 1 of Patriots training camp",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/07/25/5-takeaways-from-day-1-of-patriots-training-camp/",
+      "pubDate": "Sat, 25 Jul 2026 20:25:29 +0000",
+      "description": "<p>From DeAndre Hopkins's presence to an update on Christian Gonzalez's contract negotiations, there was a lot to take in on Day 1. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/07/25/5-takeaways-from-day-1-of-patriots-training-camp/\">5 takeaways from Day 1 of Patriots training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d910ca00b97db6fc302d9a978904f2f8",
       "summary": [
-        "Update: Newport Folk Fest photos: An updating collections ",
-        "Details: <p>Photographer Ben Stas is there capturing the Ne",
+        "Update: 5 takeaways from Day 1 of Patriots training camp",
+        "Details: <p>From DeAndre Hopkins's presence to an update on",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Robert Kraft: Patriots made offer that would make Christian Gonzalez highest-paid CB in NFL history",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/07/25/patriots-christian-gonzalez-contract-robert-kraft-comments/",
+      "pubDate": "Sat, 25 Jul 2026 20:08:30 +0000",
+      "description": "<p>\"And coincidentally, it\u2019s the highest contract in Patriots franchise history.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/07/25/patriots-christian-gonzalez-contract-robert-kraft-comments/\">Robert Kraft: Patriots made offer that would make Christian Gonzalez highest-paid CB in NFL history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "992738cfeb1319764ecf0c7705ab9cb8",
+      "summary": [
+        "Update: Robert Kraft: Patriots made offer that would make ",
+        "Details: <p>\"And coincidentally, it\u2019s the highest contract ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-25T19:12:14.439463+00:00"
+    "timestamp": "2026-07-25T20:56:10.870000+00:00"
   }
 }
