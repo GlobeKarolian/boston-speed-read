@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-07-26T19:16:08.412474+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-26T21:01:53.639105+00:00",
+  "articles": [
+    {
+      "title": "5 takeaways from Day 2 of Patriots training camp",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/07/26/5-takeaways-from-day-2-of-patriots-training-camp-2/",
+      "pubDate": "Sun, 26 Jul 2026 20:36:14 +0000",
+      "description": "<p>Caleb Lomu worked with the starters at right tackle while the defense kept Drake Maye in check.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/07/26/5-takeaways-from-day-2-of-patriots-training-camp-2/\">5 takeaways from Day 2 of Patriots training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "107281243e052c6c5b73496ddbd081a1",
+      "summary": [
+        "Update: 5 takeaways from Day 2 of Patriots training camp",
+        "Details: <p>Caleb Lomu worked with the starters at right ta",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
+      "link": "https://www.boston.com/news/politics/2026/07/26/maine-democratic-delegates-choose-troy-jackson-as-new-nominee-to-face-us-sen-susan-collins/",
+      "pubDate": "Sun, 26 Jul 2026 20:17:43 +0000",
+      "description": "<p>Jackson replaces Graham Platner, who won the Democratic primary in June but withdrew from the race earlier this month following an allegation of sexual assault that Platner has denied. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/26/maine-democratic-delegates-choose-troy-jackson-as-new-nominee-to-face-us-sen-susan-collins/\">Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "104787dd119182f1b8b3b4780b19c31d",
+      "summary": [
+        "Update: Maine Democratic delegates choose Troy Jackson as ",
+        "Details: <p>Jackson replaces Graham Platner, who won the De",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-26T19:16:08.412483+00:00"
+    "timestamp": "2026-07-26T21:01:53.639124+00:00"
   }
 }
