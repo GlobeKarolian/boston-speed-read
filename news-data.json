@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-27T07:35:56.722367+00:00",
+  "lastUpdated": "2026-07-27T11:27:35.568306+00:00",
   "articles": [
     {
-      "title": "Shooting at a Seattle food festival leaves 2 dead and wounds 5, fire official says",
-      "link": "https://www.boston.com/news/crime/2026/07/26/2-dead-5-wounded-in-shooting-at-a-seattle-festival-official-says/",
-      "pubDate": "Mon, 27 Jul 2026 03:19:33 +0000",
-      "description": "<p>Two people died at the scene, said Grace Nu\u00f1ez, spokesperson for the Seattle Fire Department.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/26/2-dead-5-wounded-in-shooting-at-a-seattle-festival-official-says/\">Shooting at a Seattle food festival leaves 2 dead and wounds 5, fire official says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "25d6ba4c594db8ad2cf147580706e702",
+      "title": "A converted hydroelectric plant in Maine hits the market for $750,000",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/07/27/hydroelectric-plant-bristol-maine/",
+      "pubDate": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "description": "<p>The 1919 plant was converted to a residence in 2006. The property comes with two buildings. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/07/27/hydroelectric-plant-bristol-maine/\">A converted hydroelectric plant in Maine hits the market for $750,000</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bebe3a2f9b68b6156ad1b81b0c90099d",
       "summary": [
-        "Update: Shooting at a Seattle food festival leaves 2 dead ",
-        "Details: <p>Two people died at the scene, said Grace Nu\u00f1ez,",
+        "Update: A converted hydroelectric plant in Maine hits the ",
+        "Details: <p>The 1919 plant was converted to a residence in ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
@@ -18,6 +18,6 @@
   "stats": {
     "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-27T07:35:56.722388+00:00"
+    "timestamp": "2026-07-27T11:27:35.568329+00:00"
   }
 }

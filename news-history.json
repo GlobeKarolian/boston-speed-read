@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-27T07:35:56.734012+00:00",
+  "lastUpdated": "2026-07-27T11:27:35.569005+00:00",
   "articles": [
+    {
+      "title": "A converted hydroelectric plant in Maine hits the market for $750,000",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/07/27/hydroelectric-plant-bristol-maine/",
+      "pubDate": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "description": "<p>The 1919 plant was converted to a residence in 2006. The property comes with two buildings. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/07/27/hydroelectric-plant-bristol-maine/\">A converted hydroelectric plant in Maine hits the market for $750,000</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bebe3a2f9b68b6156ad1b81b0c90099d",
+      "summary": [
+        "Update: A converted hydroelectric plant in Maine hits the ",
+        "Details: <p>The 1919 plant was converted to a residence in ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Shooting at a Seattle food festival leaves 2 dead and wounds 5, fire official says",
       "link": "https://www.boston.com/news/crime/2026/07/26/2-dead-5-wounded-in-shooting-at-a-seattle-festival-official-says/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: New court docs reveal how scammers allegedly imper",
         "Details: <p>A Middleborough man and others face criminal ch",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "MassDOT unveils new renderings of the future Sagamore Bridge",
-      "link": "https://www.boston.com/news/local-news/2026/07/24/massdot-unveils-new-renderings-of-the-future-sagamore-bridge/",
-      "pubDate": "Fri, 24 Jul 2026 17:03:11 +0000",
-      "description": "<p>The replacement bridge will feature two spans, a sunset overlook, wider shoulders, and a separated path for pedestrians and cyclists.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/24/massdot-unveils-new-renderings-of-the-future-sagamore-bridge/\">MassDOT unveils new renderings of the future Sagamore Bridge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "853f9e87679649574ed62c8493dfc9f0",
-      "summary": [
-        "Update: MassDOT unveils new renderings of the future Sagam",
-        "Details: <p>The replacement bridge will feature two spans, ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
