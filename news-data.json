@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-07-27T11:27:35.568306+00:00",
+  "lastUpdated": "2026-07-27T14:42:41.780908+00:00",
   "articles": [
     {
-      "title": "A converted hydroelectric plant in Maine hits the market for $750,000",
-      "link": "https://www.boston.com/real-estate/on-the-market/2026/07/27/hydroelectric-plant-bristol-maine/",
-      "pubDate": "Mon, 27 Jul 2026 11:00:00 +0000",
-      "description": "<p>The 1919 plant was converted to a residence in 2006. The property comes with two buildings. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/07/27/hydroelectric-plant-bristol-maine/\">A converted hydroelectric plant in Maine hits the market for $750,000</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "bebe3a2f9b68b6156ad1b81b0c90099d",
+      "title": "Man and woman found dead in Lawrence",
+      "link": "https://www.boston.com/news/local-news/2026/07/27/man-and-woman-found-dead-in-lawrence/",
+      "pubDate": "Mon, 27 Jul 2026 13:59:28 +0000",
+      "description": "<p>Lawrence police responded to Willow Street just after midnight Saturday night.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/27/man-and-woman-found-dead-in-lawrence/\">Man and woman found dead in Lawrence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3d325169ad2bc82fa4c5faac745c1f82",
       "summary": [
-        "Update: A converted hydroelectric plant in Maine hits the ",
-        "Details: <p>The 1919 plant was converted to a residence in ",
+        "Update: Man and woman found dead in Lawrence",
+        "Details: <p>Lawrence police responded to Willow Street just",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 new dessert spots to satisfy your sweet tooth around Boston",
+      "link": "https://www.boston.com/food/restaurants/2026/07/27/5-new-dessert-shops-opening-summer-2026/",
+      "pubDate": "Mon, 27 Jul 2026 13:17:26 +0000",
+      "description": "<p>Boston's dessert scene is getting sweeter with new ice cream shops, shaved ice, Korean pastries, and handcrafted chocolates opening this summer and fall.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/07/27/5-new-dessert-shops-opening-summer-2026/\">5 new dessert spots to satisfy your sweet tooth around Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0ee48ce33469508fe9e2de82e6c2758c",
+      "summary": [
+        "Update: 5 new dessert spots to satisfy your sweet tooth ar",
+        "Details: <p>Boston's dessert scene is getting sweeter with ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Livestream: Lindsay Clancy murder trial begins with opening statements",
+      "link": "https://www.boston.com/news/crime/2026/07/27/lindsay-clancy-murder-trial-livestream-video-monday-july-27/",
+      "pubDate": "Mon, 27 Jul 2026 12:54:05 +0000",
+      "description": "<p>The Duxbury mother\u2019s mental health will be in the spotlight as she stands trial for killing her three children in 2023. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/27/lindsay-clancy-murder-trial-livestream-video-monday-july-27/\">Livestream: Lindsay Clancy murder trial begins with opening statements</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c0672515e7c94b17ef974ed18a6b1486",
+      "summary": [
+        "Update: Livestream: Lindsay Clancy murder trial begins wit",
+        "Details: <p>The Duxbury mother\u2019s mental health will be in t",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-07-27T11:27:35.568329+00:00"
+    "timestamp": "2026-07-27T14:42:41.780930+00:00"
   }
 }
