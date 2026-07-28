@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-07-28T06:28:57.051035+00:00",
+  "lastUpdated": "2026-07-28T14:14:57.512378+00:00",
   "articles": [
+    {
+      "title": "Boston Councilor Henry Santana discharged from hospital after extended stay",
+      "link": "https://www.boston.com/news/politics/2026/07/28/boston-councilor-henry-santana-discharged-from-hospital-after-extended-stay/",
+      "pubDate": "Tue, 28 Jul 2026 13:57:02 +0000",
+      "description": "<p>Santana, 30, received treatment at the Shapiro Cardiovascular Center in Brigham and Women's Hospital. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/28/boston-councilor-henry-santana-discharged-from-hospital-after-extended-stay/\">Boston Councilor Henry Santana discharged from hospital after extended stay</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9fbb987a86d4363db49424408e1ebc53",
+      "summary": [
+        "Update: Boston Councilor Henry Santana discharged from hos",
+        "Details: <p>Santana, 30, received treatment at the Shapiro ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Man found dead in vehicle outside Mass. police station following SWAT team response",
+      "link": "https://www.boston.com/news/local-news/2026/07/28/man-found-dead-in-vehicle-outside-mass-police-station-following-swat-team-response/",
+      "pubDate": "Tue, 28 Jul 2026 13:48:06 +0000",
+      "description": "<p>Mansfield Police Department had received a report of a man with a firearm inside a vehicle parked at the station.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/28/man-found-dead-in-vehicle-outside-mass-police-station-following-swat-team-response/\">Man found dead in vehicle outside Mass. police station following SWAT team response</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56a717e9729502123263683cc371f42d",
+      "summary": [
+        "Update: Man found dead in vehicle outside Mass. police sta",
+        "Details: <p>Mansfield Police Department had received a repo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "What\u2019s with the ghost ramp on I-93 in Somerville?",
+      "link": "https://www.boston.com/community/wickedpedia/2026/07/28/ghost-ramp-on-i-93-in-somerville/",
+      "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
+      "description": "<p>Maybe you\u2019ve spotted the ghost ramp off the highway in Somerville. It\u2019s been sitting unfinished for decades.</p>\n<p>The post <a href=\"https://www.boston.com/community/wickedpedia/2026/07/28/ghost-ramp-on-i-93-in-somerville/\">What&#8217;s with the ghost ramp on I-93 in Somerville?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56db07342601f024b55ec71455262fb1",
+      "summary": [
+        "Update: What\u2019s with the ghost ramp on I-93 in Somerville?",
+        "Details: <p>Maybe you\u2019ve spotted the ghost ramp off the hig",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: Twin cottages on Nantucket are being sold together for $2.5m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/28/nantucket-sconset-twin-cottages/",
+      "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
+      "description": "<p>The petite side-by-side studio homes are located in \u2018Sconset, a short walk from the water  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/28/nantucket-sconset-twin-cottages/\">Home of the Week: Twin cottages on Nantucket are being sold together for $2.5m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3afd837005f7d201a0789884109297c1",
+      "summary": [
+        "Update: Home of the Week: Twin cottages on Nantucket are b",
+        "Details: <p>The petite side-by-side studio homes are locate",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ceddanne Rafaela\u2019s grand slam sends Red Sox past A\u2019s 4-2",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/28/red-sox-as-score-ceddanne-rafaela/",
+      "pubDate": "Tue, 28 Jul 2026 04:39:58 +0000",
+      "description": "<p>It was the 18th victory in the last 20 games for Boston, and the first on the team's West Coast road trip.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/28/red-sox-as-score-ceddanne-rafaela/\">Ceddanne Rafaela&#8217;s grand slam sends Red Sox past A&#8217;s 4-2</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "12196db208b45617c6ea9267c5ba4de6",
+      "summary": [
+        "Update: Ceddanne Rafaela\u2019s grand slam sends Red Sox past A",
+        "Details: <p>It was the 18th victory in the last 20 games fo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "New Red Sox trade pickup Curtis Mead leaves Boston debut after getting hit by pitch",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/07/27/boston-red-sox-curtis-mead-injury-hit-by-pitch-wrist-mlb-baseball/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: Man who sexually assaulted, murdered teen in Frami",
         "Details: <p>The man, who pleaded guilty to second-degree mu",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "4 takeaways from the Revolution\u2019s 4-1 win over Atlanta United",
-      "link": "https://www.boston.com/sports/new-england-revolution/2026/07/26/4-takeaways-from-the-revolutions-4-1-win-over-atlanta-united/",
-      "pubDate": "Sun, 26 Jul 2026 12:25:06 +0000",
-      "description": "<p>Midfield control, a nice night for Dor Turgeman, and a Jack Harrison sighting.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/07/26/4-takeaways-from-the-revolutions-4-1-win-over-atlanta-united/\">4 takeaways from the Revolution&#8217;s 4-1 win over Atlanta United</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9359a896f71c4aa69db7b783123dd166",
-      "summary": [
-        "Update: 4 takeaways from the Revolution\u2019s 4-1 win over Atl",
-        "Details: <p>Midfield control, a nice night for Dor Turgeman",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "German police hunt suspect in Berlin Pride van-ramming attack that left 1 dead and 16 injured",
-      "link": "https://www.boston.com/news/cars/2026/07/26/german-police-hunt-suspect-in-berlin-pride-van-ramming-attack-that-left-1-dead-and-16-injured/",
-      "pubDate": "Sun, 26 Jul 2026 12:04:48 +0000",
-      "description": "<p>Police had said earlier that they had identified a suspect who has ties to Islamic groups in the German capital.</p>\n<p>The post <a href=\"https://www.boston.com/news/cars/2026/07/26/german-police-hunt-suspect-in-berlin-pride-van-ramming-attack-that-left-1-dead-and-16-injured/\">German police hunt suspect in Berlin Pride van-ramming attack that left 1 dead and 16 injured</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "815efd12dcad339a3804921c8fed5b2b",
-      "summary": [
-        "Update: German police hunt suspect in Berlin Pride van-ram",
-        "Details: <p>Police had said earlier that they had identifie",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "5 things to know about new Red Sox infielder Curtis Mead",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/26/boston-red-sox-trade-curtis-mead-mlb-baseball-things-to-know-connelly-early/",
-      "pubDate": "Sun, 26 Jul 2026 11:12:47 +0000",
-      "description": "<p>Curtis Mead is in the middle of a breakout season in 2026 \u2014 clubbing 17 home runs in 87 games with Washington. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/26/boston-red-sox-trade-curtis-mead-mlb-baseball-things-to-know-connelly-early/\">5 things to know about new Red Sox infielder Curtis Mead</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e0349834444a92e749dcd5d3fcf539e4",
-      "summary": [
-        "Update: 5 things to know about new Red Sox infielder Curti",
-        "Details: <p>Curtis Mead is in the middle of a breakout seas",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Report: Red Sox trade LHP Connelly Early to Nationals for INF Curtis Mead",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/25/mlb-red-sox-trade-news-curtis-mead-connelly-early/",
-      "pubDate": "Sun, 26 Jul 2026 03:51:23 +0000",
-      "description": "<p>Mead has 17 home runs this season.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/25/mlb-red-sox-trade-news-curtis-mead-connelly-early/\">Report: Red Sox trade LHP Connelly Early to Nationals for INF Curtis Mead</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1b9b9dfa3c23bbcc86e6897c7d990fc9",
-      "summary": [
-        "Update: Report: Red Sox trade LHP Connelly Early to Nation",
-        "Details: <p>Mead has 17 home runs this season.</p>\n<p>The p",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Revolution sign winger Jack Harrison as a Designated Player from Leeds United",
-      "link": "https://www.boston.com/sports/new-england-revolution/2026/07/25/jack-harrison-revolution-signing-leeds-united-official/",
-      "pubDate": "Sun, 26 Jul 2026 00:07:01 +0000",
-      "description": "<p>Harrison's background includes attending the Berkshire School before he became a professional.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-revolution/2026/07/25/jack-harrison-revolution-signing-leeds-united-official/\">Revolution sign winger Jack Harrison as a Designated Player from Leeds United</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4c0b91e1890f5c879161142736485256",
-      "summary": [
-        "Update: Revolution sign winger Jack Harrison as a Designat",
-        "Details: <p>Harrison's background includes attending the Be",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

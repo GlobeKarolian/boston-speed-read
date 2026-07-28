@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-07-28T10:39:00.144599+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-28T14:14:57.511492+00:00",
+  "articles": [
+    {
+      "title": "Boston Councilor Henry Santana discharged from hospital after extended stay",
+      "link": "https://www.boston.com/news/politics/2026/07/28/boston-councilor-henry-santana-discharged-from-hospital-after-extended-stay/",
+      "pubDate": "Tue, 28 Jul 2026 13:57:02 +0000",
+      "description": "<p>Santana, 30, received treatment at the Shapiro Cardiovascular Center in Brigham and Women's Hospital. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/28/boston-councilor-henry-santana-discharged-from-hospital-after-extended-stay/\">Boston Councilor Henry Santana discharged from hospital after extended stay</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9fbb987a86d4363db49424408e1ebc53",
+      "summary": [
+        "Update: Boston Councilor Henry Santana discharged from hos",
+        "Details: <p>Santana, 30, received treatment at the Shapiro ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Man found dead in vehicle outside Mass. police station following SWAT team response",
+      "link": "https://www.boston.com/news/local-news/2026/07/28/man-found-dead-in-vehicle-outside-mass-police-station-following-swat-team-response/",
+      "pubDate": "Tue, 28 Jul 2026 13:48:06 +0000",
+      "description": "<p>Mansfield Police Department had received a report of a man with a firearm inside a vehicle parked at the station.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/28/man-found-dead-in-vehicle-outside-mass-police-station-following-swat-team-response/\">Man found dead in vehicle outside Mass. police station following SWAT team response</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56a717e9729502123263683cc371f42d",
+      "summary": [
+        "Update: Man found dead in vehicle outside Mass. police sta",
+        "Details: <p>Mansfield Police Department had received a repo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "What\u2019s with the ghost ramp on I-93 in Somerville?",
+      "link": "https://www.boston.com/community/wickedpedia/2026/07/28/ghost-ramp-on-i-93-in-somerville/",
+      "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
+      "description": "<p>Maybe you\u2019ve spotted the ghost ramp off the highway in Somerville. It\u2019s been sitting unfinished for decades.</p>\n<p>The post <a href=\"https://www.boston.com/community/wickedpedia/2026/07/28/ghost-ramp-on-i-93-in-somerville/\">What&#8217;s with the ghost ramp on I-93 in Somerville?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56db07342601f024b55ec71455262fb1",
+      "summary": [
+        "Update: What\u2019s with the ghost ramp on I-93 in Somerville?",
+        "Details: <p>Maybe you\u2019ve spotted the ghost ramp off the hig",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: Twin cottages on Nantucket are being sold together for $2.5m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/07/28/nantucket-sconset-twin-cottages/",
+      "pubDate": "Tue, 28 Jul 2026 11:00:00 +0000",
+      "description": "<p>The petite side-by-side studio homes are located in \u2018Sconset, a short walk from the water  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/07/28/nantucket-sconset-twin-cottages/\">Home of the Week: Twin cottages on Nantucket are being sold together for $2.5m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3afd837005f7d201a0789884109297c1",
+      "summary": [
+        "Update: Home of the Week: Twin cottages on Nantucket are b",
+        "Details: <p>The petite side-by-side studio homes are locate",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ceddanne Rafaela\u2019s grand slam sends Red Sox past A\u2019s 4-2",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/28/red-sox-as-score-ceddanne-rafaela/",
+      "pubDate": "Tue, 28 Jul 2026 04:39:58 +0000",
+      "description": "<p>It was the 18th victory in the last 20 games for Boston, and the first on the team's West Coast road trip.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/28/red-sox-as-score-ceddanne-rafaela/\">Ceddanne Rafaela&#8217;s grand slam sends Red Sox past A&#8217;s 4-2</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "12196db208b45617c6ea9267c5ba4de6",
+      "summary": [
+        "Update: Ceddanne Rafaela\u2019s grand slam sends Red Sox past A",
+        "Details: <p>It was the 18th victory in the last 20 games fo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-07-28T10:39:00.144608+00:00"
+    "timestamp": "2026-07-28T14:14:57.511512+00:00"
   }
 }
