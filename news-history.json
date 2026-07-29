@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-07-29T17:17:56.787013+00:00",
+  "lastUpdated": "2026-07-29T19:21:09.436699+00:00",
   "articles": [
+    {
+      "title": "What to know about the Green Line shutdowns planned for August",
+      "link": "https://www.boston.com/news/transportation/2026/07/29/green-line-shutdowns-august/",
+      "pubDate": "Wed, 29 Jul 2026 17:36:21 +0000",
+      "description": "<p>The MBTA announced service changes in August to support tunnel upgrades and ongoing accessibility improvements to the Green Line. </p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/07/29/green-line-shutdowns-august/\">What to know about the Green Line shutdowns planned for August</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7f70f47e5dc8f10274b48da01bcf4760",
+      "summary": [
+        "MBTA plans Green Line shutdowns in August for tunnel upgrades and accessibility improvements.",
+        "Shutdowns will affect multiple stations, impacting thousands of daily commuters.",
+        "Residents should prepare for service changes and potential delays during the upgrades."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Suffolk corrections officer killed after stopping to help stranded motorist in Boxford",
+      "link": "https://www.boston.com/news/local-news/2026/07/29/suffolk-corrections-officer-killed-after-stopping-to-help-stranded-motorist-in-boxford/",
+      "pubDate": "Wed, 29 Jul 2026 17:32:27 +0000",
+      "description": "<p>The 51-year-old was struck Monday evening while assisting another driver and later died at a hospital, authorities said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/29/suffolk-corrections-officer-killed-after-stopping-to-help-stranded-motorist-in-boxford/\">Suffolk corrections officer killed after stopping to help stranded motorist in Boxford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e297bde1ff4c57dfbb8fdc143d452cbc",
+      "summary": [
+        "Suffolk corrections officer, 51, was killed while assisting a stranded motorist in Boxford.",
+        "The officer was struck on Monday evening and later died at a hospital.",
+        "This incident raises concerns about safety for drivers and first responders in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Review & setlist: Tame Impala reimagines the bounds of arena rock at TD Garden",
       "link": "https://www.boston.com/culture/concert-reviews/2026/07/29/tame-impala-td-garden-setlist-review/",
@@ -621,32 +647,6 @@
       "summary": [
         "Update: Cracker Barrel CEO steps down a year after logo de",
         "Details: <p>Cracker Barrel said Monday that CEO Julie Masin",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Circus performer accidentally shot in neck with arrow at New York county fair",
-      "link": "https://www.boston.com/culture/national-news/2026/07/27/circus-performer-accidentally-shot-in-neck-with-arrow-at-new-york-county-fair/",
-      "pubDate": "Mon, 27 Jul 2026 20:26:49 +0000",
-      "description": "<p>Ana Daza Tavera, 42, and Edwin Cuervo Rangel, 38, a married couple from Waukesha, Wisconsin, had been performing their crossbow sharpshooting act when she accidentally struck him in the neck with an arrow as he held up a foam target, police said.</p>\n<p>The post <a href=\"https://www.boston.com/culture/national-news/2026/07/27/circus-performer-accidentally-shot-in-neck-with-arrow-at-new-york-county-fair/\">Circus performer accidentally shot in neck with arrow at New York county fair</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8b7ed24e9d9353496c14f83be4a49a0e",
-      "summary": [
-        "Update: Circus performer accidentally shot in neck with ar",
-        "Details: <p>Ana Daza Tavera, 42, and Edwin Cuervo Rangel, 3",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms",
-      "link": "https://www.boston.com/news/politics/2026/07/27/trump-administration-urges-supreme-court-to-allow-order-targeting-mail-in-voting-before-midterms/",
-      "pubDate": "Mon, 27 Jul 2026 20:14:28 +0000",
-      "description": "<p>The emergency appeal comes after an\u00a0appeals court upheld\u00a0a ruling blocking the\u00a0president\u2019s order\u00a0in nearly half the country ahead of November\u2019s midterm elections.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/27/trump-administration-urges-supreme-court-to-allow-order-targeting-mail-in-voting-before-midterms/\">Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7d08566e7bb803bc2ff038a4383c184b",
-      "summary": [
-        "Update: Trump administration urges Supreme Court to allow ",
-        "Details: <p>The emergency appeal comes after an\u00a0appeals cou",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
