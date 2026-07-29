@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-07-29T02:53:21.478501+00:00",
+  "lastUpdated": "2026-07-29T10:41:56.534613+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (July 29)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/07/29/recent-homes-sales-in-greater-boston-july-29/",
+      "pubDate": "Wed, 29 Jul 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 101 Highfields Road. One-family Cape Cod, built in 1966, 1,726 square feet, 5 rooms, 2 bedrooms, 2 baths, on 24,375-square-foot lot. $815,000 153 Pilgrim St. One-family Cape Cod, built in 1965, 1,428 square feet, 7 rooms, 4 bedrooms, 2 baths, on 22,632-square-foot lot. $700,000 210 Regency Lane #210 Condo/Apt, built in 2003, 1,850 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/07/29/recent-homes-sales-in-greater-boston-july-29/\">Recent homes sales in Greater Boston (July 29)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e25ca83ce1c901f817426798ec274a4",
+      "summary": [
+        "Abington home sales include a Cape Cod at 101 Highfields Road for $815,000.",
+        "Another Cape Cod at 153 Pilgrim St sold for $700,000, highlighting market activity.",
+        "These sales indicate rising home values, affecting affordability for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Olney: Red Sox have expressed interest in Marlins All-Star Otto Lopez",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/07/28/boston-red-sox-trade-rumors-mlb-baseball-otto-lopez-marlins/",
@@ -634,19 +647,6 @@
       "summary": [
         "Update: UNC places football GM Michael Lombardi on paid ad",
         "Details: <p>The school announced the move with a statement ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Man and woman found dead in Lawrence",
-      "link": "https://www.boston.com/news/local-news/2026/07/27/man-and-woman-found-dead-in-lawrence/",
-      "pubDate": "Mon, 27 Jul 2026 13:59:28 +0000",
-      "description": "<p>Lawrence police responded to Willow Street just after midnight Saturday night.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/27/man-and-woman-found-dead-in-lawrence/\">Man and woman found dead in Lawrence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3d325169ad2bc82fa4c5faac745c1f82",
-      "summary": [
-        "Update: Man and woman found dead in Lawrence",
-        "Details: <p>Lawrence police responded to Willow Street just",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"

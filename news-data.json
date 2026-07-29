@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-07-29T06:33:56.931379+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-29T10:41:56.533832+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (July 29)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/07/29/recent-homes-sales-in-greater-boston-july-29/",
+      "pubDate": "Wed, 29 Jul 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 101 Highfields Road. One-family Cape Cod, built in 1966, 1,726 square feet, 5 rooms, 2 bedrooms, 2 baths, on 24,375-square-foot lot. $815,000 153 Pilgrim St. One-family Cape Cod, built in 1965, 1,428 square feet, 7 rooms, 4 bedrooms, 2 baths, on 22,632-square-foot lot. $700,000 210 Regency Lane #210 Condo/Apt, built in 2003, 1,850 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/07/29/recent-homes-sales-in-greater-boston-july-29/\">Recent homes sales in Greater Boston (July 29)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2e25ca83ce1c901f817426798ec274a4",
+      "summary": [
+        "Abington home sales include a Cape Cod at 101 Highfields Road for $815,000.",
+        "Another Cape Cod at 153 Pilgrim St sold for $700,000, highlighting market activity.",
+        "These sales indicate rising home values, affecting affordability for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-07-29T06:33:56.931386+00:00"
+    "timestamp": "2026-07-29T10:41:56.533853+00:00"
   }
 }
