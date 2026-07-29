@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-07-29T19:21:09.435833+00:00",
+  "lastUpdated": "2026-07-29T20:59:13.934381+00:00",
   "articles": [
     {
-      "title": "What to know about the Green Line shutdowns planned for August",
-      "link": "https://www.boston.com/news/transportation/2026/07/29/green-line-shutdowns-august/",
-      "pubDate": "Wed, 29 Jul 2026 17:36:21 +0000",
-      "description": "<p>The MBTA announced service changes in August to support tunnel upgrades and ongoing accessibility improvements to the Green Line. </p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/07/29/green-line-shutdowns-august/\">What to know about the Green Line shutdowns planned for August</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7f70f47e5dc8f10274b48da01bcf4760",
+      "title": "Cyclist, 39, killed in Stoughton crash",
+      "link": "https://www.boston.com/news/local-news/2026/07/29/cyclist-39-killed-in-stoughton-crash/",
+      "pubDate": "Wed, 29 Jul 2026 20:51:23 +0000",
+      "description": "<p>Mark Salvador, 39, of Stoughton, was killed in a crash Wednesday morning, officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/29/cyclist-39-killed-in-stoughton-crash/\">Cyclist, 39, killed in Stoughton crash</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "542a851f9657a241d678d21c38f783f8",
       "summary": [
-        "MBTA plans Green Line shutdowns in August for tunnel upgrades and accessibility improvements.",
-        "Shutdowns will affect multiple stations, impacting thousands of daily commuters.",
-        "Residents should prepare for service changes and potential delays during the upgrades."
+        "Mark Salvador, 39, was killed in a Stoughton crash on Wednesday morning.",
+        "The incident raises concerns about cyclist safety in the Boston area.",
+        "Local officials may review traffic regulations to enhance cyclist protection."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Suffolk corrections officer killed after stopping to help stranded motorist in Boxford",
-      "link": "https://www.boston.com/news/local-news/2026/07/29/suffolk-corrections-officer-killed-after-stopping-to-help-stranded-motorist-in-boxford/",
-      "pubDate": "Wed, 29 Jul 2026 17:32:27 +0000",
-      "description": "<p>The 51-year-old was struck Monday evening while assisting another driver and later died at a hospital, authorities said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/29/suffolk-corrections-officer-killed-after-stopping-to-help-stranded-motorist-in-boxford/\">Suffolk corrections officer killed after stopping to help stranded motorist in Boxford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e297bde1ff4c57dfbb8fdc143d452cbc",
+      "title": "Wu unveiled a street safety plan after a cyclist was killed. Transit advocates say it doesn\u2019t go far enough.",
+      "link": "https://www.boston.com/news/local-news/2026/07/29/wu-unveiled-a-street-safety-plan-after-a-cyclist-was-killed-transit-advocates-say-it-doesnt-go-far-enough/",
+      "pubDate": "Wed, 29 Jul 2026 20:43:14 +0000",
+      "description": "<p>\u201cThis letter doubles-down on the same, never-ending community process that ensures, as we\u2019ve seen in the last year, that nothing gets built,\u201d one advocate says.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/29/wu-unveiled-a-street-safety-plan-after-a-cyclist-was-killed-transit-advocates-say-it-doesnt-go-far-enough/\">Wu unveiled a street safety plan after a cyclist was killed. Transit advocates say it doesn\u2019t go far enough.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8673a90a4d875b99ded4193652a25db8",
       "summary": [
-        "Suffolk corrections officer, 51, was killed while assisting a stranded motorist in Boxford.",
-        "The officer was struck on Monday evening and later died at a hospital.",
-        "This incident raises concerns about safety for drivers and first responders in Boston."
+        "Mayor Wu unveiled a new street safety plan following a cyclist's death in Boston.",
+        "Transit advocates criticize the plan for lacking urgency and effectiveness in improving safety.",
+        "Residents fear continued delays in infrastructure improvements could lead to more accidents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-07-29T19:21:09.435855+00:00"
+    "timestamp": "2026-07-29T20:59:13.934405+00:00"
   }
 }
