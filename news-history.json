@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-07-31T19:38:40.504386+00:00",
+  "lastUpdated": "2026-07-31T21:08:51.552253+00:00",
   "articles": [
+    {
+      "title": "Massachusetts falls out of top 10 in best state rankings by U.S. News & World Report",
+      "link": "https://www.boston.com/news/local-news/2026/07/31/massachusetts-best-state-rankings-u-s-news-world-report-2026/",
+      "pubDate": "Fri, 31 Jul 2026 20:35:17 +0000",
+      "description": "<p>Massachusetts has fallen to No. 11 in U.S. News &amp; World Report's 2026 Best States rankings, dropping two spots from last year.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/31/massachusetts-best-state-rankings-u-s-news-world-report-2026/\">Massachusetts falls out of top 10 in best state rankings by U.S. News &amp; World Report</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d3d1c424d09bbabc5681902e5f7ea416",
+      "summary": [
+        "Massachusetts dropped to No. 11 in U.S. News & World Report's 2026 Best States rankings.",
+        "The state fell two spots from its previous ranking in 2025.",
+        "Residents may face implications in funding and resources due to the lower ranking."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Massachusetts loses two IHOP restaurants",
+      "link": "https://www.boston.com/news/business/2026/07/31/massachusetts-loses-two-ihop-restaurants/",
+      "pubDate": "Fri, 31 Jul 2026 19:59:18 +0000",
+      "description": "<p>The all-day breakfast chain has closed its Cambridge and Hyannis locations, though about 20 restaurants remain open statewide.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/07/31/massachusetts-loses-two-ihop-restaurants/\">Massachusetts loses two IHOP restaurants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ec5a79d18160934f40780823978b3c37",
+      "summary": [
+        "IHOP closes locations in Cambridge and Hyannis, reducing dining options for residents.",
+        "Approximately 20 IHOP restaurants remain operational across Massachusetts.",
+        "Local job losses expected as two restaurants shut down in the state."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Court agrees Wu did not discriminate against North End restaurants, but may have illegally taxed them",
+      "link": "https://www.boston.com/news/local-news/2026/07/31/appeals-court-north-end-restaurants-lawsuit-wu/",
+      "pubDate": "Fri, 31 Jul 2026 19:54:18 +0000",
+      "description": "<p>Thursday\u2019s decision marks the latest in a longstanding feud over pandemic-era outdoor dining regulations in the North End.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/31/appeals-court-north-end-restaurants-lawsuit-wu/\">Court agrees Wu did not discriminate against North End restaurants, but may have illegally taxed them</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "747b20e4495e0019f5b7c69b02f8a40e",
+      "summary": [
+        "Court ruled Wu did not discriminate against North End restaurants regarding outdoor dining regulations.",
+        "Decision highlights potential illegal taxation on these restaurants during the pandemic.",
+        "Local businesses may seek refunds or adjustments due to the court's findings."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "MassDOT releases rendering of two new bridges along McGrath Highway",
       "link": "https://www.boston.com/news/local-news/2026/07/31/massdot-releases-rendering-of-two-new-bridges-along-mcgrath-highway/",
@@ -609,45 +648,6 @@
         "Glen Hansard, acclaimed Irish musician, died in a motorcycle crash on July 30, 2026.",
         "Hansard was the frontman of The Frames and won an Oscar for 'Once' in 2008.",
         "His death impacts Boston's music community, where he had a significant following."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Livestream: Lindsay Clancy murder trial continues after ex-husband finishes testimony",
-      "link": "https://www.boston.com/news/crime/2026/07/30/lindsay-clancy-murder-trial-livestream-video-thursday-july-30/",
-      "pubDate": "Thu, 30 Jul 2026 13:01:25 +0000",
-      "description": "<p>Clancy\u2019s ex-husband on Wednesday walked jurors through what happened the night she strangled their children at their home in Duxbury.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/30/lindsay-clancy-murder-trial-livestream-video-thursday-july-30/\">Livestream: Lindsay Clancy murder trial continues after ex-husband finishes testimony</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "aae7f0ce451bebbff05845afa602f31e",
-      "summary": [
-        "Lindsay Clancy's murder trial continues as her ex-husband testifies about the tragic events.",
-        "Clancy strangled her children at their Duxbury home, raising community concerns about mental health.",
-        "The trial's outcome may influence local discussions on parental support and mental health resources."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "U-Haul data: Where every generation is moving after leaving the Boston area",
-      "link": "https://www.boston.com/news/local-news/2026/07/30/u-haul-data-where-every-generation-is-moving-after-leaving-the-boston-area/",
-      "pubDate": "Thu, 30 Jul 2026 12:45:39 +0000",
-      "description": "<p>Notably, Massachusetts did not make the top 10 for net-gain states in any age group.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/30/u-haul-data-where-every-generation-is-moving-after-leaving-the-boston-area/\">U-Haul data: Where every generation is moving after leaving the Boston area</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "540b601b08fac94c0fbe53b133845334",
-      "summary": [
-        "U-Haul data reveals Massachusetts lacks net-gain states for any age group.",
-        "Boston residents are increasingly relocating to states like Florida and Texas.",
-        "The trend may affect local economy and housing market stability."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "With Red Sox rolling, we must admit chief baseball officer Craig Breslow knows what he\u2019s doing after all",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/30/craig-breslow-red-sox-record/",
-      "pubDate": "Thu, 30 Jul 2026 11:43:48 +0000",
-      "description": "<p>Breslow\u2019s ability to identify and acquire talent, especially the unheralded kind, forces us to give him the benefit of the doubt.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/30/craig-breslow-red-sox-record/\">With Red Sox rolling, we must admit chief baseball officer Craig Breslow knows what he\u2019s doing after all</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3adc98bdb3934b2b759d0ea115b3345c",
-      "summary": [
-        "Craig Breslow's talent acquisitions have revitalized the Red Sox's performance this season.",
-        "The team's recent success has improved fan engagement and attendance at Fenway Park.",
-        "Breslow's strategies may influence future player development and scouting in Boston."
       ],
       "hookType": "LOCAL_IMPACT"
     }
