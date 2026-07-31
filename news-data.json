@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-07-31T10:42:09.206317+00:00",
-  "articles": [],
+  "lastUpdated": "2026-07-31T14:15:16.407569+00:00",
+  "articles": [
+    {
+      "title": "A guide to mint, the plant deer will actually avoid in your garden",
+      "link": "https://www.boston.com/real-estate/gardening/2026/07/31/mint-gardening-deer-pollinators/",
+      "pubDate": "Fri, 31 Jul 2026 12:56:16 +0000",
+      "description": "<p>Thyme, oregano, rosemary, summer savory, hyssop, lavender, peppermint, and spearmint all belong to the mint family </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/gardening/2026/07/31/mint-gardening-deer-pollinators/\">A guide to mint, the plant deer will actually avoid in your garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ac89ef2beaa723cbaa300f6d14f90ea6",
+      "summary": [
+        "Plant mint varieties like peppermint and spearmint to deter deer in Boston gardens.",
+        "Mint family includes thyme, oregano, rosemary, and lavender, enhancing local gardening options.",
+        "Using mint can protect gardens, benefiting Boston residents seeking deer-resistant plants."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Have Mass. farms seen an increase in sales due to cyclospora fears? It\u2019s a mixed bag.",
+      "link": "https://www.boston.com/news/local-news/2026/07/31/have-mass-farms-seen-an-increase-in-sales-due-to-cyclospora-fears-its-a-mixed-bag/",
+      "pubDate": "Fri, 31 Jul 2026 12:55:32 +0000",
+      "description": "<p>\u201cThe last couple of weeks, we\u2019ve been surprised,\u201d one farmer said. \u201cPeople are definitely coming out more to the farmers markets.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/31/have-mass-farms-seen-an-increase-in-sales-due-to-cyclospora-fears-its-a-mixed-bag/\">Have Mass. farms seen an increase in sales due to cyclospora fears? It\u2019s a mixed bag.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "20268173576a4dd31c925c0e2b5ba214",
+      "summary": [
+        "Farmers report increased customer turnout at markets amid cyclospora concerns.",
+        "Some Massachusetts farms have seen sales rise, but results vary widely.",
+        "Local residents are shifting to farmers markets for safer produce options."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "So you want to live on Martha\u2019s Vineyard? Year-round residents give the scoop.",
+      "link": "https://www.boston.com/real-estate/home-buying/2026/07/31/real-estate-marthas-vineyard-year-round-living/",
+      "pubDate": "Fri, 31 Jul 2026 12:46:44 +0000",
+      "description": "<p>It\u2019s a tough market \u2014 and a tough winter \u2014 but one year-rounder\u2019s advice is simple. \u201cLife is short, buy the Vineyard house!\u201d</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-buying/2026/07/31/real-estate-marthas-vineyard-year-round-living/\">So you want to live on Martha\u2019s Vineyard? Year-round residents give the scoop.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "31993116ea0b310ba7d73f9cd418b404",
+      "summary": [
+        "Year-round residents advise potential buyers to invest in Martha's Vineyard real estate.",
+        "The housing market remains competitive, especially during tough winter months.",
+        "Increased interest in year-round living may affect local housing availability for residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "How should the Red Sox approach the trade deadline?",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/31/how-should-the-red-sox-approach-the-trade-deadline/",
+      "pubDate": "Fri, 31 Jul 2026 11:27:12 +0000",
+      "description": "<p>Winners of 20 of their last 23, it\u2019s time to realize they\u2019re on the cusp of contention.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/31/how-should-the-red-sox-approach-the-trade-deadline/\">How should the Red Sox approach the trade deadline?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "081e93498b2c2e562cb4ff5c047efad2",
+      "summary": [
+        "Red Sox won 20 of their last 23 games, showing strong performance.",
+        "Trade deadline approaches on July 31, 2026, impacting team roster decisions.",
+        "Potential trades could enhance local fan engagement and playoff contention."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox hit back-to-back HRs in 8th to beat A\u2019s 5-4",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/31/red-sox-as-score-wilson-contreras/",
+      "pubDate": "Fri, 31 Jul 2026 04:18:42 +0000",
+      "description": "<p>The Red Sox have won 23 consecutive games when scoring four runs or more.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/31/red-sox-as-score-wilson-contreras/\">Red Sox hit back-to-back HRs in 8th to beat A&#8217;s 5-4</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "da7ae375fd861af23f06ef709c5b575f",
+      "summary": [
+        "Red Sox secured a 5-4 victory against the A's on July 31.",
+        "Team achieved 23 consecutive wins when scoring four runs or more.",
+        "Local fans celebrate continued success as Red Sox push for playoffs."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-07-31T10:42:09.206327+00:00"
+    "timestamp": "2026-07-31T14:15:16.407590+00:00"
   }
 }
