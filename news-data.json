@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-01T19:12:53.946342+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-01T20:57:00.264744+00:00",
+  "articles": [
+    {
+      "title": "Gabe Jacas makes his Patriots debut and other takeaways from Day 7 of training camp",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/01/patriots-drake-maye-gabe-jacas-training-camp/",
+      "pubDate": "Sat, 01 Aug 2026 20:16:19 +0000",
+      "description": "<p>After a stellar showing from New England's offense on Friday, the Patriots' defense recorded two interceptions on Saturday. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/01/patriots-drake-maye-gabe-jacas-training-camp/\">Gabe Jacas makes his Patriots debut and other takeaways from Day 7 of training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3e5dee5eeb9a378496121e3a3f43720e",
+      "summary": [
+        "Gabe Jacas debuted with the Patriots during Day 7 of training camp on August 1.",
+        "Patriots' defense intercepted two passes, showcasing improved performance after Friday's offensive success.",
+        "Local fans can expect heightened competition as the team prepares for the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-01T19:12:53.946351+00:00"
+    "timestamp": "2026-08-01T20:57:00.264765+00:00"
   }
 }
