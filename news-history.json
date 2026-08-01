@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-01T13:34:31.742676+00:00",
+  "lastUpdated": "2026-08-01T15:02:41.724601+00:00",
   "articles": [
+    {
+      "title": "Mass. to be 4th state to roll out EBT chip cards to curb fraud",
+      "link": "https://www.boston.com/news/local-news/2026/08/01/mass-to-be-4th-state-to-roll-out-ebt-chip-cards-to-curb-fraud/",
+      "pubDate": "Sat, 01 Aug 2026 13:43:28 +0000",
+      "description": "<p>The state will begin distributing new chip-enabled EBT cards to combat benefit theft. Here's what recipients and retailers should know.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/01/mass-to-be-4th-state-to-roll-out-ebt-chip-cards-to-curb-fraud/\">Mass. to be 4th state to roll out EBT chip cards to curb fraud</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5bfcac5498b3ad8c0767c95a8cb0290e",
+      "summary": [
+        "Massachusetts will distribute new chip-enabled EBT cards starting August 2026.",
+        "State aims to reduce benefit theft as the 4th state to implement this system.",
+        "New cards will enhance security for over 1 million EBT recipients in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Boston is now offering \u2018pet certificates\u2019 for couples who wed at City Hall",
       "link": "https://www.boston.com/news/local-news/2026/08/01/boston-is-now-offering-pet-certificates-for-couples-who-wed-at-city-hall/",
@@ -635,19 +648,6 @@
         "Man charged for shoving a 69-year-old woman during Nantucket ICE protest.",
         "Incident occurred at an Indivisible Nantucket vigil on July 30, 2026.",
         "Protest highlights community concerns over recent ICE enforcement activities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Critical Mass Boston to hold 15-mile bike ride in remembrance of cyclist struck and killed earlier this month",
-      "link": "https://www.boston.com/news/local-news/2026/07/30/critical-mass-boston-to-hold-15-mile-bike-ride-in-remembrance-of-cyclist-struck-and-killed-earlier-this-month/",
-      "pubDate": "Thu, 30 Jul 2026 19:32:14 +0000",
-      "description": "<p>\u201cWe call upon the Wu administration to support the Streets Cabinet such that a preventable loss never occurs in Boston again,\" Critical Mass Boston wrote in the social media post. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/30/critical-mass-boston-to-hold-15-mile-bike-ride-in-remembrance-of-cyclist-struck-and-killed-earlier-this-month/\">Critical Mass Boston to hold 15-mile bike ride in remembrance of cyclist struck and killed earlier this month</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3700f05f8f90c597d13a33ce4ffd554a",
-      "summary": [
-        "Critical Mass Boston will host a 15-mile bike ride on August 5.",
-        "The ride honors a cyclist killed earlier this month in Boston.",
-        "Advocates urge the Wu administration to enhance cyclist safety measures."
       ],
       "hookType": "LOCAL_IMPACT"
     }
