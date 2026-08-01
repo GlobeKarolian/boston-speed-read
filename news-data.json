@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-08-01T15:02:41.723755+00:00",
-  "articles": [
-    {
-      "title": "Mass. to be 4th state to roll out EBT chip cards to curb fraud",
-      "link": "https://www.boston.com/news/local-news/2026/08/01/mass-to-be-4th-state-to-roll-out-ebt-chip-cards-to-curb-fraud/",
-      "pubDate": "Sat, 01 Aug 2026 13:43:28 +0000",
-      "description": "<p>The state will begin distributing new chip-enabled EBT cards to combat benefit theft. Here's what recipients and retailers should know.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/01/mass-to-be-4th-state-to-roll-out-ebt-chip-cards-to-curb-fraud/\">Mass. to be 4th state to roll out EBT chip cards to curb fraud</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5bfcac5498b3ad8c0767c95a8cb0290e",
-      "summary": [
-        "Massachusetts will distribute new chip-enabled EBT cards starting August 2026.",
-        "State aims to reduce benefit theft as the 4th state to implement this system.",
-        "New cards will enhance security for over 1 million EBT recipients in Boston."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-08-01T17:03:05.850396+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-08-01T15:02:41.723779+00:00"
+    "timestamp": "2026-08-01T17:03:05.850406+00:00"
   }
 }
