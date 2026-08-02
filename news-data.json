@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-02T10:00:16.278127+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-02T11:24:14.903873+00:00",
+  "articles": [
+    {
+      "title": "\u2018Sopranos\u2019 actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+      "link": "https://www.boston.com/news/entertainment/2026/08/02/sopranos-actor-vincent-pastore-known-for-playing-mobsters-and-tough-guys-dead-at-80/",
+      "pubDate": "Sun, 02 Aug 2026 11:22:34 +0000",
+      "description": "<p>He said Pastore was found in his home on New York\u2019s City Island after not being heard from for a few days.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2026/08/02/sopranos-actor-vincent-pastore-known-for-playing-mobsters-and-tough-guys-dead-at-80/\">&#8216;Sopranos&#8217; actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d3cf92c3927850af3f1679163b91e196",
+      "summary": [
+        "Vincent Pastore, known for his role in 'The Sopranos', died at 80.",
+        "Pastore was found at his home on City Island after being unresponsive for days.",
+        "His passing may resonate with Boston fans of the iconic TV series."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-02T10:00:16.278135+00:00"
+    "timestamp": "2026-08-02T11:24:14.903895+00:00"
   }
 }
