@@ -1,9 +1,88 @@
 {
-  "lastUpdated": "2026-08-02T19:15:07.333721+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-02T20:59:01.123456+00:00",
+  "articles": [
+    {
+      "title": "Moving back home after college? All your friends are doing it.",
+      "link": "https://www.boston.com/news/local-news/2026/08/02/moving-back-home-after-college-all-your-friends-are-doing-it/",
+      "pubDate": "Sun, 02 Aug 2026 20:47:34 +0000",
+      "description": "<p>More young adults are living with their parents. The development suggests that they face a weak job market, but also that fewer face stigma in returning to the roost.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/02/moving-back-home-after-college-all-your-friends-are-doing-it/\">Moving back home after college? All your friends are doing it.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "44b3c6dfd377ca97daf0c12feb457a02",
+      "summary": [
+        "More young adults in Boston are returning home post-college due to a weak job market.",
+        "Recent studies show a significant decrease in stigma around living with parents.",
+        "This trend affects housing demand and family dynamics in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Man killed in East Boston overnight shooting",
+      "link": "https://www.boston.com/news/local-news/2026/08/02/man-killed-in-east-boston-overnight-shooting/",
+      "pubDate": "Sun, 02 Aug 2026 20:43:45 +0000",
+      "description": "<p>The investigation remains ongoing, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/02/man-killed-in-east-boston-overnight-shooting/\">Man killed in East Boston overnight shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "89d141cff8e03eba9abb97556b409330",
+      "summary": [
+        "A man was shot and killed in East Boston overnight on August 2.",
+        "Police are actively investigating the shooting incident, details remain unclear.",
+        "Residents are urged to stay vigilant as the investigation continues."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
+      "link": "https://www.boston.com/news/national-news/2026/08/02/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes/",
+      "pubDate": "Sun, 02 Aug 2026 20:34:26 +0000",
+      "description": "<p>The fires burned more than 8.2 square miles around Spokane, the second largest city in Washington, and were among dozens across the western US.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/02/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes/\">Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4b42f859a5c7872f243fb7a43ff0ac99",
+      "summary": [
+        "Eastern Washington fires have destroyed 600 structures and forced 5,000 residents to evacuate.",
+        "Fires have burned over 8.2 square miles near Spokane, affecting nearby communities.",
+        "Boston residents may face increased air quality issues due to smoke from western fires."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "\u2018Spider-Man: Brand New Day\u2019 nets second best North American opening ever with $355 million",
+      "link": "https://www.boston.com/culture/movies/2026/08/02/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million/",
+      "pubDate": "Sun, 02 Aug 2026 20:26:09 +0000",
+      "description": "<p> It was just a few million shy of \u201cAvengers: Endgame,\u201d which debuted to $357 million in 2019.</p>\n<p>The post <a href=\"https://www.boston.com/culture/movies/2026/08/02/spider-man-brand-new-day-nets-second-best-north-american-opening-ever-with-355-million/\">&lsquo;Spider-Man: Brand New Day&rsquo; nets second best North American opening ever with $355 million</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "202000b4f859d33ce9ae6869c11a042d",
+      "summary": [
+        "\u2018Spider-Man: Brand New Day\u2019 earned $355 million in its North American opening weekend.",
+        "This opening is the second highest ever, just behind \u2018Avengers: Endgame\u2019 at $357 million.",
+        "Boston theaters expect increased foot traffic and revenue from the film's popularity."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "In Ceuta, some migrants cling to hopes of someday reaching mainland Spain",
+      "link": "https://www.boston.com/news/world-news/2026/08/02/in-ceuta-some-migrants-cling-to-hopes-of-someday-reaching-mainland-spain/",
+      "pubDate": "Sun, 02 Aug 2026 20:13:12 +0000",
+      "description": "<p>By Sunday afternoon, Dikra was among the last remaining migrants in the city after tens of thousands of the 60,000 migrants that had breached the border with Morocco on Thursday and Friday walked back to that country.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/02/in-ceuta-some-migrants-cling-to-hopes-of-someday-reaching-mainland-spain/\">In Ceuta, some migrants cling to hopes of someday reaching mainland Spain</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "decc7b8869c583dd401935a0f58bad6a",
+      "summary": [
+        "Dikra remains in Ceuta as thousands of migrants return to Morocco.",
+        "60,000 migrants breached the border over Thursday and Friday.",
+        "Local resources in Boston may be strained as migrant crises continue abroad."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
+      "link": "https://www.boston.com/news/politics/2026/08/02/trump-says-he-will-order-halt-to-iran-strikes-after-parameters-reached-for-deal-to-end-war/",
+      "pubDate": "Sun, 02 Aug 2026 20:03:33 +0000",
+      "description": "<p>Trump has announced halts to strikes in Iran on several occasions since the United States and Israel attacked Iran on Feb. 28, only for things to unravel and fighting to resume again.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/08/02/trump-says-he-will-order-halt-to-iran-strikes-after-parameters-reached-for-deal-to-end-war/\">Trump says he will order halt to Iran strikes after parameters reached for deal to end war</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "708f830b0a2e952d2c7b9db3e7e2ba80",
+      "summary": [
+        "Trump plans to halt Iran strikes following a deal framework announced on August 2.",
+        "Previous strikes began after U.S. and Israel attacked Iran on February 28.",
+        "Boston residents may see reduced tensions and potential economic impacts from decreased military engagement."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 6,
     "feedSize": 10,
-    "timestamp": "2026-08-02T19:15:07.333728+00:00"
+    "timestamp": "2026-08-02T20:59:01.123475+00:00"
   }
 }
