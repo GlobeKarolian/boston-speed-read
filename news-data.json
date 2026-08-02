@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-08-02T11:24:14.903873+00:00",
+  "lastUpdated": "2026-08-02T13:34:50.654442+00:00",
   "articles": [
     {
-      "title": "\u2018Sopranos\u2019 actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
-      "link": "https://www.boston.com/news/entertainment/2026/08/02/sopranos-actor-vincent-pastore-known-for-playing-mobsters-and-tough-guys-dead-at-80/",
-      "pubDate": "Sun, 02 Aug 2026 11:22:34 +0000",
-      "description": "<p>He said Pastore was found in his home on New York\u2019s City Island after not being heard from for a few days.</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2026/08/02/sopranos-actor-vincent-pastore-known-for-playing-mobsters-and-tough-guys-dead-at-80/\">&#8216;Sopranos&#8217; actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d3cf92c3927850af3f1679163b91e196",
+      "title": "It\u2019s not too late to submit your idea for $2 million in Boston spending",
+      "link": "https://www.boston.com/news/local-news/2026/08/02/its-not-too-late-to-submit-your-idea-for-2-million-in-boston-spending/",
+      "pubDate": "Sun, 02 Aug 2026 12:17:17 +0000",
+      "description": "<p>The city is giving residents an extra week to pitch projects for the latest round of participatory budgeting.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/02/its-not-too-late-to-submit-your-idea-for-2-million-in-boston-spending/\">It&#8217;s not too late to submit your idea for $2 million in Boston spending</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1a38f490c541b995d9402a137c883ba9",
       "summary": [
-        "Vincent Pastore, known for his role in 'The Sopranos', died at 80.",
-        "Pastore was found at his home on City Island after being unresponsive for days.",
-        "His passing may resonate with Boston fans of the iconic TV series."
+        "Boston extends deadline for participatory budgeting project submissions by one week.",
+        "Residents can pitch ideas for a total of $2 million in city spending.",
+        "Participation empowers locals to influence community projects and improvements directly."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
+      "link": "https://www.boston.com/news/national-news/2026/08/02/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals/",
+      "pubDate": "Sun, 02 Aug 2026 11:53:20 +0000",
+      "description": "<p>The president, without providing any clear new evidence, continued to allege on Saturday that the majority of the damage to the pool was caused by vandals.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/02/trump-blasts-pirro-after-she-refutes-his-claim-that-reflecting-pool-was-damaged-by-vandals/\">Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "dd2f9033b835b8e10fac20ab05a4a7a4",
+      "summary": [
+        "Trump claims Reflecting Pool damage primarily caused by vandals, without new evidence.",
+        "Judge Jeanine Pirro publicly refutes Trump's vandalism claim on August 2, 2026.",
+        "Local residents may question the integrity of public statements regarding national monuments."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-02T11:24:14.903895+00:00"
+    "timestamp": "2026-08-02T13:34:50.654460+00:00"
   }
 }
