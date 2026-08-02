@@ -1,49 +1,9 @@
 {
-  "lastUpdated": "2026-08-02T15:04:55.323580+00:00",
-  "articles": [
-    {
-      "title": "2 men injured in late-night shooting in Dorchester, police say",
-      "link": "https://www.boston.com/news/local-news/2026/08/02/2-men-injured-in-late-night-shooting-in-dorchester-police-say/",
-      "pubDate": "Sun, 02 Aug 2026 14:43:37 +0000",
-      "description": "<p>Both of the men injured in the shooting suffered non-life-threatening injuries and are expected to survive, according to police.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/02/2-men-injured-in-late-night-shooting-in-dorchester-police-say/\">2 men injured in late-night shooting in Dorchester, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "81e1dd5bcdc9b8400f00fdfe37097c95",
-      "summary": [
-        "Two men were injured in a late-night shooting in Dorchester.",
-        "Both victims suffered non-life-threatening injuries and are expected to survive.",
-        "The incident raises concerns about safety in the Dorchester community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Woman trapped, injured in second incident on MBTA Davis escalator this year",
-      "link": "https://www.boston.com/news/local-news/2026/08/02/woman-trapped-injured-in-second-incident-on-mbta-davis-escalator-this-year/",
-      "pubDate": "Sun, 02 Aug 2026 14:14:28 +0000",
-      "description": "<p>The incident bears striking similarities to another incident at the same station earlier this year that resulted in a man\u2019s death.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/02/woman-trapped-injured-in-second-incident-on-mbta-davis-escalator-this-year/\">Woman trapped, injured in second incident on MBTA Davis escalator this year</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2e34a1bab908e6309c018ff89d80e08c",
-      "summary": [
-        "Woman injured after being trapped on MBTA Davis escalator on August 2, 2026.",
-        "This incident follows a similar occurrence earlier this year that resulted in a man's death.",
-        "Residents express concern over escalator safety at Davis station, prompting calls for improvements."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "2 men arrested after allegedly stealing chain, wallet at knifepoint in Dorchester",
-      "link": "https://www.boston.com/news/crime/2026/08/02/2-men-arrested-after-allegedly-stealing-chain-wallet-at-knifepoint-in-dorchester/",
-      "pubDate": "Sun, 02 Aug 2026 13:30:13 +0000",
-      "description": "<p>The victim told police that she was walking in the area when the two suspects allegedly robbed her at knifepoint.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/02/2-men-arrested-after-allegedly-stealing-chain-wallet-at-knifepoint-in-dorchester/\">2 men arrested after allegedly stealing chain, wallet at knifepoint in Dorchester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3ba2972fe1e9c8940c7830483d96ca21",
-      "summary": [
-        "Two men arrested for robbing a woman at knifepoint in Dorchester.",
-        "The victim reported the incident to police on August 2, 2026.",
-        "Increased police presence expected in Dorchester to enhance community safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    }
-  ],
+  "lastUpdated": "2026-08-02T17:03:12.246128+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-08-02T15:04:55.323599+00:00"
+    "timestamp": "2026-08-02T17:03:12.246136+00:00"
   }
 }
