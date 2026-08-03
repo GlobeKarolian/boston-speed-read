@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-03T03:20:14.072165+00:00",
+  "lastUpdated": "2026-08-03T07:31:20.326249+00:00",
   "articles": [
+    {
+      "title": "Phish brought near-record crowds to this Fenway dispensary \u2014 but not a product shortage",
+      "link": "https://www.boston.com/news/local-news/2026/08/02/phish-brought-near-record-crowds-to-this-fenway-dispensary-but-not-a-product-shortage/",
+      "pubDate": "Mon, 03 Aug 2026 03:26:19 +0000",
+      "description": "<p>\"The energy was real high.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/02/phish-brought-near-record-crowds-to-this-fenway-dispensary-but-not-a-product-shortage/\">Phish brought near-record crowds to this Fenway dispensary \u2014 but not a product shortage</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8e1cb439e20f942e7e1519face41a7cb",
+      "summary": [
+        "Phish concert attracted large crowds to a Fenway dispensary on August 1, 2026.",
+        "Dispensary reported near-record sales without any product shortages during the event.",
+        "Local businesses benefited from increased foot traffic and sales due to the concert."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Red Sox homer 3 times over 7 pitches en route to statement sweep of Dodgers",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/08/02/boston-red-sox-home-runs-sweep-dodgers-los-angeles-mlb-baseball/",
@@ -635,19 +648,6 @@
         "Two men robbed a U.S. Postal Service worker at gunpoint in Massachusetts.",
         "The incident involved a demand for an arrow key from the employee.",
         "Local postal workers may face increased safety concerns following this robbery."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Myrtle the sea turtle weighs nearly 500 pounds. What does it take to keep her healthy?",
-      "link": "https://www.boston.com/news/local-news/2026/07/31/myrtle-the-sea-turtle-weighs-nearly-500-pounds-what-does-it-take-to-keep-her-healthy/",
-      "pubDate": "Fri, 31 Jul 2026 16:43:14 +0000",
-      "description": "<p>Take a look behind the scenes as staff at the New England Aquarium conduct annual check-ups on their resident sea turtles. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/31/myrtle-the-sea-turtle-weighs-nearly-500-pounds-what-does-it-take-to-keep-her-healthy/\">Myrtle the sea turtle weighs nearly 500 pounds. What does it take to keep her healthy?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a907943bd8c9221462c199151d566e9a",
-      "summary": [
-        "New England Aquarium staff conduct annual health check-ups on Myrtle, a 500-pound sea turtle.",
-        "Myrtle's care involves specialized diets and medical attention to ensure her well-being.",
-        "Local residents can learn about marine conservation through Myrtle's health updates and aquarium programs."
       ],
       "hookType": "LOCAL_IMPACT"
     }
