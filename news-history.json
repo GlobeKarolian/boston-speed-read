@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-08-04T21:14:16.079009+00:00",
+  "lastUpdated": "2026-08-04T23:05:38.936469+00:00",
   "articles": [
+    {
+      "title": "Skeletal remains found in South Boston home turn out to be animal bones, police say",
+      "link": "https://www.boston.com/news/local-news/2026/08/04/skeletal-remains-found-in-south-boston-home-turn-out-to-be-animal-bones/",
+      "pubDate": "Tue, 04 Aug 2026 22:56:35 +0000",
+      "description": "<p>Police say they found shoes in a bag near the skeletal remains in South Boston.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/04/skeletal-remains-found-in-south-boston-home-turn-out-to-be-animal-bones/\">Skeletal remains found in South Boston home turn out to be animal bones, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "62e87cd93bc932721b7dc5a31418a279",
+      "summary": [
+        "Police discovered skeletal remains in a South Boston home, later identified as animal bones.",
+        "Shoes were found in a bag near the remains, raising initial concerns.",
+        "Residents can feel reassured as no human remains were involved in the incident."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Drake Maye, offense finish strong and other takeaways from Day 9 of Patriots training camp",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/04/new-england-patriots-drake-maye-defense-two-minute-drill-aj-brown-mike-vrabel/",
+      "pubDate": "Tue, 04 Aug 2026 22:51:00 +0000",
+      "description": "<p>A sluggish start for New England's offense ended with Drake Maye completing 11 of his final 12 passes. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/04/new-england-patriots-drake-maye-defense-two-minute-drill-aj-brown-mike-vrabel/\">Drake Maye, offense finish strong and other takeaways from Day 9 of Patriots training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d0aefd36afdf9003466d12df227d61aa",
+      "summary": [
+        "Drake Maye completed 11 of 12 passes during the final stretch of practice.",
+        "The New England Patriots' offense showed improvement after a sluggish start on August 4.",
+        "Strong performance by Maye boosts optimism for local fans ahead of the season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Family of Abington teen killed in crash during police chase says car was not stolen",
+      "link": "https://www.boston.com/news/local-news/2026/08/04/family-of-abington-teen-killed-in-crash-during-police-chase-says-car-was-not-stolen/",
+      "pubDate": "Tue, 04 Aug 2026 22:40:12 +0000",
+      "description": "<p>The family says the stolen SUV was taken by one of the teen passengers without the parents' permission. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/04/family-of-abington-teen-killed-in-crash-during-police-chase-says-car-was-not-stolen/\">Family of Abington teen killed in crash during police chase says car was not stolen</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6e9d594b12e35ad3385882271b50ad5f",
+      "summary": [
+        "Abington teen killed in crash during police chase on August 4, 2026.",
+        "Family claims SUV was taken by a passenger, not stolen.",
+        "Incident raises concerns about youth vehicle access and safety in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "BC High adds former Patriots special teams ace Matthew Slater to football staff",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/04/patriots-matthew-slater-bc-high-football-comments/",
+      "pubDate": "Tue, 04 Aug 2026 22:36:41 +0000",
+      "description": "<p>Slater will try to help BC High turn things around after a 4-7 season.  </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/04/patriots-matthew-slater-bc-high-football-comments/\">BC High adds former Patriots special teams ace Matthew Slater to football staff</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a7a58250b6622647b085cb9e43d65879",
+      "summary": [
+        "Matthew Slater joins BC High football staff to improve team performance.",
+        "Slater aims to turn around BC High's recent 4-7 season record.",
+        "Local students gain mentorship from a former Patriots special teams ace."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Bill Murray makes surprise appearance at Bill Murray movie marathon in New Bedford",
+      "link": "https://www.boston.com/culture/movies/2026/08/04/bill-murray-makes-surprise-appearance-at-new-bedfords-bill-murray-movie-marathon/",
+      "pubDate": "Tue, 04 Aug 2026 21:59:46 +0000",
+      "description": "<p>Murray is a Southcoast and Vineyard regular\u2014 and he was apparently vacationing at just the right moment.</p>\n<p>The post <a href=\"https://www.boston.com/culture/movies/2026/08/04/bill-murray-makes-surprise-appearance-at-new-bedfords-bill-murray-movie-marathon/\">Bill Murray makes surprise appearance at Bill Murray movie marathon in New Bedford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "113493c1372750580b683f3429e7c366",
+      "summary": [
+        "Bill Murray surprised fans at a movie marathon in New Bedford on August 4.",
+        "Murray is a regular visitor to the Southcoast and Martha's Vineyard area.",
+        "His appearance boosted local tourism and community engagement in New Bedford."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Judge allows clergy abuse claimants to sue for parish assets in Vermont Catholic bankruptcy case",
       "link": "https://www.boston.com/news/local-news/2026/08/04/judge-allows-clergy-abuse-claimants-to-sue-for-parish-assets-in-vermont-catholic-bankruptcy-case/",
@@ -583,71 +648,6 @@
         "Vermont Green FC secured their second consecutive undefeated championship season in 2023.",
         "The club continues to grow as a significant soccer presence in New England.",
         "Local fans in Boston can expect increased interest in regional soccer events."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Review & setlists: Boston favorite Extreme steals M\u00f6tley Cr\u00fce\u2019s thunder in Mansfield",
-      "link": "https://www.boston.com/culture/concert-reviews/2026/08/03/review-setlists-boston-favorite-extreme-steals-motley-crues-thunder-in-mansfield/",
-      "pubDate": "Mon, 03 Aug 2026 14:39:44 +0000",
-      "description": "<p>But all three bands \u2014\u00a0Extreme, Tesla, and M\u00f6tley Cr\u00fce \u2014 left their marks on Xfinity Center Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/08/03/review-setlists-boston-favorite-extreme-steals-motley-crues-thunder-in-mansfield/\">Review &amp; setlists: Boston favorite Extreme steals M\u00f6tley Cr\u00fce\u2019s thunder in Mansfield</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6f50d9f468aa86f1591ce77beb6c2108",
-      "summary": [
-        "Extreme delivered a standout performance at Xfinity Center in Mansfield on August 3.",
-        "Tesla and M\u00f6tley Cr\u00fce also performed, contributing to a memorable night for attendees.",
-        "Boston residents enjoyed a diverse rock lineup, enhancing the local music scene."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "BPD searching for missing Roxbury man, 84, with dementia",
-      "link": "https://www.boston.com/news/local-news/2026/08/03/bpd-searching-for-missing-roxbury-man-84-with-dementia/",
-      "pubDate": "Mon, 03 Aug 2026 13:35:41 +0000",
-      "description": "<p>The man was last seen leaving his residence on Hawthorne Street at around 1 p.m. Saturday. \u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/03/bpd-searching-for-missing-roxbury-man-84-with-dementia/\">BPD searching for missing Roxbury man, 84, with dementia</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "640e399e3da3b7e123ad9a3a09814262",
-      "summary": [
-        "BPD is searching for 84-year-old man with dementia missing since Saturday.",
-        "The man was last seen at 1 p.m. on Hawthorne Street in Roxbury.",
-        "Community urged to assist in locating him for his safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Livestream: Lindsay Clancy murder trial enters second week after jurors hear from more first responders",
-      "link": "https://www.boston.com/news/crime/2026/08/03/lindsay-clancy-murder-trial-livestream-video-monday-august-3/",
-      "pubDate": "Mon, 03 Aug 2026 13:00:24 +0000",
-      "description": "<p>Testimony resumes Monday following an emotional first week in the Duxbury mother\u2019s trial.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/03/lindsay-clancy-murder-trial-livestream-video-monday-august-3/\">Livestream: Lindsay Clancy murder trial enters second week after jurors hear from more first responders</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e359df95d95f6cd953df396d2c75be2e",
-      "summary": [
-        "Testimony resumes Monday in Lindsay Clancy's murder trial after emotional first week.",
-        "Jurors will hear from additional first responders during the second week of proceedings.",
-        "The trial's outcome may influence community discussions on mental health and safety."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Zac Brown gave free cruises to fans at Sunday\u2019s Fenway concert \u2014 all of them",
-      "link": "https://www.boston.com/culture/concerts/2026/08/03/zac-brown-gave-free-cruises-to-fans-at-sundays-fenway-concert-all-of-them/",
-      "pubDate": "Mon, 03 Aug 2026 12:59:28 +0000",
-      "description": "<p>Every member of the audience at the \u201cLove &amp; Fear\u201d show at Fenway Park was gifted a free cruise for two. </p>\n<p>The post <a href=\"https://www.boston.com/culture/concerts/2026/08/03/zac-brown-gave-free-cruises-to-fans-at-sundays-fenway-concert-all-of-them/\">Zac Brown gave free cruises to fans at Sunday&#8217;s Fenway concert \u2014 all of them</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f3d7504fd5a2e2aaa4d5da16acf73ea8",
-      "summary": [
-        "Zac Brown gifted free cruises to every concertgoer at Fenway Park on August 3.",
-        "Approximately 37,000 fans received a cruise for two as part of the concert experience.",
-        "This gesture enhances community engagement and provides a unique opportunity for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Here\u2019s what meteorologists are saying about heavy rain and possible flooding Monday",
-      "link": "https://www.boston.com/weather/local-news/2026/08/02/heavy-rain-and-possible-flooding-monday/",
-      "pubDate": "Mon, 03 Aug 2026 01:02:46 +0000",
-      "description": "<p>\"Flash flood warnings in effect as torrential downpours continue to press east.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/08/02/heavy-rain-and-possible-flooding-monday/\">Here&#8217;s what meteorologists are saying about heavy rain and possible flooding Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9dd9c4df7af4fc8e7841c1e946066f3a",
-      "summary": [
-        "Meteorologists issued flash flood warnings for Boston due to heavy rain on Monday.",
-        "Torrential downpours are expected to continue, impacting local roadways and transportation.",
-        "Residents should prepare for potential flooding and travel disruptions throughout the day."
       ],
       "hookType": "LOCAL_IMPACT"
     }
