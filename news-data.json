@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-07T10:55:10.857686+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-07T13:10:36.415936+00:00",
+  "articles": [
+    {
+      "title": "5 takeaways as Red Sox overcome 5 deficits to outlast White Sox in 13 innings for 8th straight victory",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/07/red-sox-overcome-5-deficits-to-outlast-white-sox/",
+      "pubDate": "Fri, 07 Aug 2026 11:17:38 +0000",
+      "description": "<p>\u201cThis game exemplifies who we are now. There was never any doubt.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/07/red-sox-overcome-5-deficits-to-outlast-white-sox/\">5 takeaways as Red Sox overcome 5 deficits to outlast White Sox in 13 innings for 8th straight victory</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2347637c7da77c4f82ce9d7c33fb66a6",
+      "summary": [
+        "Red Sox secured their 8th consecutive victory against the White Sox on August 7.",
+        "The team overcame 5 deficits, showcasing resilience and determination throughout the 13-inning game.",
+        "This win boosts local morale and strengthens the team's playoff hopes for Boston fans."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-07T10:55:10.857695+00:00"
+    "timestamp": "2026-08-07T13:10:36.415958+00:00"
   }
 }
