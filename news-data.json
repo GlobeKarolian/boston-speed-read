@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-08T08:45:44.187739+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-08T10:36:56.784284+00:00",
+  "articles": [
+    {
+      "title": "I will miss my friend Margo, who told me to grieve, but not too much",
+      "link": "https://www.boston.com/love-letters/relationships/2026/08/08/i-will-miss-my-friend-margo-who-told-me-to-grieve-but-not-too-much/",
+      "pubDate": "Sat, 08 Aug 2026 10:30:00 +0000",
+      "description": "<p>\"That was her big lesson for me: that after loss, I could find happiness again. She wanted me to avoid getting stuck in a miserable moment that had passed.\"</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/relationships/2026/08/08/i-will-miss-my-friend-margo-who-told-me-to-grieve-but-not-too-much/\">I will miss my friend Margo, who told me to grieve, but not too much\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "732480ff75ab4aa8d934162bebc2ac09",
+      "summary": [
+        "Margo emphasized the importance of balancing grief and happiness after loss.",
+        "The article reflects on personal lessons learned from Margo's friendship.",
+        "Boston residents can find inspiration in Margo's approach to coping with grief."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-08T08:45:44.187746+00:00"
+    "timestamp": "2026-08-08T10:36:56.784305+00:00"
   }
 }
