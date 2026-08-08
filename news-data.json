@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-08T20:33:21.970087+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-08T22:32:18.850266+00:00",
+  "articles": [
+    {
+      "title": "New on Netflix and more: Top streaming picks for August 2026",
+      "link": "https://www.boston.com/things-to-do/streaming/2026/08/08/streaming-movies-tv-shows-the-queue/",
+      "pubDate": "Sat, 08 Aug 2026 20:33:59 +0000",
+      "description": "<p>This week's edition of the Queue gives you a comprehensive guide of which shows and movies to stream this month.</p>\n<p>The post <a href=\"https://www.boston.com/things-to-do/streaming/2026/08/08/streaming-movies-tv-shows-the-queue/\">New on Netflix and more: Top streaming picks for August 2026</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b1520a3c0f129b3ae808b9137750bc62",
+      "summary": [
+        "Discover top streaming shows and movies available in August 2026 on Netflix.",
+        "Includes popular titles like 'The Boston Strangler' and 'Cheers: The Reunion'.",
+        "Local residents can enjoy diverse entertainment options during summer evenings."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-08T20:33:21.970097+00:00"
+    "timestamp": "2026-08-08T22:32:18.850283+00:00"
   }
 }
