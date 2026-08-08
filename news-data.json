@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-08-08T10:36:56.784284+00:00",
+  "lastUpdated": "2026-08-08T12:54:29.238501+00:00",
   "articles": [
     {
-      "title": "I will miss my friend Margo, who told me to grieve, but not too much",
-      "link": "https://www.boston.com/love-letters/relationships/2026/08/08/i-will-miss-my-friend-margo-who-told-me-to-grieve-but-not-too-much/",
-      "pubDate": "Sat, 08 Aug 2026 10:30:00 +0000",
-      "description": "<p>\"That was her big lesson for me: that after loss, I could find happiness again. She wanted me to avoid getting stuck in a miserable moment that had passed.\"</p>\n<p>The post <a href=\"https://www.boston.com/love-letters/relationships/2026/08/08/i-will-miss-my-friend-margo-who-told-me-to-grieve-but-not-too-much/\">I will miss my friend Margo, who told me to grieve, but not too much\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "732480ff75ab4aa8d934162bebc2ac09",
+      "title": "Appeals court rules Trump can\u2019t build White House ballroom without congressional approval",
+      "link": "https://www.boston.com/news/national-news/2026/08/08/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval/",
+      "pubDate": "Sat, 08 Aug 2026 12:40:59 +0000",
+      "description": "<p>The Republican president said on social media that the administration will immediately appeal what he called an \u201cunjust decision\u201d to the U.S. Supreme Court.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/08/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval/\">Appeals court rules Trump can&#8217;t build White House ballroom without congressional approval</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7ed8e003eb44403602bfcb9d9983aecb",
       "summary": [
-        "Margo emphasized the importance of balancing grief and happiness after loss.",
-        "The article reflects on personal lessons learned from Margo's friendship.",
-        "Boston residents can find inspiration in Margo's approach to coping with grief."
+        "Appeals court denies Trump's plan to build a White House ballroom without Congress approval.",
+        "Trump plans to appeal this decision to the U.S. Supreme Court immediately.",
+        "Boston residents may see delays in federal projects due to ongoing legal battles."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "An 8-foot Bigfoot was spotted in Connecticut last month. It\u2019s far from New England\u2019s first.",
+      "link": "https://www.boston.com/news/off-beat/2026/08/08/an-8-foot-bigfoot-was-spotted-in-connecticut-last-month-its-far-from-new-englands-first/",
+      "pubDate": "Sat, 08 Aug 2026 11:40:00 +0000",
+      "description": "<p>\u201cI feel crazy saying it,\u201d the witness said. \u201cIt's just unbelievable. I keep telling people you have to see it to believe it. I can't convince you and I'm not even going to try.\u201d\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/off-beat/2026/08/08/an-8-foot-bigfoot-was-spotted-in-connecticut-last-month-its-far-from-new-englands-first/\">An 8-foot Bigfoot was spotted in Connecticut last month. It&#8217;s far from New England&#8217;s first.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f8fe68d20588d0c5f2598260295dd973",
+      "summary": [
+        "Witness reported an 8-foot Bigfoot sighting in Connecticut last month.",
+        "This sighting adds to New England's history of Bigfoot encounters.",
+        "Local residents may experience increased interest in regional folklore and tourism."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Blanche narrowly confirmed as Trump\u2019s AG in overnight vote",
+      "link": "https://www.boston.com/news/national-news/2026/08/08/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote/",
+      "pubDate": "Sat, 08 Aug 2026 11:15:47 +0000",
+      "description": "<p>Blanche was confirmed by the narrowest of margins, opposed by two Republicans \u2014 Sens. Susan Collins of Maine and Lisa Murkowski of Alaska \u2014 and by every Democrat.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/08/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote/\">Blanche narrowly confirmed as Trump&#8217;s AG in overnight vote</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d7e8d2912c227653ffbfd523eb678d4e",
+      "summary": [
+        "Blanche confirmed as Attorney General by a narrow margin of 51-49 votes.",
+        "Opposition included two Republicans, Senators Collins and Murkowski, and all Democrats.",
+        "Boston residents may see changes in federal law enforcement priorities under Blanche's leadership."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-08-08T10:36:56.784305+00:00"
+    "timestamp": "2026-08-08T12:54:29.238523+00:00"
   }
 }
