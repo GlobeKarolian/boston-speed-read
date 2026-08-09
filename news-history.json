@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-09T14:37:25.483565+00:00",
+  "lastUpdated": "2026-08-09T16:38:36.381000+00:00",
   "articles": [
+    {
+      "title": "Residents urged to keep pets out of Stoughton pond after dog\u2019s death",
+      "link": "https://www.boston.com/news/health/2026/08/09/residents-urged-to-keep-pets-out-of-stoughton-pond-after-dogs-death/",
+      "pubDate": "Sun, 09 Aug 2026 15:08:25 +0000",
+      "description": "<p>Though there are no conclusive results yet, town officials suspect an algae bloom may be to blame for the water issues.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/08/09/residents-urged-to-keep-pets-out-of-stoughton-pond-after-dogs-death/\">Residents urged to keep pets out of Stoughton pond after dog\u2019s death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "509916d95892e2e63da034f0ae680063",
+      "summary": [
+        "Residents are advised to keep pets away from Stoughton Pond following a dog's death.",
+        "Town officials suspect an algae bloom may be causing water quality issues.",
+        "Potential health risks for pets could affect local pet owners and their animals."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "link": "https://www.boston.com/news/national-news/2026/08/09/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle/",
+      "pubDate": "Sun, 09 Aug 2026 14:36:46 +0000",
+      "description": "<p>As many as 50 to 100 meteors per hour may be visible under ideal conditions, according to NASA.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/09/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle/\">How to spot the Perseid meteor shower, a summer light show that promises to dazzle</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "efda0b6e60f3fd07b94218e747747b0d",
+      "summary": [
+        "NASA predicts 50 to 100 meteors per hour during the Perseid meteor shower.",
+        "Ideal viewing conditions expected in Boston on August 12-13, 2026.",
+        "Residents encouraged to find dark areas for optimal meteor viewing experience."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Former NH state trooper decertified after misleading police about using GPS to track girlfriend",
       "link": "https://www.boston.com/news/crime/2026/08/09/former-nh-state-trooper-decertified-after-misleading-police-about-using-gps-to-track-girlfriend/",
@@ -622,32 +648,6 @@
         "Four individuals were injured in a school bus rollover in Boston.",
         "The victims were transported to a local hospital for treatment.",
         "This incident raises concerns about school transportation safety in the community."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "McConnell announces discharge from rehabilitation center",
-      "link": "https://www.boston.com/news/politics/2026/08/06/mcconnell-announces-discharge-from-rehabilitation-center/",
-      "pubDate": "Thu, 06 Aug 2026 20:17:35 +0000",
-      "description": "<p>The Kentucky Republican has been absent from Congress for nearly two months after a health episode. He said he would continue recovering from home.            </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/08/06/mcconnell-announces-discharge-from-rehabilitation-center/\">McConnell announces discharge from rehabilitation center</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "82d596e23436e17086703b71a289fb00",
-      "summary": [
-        "Senate Minority Leader Mitch McConnell discharged from rehab after nearly two months.",
-        "McConnell plans to continue recovery at home, impacting Senate operations.",
-        "His absence raises concerns about legislative progress for Boston constituents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Red Sox 1B Triston Casas has surgery on left wrist in latest injury setback",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/06/red-sox-1b-triston-casas-has-surgery-on-left-wrist-in-latest-injury-setback/",
-      "pubDate": "Thu, 06 Aug 2026 19:22:14 +0000",
-      "description": "<p>After missing the remainder of last season, Casas developed an abdominal strain during spring training. Then came the wrist injury, which emerged as he was being eased back into action.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/06/red-sox-1b-triston-casas-has-surgery-on-left-wrist-in-latest-injury-setback/\">Red Sox 1B Triston Casas has surgery on left wrist in latest injury setback</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "c25c2cf281bd43f59ae3fe5c9072ad42",
-      "summary": [
-        "Red Sox first baseman Triston Casas underwent wrist surgery on August 6, 2023.",
-        "Casas previously missed last season due to injury and faced an abdominal strain in spring training.",
-        "His absence may impact the Red Sox's performance and lineup for the upcoming season."
       ],
       "hookType": "LOCAL_IMPACT"
     }

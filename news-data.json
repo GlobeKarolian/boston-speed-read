@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-08-09T14:37:25.482711+00:00",
+  "lastUpdated": "2026-08-09T16:38:36.380212+00:00",
   "articles": [
     {
-      "title": "Former NH state trooper decertified after misleading police about using GPS to track girlfriend",
-      "link": "https://www.boston.com/news/crime/2026/08/09/former-nh-state-trooper-decertified-after-misleading-police-about-using-gps-to-track-girlfriend/",
-      "pubDate": "Sun, 09 Aug 2026 14:26:25 +0000",
-      "description": "<p>The trooper placed tracking devices on both his vehicle and his girlfriend\u2019s vehicle but told police that someone else had done it.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/09/former-nh-state-trooper-decertified-after-misleading-police-about-using-gps-to-track-girlfriend/\">Former NH state trooper decertified after misleading police about using GPS to track girlfriend</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0ce49f5b9ffb205dc51bfea20bc7ac2b",
+      "title": "Residents urged to keep pets out of Stoughton pond after dog\u2019s death",
+      "link": "https://www.boston.com/news/health/2026/08/09/residents-urged-to-keep-pets-out-of-stoughton-pond-after-dogs-death/",
+      "pubDate": "Sun, 09 Aug 2026 15:08:25 +0000",
+      "description": "<p>Though there are no conclusive results yet, town officials suspect an algae bloom may be to blame for the water issues.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/08/09/residents-urged-to-keep-pets-out-of-stoughton-pond-after-dogs-death/\">Residents urged to keep pets out of Stoughton pond after dog\u2019s death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "509916d95892e2e63da034f0ae680063",
       "summary": [
-        "Former NH state trooper decertified for misleading police about GPS tracking.",
-        "Trooper placed devices on his and his girlfriend's vehicles without consent.",
-        "Incident raises concerns about police accountability and privacy for Boston residents."
+        "Residents are advised to keep pets away from Stoughton Pond following a dog's death.",
+        "Town officials suspect an algae bloom may be causing water quality issues.",
+        "Potential health risks for pets could affect local pet owners and their animals."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "Man polishing powder horn outside Lexington church prompts bizarre police response",
-      "link": "https://www.boston.com/news/local-news/2026/08/09/man-polishing-powder-horn-outside-lexington-church-prompts-bizarre-police-response/",
-      "pubDate": "Sun, 09 Aug 2026 13:15:07 +0000",
-      "description": "<p>Officers responded to Grace Chapel for a report of a man with a gun, but they later learned that there was no threat to the public.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/09/man-polishing-powder-horn-outside-lexington-church-prompts-bizarre-police-response/\">Man polishing powder horn outside Lexington church prompts bizarre police response</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "de8177e7b0ff0f8cd7b2ce71393d4c6a",
+      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+      "link": "https://www.boston.com/news/national-news/2026/08/09/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle/",
+      "pubDate": "Sun, 09 Aug 2026 14:36:46 +0000",
+      "description": "<p>As many as 50 to 100 meteors per hour may be visible under ideal conditions, according to NASA.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/09/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle/\">How to spot the Perseid meteor shower, a summer light show that promises to dazzle</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "efda0b6e60f3fd07b94218e747747b0d",
       "summary": [
-        "Police responded to Grace Chapel in Lexington for a report of a man with a gun.",
-        "The man was actually polishing a powder horn, causing confusion among officers.",
-        "No threat was found, ensuring safety for local residents and churchgoers."
+        "NASA predicts 50 to 100 meteors per hour during the Perseid meteor shower.",
+        "Ideal viewing conditions expected in Boston on August 12-13, 2026.",
+        "Residents encouraged to find dark areas for optimal meteor viewing experience."
       ],
       "hookType": "LOCAL_IMPACT"
     }
@@ -31,6 +31,6 @@
   "stats": {
     "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-09T14:37:25.482734+00:00"
+    "timestamp": "2026-08-09T16:38:36.380231+00:00"
   }
 }
