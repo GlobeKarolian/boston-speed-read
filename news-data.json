@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-09T20:36:02.315329+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-09T22:34:15.903579+00:00",
+  "articles": [
+    {
+      "title": "Adam Vinatieri jokes about Bill Belichick, Deflategate as part of Hall-of-Fame speech",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/09/adam-vinatieri-bill-belichick-deflategate-new-england-patriots-colts-hall-of-fame-speech/",
+      "pubDate": "Sun, 09 Aug 2026 22:16:16 +0000",
+      "description": "<p>\u201cI thought it was because training camp had already started. But in truth it\u2019s because he is judging his girlfriend\u2019s cheerleading competition.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/09/adam-vinatieri-bill-belichick-deflategate-new-england-patriots-colts-hall-of-fame-speech/\">Adam Vinatieri jokes about Bill Belichick, Deflategate as part of Hall-of-Fame speech</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fe9775c263dc4fe57628ce37a8ff3c53",
+      "summary": [
+        "Adam Vinatieri delivered a humorous Hall-of-Fame speech on August 9, 2026.",
+        "He joked about Bill Belichick's absence due to a cheerleading competition.",
+        "Vinatieri's remarks highlight ongoing local interest in Patriots' legacy and Deflategate."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Mass. 7-year-old hit and killed by vehicle while riding bike",
+      "link": "https://www.boston.com/news/local-news/2026/08/09/mass-7-year-old-hit-and-killed-by-vehicle-while-riding-bike/",
+      "pubDate": "Sun, 09 Aug 2026 21:09:00 +0000",
+      "description": "<p>The child, who was wearing a helmet, died from their injuries at the scene, officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/09/mass-7-year-old-hit-and-killed-by-vehicle-while-riding-bike/\">Mass. 7-year-old hit and killed by vehicle while riding bike</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "16894d5bcde2fbf1b1a98a444da9218c",
+      "summary": [
+        "A 7-year-old child was hit and killed by a vehicle while biking.",
+        "The incident occurred despite the child wearing a helmet at the time.",
+        "Local officials emphasize the need for increased safety measures for cyclists."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-09T20:36:02.315338+00:00"
+    "timestamp": "2026-08-09T22:34:15.903599+00:00"
   }
 }
