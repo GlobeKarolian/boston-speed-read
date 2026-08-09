@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-09T12:57:16.330189+00:00",
+  "lastUpdated": "2026-08-09T14:37:25.483565+00:00",
   "articles": [
+    {
+      "title": "Former NH state trooper decertified after misleading police about using GPS to track girlfriend",
+      "link": "https://www.boston.com/news/crime/2026/08/09/former-nh-state-trooper-decertified-after-misleading-police-about-using-gps-to-track-girlfriend/",
+      "pubDate": "Sun, 09 Aug 2026 14:26:25 +0000",
+      "description": "<p>The trooper placed tracking devices on both his vehicle and his girlfriend\u2019s vehicle but told police that someone else had done it.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/09/former-nh-state-trooper-decertified-after-misleading-police-about-using-gps-to-track-girlfriend/\">Former NH state trooper decertified after misleading police about using GPS to track girlfriend</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0ce49f5b9ffb205dc51bfea20bc7ac2b",
+      "summary": [
+        "Former NH state trooper decertified for misleading police about GPS tracking.",
+        "Trooper placed devices on his and his girlfriend's vehicles without consent.",
+        "Incident raises concerns about police accountability and privacy for Boston residents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Man polishing powder horn outside Lexington church prompts bizarre police response",
+      "link": "https://www.boston.com/news/local-news/2026/08/09/man-polishing-powder-horn-outside-lexington-church-prompts-bizarre-police-response/",
+      "pubDate": "Sun, 09 Aug 2026 13:15:07 +0000",
+      "description": "<p>Officers responded to Grace Chapel for a report of a man with a gun, but they later learned that there was no threat to the public.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/09/man-polishing-powder-horn-outside-lexington-church-prompts-bizarre-police-response/\">Man polishing powder horn outside Lexington church prompts bizarre police response</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "de8177e7b0ff0f8cd7b2ce71393d4c6a",
+      "summary": [
+        "Police responded to Grace Chapel in Lexington for a report of a man with a gun.",
+        "The man was actually polishing a powder horn, causing confusion among officers.",
+        "No threat was found, ensuring safety for local residents and churchgoers."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "A pope from Chicago was elected. The White Sox were resurrected.",
       "link": "https://www.boston.com/news/sports-news/2026/08/09/a-pope-from-chicago-was-elected-the-white-sox-were-resurrected/",
@@ -622,32 +648,6 @@
         "Red Sox first baseman Triston Casas underwent wrist surgery on August 6, 2023.",
         "Casas previously missed last season due to injury and faced an abdominal strain in spring training.",
         "His absence may impact the Red Sox's performance and lineup for the upcoming season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Drake Maye struggled during two-minute drill, and other takeaways from Day 11 of Patriots training camp",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/06/drake-maye-training-camp-struggles-patriots-comments/",
-      "pubDate": "Thu, 06 Aug 2026 19:13:04 +0000",
-      "description": "<p>Three straight interceptions made a rough ending during the two-minute drill portion of practice. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/06/drake-maye-training-camp-struggles-patriots-comments/\">Drake Maye struggled during two-minute drill, and other takeaways from Day 11 of Patriots training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "08877ea6882bf0f25dc5487815919e25",
-      "summary": [
-        "Drake Maye threw three interceptions during the two-minute drill at Patriots training camp.",
-        "This occurred on Day 11 of training camp, raising concerns about his performance.",
-        "Local fans may worry about the team's quarterback depth heading into the season."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "A beloved Cape Cod restaurant is closing after 21 years",
-      "link": "https://www.boston.com/travel/restaurants/2026/08/06/beloved-cape-cod-restaurant-closing-after-21-years/",
-      "pubDate": "Thu, 06 Aug 2026 19:00:57 +0000",
-      "description": "<p>The restaurant will close for good on Nov. 2. </p>\n<p>The post <a href=\"https://www.boston.com/travel/restaurants/2026/08/06/beloved-cape-cod-restaurant-closing-after-21-years/\">A beloved Cape Cod restaurant is closing after 21 years</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3a69766a53c0e10f45fac4a4a251fc60",
-      "summary": [
-        "Cape Cod restaurant closing permanently on November 2 after 21 years of operation.",
-        "The closure affects local dining options for Cape Cod visitors and residents.",
-        "Community mourns loss of a beloved dining destination in the region."
       ],
       "hookType": "LOCAL_IMPACT"
     }
