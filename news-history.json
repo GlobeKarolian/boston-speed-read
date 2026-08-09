@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-09T03:49:13.456009+00:00",
+  "lastUpdated": "2026-08-09T12:57:16.330189+00:00",
   "articles": [
+    {
+      "title": "A pope from Chicago was elected. The White Sox were resurrected.",
+      "link": "https://www.boston.com/news/sports-news/2026/08/09/a-pope-from-chicago-was-elected-the-white-sox-were-resurrected/",
+      "pubDate": "Sun, 09 Aug 2026 12:32:19 +0000",
+      "description": "<p>The elevation of Pope Leo XIV, a Chicago native and lifelong supporter of the Sox, was a godsend for a team failing on the field and with fans.</p>\n<p>The post <a href=\"https://www.boston.com/news/sports-news/2026/08/09/a-pope-from-chicago-was-elected-the-white-sox-were-resurrected/\">A pope from Chicago was elected. The White Sox were resurrected.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8fd1bcdb38c691660e6e321be7a87d78",
+      "summary": [
+        "Pope Leo XIV, a Chicago native, was elected, boosting local morale.",
+        "The White Sox, struggling in recent seasons, gained renewed support from fans.",
+        "Boston residents may see increased interest in Chicago sports due to the pope's influence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Nagasaki marks 81st atomic bomb anniversary",
+      "link": "https://www.boston.com/news/world-news/2026/08/09/nagasaki-marks-81st-atomic-bomb-anniversary/",
+      "pubDate": "Sun, 09 Aug 2026 11:35:25 +0000",
+      "description": "<p>The mayor called nuclear weapons \"absolute evil,\u201d and denounced growing support for nuclear deterrence.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/09/nagasaki-marks-81st-atomic-bomb-anniversary/\">Nagasaki marks 81st atomic bomb anniversary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d43794b1ebf8730487e700ac80ad5b5b",
+      "summary": [
+        "Nagasaki commemorated the 81st anniversary of the atomic bomb on August 9, 2026.",
+        "Mayor denounced nuclear weapons as 'absolute evil' during the anniversary speech.",
+        "Growing support for nuclear deterrence raises concerns for Boston residents about global security."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Longtime sports analyst Rob Parker not sold that Red Sox will make playoffs",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/08/08/red-sox-playoff-chances-rob-parker/",
@@ -622,32 +648,6 @@
         "Cape Cod restaurant closing permanently on November 2 after 21 years of operation.",
         "The closure affects local dining options for Cape Cod visitors and residents.",
         "Community mourns loss of a beloved dining destination in the region."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "UNC\u2019s Bill Belichick says son and defensive coordinator Steve Belichick is on medical leave",
-      "link": "https://www.boston.com/sports/college-sports/2026/08/06/uncs-bill-belichick-says-son-and-defensive-coordinator-steve-belichick-is-on-medical-leave/",
-      "pubDate": "Thu, 06 Aug 2026 18:59:47 +0000",
-      "description": "<p>President Donald Trump says newly planned talks between the U.S. and Tehran are the &#8220;last chance&#8221; for Iran to forge a deal and avoid an escalation of U.S. strikes</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/08/06/uncs-bill-belichick-says-son-and-defensive-coordinator-steve-belichick-is-on-medical-leave/\">UNC&#8217;s Bill Belichick says son and defensive coordinator Steve Belichick is on medical leave</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b898c0fe7e2db0b8a45a99b036eb5eb5",
-      "summary": [
-        "UNC's defensive coordinator Steve Belichick is on medical leave as of August 2023.",
-        "Bill Belichick, a Boston native, addresses concerns about his son's health.",
-        "This situation may affect UNC's football performance, impacting local fans and community engagement."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "The best movies on Netflix right now (August 2026)",
-      "link": "https://www.boston.com/culture/streaming/2026/08/06/best-movies-on-netflix-august-2026/",
-      "pubDate": "Thu, 06 Aug 2026 18:49:28 +0000",
-      "description": "<p>From new Netflix originals to classic films from decades past, we've got the best movies on Netflix for every taste.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/08/06/best-movies-on-netflix-august-2026/\">The best movies on Netflix right now (August 2026)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "febc4bd3adeec093d2eccf688b32c95d",
-      "summary": [
-        "Discover top Netflix movies available to Boston residents this August 2026.",
-        "Includes a mix of new originals and classic films for diverse tastes.",
-        "Streaming options enhance local entertainment choices for Boston's movie lovers."
       ],
       "hookType": "LOCAL_IMPACT"
     }

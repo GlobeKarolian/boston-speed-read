@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-09T10:37:25.330785+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-09T12:57:16.329374+00:00",
+  "articles": [
+    {
+      "title": "A pope from Chicago was elected. The White Sox were resurrected.",
+      "link": "https://www.boston.com/news/sports-news/2026/08/09/a-pope-from-chicago-was-elected-the-white-sox-were-resurrected/",
+      "pubDate": "Sun, 09 Aug 2026 12:32:19 +0000",
+      "description": "<p>The elevation of Pope Leo XIV, a Chicago native and lifelong supporter of the Sox, was a godsend for a team failing on the field and with fans.</p>\n<p>The post <a href=\"https://www.boston.com/news/sports-news/2026/08/09/a-pope-from-chicago-was-elected-the-white-sox-were-resurrected/\">A pope from Chicago was elected. The White Sox were resurrected.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8fd1bcdb38c691660e6e321be7a87d78",
+      "summary": [
+        "Pope Leo XIV, a Chicago native, was elected, boosting local morale.",
+        "The White Sox, struggling in recent seasons, gained renewed support from fans.",
+        "Boston residents may see increased interest in Chicago sports due to the pope's influence."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Nagasaki marks 81st atomic bomb anniversary",
+      "link": "https://www.boston.com/news/world-news/2026/08/09/nagasaki-marks-81st-atomic-bomb-anniversary/",
+      "pubDate": "Sun, 09 Aug 2026 11:35:25 +0000",
+      "description": "<p>The mayor called nuclear weapons \"absolute evil,\u201d and denounced growing support for nuclear deterrence.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/09/nagasaki-marks-81st-atomic-bomb-anniversary/\">Nagasaki marks 81st atomic bomb anniversary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d43794b1ebf8730487e700ac80ad5b5b",
+      "summary": [
+        "Nagasaki commemorated the 81st anniversary of the atomic bomb on August 9, 2026.",
+        "Mayor denounced nuclear weapons as 'absolute evil' during the anniversary speech.",
+        "Growing support for nuclear deterrence raises concerns for Boston residents about global security."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-09T10:37:25.330795+00:00"
+    "timestamp": "2026-08-09T12:57:16.329393+00:00"
   }
 }
