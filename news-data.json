@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-08-10T11:10:55.462781+00:00",
+  "lastUpdated": "2026-08-10T13:15:18.784995+00:00",
   "articles": [
     {
-      "title": "For $415k, you can live in a New England community library",
-      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/10/tyler-free-library-foster-rhode-island/",
-      "pubDate": "Mon, 10 Aug 2026 11:00:00 +0000",
-      "description": "<p>Built in 1850, it originally served as the Vestry Schoolhouse for the small farming community of Foster, R.I., before becoming the Tyler Free Library in 1953.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/10/tyler-free-library-foster-rhode-island/\">For $415k, you can live in a New England community library</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2b411d66386037046617e5e88cc6b289",
+      "title": "Livestream: Lindsay Clancy murder trial continues with psychiatrist under cross-examination",
+      "link": "https://www.boston.com/news/crime/2026/08/10/lindsay-clancy-murder-trial-livestream-video-monday-august-10/",
+      "pubDate": "Mon, 10 Aug 2026 12:59:20 +0000",
+      "description": "<p>Dr. Jennifer Tufts testified Friday that Clancy repeatedly denied having suicidal or homicidal thoughts in the months before she killed her children and tried to take her own life. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/10/lindsay-clancy-murder-trial-livestream-video-monday-august-10/\">Livestream: Lindsay Clancy murder trial continues with psychiatrist under cross-examination</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3752c4e847e89cb9efc223881cfe2d76",
       "summary": [
-        "Tyler Free Library in Foster, RI, is listed for $415,000 as a residential property.",
-        "Originally built in 1850, it served as a schoolhouse before becoming a library in 1953.",
-        "Boston residents can explore unique housing options in nearby Rhode Island communities."
+        "Dr. Jennifer Tufts testified about Lindsay Clancy's mental state before the murders.",
+        "Clancy denied suicidal or homicidal thoughts leading up to the tragic events.",
+        "The trial's outcome may influence mental health discussions in Boston communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Boston Legacy FC nearly rallies from record-setting deficit, but comeback falls short",
+      "link": "https://www.boston.com/sports/boston-legacy-football-club/2026/08/10/boston-legacy-fc-nearly-rallies-from-record-setting-deficit-but-comeback-falls-short/",
+      "pubDate": "Mon, 10 Aug 2026 12:06:04 +0000",
+      "description": "<p>\u201cEighty-seven great minutes. Ten minutes that was a disappointment for us.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-legacy-football-club/2026/08/10/boston-legacy-fc-nearly-rallies-from-record-setting-deficit-but-comeback-falls-short/\">Boston Legacy FC nearly rallies from record-setting deficit, but comeback falls short</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f541c8dedbaf6ebefd11a681795c9e9d",
+      "summary": [
+        "Boston Legacy FC faced a record-setting deficit in their recent match.",
+        "The team showed resilience, nearly rallying back in the final 10 minutes.",
+        "Local fans expressed mixed emotions after the team's close yet disappointing performance."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-10T11:10:55.462800+00:00"
+    "timestamp": "2026-08-10T13:15:18.785015+00:00"
   }
 }
