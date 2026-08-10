@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-10T09:25:34.607374+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-10T11:10:55.462781+00:00",
+  "articles": [
+    {
+      "title": "For $415k, you can live in a New England community library",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/10/tyler-free-library-foster-rhode-island/",
+      "pubDate": "Mon, 10 Aug 2026 11:00:00 +0000",
+      "description": "<p>Built in 1850, it originally served as the Vestry Schoolhouse for the small farming community of Foster, R.I., before becoming the Tyler Free Library in 1953.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/10/tyler-free-library-foster-rhode-island/\">For $415k, you can live in a New England community library</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2b411d66386037046617e5e88cc6b289",
+      "summary": [
+        "Tyler Free Library in Foster, RI, is listed for $415,000 as a residential property.",
+        "Originally built in 1850, it served as a schoolhouse before becoming a library in 1953.",
+        "Boston residents can explore unique housing options in nearby Rhode Island communities."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-10T09:25:34.607383+00:00"
+    "timestamp": "2026-08-10T11:10:55.462800+00:00"
   }
 }
