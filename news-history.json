@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-10T19:01:01.751172+00:00",
+  "lastUpdated": "2026-08-10T20:45:58.987489+00:00",
   "articles": [
+    {
+      "title": "Police to increase patrols downtown amid safety concerns, neighborhood group says",
+      "link": "https://www.boston.com/news/local-news/2026/08/10/police-to-increase-patrols-downtown-amid-safety-concerns-neighborhood-group-says/",
+      "pubDate": "Mon, 10 Aug 2026 20:28:54 +0000",
+      "description": "<p>A number of high-profile violent incidents in July has sparked renewed efforts to decrease crime.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/10/police-to-increase-patrols-downtown-amid-safety-concerns-neighborhood-group-says/\">Police to increase patrols downtown amid safety concerns, neighborhood group says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1049d1bd67136bcffd0c5445046300f5",
+      "summary": [
+        "Police will increase downtown patrols due to rising safety concerns.",
+        "High-profile violent incidents in July prompted this decision.",
+        "Residents can expect enhanced security measures in response to crime."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "A man accused of orchestrating Tupac Shakur\u2019s 1996 killing is on trial. Here\u2019s what to know.",
+      "link": "https://www.boston.com/news/crime/2026/08/10/a-man-accused-of-orchestrating-tupac-shakurs-1996-killing-is-on-trial-heres-what-to-know/",
+      "pubDate": "Mon, 10 Aug 2026 20:04:17 +0000",
+      "description": "<p>Family members of the famed rapper were among supporters who gathered outside a Las Vegas courthouse Monday morning for the beginning of jury selection, which could continue through much of this week.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/10/a-man-accused-of-orchestrating-tupac-shakurs-1996-killing-is-on-trial-heres-what-to-know/\">A man accused of orchestrating Tupac Shakur&#8217;s 1996 killing is on trial. Here&#8217;s what to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f76e186c65807247ab1e9b4dcbce1fd2",
+      "summary": [
+        "Jury selection for Tupac Shakur's murder trial began on August 10, 2026, in Las Vegas.",
+        "Family members of Tupac Shakur attended the trial, showing ongoing community support.",
+        "The trial's outcome may influence discussions on unsolved crimes in Boston and nationwide."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "All four \u2018Lord of the Rings\u2019 movie Hobbits explored Boston together this weekend",
       "link": "https://www.boston.com/culture/celebs/2026/08/10/all-four-lord-of-the-rings-movie-hobbits-explored-boston-together-this-weekend/",
@@ -622,32 +648,6 @@
         "Will Rosenzweig, a federal prosecutor, was fired over blog posts critical of Trump.",
         "He was set to prosecute a $2 million Medicare fraud case in two weeks.",
         "Rosenzweig's lawsuit against the Justice Department may affect local federal employment policies."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Advocates for former US Marine held in Russia for more than 4 years say he is near death",
-      "link": "https://www.boston.com/news/local-news/2026/08/07/advocates-for-former-us-marine-held-in-russia-for-more-than-4-years-say-he-is-near-death/",
-      "pubDate": "Fri, 07 Aug 2026 21:50:14 +0000",
-      "description": "<p>Since Tuesday, Robert Gilman has had a high fever and high blood pressure.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/07/advocates-for-former-us-marine-held-in-russia-for-more-than-4-years-say-he-is-near-death/\">Advocates for former US Marine held in Russia for more than 4 years say he is near death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fc69722d08b9239efc760157d1265aa7",
-      "summary": [
-        "Advocates report Robert Gilman, a former US Marine, is critically ill in Russia.",
-        "Since Tuesday, Gilman has experienced high fever and blood pressure issues.",
-        "Boston residents are urged to support efforts for Gilman's safe return home."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Could Garrett Crochet return to Red Sox in a bullpen role?",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/07/garrett-crochet-red-sox-bullpen/",
-      "pubDate": "Fri, 07 Aug 2026 22:35:40 +0000",
-      "description": "<p>Crochet pitched out of the bullpen with the White Sox for multiple seasons before being traded to Boston.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/07/garrett-crochet-red-sox-bullpen/\">Could Garrett Crochet return to Red Sox in a bullpen role?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "976a149cafdfe8ba56e4b8a420747d9e",
-      "summary": [
-        "Garrett Crochet, traded to Boston, may return to the bullpen for the Red Sox.",
-        "Crochet previously pitched for the White Sox, enhancing Boston's pitching depth.",
-        "His return could strengthen the Red Sox's bullpen ahead of the 2026 season."
       ],
       "hookType": "LOCAL_IMPACT"
     }
