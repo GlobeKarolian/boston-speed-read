@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-08-11T10:51:54.753847+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-11T13:12:24.551256+00:00",
+  "articles": [
+    {
+      "title": "Livestream: Lindsay Clancy murder trial continues with more testimony from psychiatric NP",
+      "link": "https://www.boston.com/news/crime/2026/08/11/lindsay-clancy-murder-trial-livestream-video-tuesday-august-11/",
+      "pubDate": "Tue, 11 Aug 2026 13:02:13 +0000",
+      "description": "<p>\u201cI asked her specifically if she felt like she wanted to harm herself or her children, and she said no,\u201d Julie Paul testified Monday. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/11/lindsay-clancy-murder-trial-livestream-video-tuesday-august-11/\">Livestream: Lindsay Clancy murder trial continues with more testimony from psychiatric NP</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "88a0e5d052ae7391563751ee5faf0162",
+      "summary": [
+        "Psychiatric NP Julie Paul testified about Lindsay Clancy's mental state during the trial.",
+        "Clancy denied any intent to harm herself or her children during the evaluation.",
+        "The trial's outcome may influence local discussions on mental health and legal accountability."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Local obituary: Max Rothschild, Williamstown 7-year-old",
+      "link": "https://www.boston.com/news/massachusetts-obituaries/2026/08/11/local-obituary-max-rothschild-williamstown-7-year-old/",
+      "pubDate": "Tue, 11 Aug 2026 12:50:39 +0000",
+      "description": "<p>\"Max had just learned how to ride a bike and was so proud of himself. He was practicing to get ready for a longer bike ride on an upcoming family vacation.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/massachusetts-obituaries/2026/08/11/local-obituary-max-rothschild-williamstown-7-year-old/\">Local obituary: Max Rothschild, Williamstown 7-year-old</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4478a45ab39ffe2962ac447e3d5f3090",
+      "summary": [
+        "Max Rothschild, a 7-year-old from Williamstown, recently passed away.",
+        "He had just learned to ride a bike and was excited for a family vacation.",
+        "His death impacts the local community, highlighting the fragility of childhood."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "It\u2019s been a fun time, but what can we expect from the Red Sox from here?",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/11/red-sox-expectations/",
+      "pubDate": "Tue, 11 Aug 2026 11:52:50 +0000",
+      "description": "<p>Do they just settle into being a normal, pretty good team?</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/11/red-sox-expectations/\">It\u2019s been a fun time, but what can we expect from the Red Sox from here?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "573e1d4eb282847624560d62ac41ac04",
+      "summary": [
+        "Red Sox aim to stabilize as a competitive team for the remainder of the season.",
+        "Current standings show the Red Sox performing well, with a record of 60 wins this season.",
+        "Local fans may see increased ticket sales and community engagement as team performance improves."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Former \u2018Real Housewives\u2019 star Dorinda Medley lists part of her Berkshires estate, Bluestone Manor",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/11/dorinda-medley-real-housewives-bluestone-manor-berkshires-sale/",
+      "pubDate": "Tue, 11 Aug 2026 11:00:00 +0000",
+      "description": "<p>Bluestone Manor was prominently featured on Bravo and Peacock.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/11/dorinda-medley-real-housewives-bluestone-manor-berkshires-sale/\">Former \u2018Real Housewives\u2019 star Dorinda Medley lists part of her Berkshires estate, Bluestone Manor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0cffb8e20fd9f511ad83ad1115a57188",
+      "summary": [
+        "Dorinda Medley lists part of her Bluestone Manor estate for sale in the Berkshires.",
+        "The estate gained fame from its appearances on Bravo and Peacock's reality shows.",
+        "Local real estate market may see increased interest due to the property's celebrity status."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Home of the Week: Rhode Island beach house with water views on both sides for under $2m",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/08/11/westerly-rhode-island-beach-house-winnapaug-pond/",
+      "pubDate": "Tue, 11 Aug 2026 11:00:00 +0000",
+      "description": "<p>The Westerly home has been rented as a vacation spot for up to $9,000 a week</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/08/11/westerly-rhode-island-beach-house-winnapaug-pond/\">Home of the Week: Rhode Island beach house with water views on both sides for under $2m</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6ec993cd61dc75fb049a84aec5406c97",
+      "summary": [
+        "Explore a beach house in Westerly, Rhode Island, listed for under $2 million.",
+        "The property offers water views on both sides and rents for up to $9,000 weekly.",
+        "Boston residents seeking vacation homes can consider this affordable option just over the border."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-08-11T10:51:54.753856+00:00"
+    "timestamp": "2026-08-11T13:12:24.551276+00:00"
   }
 }
