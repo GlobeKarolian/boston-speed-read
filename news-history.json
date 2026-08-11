@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-08-11T16:59:29.323325+00:00",
+  "lastUpdated": "2026-08-11T19:05:09.624098+00:00",
   "articles": [
+    {
+      "title": "Worcester officials urge MBTA to improve commuter rail service to and from Boston",
+      "link": "https://www.boston.com/news/local-news/2026/08/11/worcester-officials-urge-mbta-to-improve-commuter-rail-service-to-and-from-boston/",
+      "pubDate": "Tue, 11 Aug 2026 19:02:40 +0000",
+      "description": "<p>Calling for the return of a \"pure\" express service, Worcester leaders want to hold the MBTA to \"strict travel time targets.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/11/worcester-officials-urge-mbta-to-improve-commuter-rail-service-to-and-from-boston/\">Worcester officials urge MBTA to improve commuter rail service to and from Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "34d095fd23ec42991e4fd38bc4a2b41c",
+      "summary": [
+        "Worcester officials demand MBTA restore express commuter rail service to Boston.",
+        "Leaders call for strict travel time targets for improved service efficiency.",
+        "Enhanced rail service could significantly benefit Boston commuters from Worcester."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "One of the rarest basketball cards in the world was pulled in New England on Monday",
+      "link": "https://www.boston.com/sports/sports-news/2026/08/11/cooper-flagg-card-1-of-1-topps-chrome/",
+      "pubDate": "Tue, 11 Aug 2026 18:50:00 +0000",
+      "description": "<p>\"There it is! Rhody did it.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/08/11/cooper-flagg-card-1-of-1-topps-chrome/\">One of the rarest basketball cards in the world was pulled in New England on Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5f180c6535bf370c0b3332e0709ed899",
+      "summary": [
+        "Rhody pulled a rare 1-of-1 Cooper Flagg basketball card on August 11.",
+        "The card is considered one of the rarest in the world.",
+        "Local collectors in Boston may see increased interest and value in rare cards."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Review & setlist: Olivia Dean taught Boston how to love at TD Garden",
+      "link": "https://www.boston.com/culture/concert-reviews/2026/08/11/review-olivia-dean-taught-boston-how-to-love-at-td-garden/",
+      "pubDate": "Tue, 11 Aug 2026 18:13:56 +0000",
+      "description": "<p>Dean dazzled fans with sparkles, class, her iconic banana shaker, and plenty of words of wisdom on connection and healing. </p>\n<p>The post <a href=\"https://www.boston.com/culture/concert-reviews/2026/08/11/review-olivia-dean-taught-boston-how-to-love-at-td-garden/\">Review &amp; setlist: Olivia Dean taught Boston how to love at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "aa8592f6d5703db6dc0fc1ff241b1501",
+      "summary": [
+        "Olivia Dean performed at TD Garden, captivating Boston fans with her energetic show.",
+        "The concert featured Dean's iconic banana shaker and messages about connection and healing.",
+        "Local residents experienced a night of inspiration and community bonding through music."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Belmont, Mass., teens arrested after N.H. police chase",
+      "link": "https://www.boston.com/news/crime/2026/08/11/belmont-mass-teens-arrested-after-n-h-police-chase/",
+      "pubDate": "Tue, 11 Aug 2026 18:10:09 +0000",
+      "description": "<p>They were initially observed traveling at speeds over 100 mph, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/11/belmont-mass-teens-arrested-after-n-h-police-chase/\">Belmont, Mass., teens arrested after N.H. police chase</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a5afaae1204488ecd2bcabafcb90cbdf",
+      "summary": [
+        "Belmont teens arrested after leading New Hampshire police on a high-speed chase.",
+        "Police reported speeds exceeding 100 mph during the pursuit.",
+        "Incident raises concerns about teen driving safety in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Faneuil Hall managers sue tenants over more than $2 million in alleged unpaid rent",
+      "link": "https://www.boston.com/news/business/2026/08/11/faneuil-hall-managers-sue-tenants-over-more-than-2-million-in-alleged-unpaid-rent/",
+      "pubDate": "Tue, 11 Aug 2026 17:08:38 +0000",
+      "description": "<p>Most of the businesses have since left the marketplace, which continues to struggle with vacant storefronts as Boston\u2019s downtown rebounds.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/08/11/faneuil-hall-managers-sue-tenants-over-more-than-2-million-in-alleged-unpaid-rent/\">Faneuil Hall managers sue tenants over more than $2 million in alleged unpaid rent</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8c66bde8a0c92b646dc3ca04170961e0",
+      "summary": [
+        "Faneuil Hall managers filed a lawsuit against tenants for over $2 million in unpaid rent.",
+        "Many businesses have vacated the marketplace, contributing to ongoing struggles with empty storefronts.",
+        "The lawsuit highlights challenges for Boston's downtown recovery amid a post-pandemic economic landscape."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Former U.S. Marine from Mass. held in Russia for over 4 years has been released, his advocates say",
       "link": "https://www.boston.com/news/local-news/2026/08/11/former-u-s-marine-from-mass-held-in-russia-for-over-4-years-has-been-released-his-advocates-say/",
@@ -583,71 +648,6 @@
         "Logan Airport will close a runway this fall for a major safety project.",
         "The closure will reduce airport capacity, affecting flight schedules significantly.",
         "Surrounding communities may experience increased flight noise and delays."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "One dead, 3 injured in head-on crash on the Cape",
-      "link": "https://www.boston.com/news/local-news/2026/08/10/one-dead-3-injured-in-head-on-crash-on-the-cape/",
-      "pubDate": "Mon, 10 Aug 2026 14:00:38 +0000",
-      "description": "<p>The crash occurred Sunday night.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/10/one-dead-3-injured-in-head-on-crash-on-the-cape/\">One dead, 3 injured in head-on crash on the Cape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7b89d87e88dad4400f4f25bd9f42c51b",
-      "summary": [
-        "One person died and three others were injured in a head-on crash on Cape Cod.",
-        "The accident occurred on Sunday night, affecting traffic and emergency services in the area.",
-        "Local residents may face increased road safety concerns following this tragic incident."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Driver on South Shore narrowly escaped before commuter train totaled his Camry",
-      "link": "https://www.boston.com/news/local-news/2026/08/10/driver-on-south-shore-narrowly-escaped-before-commuter-train-totaled-his-camry/",
-      "pubDate": "Mon, 10 Aug 2026 13:56:06 +0000",
-      "description": "<p>The driver was delivering packages when he made a wrong turn onto the railroad tracks and became stuck, a preliminary investigation found. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/10/driver-on-south-shore-narrowly-escaped-before-commuter-train-totaled-his-camry/\">Driver on South Shore narrowly escaped before commuter train totaled his Camry</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "8458ff0cb20f240f3620afb4f34f01d5",
-      "summary": [
-        "Driver delivering packages got stuck on railroad tracks in South Shore.",
-        "Commuter train collided with the car on August 10, 2026, totaling the vehicle.",
-        "Incident highlights safety concerns for drivers near railroad crossings in Boston area."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Livestream: Lindsay Clancy murder trial continues with psychiatrist under cross-examination",
-      "link": "https://www.boston.com/news/crime/2026/08/10/lindsay-clancy-murder-trial-livestream-video-monday-august-10/",
-      "pubDate": "Mon, 10 Aug 2026 12:59:20 +0000",
-      "description": "<p>Dr. Jennifer Tufts testified Friday that Clancy repeatedly denied having suicidal or homicidal thoughts in the months before she killed her children and tried to take her own life. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/10/lindsay-clancy-murder-trial-livestream-video-monday-august-10/\">Livestream: Lindsay Clancy murder trial continues with psychiatrist under cross-examination</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3752c4e847e89cb9efc223881cfe2d76",
-      "summary": [
-        "Dr. Jennifer Tufts testified about Lindsay Clancy's mental state before the murders.",
-        "Clancy denied suicidal or homicidal thoughts leading up to the tragic events.",
-        "The trial's outcome may influence mental health discussions in Boston communities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Boston Legacy FC nearly rallies from record-setting deficit, but comeback falls short",
-      "link": "https://www.boston.com/sports/boston-legacy-football-club/2026/08/10/boston-legacy-fc-nearly-rallies-from-record-setting-deficit-but-comeback-falls-short/",
-      "pubDate": "Mon, 10 Aug 2026 12:06:04 +0000",
-      "description": "<p>\u201cEighty-seven great minutes. Ten minutes that was a disappointment for us.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-legacy-football-club/2026/08/10/boston-legacy-fc-nearly-rallies-from-record-setting-deficit-but-comeback-falls-short/\">Boston Legacy FC nearly rallies from record-setting deficit, but comeback falls short</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f541c8dedbaf6ebefd11a681795c9e9d",
-      "summary": [
-        "Boston Legacy FC faced a record-setting deficit in their recent match.",
-        "The team showed resilience, nearly rallying back in the final 10 minutes.",
-        "Local fans expressed mixed emotions after the team's close yet disappointing performance."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "For $415k, you can live in a New England community library",
-      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/10/tyler-free-library-foster-rhode-island/",
-      "pubDate": "Mon, 10 Aug 2026 11:00:00 +0000",
-      "description": "<p>Built in 1850, it originally served as the Vestry Schoolhouse for the small farming community of Foster, R.I., before becoming the Tyler Free Library in 1953.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/10/tyler-free-library-foster-rhode-island/\">For $415k, you can live in a New England community library</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2b411d66386037046617e5e88cc6b289",
-      "summary": [
-        "Tyler Free Library in Foster, RI, is listed for $415,000 as a residential property.",
-        "Originally built in 1850, it served as a schoolhouse before becoming a library in 1953.",
-        "Boston residents can explore unique housing options in nearby Rhode Island communities."
       ],
       "hookType": "LOCAL_IMPACT"
     }
