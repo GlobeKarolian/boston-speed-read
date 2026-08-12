@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-08-12T19:04:37.934381+00:00",
+  "lastUpdated": "2026-08-12T20:49:53.191064+00:00",
   "articles": [
     {
-      "title": "Are millionaires really leaving Massachusetts? We don\u2019t know yet.",
-      "link": "https://www.boston.com/news/business/2026/08/12/are-millionaires-really-leaving-massachusetts-we-dont-know-yet/",
-      "pubDate": "Wed, 12 Aug 2026 18:45:44 +0000",
-      "description": "<p>The IRS data analysts use to track high-income migration after the 2023 millionaires tax still isn\u2019t available. That hasn\u2019t stopped the debate over whether wealthy residents are leaving. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/08/12/are-millionaires-really-leaving-massachusetts-we-dont-know-yet/\">Are millionaires really leaving Massachusetts? We don\u2019t know yet.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ddad8d876381d43c0c111284de5d9794",
+      "title": "The best waterfront hotel in America is in Massachusetts, according to USA Today readers",
+      "link": "https://www.boston.com/travel/new-england-travel/2026/08/12/best-waterfront-hotel-in-america-is-in-massachusetts/",
+      "pubDate": "Wed, 12 Aug 2026 20:15:59 +0000",
+      "description": "<p>A Connecticut hotel is also a top waterfront spot. </p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/08/12/best-waterfront-hotel-in-america-is-in-massachusetts/\">The best waterfront hotel in America is in Massachusetts, according to USA Today readers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ccd9d8e77b89b77ebe455aceaf4aee0d",
       "summary": [
-        "IRS data on high-income migration post-2023 millionaires tax is not yet available.",
-        "Debate continues over wealthy residents potentially leaving Massachusetts amid tax changes.",
-        "Uncertainty may affect local economies and funding for public services in Boston."
+        "USA Today readers named a Massachusetts hotel the best waterfront hotel in America.",
+        "The recognition highlights the state's appeal for tourism and local businesses.",
+        "Boston residents can expect increased visitors and economic benefits from this accolade."
       ],
       "hookType": "LOCAL_IMPACT"
     },
     {
-      "title": "7 things to do during a rainy day on the Cape",
-      "link": "https://www.boston.com/travel/new-england-travel/2026/08/12/things-to-do-during-a-rainy-day-on-the-cape/",
-      "pubDate": "Wed, 12 Aug 2026 18:10:08 +0000",
-      "description": "<p>From sharks to shopping to shows, there's plenty to do on Cape Cod during a rainy day.</p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/08/12/things-to-do-during-a-rainy-day-on-the-cape/\">7 things to do during a rainy day on the Cape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "00d38f8417b6e81fe68e62b223141ce1",
+      "title": "White House press secretary Karoline Leavitt, youngest person to hold role, to leave at month\u2019s end",
+      "link": "https://www.boston.com/news/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-youngest-person-to-hold-role-to-leave-at-months-end/",
+      "pubDate": "Wed, 12 Aug 2026 20:07:31 +0000",
+      "description": "<p>Leavitt, 28, just recently returned to the White House after taking a brief leave for the birth of her second child in May.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-youngest-person-to-hold-role-to-leave-at-months-end/\">White House press secretary Karoline Leavitt, youngest person to hold role, to leave at month&#8217;s end</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b88ac9a463e32e850c0ea9fd632ca1ef",
       "summary": [
-        "Explore indoor activities on Cape Cod during rainy days, enhancing local tourism.",
-        "Visit local attractions like shopping centers and museums to support Cape businesses.",
-        "Engage in family-friendly shows and events, providing entertainment options for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "ICE plans to give officers gloves that can deliver painful electric shocks",
-      "link": "https://www.boston.com/news/national-news/2026/08/12/ice-plans-to-give-officers-gloves-that-can-deliver-painful-electric-shocks/",
-      "pubDate": "Wed, 12 Aug 2026 17:50:28 +0000",
-      "description": "<p>Civil rights advocates expressed alarm at the plan, saying\u00a0ICE officers\u00a0already face criticism\u00a0for their use of force\u00a0with\u00a0little oversight or accountability\u00a0while enforcing President Donald Trump\u2019s immigration crackdown.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/12/ice-plans-to-give-officers-gloves-that-can-deliver-painful-electric-shocks/\">ICE plans to give officers gloves that can deliver painful electric shocks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6a47aa66b312d59d2a50e08673d3dae0",
-      "summary": [
-        "ICE plans to equip officers with shock-delivering gloves, raising concerns among civil rights advocates.",
-        "Critics argue this adds to existing issues of excessive force and lack of accountability in enforcement.",
-        "Boston residents may face increased tensions and fear regarding ICE operations in the community."
+        "Karoline Leavitt, 28, will leave her role as White House press secretary at month's end.",
+        "Leavitt recently returned from maternity leave after the birth of her second child in May.",
+        "Her departure may impact Boston's representation in the federal government."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-12T19:04:37.934432+00:00"
+    "timestamp": "2026-08-12T20:49:53.191086+00:00"
   }
 }
