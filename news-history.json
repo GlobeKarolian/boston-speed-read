@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-12T05:39:16.710266+00:00",
+  "lastUpdated": "2026-08-12T09:14:27.565377+00:00",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Aug. 12)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/08/12/recent-homes-sales-in-greater-boston-aug-12/",
+      "pubDate": "Wed, 12 Aug 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 416 Thayer St. #416 Condo/Apt, built in 2000, 1,334 square feet, 5 rooms, 2 bedrooms, 2 baths. $437,000 ACTON 16 Chestnut St. #5 Condo. $1,190,000 5 Westside Drive. One-family Colonial, built in 2000, 1,926 square feet, 7 rooms, 3 bedrooms, 3 baths, on 10,015-square-foot lot. $925,000 9 Franklin Place #9 Condo Town House, built [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/08/12/recent-homes-sales-in-greater-boston-aug-12/\">Recent homes sales in Greater Boston (Aug. 12)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e18776a8cfd7fb91f16b4542e68d2be5",
+      "summary": [
+        "Recent home sales in Greater Boston show diverse pricing and property types.",
+        "Abington condo sold for $437,000; Acton Colonial listed at $925,000.",
+        "Homebuyers face rising prices, impacting affordability in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Former Mayor Luke Bronin wins Democratic primary in Connecticut, ousting U.S. Rep. John Larson",
       "link": "https://www.boston.com/news/local-news/2026/08/11/former-mayor-luke-bronin-wins-democratic-primary-in-connecticut-ousting-u-s-rep-john-larson/",
@@ -635,19 +648,6 @@
         "Gov. Maura Healey signed a law on August 10, 2026, expanding abortion rights in Massachusetts.",
         "The law ensures women can make their own health care decisions without government interference.",
         "Boston residents will benefit from increased access to reproductive health services and protections."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Lost gravestone of free Black man who died in 1729 uncovered in downtown Boston",
-      "link": "https://www.boston.com/news/local-news/2026/08/10/lost-gravestone-of-free-black-man-who-died-in-1729-uncovered-in-downtown-boston/",
-      "pubDate": "Mon, 10 Aug 2026 23:30:34 +0000",
-      "description": "<p>Sebastian, or \u201cBoston,\u201d was a well-regarded member of the community in the eighteenth century. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/10/lost-gravestone-of-free-black-man-who-died-in-1729-uncovered-in-downtown-boston/\">Lost gravestone of free Black man who died in 1729 uncovered in downtown Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f9bdff1989b7437e249bc4c384c05e56",
-      "summary": [
-        "Archaeologists uncovered the gravestone of Sebastian, a free Black man, in downtown Boston.",
-        "Sebastian, known as 'Boston,' was a respected community member who died in 1729.",
-        "This discovery highlights Boston's historical contributions to Black history and community heritage."
       ],
       "hookType": "LOCAL_IMPACT"
     }

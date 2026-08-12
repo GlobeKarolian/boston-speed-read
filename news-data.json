@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-12T07:36:51.147975+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-12T09:14:27.564602+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Aug. 12)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/08/12/recent-homes-sales-in-greater-boston-aug-12/",
+      "pubDate": "Wed, 12 Aug 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 416 Thayer St. #416 Condo/Apt, built in 2000, 1,334 square feet, 5 rooms, 2 bedrooms, 2 baths. $437,000 ACTON 16 Chestnut St. #5 Condo. $1,190,000 5 Westside Drive. One-family Colonial, built in 2000, 1,926 square feet, 7 rooms, 3 bedrooms, 3 baths, on 10,015-square-foot lot. $925,000 9 Franklin Place #9 Condo Town House, built [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/08/12/recent-homes-sales-in-greater-boston-aug-12/\">Recent homes sales in Greater Boston (Aug. 12)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e18776a8cfd7fb91f16b4542e68d2be5",
+      "summary": [
+        "Recent home sales in Greater Boston show diverse pricing and property types.",
+        "Abington condo sold for $437,000; Acton Colonial listed at $925,000.",
+        "Homebuyers face rising prices, impacting affordability in the Boston area."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-12T07:36:51.147985+00:00"
+    "timestamp": "2026-08-12T09:14:27.564620+00:00"
   }
 }
