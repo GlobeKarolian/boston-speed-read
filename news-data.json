@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-12T11:01:33.027833+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-12T13:16:15.517666+00:00",
+  "articles": [
+    {
+      "title": "High school football player in Arkansas practices with a venomous snake in his helmet",
+      "link": "https://www.boston.com/sports/sports-news/2026/08/11/high-school-football-player-in-arkansas-practices-with-a-venomous-snake-in-his-helmet/",
+      "pubDate": "Wed, 12 Aug 2026 01:46:58 +0000",
+      "description": "<p>Animal services director Chris Davis said the player wore the helmet for nearly an hour and was fortunate he wasn't bitten.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/08/11/high-school-football-player-in-arkansas-practices-with-a-venomous-snake-in-his-helmet/\">High school football player in Arkansas practices with a venomous snake in his helmet</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "783ffcfe56f16dd551c2adbc24022614",
+      "summary": [
+        "High school player practices with a venomous snake in his helmet for nearly an hour.",
+        "Animal services director Chris Davis confirms the player was lucky to avoid a bite.",
+        "This incident raises concerns about safety practices in youth sports across Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-12T11:01:33.027847+00:00"
+    "timestamp": "2026-08-12T13:16:15.517687+00:00"
   }
 }
