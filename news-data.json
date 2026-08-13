@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-13T09:15:18.339160+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-13T11:02:01.413780+00:00",
+  "articles": [
+    {
+      "title": "An Easton church has been converted to a $1.3m home",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/13/easton-church-home/",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 +0000",
+      "description": "<p>Built in 1892 by the Swedish Evangelical Lutheran Church Society, 16 Williams St. in Easton served as a community space for young Swedish immigrants.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/13/easton-church-home/\">An Easton church has been converted to a $1.3m home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "97d69660e04c1a9e66d8250b273df6de",
+      "summary": [
+        "Easton church at 16 Williams St. converted into a $1.3 million home.",
+        "Originally built in 1892 for Swedish immigrants by the Swedish Evangelical Lutheran Church Society.",
+        "Conversion may influence local real estate values and community heritage preservation efforts."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-13T09:15:18.339168+00:00"
+    "timestamp": "2026-08-13T11:02:01.413801+00:00"
   }
 }

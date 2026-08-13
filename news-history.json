@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-13T05:41:42.133920+00:00",
+  "lastUpdated": "2026-08-13T11:02:01.481977+00:00",
   "articles": [
+    {
+      "title": "An Easton church has been converted to a $1.3m home",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/13/easton-church-home/",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 +0000",
+      "description": "<p>Built in 1892 by the Swedish Evangelical Lutheran Church Society, 16 Williams St. in Easton served as a community space for young Swedish immigrants.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/13/easton-church-home/\">An Easton church has been converted to a $1.3m home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "97d69660e04c1a9e66d8250b273df6de",
+      "summary": [
+        "Easton church at 16 Williams St. converted into a $1.3 million home.",
+        "Originally built in 1892 for Swedish immigrants by the Swedish Evangelical Lutheran Church Society.",
+        "Conversion may influence local real estate values and community heritage preservation efforts."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Blue Jays erupt for 5 runs in the eighth to beat Red Sox 6-4, extend Boston\u2019s skid to 5",
       "link": "https://www.boston.com/uncategorized/boston-red-sox/2026/08/12/blue-jays-erupt-for-5-runs-in-the-eighth-to-beat-red-sox-6-4-extend-bostons-skid-to-5/",
@@ -635,19 +648,6 @@
         "Worcester officials demand MBTA restore express commuter rail service to Boston.",
         "Leaders call for strict travel time targets for improved service efficiency.",
         "Enhanced rail service could significantly benefit Boston commuters from Worcester."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "One of the rarest basketball cards in the world was pulled in New England on Monday",
-      "link": "https://www.boston.com/sports/sports-news/2026/08/11/cooper-flagg-card-1-of-1-topps-chrome/",
-      "pubDate": "Tue, 11 Aug 2026 18:50:00 +0000",
-      "description": "<p>\"There it is! Rhody did it.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/08/11/cooper-flagg-card-1-of-1-topps-chrome/\">One of the rarest basketball cards in the world was pulled in New England on Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5f180c6535bf370c0b3332e0709ed899",
-      "summary": [
-        "Rhody pulled a rare 1-of-1 Cooper Flagg basketball card on August 11.",
-        "The card is considered one of the rarest in the world.",
-        "Local collectors in Boston may see increased interest and value in rare cards."
       ],
       "hookType": "LOCAL_IMPACT"
     }
