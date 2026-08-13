@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-08-13T16:58:15.740383+00:00",
+  "lastUpdated": "2026-08-13T19:05:50.238387+00:00",
   "articles": [
+    {
+      "title": "Winning ticket for $1 billion Powerball jackpot was sold in Illinois",
+      "link": "https://www.boston.com/news/national-news/2026/08/13/winning-ticket-1-billion-powerball-jackpot-sold-illinois/",
+      "pubDate": "Thu, 13 Aug 2026 17:56:14 +0000",
+      "description": "<p>The $1.04 billion grand prize was the eighth-largest in Powerball history, game organizers said. </p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/13/winning-ticket-1-billion-powerball-jackpot-sold-illinois/\">Winning ticket for $1 billion Powerball jackpot was sold in Illinois</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e9dbf0783db0f00414c50075d88d6b56",
+      "summary": [
+        "Winning ticket for $1.04 billion Powerball jackpot sold in Illinois.",
+        "This jackpot ranks as the eighth-largest in Powerball history.",
+        "Boston residents miss out on local winnings as ticket was not sold in Massachusetts."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Acton teen accused of killing mom, brother ordered held without bail",
+      "link": "https://www.boston.com/news/crime/2026/08/13/acton-teen-accused-of-killing-mom-brother-ordered-held-without-bail/",
+      "pubDate": "Thu, 13 Aug 2026 17:42:16 +0000",
+      "description": "<p>The crime scene showed signs of a violent struggle and blunt force trauma, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/13/acton-teen-accused-of-killing-mom-brother-ordered-held-without-bail/\">Acton teen accused of killing mom, brother ordered held without bail</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5af589cf17d28297fa0954d185d63c6d",
+      "summary": [
+        "Acton teen, 17, charged with killing mother and brother in violent incident.",
+        "Prosecutors reported signs of struggle and blunt force trauma at the crime scene.",
+        "Teen is held without bail, raising safety concerns in the Acton community."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Flock announces changes amid backlash over its license plate reader network",
+      "link": "https://www.boston.com/news/technology/2026/08/13/public-backlash-surveillance-tech-company-flock-platform-changes/",
+      "pubDate": "Thu, 13 Aug 2026 17:40:47 +0000",
+      "description": "<p>The company operates a vast nationwide\u00a0network of automated cameras\u00a0that record the license plate numbers and other characteristics of all passing vehicles every day. </p>\n<p>The post <a href=\"https://www.boston.com/news/technology/2026/08/13/public-backlash-surveillance-tech-company-flock-platform-changes/\">Flock announces changes amid backlash over its license plate reader network</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f946b6cbb731e17072cc9d8a7141eaf9",
+      "summary": [
+        "Flock faces backlash over its license plate reader network in Boston.",
+        "The company operates thousands of cameras nationwide, impacting local privacy concerns.",
+        "Residents may see changes in surveillance practices due to public pressure."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Red Sox place reliever Garrett Whitlock on injured list because of right elbow inflammation",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/13/garrett-whitlock-injured-list/",
+      "pubDate": "Thu, 13 Aug 2026 17:33:07 +0000",
+      "description": "<p>To replace Whitlock on the roster, the Red Sox brought righthander Greg Weissert back from Triple-A Worcester.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/13/garrett-whitlock-injured-list/\">Red Sox place reliever Garrett Whitlock on injured list because of right elbow inflammation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1792ab66157f204bbc88b8b68c7f6cd9",
+      "summary": [
+        "Red Sox placed reliever Garrett Whitlock on the injured list due to elbow inflammation.",
+        "Greg Weissert was recalled from Triple-A Worcester to fill Whitlock's roster spot.",
+        "Whitlock's absence may affect the team's bullpen performance in upcoming games."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Judge in Boston dismisses federal government\u2019s antisemitism case against Harvard",
+      "link": "https://www.boston.com/news/local-news/2026/08/13/judge-in-boston-dismisses-federal-governments-antisemitism-case-against-harvard/",
+      "pubDate": "Thu, 13 Aug 2026 17:21:24 +0000",
+      "description": "<p>Judge Richard G. Stearns of the U.S. District Court in Massachusetts granted Harvard\u2019s motion to throw out the case.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/13/judge-in-boston-dismisses-federal-governments-antisemitism-case-against-harvard/\">Judge in Boston dismisses federal government\u2019s antisemitism case against Harvard</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d022ca3c0896b63297116037a77038f1",
+      "summary": [
+        "Judge Richard G. Stearns dismissed the federal antisemitism case against Harvard University.",
+        "Harvard's motion to dismiss was granted on August 13, 2026.",
+        "The ruling may influence future cases involving universities and free speech in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Downtown Boston was buzzing in July. Here\u2019s a look at the numbers.",
       "link": "https://www.boston.com/news/local-news/2026/08/13/downtown-boston-was-buzzing-in-july-heres-a-look-at-the-numbers/",
@@ -583,71 +648,6 @@
         "Nearly 50 children were rescued during an anti-human trafficking operation in Greater Boston.",
         "The operation coincided with the World Cup, highlighting increased risks during major events.",
         "Ongoing investigations target related crimes, enhancing safety for Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Why Patriots rookie Caleb Lomu isn\u2019t fretting over up-and-down training camp",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/11/caleb-lomu-new-england-patriots-rookie-offensive-line-nfl-football-morgan-moses/",
-      "pubDate": "Wed, 12 Aug 2026 01:50:40 +0000",
-      "description": "<p>\u201cI\u2019m either winning or I\u2019m learning.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/11/caleb-lomu-new-england-patriots-rookie-offensive-line-nfl-football-morgan-moses/\">Why Patriots rookie Caleb Lomu isn\u2019t fretting over up-and-down training camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "d58d9dcb736f3122cacfe1450c115a03",
-      "summary": [
-        "Patriots rookie Caleb Lomu embraces challenges during training camp, focusing on growth.",
-        "Lomu's positive mindset highlights resilience among new players in the 2023 season.",
-        "Local fans can expect Lomu's development to strengthen the Patriots' offensive line."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Judge again bars Trump administration from implementing order that sought to limit mail voting",
-      "link": "https://www.boston.com/news/politics/2026/08/11/judge-again-bars-trump-administration-from-implementing-order-that-sought-to-limit-mail-voting/",
-      "pubDate": "Wed, 12 Aug 2026 01:32:15 +0000",
-      "description": "<p>Plaintiffs argued in two lawsuits, both filed in federal court in Boston, that Trump's order should be found unconstitutional.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/08/11/judge-again-bars-trump-administration-from-implementing-order-that-sought-to-limit-mail-voting/\">Judge again bars Trump administration from implementing order that sought to limit mail voting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "0bc5de1d1dccb6513a5263450444386a",
-      "summary": [
-        "Judge in Boston blocks Trump's order to limit mail voting.",
-        "Plaintiffs filed two lawsuits arguing the order is unconstitutional.",
-        "Boston residents will continue to have access to mail-in voting."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "12-year-old seriously injured after train surfing Red Line, Transit Police says",
-      "link": "https://www.boston.com/news/local-news/2026/08/11/12-year-old-seriously-injured-after-train-surfing-red-line/",
-      "pubDate": "Wed, 12 Aug 2026 01:28:11 +0000",
-      "description": "<p>The boy suffered a \u201cserious but non-life-threatening head injury,\u201d authorities say.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/11/12-year-old-seriously-injured-after-train-surfing-red-line/\">12-year-old seriously injured after train surfing Red Line, Transit Police says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "f5aa9c85aea291f92b3036895efff8f4",
-      "summary": [
-        "A 12-year-old boy was injured while train surfing on the Red Line.",
-        "The boy sustained a serious but non-life-threatening head injury, according to authorities.",
-        "This incident raises safety concerns for Boston's youth and public transportation."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Adam Vinatieri says there\u2019s \u2018no animosity\u2019 with Patriots, Bill Belichick after Hall-of-Fame speech",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/11/new-england-patriots-adam-vinatieri-hall-of-fame-football-bill-belichick-weei/",
-      "pubDate": "Wed, 12 Aug 2026 00:45:30 +0000",
-      "description": "<p> \u201cI love all those guys.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/11/new-england-patriots-adam-vinatieri-hall-of-fame-football-bill-belichick-weei/\">Adam Vinatieri says there\u2019s \u2018no animosity\u2019 with Patriots, Bill Belichick after Hall-of-Fame speech</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "21d20f5d04e19b38e20aef3fa6ddeb01",
-      "summary": [
-        "Adam Vinatieri expressed love for Patriots and Bill Belichick during Hall-of-Fame speech.",
-        "Vinatieri, a former kicker, played for the Patriots from 1996 to 2005.",
-        "His positive remarks may strengthen community ties among Boston sports fans."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "New Bedford temporarily suspends use of Flock as the surveillance cameras come under increased scrutiny",
-      "link": "https://www.boston.com/news/local-news/2026/08/11/new-bedford-temporarily-suspends-use-of-flock-as-the-surveillance-cameras-come-under-increased-scrutiny/",
-      "pubDate": "Wed, 12 Aug 2026 00:00:52 +0000",
-      "description": "<p>The automated license plate reader system is also facing questions in a small Plymouth County town.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/11/new-bedford-temporarily-suspends-use-of-flock-as-the-surveillance-cameras-come-under-increased-scrutiny/\">New Bedford temporarily suspends use of Flock as the surveillance cameras come under increased scrutiny</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "701ce29390c6b3dc561cbb61c0fc476e",
-      "summary": [
-        "New Bedford suspends Flock surveillance cameras amid rising scrutiny.",
-        "Concerns also arise in a nearby Plymouth County town regarding the system.",
-        "Residents may experience reduced surveillance as the city reassesses public safety measures."
       ],
       "hookType": "LOCAL_IMPACT"
     }
