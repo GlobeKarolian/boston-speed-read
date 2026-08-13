@@ -1,23 +1,62 @@
 {
-  "lastUpdated": "2026-08-13T11:02:01.413780+00:00",
+  "lastUpdated": "2026-08-13T13:18:24.782997+00:00",
   "articles": [
     {
-      "title": "An Easton church has been converted to a $1.3m home",
-      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/13/easton-church-home/",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 +0000",
-      "description": "<p>Built in 1892 by the Swedish Evangelical Lutheran Church Society, 16 Williams St. in Easton served as a community space for young Swedish immigrants.</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/13/easton-church-home/\">An Easton church has been converted to a $1.3m home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "97d69660e04c1a9e66d8250b273df6de",
+      "title": "Livestream: Lindsay Clancy murder trial continues after graphic testimony about children\u2019s autopsies",
+      "link": "https://www.boston.com/news/crime/2026/08/13/lindsay-clancy-murder-trial-livestream-video-thursday-august-13/",
+      "pubDate": "Thu, 13 Aug 2026 12:59:58 +0000",
+      "description": "<p>Clancy broke down in open court and continued to sob loudly as a medical examiner testified Wednesday afternoon.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/13/lindsay-clancy-murder-trial-livestream-video-thursday-august-13/\">Livestream: Lindsay Clancy murder trial continues after graphic testimony about children\u2019s autopsies</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5c8b1b270ffe6be00c0611f173752f2a",
       "summary": [
-        "Easton church at 16 Williams St. converted into a $1.3 million home.",
-        "Originally built in 1892 for Swedish immigrants by the Swedish Evangelical Lutheran Church Society.",
-        "Conversion may influence local real estate values and community heritage preservation efforts."
+        "Lindsay Clancy's murder trial features emotional testimony about her children's autopsies.",
+        "Medical examiner's graphic details prompted Clancy to break down in court on August 13.",
+        "Trial developments may affect community discussions on mental health and family support in Boston."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Rhode Island beach house with water views on both sides \u2014 can you guess the price?",
+      "link": "https://www.boston.com/real-estate/quizzes/2026/08/13/rhode-island-beach-house-guess-the-price/",
+      "pubDate": "Thu, 13 Aug 2026 12:17:43 +0000",
+      "description": "<p>Built in 1987, the 3-bedroom contemporary cottage sits along Atlantic Avenue in Westerly, Rhode Island. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/quizzes/2026/08/13/rhode-island-beach-house-guess-the-price/\">Rhode Island beach house with water views on both sides \u2014 can you guess the price?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8cbce583faf2d4662ff3b04674156fd4",
+      "summary": [
+        "Explore a 3-bedroom beach house in Westerly, Rhode Island, built in 1987.",
+        "The property features water views on both sides, enhancing its appeal.",
+        "Potential interest from Boston residents looking for vacation homes in nearby Rhode Island."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "5 best new restaurant openings and dining updates in Boston (August 13, 2026)",
+      "link": "https://www.boston.com/food/restaurants/2026/08/13/best-restaurant-openings-august-13-2026/",
+      "pubDate": "Thu, 13 Aug 2026 12:00:00 +0000",
+      "description": "<p>From a Filipino-inspired sandwich popup to a retro office-themed bar, here are the latest Boston restaurant openings, dining news, and food events to know right now. </p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/08/13/best-restaurant-openings-august-13-2026/\">5 best new restaurant openings and dining updates in Boston (August 13, 2026)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "38ed0801061fa8066b0b9bf67ecd5e3b",
+      "summary": [
+        "Explore five new restaurants opening in Boston as of August 13, 2026.",
+        "Experience a Filipino-inspired sandwich popup and a retro office-themed bar.",
+        "These openings enhance Boston's diverse dining scene, benefiting local food enthusiasts."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "3 concerning trends from Red Sox\u2019 5-game losing skid",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/13/boston-red-sox-losing-streak-toronto-blue-jays-slump/",
+      "pubDate": "Thu, 13 Aug 2026 11:41:26 +0000",
+      "description": "<p>\u200bAfter posting just five losses over a 44-day stretch between July and early August, the Red Sox have now lost five-straight games in the last five games.\u200b</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/13/boston-red-sox-losing-streak-toronto-blue-jays-slump/\">3 concerning trends from Red Sox\u2019 5-game losing skid</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d88be34973e1ec453d57a0013eeec28e",
+      "summary": [
+        "Red Sox lose five consecutive games, raising concerns among fans and analysts.",
+        "This skid follows a strong 44-day stretch with only five losses.",
+        "Local businesses near Fenway Park may see reduced foot traffic and sales."
       ],
       "hookType": "LOCAL_IMPACT"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-08-13T11:02:01.413801+00:00"
+    "timestamp": "2026-08-13T13:18:24.783017+00:00"
   }
 }
