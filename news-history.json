@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-14T18:58:16.965310+00:00",
+  "lastUpdated": "2026-08-14T20:33:58.337933+00:00",
   "articles": [
+    {
+      "title": "Takeaways: Lynch and Roath face off at candidate forum in Weymouth",
+      "link": "https://www.boston.com/news/local-news/2026/08/14/takeaways-lynch-and-roath-face-off-at-candidate-forum-in-weymouth/",
+      "pubDate": "Fri, 14 Aug 2026 19:52:57 +0000",
+      "description": "<p>Rep. Stephen Lynch and his primary challenger Patrick Roath debated topics like healthcare reform, immigration, and more. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/14/takeaways-lynch-and-roath-face-off-at-candidate-forum-in-weymouth/\">Takeaways: Lynch and Roath face off at candidate forum in Weymouth</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e1e473721ab0353919618f6c70ff9532",
+      "summary": [
+        "Update: Takeaways: Lynch and Roath face off at candidate f",
+        "Details: <p>Rep. Stephen Lynch and his primary challenger P",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Anthony Bourdain\u2019s Provincetown adventures, in his own words",
+      "link": "https://www.boston.com/food/restaurants/2026/08/14/anthony-bourdain-provincetown/",
+      "pubDate": "Fri, 14 Aug 2026 19:44:05 +0000",
+      "description": "<p>Before becoming a world renowned chef, TV host, and world traveler, Anthony Bourdain was washing dishes in Provincetown.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/08/14/anthony-bourdain-provincetown/\">Anthony Bourdain&#8217;s Provincetown adventures, in his own words</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "20c651924856b090051dd1cbc1d89af6",
+      "summary": [
+        "Update: Anthony Bourdain\u2019s Provincetown adventures, in his",
+        "Details: <p>Before becoming a world renowned chef, TV host,",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Woman, girl injured in separate attacks by fox in Worcester",
       "link": "https://www.boston.com/news/local-news/2026/08/14/woman-girl-injured-in-separate-attacks-by-fox-in-worcester/",
@@ -622,32 +648,6 @@
         "Residents of Allston-Brighton express divided opinions on Jackson Mann Community Center's future.",
         "Mayor Wu will decide among three options for the center by December 2023.",
         "Community feedback will influence local services and programs available to residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Tour the Patriots\u2019 new 160,000-square-foot training facility",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/12/new-england-patriots-training-facility-new-balance-nfl-football-tour-video/",
-      "pubDate": "Thu, 13 Aug 2026 01:36:44 +0000",
-      "description": "<p>\"If we were to ever lose, I don't think we're going to be able to use facilities as a reason for our loss.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/12/new-england-patriots-training-facility-new-balance-nfl-football-tour-video/\">Tour the Patriots\u2019 new 160,000-square-foot training facility</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a8543be8380c73bd1401f7a1ed9ac6e0",
-      "summary": [
-        "Patriots unveil a new 160,000-square-foot training facility in Foxborough.",
-        "Facility aims to enhance player performance and team success for upcoming seasons.",
-        "Local businesses may benefit from increased traffic and events related to the facility."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Man killed in stabbing inside South Station during rush hour, officials say",
-      "link": "https://www.boston.com/news/local-news/2026/08/12/man-killed-in-stabbing-inside-south-station-during-rush-hour-officials-say/",
-      "pubDate": "Thu, 13 Aug 2026 00:19:02 +0000",
-      "description": "<p>The victim suffered at least one stab wound. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/12/man-killed-in-stabbing-inside-south-station-during-rush-hour-officials-say/\">Man killed in stabbing inside South Station during rush hour, officials say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5d186727325e393b590ebeb1e8e79b4a",
-      "summary": [
-        "Man fatally stabbed at South Station during rush hour on August 12.",
-        "Victim suffered at least one stab wound; police investigating the incident.",
-        "Increased concerns for safety among commuters in Boston's busiest transit hub."
       ],
       "hookType": "LOCAL_IMPACT"
     }
