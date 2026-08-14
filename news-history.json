@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-08-13T22:45:52.040778+00:00",
+  "lastUpdated": "2026-08-14T02:10:52.720577+00:00",
   "articles": [
+    {
+      "title": "16 hospitalized after chemical incident at Mass. industrial worksite",
+      "link": "https://www.boston.com/news/local-news/2026/08/13/16-hospitalized-after-chemical-incident-at-mass-industrial-worksite/",
+      "pubDate": "Fri, 14 Aug 2026 01:42:57 +0000",
+      "description": "<p>Employees at the business were suffering from \u201cserious illness, dizziness, eye irritation, and other symptoms,\u201d according to the Hudson Fire Department.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/13/16-hospitalized-after-chemical-incident-at-mass-industrial-worksite/\">16 hospitalized after chemical incident at Mass. industrial worksite</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "01d0dc03e0b6fb3440f9543ec2ce5b41",
+      "summary": [
+        "Sixteen employees hospitalized due to chemical exposure at a Hudson industrial site.",
+        "Workers reported serious symptoms including dizziness and eye irritation on August 13.",
+        "Local health officials are investigating to ensure safety and prevent future incidents."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "2 New England spots make NYT\u2019s list of best Mexican restaurants",
+      "link": "https://www.boston.com/food/food-news/2026/08/13/best-mexican-restaurants-us-new-england-nyt/",
+      "pubDate": "Fri, 14 Aug 2026 00:48:46 +0000",
+      "description": "<p>The restaurants are in Connecticut and Rhode Island.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/08/13/best-mexican-restaurants-us-new-england-nyt/\">2 New England spots make NYT\u2019s list of best Mexican restaurants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3a389a8bddc27dab1fe2b56fa287c400",
+      "summary": [
+        "New York Times lists two Mexican restaurants from New England as top choices.",
+        "Restaurants are located in Connecticut and Rhode Island, enhancing regional dining options.",
+        "Boston residents may explore new culinary experiences just a short drive away."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Are tire rotations necessary for electric vehicles?",
+      "link": "https://www.boston.com/cars/how-to/2026/08/13/car-doctor-are-tire-rotations-necessary-for-electric-vehicles/",
+      "pubDate": "Fri, 14 Aug 2026 00:16:25 +0000",
+      "description": "<p>John Paul, AAA Northeast's Car Doctor, hears from a reader wondering if they need to rotate tires on a 2023 EV.</p>\n<p>The post <a href=\"https://www.boston.com/cars/how-to/2026/08/13/car-doctor-are-tire-rotations-necessary-for-electric-vehicles/\">Are tire rotations necessary for electric vehicles?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "47e47c75e986918482e7776f5b6f46d5",
+      "summary": [
+        "John Paul from AAA Northeast addresses tire rotation for 2023 electric vehicles.",
+        "Electric vehicles may require less frequent tire rotations than traditional cars.",
+        "Boston residents should consider tire maintenance to ensure vehicle safety and performance."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Patriots place Terrell Jennings on IR, sign two more running backs",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/13/patriots-terrell-jennings-injury-injured-reserve-jamychal-hasty-comments/",
+      "pubDate": "Thu, 13 Aug 2026 23:25:06 +0000",
+      "description": "<p>Jennings had been in the lead for the third running back spot. Now the Patriots are adding two more players to look at. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/13/patriots-terrell-jennings-injury-injured-reserve-jamychal-hasty-comments/\">Patriots place Terrell Jennings on IR, sign two more running backs</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7cffc18bfddec67a17ee6a3cd100d17e",
+      "summary": [
+        "Patriots placed running back Terrell Jennings on injured reserve due to injury.",
+        "Team signed Jamychal Hasty and another running back to bolster roster depth.",
+        "Boston residents may see changes in game strategy with new players joining."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
+    {
+      "title": "Celtics release 2026-27 schedule: When will Jaylen Brown return to Boston?",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/08/13/boston-celtics-2026-27-schedule-nba-basketball-jaylen-brown-sixers/",
+      "pubDate": "Thu, 13 Aug 2026 23:21:45 +0000",
+      "description": "<p>Jaylen Brown won't return to Boston until Jan. 21, 2027. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/08/13/boston-celtics-2026-27-schedule-nba-basketball-jaylen-brown-sixers/\">Celtics release 2026-27 schedule: When will Jaylen Brown return to Boston?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "bd23fedd43b72ec31ed872df78915b8c",
+      "summary": [
+        "Celtics' 2026-27 schedule released, highlighting key game dates for fans.",
+        "Jaylen Brown's return to Boston is set for January 21, 2027.",
+        "Fans will anticipate Brown's performance in the upcoming season."
+      ],
+      "hookType": "LOCAL_IMPACT"
+    },
     {
       "title": "Payton Tolle pitches 8-inning gem as Red Sox end 5-game skid with 7-0 win over Blue Jays",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/08/13/payton-tolle-pitches-8-inning-gem-as-red-sox-end-5-game-skid-with-7-0-win-over-blue-jays/",
@@ -583,71 +648,6 @@
         "Keith Foulke was fired from the Women\u2019s Pro Baseball League after just three games.",
         "Foulke claimed the league sought his name for publicity rather than performance.",
         "His dismissal raises concerns about the league's management and its impact on local sports."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Former Red Sox infielder criticized front office: \u2018Some people watch the game, some people go on the computer\u2019",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/08/12/red-sox-vaughn-grissom-analytics-criticism/",
-      "pubDate": "Wed, 12 Aug 2026 14:50:45 +0000",
-      "description": "<p>\"In Boston there was no belief in the player.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/08/12/red-sox-vaughn-grissom-analytics-criticism/\">Former Red Sox infielder criticized front office: &#8216;Some people watch the game, some people go on the computer&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ed5b17a3c2c1dfa7eeb851187fe30c6b",
-      "summary": [
-        "Former Red Sox infielder Vaughn Grissom criticized the team's reliance on analytics over player observation.",
-        "Grissom emphasized a lack of belief in players, impacting team morale and performance.",
-        "This criticism highlights ongoing tensions between traditional scouting and modern analytics in Boston's front office."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Authorities investigating 4 family members shot in N.H. as potential attempted murders and suicide",
-      "link": "https://www.boston.com/news/crime/2026/08/12/authorities-investigating-4-family-members-shot-in-n-h-as-potential-attempted-murders-and-suicide/",
-      "pubDate": "Wed, 12 Aug 2026 14:46:01 +0000",
-      "description": "<p>A 29-year-old man died by suicide, officials say. The three other family members remained hospitalized Wednesday morning.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/12/authorities-investigating-4-family-members-shot-in-n-h-as-potential-attempted-murders-and-suicide/\">Authorities investigating 4 family members shot in N.H. as potential attempted murders and suicide</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "40c21949fea2a5e9d9ffd2c078179214",
-      "summary": [
-        "Authorities investigate a shooting involving four family members in New Hampshire.",
-        "A 29-year-old man died by suicide; three others remain hospitalized as of Wednesday.",
-        "This incident raises concerns about family violence and mental health in nearby Boston communities."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cruel summer? Rhode Island\u2019s \u2018Taylor Swift tax\u2019 went into effect \u2014 who\u2019s paying it?",
-      "link": "https://www.boston.com/real-estate/luxury-homes/2026/08/12/rhode-island-taylor-swift-tax-vacation-homes/",
-      "pubDate": "Wed, 12 Aug 2026 13:26:34 +0000",
-      "description": "<p>A new tax on luxury vacation rentals is meant to bolster Rhode Island\u2019s affordable housing, but legacy homeowners say it\u2019s not just affecting \u201cthe Taylor Swifts\u201d</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/luxury-homes/2026/08/12/rhode-island-taylor-swift-tax-vacation-homes/\">Cruel summer? Rhode Island\u2019s \u2018Taylor Swift tax\u2019 went into effect \u2014 who\u2019s paying it?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4346664a557eb4bdb1a76ebbc9a3827d",
-      "summary": [
-        "Rhode Island's new luxury rental tax aims to fund affordable housing initiatives.",
-        "Legacy homeowners in Rhode Island express concerns about the tax's broader impact.",
-        "Boston residents may see increased rental prices as luxury taxes influence market dynamics."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Livestream: Lindsay Clancy murder trial continues with her psychiatric treatment in the spotlight",
-      "link": "https://www.boston.com/news/crime/2026/08/12/lindsay-clancy-murder-trial-livestream-video-wednesday-august-12/",
-      "pubDate": "Wed, 12 Aug 2026 13:05:38 +0000",
-      "description": "<p>\u201cI recall Patrick [Clancy] saying, \u2018My wife is not bipolar,\u2019\u201d psychiatric nurse practitioner Rebecca Jollotta said Tuesday. \u201cLindsay looked at me; she did not say anything.\u201d\u00a0\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/12/lindsay-clancy-murder-trial-livestream-video-wednesday-august-12/\">Livestream: Lindsay Clancy murder trial continues with her psychiatric treatment in the spotlight</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dcbdc360c8b54c782ae1b37c39106ceb",
-      "summary": [
-        "Lindsay Clancy's murder trial highlights her psychiatric treatment, impacting local mental health discussions.",
-        "Psychiatric nurse Rebecca Jollotta testified about Clancy's mental state on August 12.",
-        "Clancy's case raises awareness of mental health issues among Boston residents."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Acton teen located after police discover two dead in home",
-      "link": "https://www.boston.com/news/local-news/2026/08/12/police-seek-acton-teen-after-finding-two-dead-in-home-they-shared/",
-      "pubDate": "Wed, 12 Aug 2026 12:43:17 +0000",
-      "description": "<p>Authorities found a woman and a teenage boy dead inside a home on Martha Lane in Acton. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/12/police-seek-acton-teen-after-finding-two-dead-in-home-they-shared/\">Acton teen located after police discover two dead in home</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "055bf5167acb437341e42b534fe3ba66",
-      "summary": [
-        "Authorities discovered two dead, a woman and a teenage boy, in Acton home.",
-        "The deceased were found in a residence on Martha Lane, raising community concerns.",
-        "Local police located the missing Acton teen, ensuring community safety after the incident."
       ],
       "hookType": "LOCAL_IMPACT"
     }
