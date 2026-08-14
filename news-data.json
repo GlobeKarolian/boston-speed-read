@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-14T09:10:16.819273+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-14T10:59:02.876074+00:00",
+  "articles": [
+    {
+      "title": "Patriots will \u2018talk about\u2019 opening up kicker competition after Andy Borregales\u2019s three misses",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/14/patriots-andy-borregales-kicker-competition-mike-vrabel-comments/",
+      "pubDate": "Fri, 14 Aug 2026 10:57:34 +0000",
+      "description": "<p>Borregales hasn't had much competition this summer. That might change after Thursday night's performance. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/14/patriots-andy-borregales-kicker-competition-mike-vrabel-comments/\">Patriots will &#8216;talk about&#8217; opening up kicker competition after Andy Borregales&#8217;s three misses</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6d73734131bf1236041ef2db90b09fcb",
+      "summary": [
+        "Update: Patriots will \u2018talk about\u2019 opening up kicker compe",
+        "Details: <p>Borregales hasn't had much competition this sum",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Mike Vrabel reveals reason behind Christian Gonzalez\u2019s joint practice absence",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/14/patriots-christian-gonzalez-joint-practice-absence-mike-vrabel-comments/",
+      "pubDate": "Fri, 14 Aug 2026 10:52:34 +0000",
+      "description": "<p>\"Christian was unavailable, physically unavailable for the practice,\" Vrabel said.  \"That's the clarification.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/14/patriots-christian-gonzalez-joint-practice-absence-mike-vrabel-comments/\">Mike Vrabel reveals reason behind Christian Gonzalez&#8217;s joint practice absence</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "56beb1681901fc7ca8851ce0791263f2",
+      "summary": [
+        "Update: Mike Vrabel reveals reason behind Christian Gonzal",
+        "Details: <p>\"Christian was unavailable, physically unavaila",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-14T09:10:16.819280+00:00"
+    "timestamp": "2026-08-14T10:59:02.876096+00:00"
   }
 }
