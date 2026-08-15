@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-08-15T02:54:04.206563+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-15T04:34:23.156139+00:00",
+  "articles": [
+    {
+      "title": "Rob Parker revisits negative Red Sox prediction after stretch of losses",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/14/rob-parker-revisits-negative-red-sox-prediction-after-stretch-of-losses/",
+      "pubDate": "Sat, 15 Aug 2026 03:39:36 +0000",
+      "description": "<p>Boston has lost six of its last seven games. Parker is convinced its season is over.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/14/rob-parker-revisits-negative-red-sox-prediction-after-stretch-of-losses/\">Rob Parker revisits negative Red Sox prediction after stretch of losses</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e7298b2dfeaa0f3d2cfab54b76427a7b",
+      "summary": [
+        "Update: Rob Parker revisits negative Red Sox prediction af",
+        "Details: <p>Boston has lost six of its last seven games. Pa",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A.J. Brown tried to get Drake Maye into Patriots preseason game vs. Colts",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/14/nfl-patriots-preseason-drake-maye-aj-brown/",
+      "pubDate": "Sat, 15 Aug 2026 02:55:11 +0000",
+      "description": "<p>Brown attempted to appease the Gillette Stadium crowd with one drive from their franchise quarterback.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/14/nfl-patriots-preseason-drake-maye-aj-brown/\">A.J. Brown tried to get Drake Maye into Patriots preseason game vs. Colts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0cd096d72157fc27c5e7e11e3d3b8152",
+      "summary": [
+        "Update: A.J. Brown tried to get Drake Maye into Patriots p",
+        "Details: <p>Brown attempted to appease the Gillette Stadium",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Brandon Lowe, Rafael Flores homer to power Pirates over slumping Red Sox, 8-4",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/14/red-sox-pirates-recap/",
+      "pubDate": "Sat, 15 Aug 2026 01:37:43 +0000",
+      "description": "<p>The Red Sox lost for the sixth time in seven games after winning 28 of 36.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/14/red-sox-pirates-recap/\">Brandon Lowe, Rafael Flores homer to power Pirates over slumping Red Sox, 8-4</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4dd9d7221fc1ce726cac8532f0cbd52e",
+      "summary": [
+        "Update: Brandon Lowe, Rafael Flores homer to power Pirates",
+        "Details: <p>The Red Sox lost for the sixth time in seven ga",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-08-15T02:54:04.206572+00:00"
+    "timestamp": "2026-08-15T04:34:23.156162+00:00"
   }
 }
