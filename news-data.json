@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-15T18:33:38.639323+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-15T20:25:38.266359+00:00",
+  "articles": [
+    {
+      "title": "Mike Vrabel gives update on Christian Gonzalez\u2019s health, relationship with Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/15/christian-gonzalez-new-england-patriots-mike-vrabel-contract/",
+      "pubDate": "Sat, 15 Aug 2026 20:10:55 +0000",
+      "description": "<p>\"Obviously that's my job is to be on the same page with everybody here, players and coaches, and I'm confident that that's what we're doing.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/15/christian-gonzalez-new-england-patriots-mike-vrabel-contract/\">Mike Vrabel gives update on Christian Gonzalez\u2019s health, relationship with Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "027a47985bb26b52a275c7a2161f3650",
+      "summary": [
+        "Update: Mike Vrabel gives update on Christian Gonzalez\u2019s h",
+        "Details: <p>\"Obviously that's my job is to be on the same p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots sign two offensive linemen after Ben Brown goes down with weeks-long injury",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/15/new-england-patriots-injury-update-ben-brown-nfl-football/",
+      "pubDate": "Sat, 15 Aug 2026 20:08:42 +0000",
+      "description": "<p>\"Ben is going to be a few weeks.  Four-to-six, eight, 10, 12. Even numbers.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/15/new-england-patriots-injury-update-ben-brown-nfl-football/\">Patriots sign two offensive linemen after Ben Brown goes down with weeks-long injury\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1a8b6d8e232257d3d272b3ff273ce846",
+      "summary": [
+        "Update: Patriots sign two offensive linemen after Ben Brow",
+        "Details: <p>\"Ben is going to be a few weeks.  Four-to-six, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-15T18:33:38.639332+00:00"
+    "timestamp": "2026-08-15T20:25:38.266379+00:00"
   }
 }
