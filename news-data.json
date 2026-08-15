@@ -1,49 +1,9 @@
 {
-  "lastUpdated": "2026-08-15T14:25:33.431887+00:00",
-  "articles": [
-    {
-      "title": "Here\u2019s what Boston archaeologists found under Bunker Hill Monument",
-      "link": "https://www.boston.com/news/local-news/2026/08/15/heres-what-boston-archaeologists-found-under-bunker-hill-monument/",
-      "pubDate": "Sat, 15 Aug 2026 13:28:56 +0000",
-      "description": "<p>The excavation uncovered part of a 1775 defensive ditch, musket balls, gunflints, and artifacts left by British soldiers.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/15/heres-what-boston-archaeologists-found-under-bunker-hill-monument/\">Here&#8217;s what Boston archaeologists found under Bunker Hill Monument</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1c7062ab3a375a4692497b352371f86c",
-      "summary": [
-        "Update: Here\u2019s what Boston archaeologists found under Bunk",
-        "Details: <p>The excavation uncovered part of a 1775 defensi",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Multiple shooters and 5 people shot at Virginia State University",
-      "link": "https://www.boston.com/news/national-news/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university/",
-      "pubDate": "Sat, 15 Aug 2026 12:42:01 +0000",
-      "description": "<p>A shooting involving multiple suspects and five people shot at Virginia State University prompted a campus lockdown early Saturday</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university/\">Multiple shooters and 5 people shot at Virginia State University</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3c4203abb554c1db8f109ee978a4de7a",
-      "summary": [
-        "Update: Multiple shooters and 5 people shot at Virginia St",
-        "Details: <p>A shooting involving multiple suspects and five",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "MBTA pays $500K settlement to employee in Phil Eng hair-pulling incident",
-      "link": "https://www.boston.com/news/local-news/2026/08/15/mbta-pays-500k-settlement-to-employee-in-phil-eng-hair-pulling-incident/",
-      "pubDate": "Sat, 15 Aug 2026 11:35:32 +0000",
-      "description": "<p>The agreement comes months after Eng apologized for pulling the T\u2019s chief communications officer\u2019s hair at a 2024 team dinner.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/15/mbta-pays-500k-settlement-to-employee-in-phil-eng-hair-pulling-incident/\">MBTA pays $500K settlement to employee in Phil Eng hair-pulling incident</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a22bd71b5e581c54cde0005e0206ccff",
-      "summary": [
-        "Update: MBTA pays $500K settlement to employee in Phil Eng",
-        "Details: <p>The agreement comes months after Eng apologized",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    }
-  ],
+  "lastUpdated": "2026-08-15T16:27:51.956451+00:00",
+  "articles": [],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 0,
     "feedSize": 10,
-    "timestamp": "2026-08-15T14:25:33.431911+00:00"
+    "timestamp": "2026-08-15T16:27:51.956463+00:00"
   }
 }
