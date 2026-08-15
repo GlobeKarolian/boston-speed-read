@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-15T20:25:38.267059+00:00",
+  "lastUpdated": "2026-08-15T22:25:15.612911+00:00",
   "articles": [
+    {
+      "title": "Boston native Joshua Baez hits 3 home runs in MLB debut",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/15/boston-native-joshua-baez-3-home-runs-mlb-cardinals-debut/",
+      "pubDate": "Sat, 15 Aug 2026 22:20:39 +0000",
+      "description": "<p>Baez was a 2021 graduate of Dexter Southfield School in Brookline.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/15/boston-native-joshua-baez-3-home-runs-mlb-cardinals-debut/\">Boston native Joshua Baez hits 3 home runs in MLB debut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e3ec6173e6ef977495a72417d96faf6e",
+      "summary": [
+        "Update: Boston native Joshua Baez hits 3 home runs in MLB ",
+        "Details: <p>Baez was a 2021 graduate of Dexter Southfield S",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Mike Vrabel gives update on Christian Gonzalez\u2019s health, relationship with Patriots",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/08/15/christian-gonzalez-new-england-patriots-mike-vrabel-contract/",
@@ -635,19 +648,6 @@
         "Patriots' preseason opener against the Colts is scheduled for Thursday, August 13.",
         "Starters, including quarterback Drake Maye, are not expected to participate in the game.",
         "Fans may see younger players compete for roster spots, impacting team dynamics."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "Cape Cod documentarian Mischa Richter creates a dreamy ode to Grateful Dead culture with \u2018Summer Tour\u2019",
-      "link": "https://www.boston.com/culture/movies/2026/08/13/cape-cod-documentarian-mischa-richter-creates-a-dreamy-ode-to-grateful-dead-culture-with-summer-tour/",
-      "pubDate": "Thu, 13 Aug 2026 21:38:17 +0000",
-      "description": "<p>Ahead of a Cape screening Aug. 16 with documentarian Mischa Richter and actor Chlo\u00eb Sevigny \u2013 and more New England dates coming\u2013  we sat with Richter to talk Dead.</p>\n<p>The post <a href=\"https://www.boston.com/culture/movies/2026/08/13/cape-cod-documentarian-mischa-richter-creates-a-dreamy-ode-to-grateful-dead-culture-with-summer-tour/\">Cape Cod documentarian Mischa Richter creates a dreamy ode to Grateful Dead culture with &#8216;Summer Tour&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "7fdd8b5d2ca7f07e6dd98706e899d923",
-      "summary": [
-        "Mischa Richter's documentary 'Summer Tour' celebrates Grateful Dead culture in New England.",
-        "Screening on August 16 features Richter and actress Chlo\u00eb Sevigny in Cape Cod.",
-        "Local residents can connect with the iconic music culture through upcoming screenings."
       ],
       "hookType": "LOCAL_IMPACT"
     }
