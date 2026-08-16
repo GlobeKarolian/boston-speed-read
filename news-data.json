@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-16T03:02:25.673159+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-16T04:38:34.481412+00:00",
+  "articles": [
+    {
+      "title": "Red Sox shut out Pirates, 4-0, with help from Sonny Gray and late offense",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/15/red-sox-pirates-sonny-gray/",
+      "pubDate": "Sun, 16 Aug 2026 03:52:36 +0000",
+      "description": "<p>Andruw Monasterio turned Boston\u2019s 1-0 lead into a 3-0 advantage with one swing in the ninth inning.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/15/red-sox-pirates-sonny-gray/\">Red Sox shut out Pirates, 4-0, with help from Sonny Gray and late offense</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "674f49f549f6517f215871b8d6509b89",
+      "summary": [
+        "Update: Red Sox shut out Pirates, 4-0, with help from Sonn",
+        "Details: <p>Andruw Monasterio turned Boston\u2019s 1-0 lead into",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-16T03:02:25.673168+00:00"
+    "timestamp": "2026-08-16T04:38:34.481433+00:00"
   }
 }

@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-16T01:34:41.670418+00:00",
+  "lastUpdated": "2026-08-16T04:38:34.482125+00:00",
   "articles": [
+    {
+      "title": "Red Sox shut out Pirates, 4-0, with help from Sonny Gray and late offense",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/15/red-sox-pirates-sonny-gray/",
+      "pubDate": "Sun, 16 Aug 2026 03:52:36 +0000",
+      "description": "<p>Andruw Monasterio turned Boston\u2019s 1-0 lead into a 3-0 advantage with one swing in the ninth inning.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/15/red-sox-pirates-sonny-gray/\">Red Sox shut out Pirates, 4-0, with help from Sonny Gray and late offense</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "674f49f549f6517f215871b8d6509b89",
+      "summary": [
+        "Update: Red Sox shut out Pirates, 4-0, with help from Sonn",
+        "Details: <p>Andruw Monasterio turned Boston\u2019s 1-0 lead into",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Red Sox\u2019 Masataka Yoshida exits game with left hamstring tightness",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/08/15/red-sox-masataka-yoshida-hamstring/",
@@ -635,19 +648,6 @@
         "Mike Vrabel plans to retain challenge flag duties for the Patriots.",
         "Vrabel can delegate flag responsibilities to staff if desired.",
         "Local fans may see more strategic challenges during upcoming games."
-      ],
-      "hookType": "LOCAL_IMPACT"
-    },
-    {
-      "title": "16 hospitalized after chemical incident at Mass. industrial worksite",
-      "link": "https://www.boston.com/news/local-news/2026/08/13/16-hospitalized-after-chemical-incident-at-mass-industrial-worksite/",
-      "pubDate": "Fri, 14 Aug 2026 01:42:57 +0000",
-      "description": "<p>Employees at the business were suffering from \u201cserious illness, dizziness, eye irritation, and other symptoms,\u201d according to the Hudson Fire Department.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/13/16-hospitalized-after-chemical-incident-at-mass-industrial-worksite/\">16 hospitalized after chemical incident at Mass. industrial worksite</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "01d0dc03e0b6fb3440f9543ec2ce5b41",
-      "summary": [
-        "Sixteen employees hospitalized due to chemical exposure at a Hudson industrial site.",
-        "Workers reported serious symptoms including dizziness and eye irritation on August 13.",
-        "Local health officials are investigating to ensure safety and prevent future incidents."
       ],
       "hookType": "LOCAL_IMPACT"
     }
