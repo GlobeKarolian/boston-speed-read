@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-16T10:26:06.427102+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-16T12:44:26.144539+00:00",
+  "articles": [
+    {
+      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran",
+      "link": "https://www.boston.com/news/world-news/2026/08/16/us-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran/",
+      "pubDate": "Sun, 16 Aug 2026 12:07:27 +0000",
+      "description": "<p>The absence of carriers in the region \u201cadds to the general sense that the U.S. is distracted by events in the Middle East.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/16/us-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran/\">US pulls last aircraft carrier in Asia as Trump focuses on Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2019d6d19af2868586a2706c787e46f7",
+      "summary": [
+        "Update: US pulls last aircraft carrier in Asia as Trump fo",
+        "Details: <p>The absence of carriers in the region \u201cadds to ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-16T10:26:06.427110+00:00"
+    "timestamp": "2026-08-16T12:44:26.144554+00:00"
   }
 }

@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-08-16T04:38:34.482125+00:00",
+  "lastUpdated": "2026-08-16T12:44:26.145140+00:00",
   "articles": [
+    {
+      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran",
+      "link": "https://www.boston.com/news/world-news/2026/08/16/us-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran/",
+      "pubDate": "Sun, 16 Aug 2026 12:07:27 +0000",
+      "description": "<p>The absence of carriers in the region \u201cadds to the general sense that the U.S. is distracted by events in the Middle East.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/16/us-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran/\">US pulls last aircraft carrier in Asia as Trump focuses on Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "2019d6d19af2868586a2706c787e46f7",
+      "summary": [
+        "Update: US pulls last aircraft carrier in Asia as Trump fo",
+        "Details: <p>The absence of carriers in the region \u201cadds to ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Red Sox shut out Pirates, 4-0, with help from Sonny Gray and late offense",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/08/15/red-sox-pirates-sonny-gray/",
@@ -637,19 +650,6 @@
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "What Mike Vrabel said about his viral challenge flag toss",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/13/patriots-mike-vrabel-challenge-flag-toss-comments/",
-      "pubDate": "Fri, 14 Aug 2026 02:32:35 +0000",
-      "description": "<p>Vrabel said he plans on keeping his challenge flag duties, although he is allowed to delegate them to another staffer if he wants. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/13/patriots-mike-vrabel-challenge-flag-toss-comments/\">What Mike Vrabel said about his viral challenge flag toss</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9d8cf541297638e9e25fa30d10e28314",
-      "summary": [
-        "Mike Vrabel plans to retain challenge flag duties for the Patriots.",
-        "Vrabel can delegate flag responsibilities to staff if desired.",
-        "Local fans may see more strategic challenges during upcoming games."
-      ],
-      "hookType": "LOCAL_IMPACT"
     }
   ],
   "totalArticles": 50
