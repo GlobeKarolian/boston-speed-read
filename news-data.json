@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-08-16T12:44:26.144539+00:00",
+  "lastUpdated": "2026-08-16T14:25:59.838858+00:00",
   "articles": [
     {
-      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran",
-      "link": "https://www.boston.com/news/world-news/2026/08/16/us-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran/",
-      "pubDate": "Sun, 16 Aug 2026 12:07:27 +0000",
-      "description": "<p>The absence of carriers in the region \u201cadds to the general sense that the U.S. is distracted by events in the Middle East.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/16/us-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran/\">US pulls last aircraft carrier in Asia as Trump focuses on Iran</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "2019d6d19af2868586a2706c787e46f7",
+      "title": "The Orange Line is about to shut down for 11 days. Here\u2019s what to know.",
+      "link": "https://www.boston.com/news/transportation/2026/08/16/the-orange-line-is-about-to-shut-down-for-11-days-heres-what-to-know/",
+      "pubDate": "Sun, 16 Aug 2026 14:10:41 +0000",
+      "description": "<p>The shutdown marks the second major subway service suspension this August after the earlier Green Line shutdown.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/08/16/the-orange-line-is-about-to-shut-down-for-11-days-heres-what-to-know/\">The Orange Line is about to shut down for 11 days. Here\u2019s what to know.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "18b0978360959905dc3f4e426ef72a9b",
       "summary": [
-        "Update: US pulls last aircraft carrier in Asia as Trump fo",
-        "Details: <p>The absence of carriers in the region \u201cadds to ",
+        "Update: The Orange Line is about to shut down for 11 days.",
+        "Details: <p>The shutdown marks the second major subway serv",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Teen boy among 6 dead including suspect in Michigan shootings",
+      "link": "https://www.boston.com/news/national-news/2026/08/16/teen-boy-among-6-dead-including-suspect-in-michigan-shootings/",
+      "pubDate": "Sun, 16 Aug 2026 13:30:30 +0000",
+      "description": "<p>A teenage girl survived and was in stable condition, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/08/16/teen-boy-among-6-dead-including-suspect-in-michigan-shootings/\">Teen boy among 6 dead including suspect in Michigan shootings</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5b3ab629a39d7501cca2e647d06f4c58",
+      "summary": [
+        "Update: Teen boy among 6 dead including suspect in Michiga",
+        "Details: <p>A teenage girl survived and was in stable condi",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution.",
+      "link": "https://www.boston.com/news/history/2026/08/16/ben-franklin-chose-america-son-william-chose-the-crown-this-civil-war-is-a-microcosm-of-revolution/",
+      "pubDate": "Sun, 16 Aug 2026 13:08:48 +0000",
+      "description": "<p>\u201cThe American Revolution is an ongoing event. We are living it, right still to this day.\u201d </p>\n<p>The post <a href=\"https://www.boston.com/news/history/2026/08/16/ben-franklin-chose-america-son-william-chose-the-crown-this-civil-war-is-a-microcosm-of-revolution/\">Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "985e2b51565a8417bb14fbf496bd397e",
+      "summary": [
+        "Update: Ben Franklin chose America. Son William chose the ",
+        "Details: <p>\u201cThe American Revolution is an ongoing event. W",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-08-16T12:44:26.144554+00:00"
+    "timestamp": "2026-08-16T14:25:59.838881+00:00"
   }
 }
