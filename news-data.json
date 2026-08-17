@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-08-17T03:02:20.589195+00:00",
+  "lastUpdated": "2026-08-17T04:45:22.523306+00:00",
   "articles": [
     {
-      "title": "Doc Rivers says first person he thought of after Jaylen Brown trade was Tommy Heinsohn",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/08/16/boston-celtics-trade-jaylen-brown-76ers-philadelphia-nba-basketball-doc-rivers-tommy-heinsohn/",
-      "pubDate": "Mon, 17 Aug 2026 01:53:20 +0000",
-      "description": "<p>\u201cI\u2019m thinking this trade would have drove him crazy.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/08/16/boston-celtics-trade-jaylen-brown-76ers-philadelphia-nba-basketball-doc-rivers-tommy-heinsohn/\">Doc Rivers says first person he thought of after Jaylen Brown trade was Tommy Heinsohn\u00a0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "ec6eb8e439f510feb987c07b1f37f87c",
+      "title": "Hayden Panettiere, who starred in the television series \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36",
+      "link": "https://www.boston.com/uncategorized/entertainment/2026/08/16/hayden-panettiere-who-starred-in-the-television-series-heroes-and-nashville-dies-at-36/",
+      "pubDate": "Mon, 17 Aug 2026 03:49:36 +0000",
+      "description": "<p>\"She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her \u2014 and to the millions who watched her onscreen.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/uncategorized/entertainment/2026/08/16/hayden-panettiere-who-starred-in-the-television-series-heroes-and-nashville-dies-at-36/\">Hayden Panettiere, who starred in the television series \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "95e6d462eb1c1b23db639d269b49b9a1",
       "summary": [
-        "Update: Doc Rivers says first person he thought of after J",
-        "Details: <p>\u201cI\u2019m thinking this trade would have drove him c",
+        "Update: Hayden Panettiere, who starred in the television s",
+        "Details: <p>\"She was an incredible light and a force of nat",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Worker surgically removed from conveyor belt in Westford",
+      "link": "https://www.boston.com/news/local-news/2026/08/16/worker-surgically-removed-from-conveyor-belt-in-westford/",
+      "pubDate": "Mon, 17 Aug 2026 03:07:41 +0000",
+      "description": "<p>The worker is expected to recover. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/16/worker-surgically-removed-from-conveyor-belt-in-westford/\">Worker surgically removed from conveyor belt in Westford</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c40729da756149bc15c5795e95849d97",
+      "summary": [
+        "Update: Worker surgically removed from conveyor belt in We",
+        "Details: <p>The worker is expected to recover. </p>\n<p>The ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-17T03:02:20.589215+00:00"
+    "timestamp": "2026-08-17T04:45:22.523327+00:00"
   }
 }
