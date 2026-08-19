@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-19T08:40:25.410542+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-19T10:31:46.133739+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Aug. 19)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/08/19/recent-homes-sales-in-greater-boston-aug-19/",
+      "pubDate": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 214 Presidential Drive. One-family Colonial, built in 1988, 2,076 square feet, 8 rooms, 3 bedrooms, 3 baths, on 40,056-square-foot lot. $900,000 96 Central St. One-family raised ranch, built in 2005, 1,700 square feet, 5 rooms, 3 bedrooms, 2 baths, on 70,548-square-foot lot. $768,500 566 Adams St. One-family conventional, built in 1900, 1,706 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/08/19/recent-homes-sales-in-greater-boston-aug-19/\">Recent homes sales in Greater Boston (Aug. 19)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f5a71fe474e23de55d550cfc7e8cacb9",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Aug. 19)",
+        "Details: <p>ABINGTON 214 Presidential Drive. One-family Col",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-19T08:40:25.410549+00:00"
+    "timestamp": "2026-08-19T10:31:46.133760+00:00"
   }
 }
