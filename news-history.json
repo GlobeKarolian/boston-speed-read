@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-08-19T20:31:20.093165+00:00",
+  "lastUpdated": "2026-08-19T22:27:23.555975+00:00",
   "articles": [
+    {
+      "title": "Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test",
+      "link": "https://www.boston.com/news/health/2026/08/19/moderna-shares-surge-after-it-says-its-experimental-mrna-cancer-treatment-passed-a-key-test/",
+      "pubDate": "Wed, 19 Aug 2026 21:13:22 +0000",
+      "description": "<p>Moderna and Merck are developing a treatment using an mRNA-based cancer vaccine called intismeran that is designed to be tailored to individual patients based on unique mutations within their tumors.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/08/19/moderna-shares-surge-after-it-says-its-experimental-mrna-cancer-treatment-passed-a-key-test/\">Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fbe1c2c8cabdd9531142e4b8e9b7d405",
+      "summary": [
+        "Update: Moderna shares surge after it says its experimenta",
+        "Details: <p>Moderna and Merck are developing a treatment us",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Adam Schefter: Christian Gonzalez, Patriots not \u2018overly close\u2019 to new deal",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/19/adam-schefter-christian-gonzalez-patriots-not-overly-close-to-new-deal/",
+      "pubDate": "Wed, 19 Aug 2026 21:10:39 +0000",
+      "description": "<p>\"It should not be hard right now to get a deal done for Christian Gonzalez and so far it has been.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/19/adam-schefter-christian-gonzalez-patriots-not-overly-close-to-new-deal/\">Adam Schefter: Christian Gonzalez, Patriots not &#8216;overly close&#8217; to new deal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "502ef1d5f9b7bae38055d4a7a1b140a5",
+      "summary": [
+        "Update: Adam Schefter: Christian Gonzalez, Patriots not \u2018o",
+        "Details: <p>\"It should not be hard right now to get a deal ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "What Massachusetts voters need to know before the Sept. 1 primary",
+      "link": "https://www.boston.com/news/local-news/2026/08/19/what-massachusetts-voters-need-to-know-before-the-sept-1-primary/",
+      "pubDate": "Wed, 19 Aug 2026 20:59:38 +0000",
+      "description": "<p>Here's a rundown of the key dates, the rules for registering and casting a ballot, and who's running.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/19/what-massachusetts-voters-need-to-know-before-the-sept-1-primary/\">What Massachusetts voters need to know before the Sept. 1 primary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "826a592f8ed2bacb05b4bae576056e97",
+      "summary": [
+        "Update: What Massachusetts voters need to know before the ",
+        "Details: <p>Here's a rundown of the key dates, the rules fo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Boston police tow 31 scooters and mopeds",
+      "link": "https://www.boston.com/news/local-news/2026/08/19/boston-police-tow-31-scooters-and-mopeds/",
+      "pubDate": "Wed, 19 Aug 2026 20:53:51 +0000",
+      "description": "<p>Twelve people were issued legal summons.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/19/boston-police-tow-31-scooters-and-mopeds/\">Boston police tow 31 scooters and mopeds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8602e9c5e726ae784c3f62f8a43213cc",
+      "summary": [
+        "Update: Boston police tow 31 scooters and mopeds",
+        "Details: <p>Twelve people were issued legal summons.</p>\n<p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots kicker Andy Borregales bounces back after rough preseason opener",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/19/patriots-andy-borregales-eagles-joint-practice-comments/",
+      "pubDate": "Wed, 19 Aug 2026 20:40:29 +0000",
+      "description": "<p>Borregales was 4-for-5 in practice against the Eagles on Wednesday, a continuation of a strong week. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/19/patriots-andy-borregales-eagles-joint-practice-comments/\">Patriots kicker Andy Borregales bounces back after rough preseason opener</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "20223dfee909d8d2655d11e9c56e034c",
+      "summary": [
+        "Update: Patriots kicker Andy Borregales bounces back after",
+        "Details: <p>Borregales was 4-for-5 in practice against the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "Trump says US and Canada have a trade deal, but key terms remain unclear",
       "link": "https://www.boston.com/news/politics/2026/08/19/trump-says-us-and-canada-have-a-trade-deal-but-key-terms-remain-unclear/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: 5 things to know heading into the WNBA\u2019s final gam",
         "Details: <p>After 23 years, it's the franchise's final seas",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Child suffers life-threatening injuries as tree falls at Wayland camp",
-      "link": "https://www.boston.com/news/local-news/2026/08/18/child-suffers-life-threatening-injuries-as-tree-falls-at-wayland-camp/",
-      "pubDate": "Tue, 18 Aug 2026 17:44:32 +0000",
-      "description": "<p>The child was flown to a regional trauma center in a medical helicopter Tuesday morning.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/18/child-suffers-life-threatening-injuries-as-tree-falls-at-wayland-camp/\">Child suffers life-threatening injuries as tree falls at Wayland camp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "dc93c1d4feff19c7d975855154081686",
-      "summary": [
-        "Update: Child suffers life-threatening injuries as tree fa",
-        "Details: <p>The child was flown to a regional trauma center",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Massachusetts is now on the list of states reporting a cyclospora outbreak",
-      "link": "https://www.boston.com/news/local-news/2026/08/18/massachusetts-list-states-cyclospora-outbreak/",
-      "pubDate": "Tue, 18 Aug 2026 17:20:43 +0000",
-      "description": "<p>But state officials say there\u2019s nothing unusual about the number of cases reported so far. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/18/massachusetts-list-states-cyclospora-outbreak/\">Massachusetts is now on the list of states reporting a cyclospora outbreak</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "3558aa4e5fdcb9d3be7b7629adf6eafe",
-      "summary": [
-        "Update: Massachusetts is now on the list of states reporti",
-        "Details: <p>But state officials say there\u2019s nothing unusual",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Activists urge Campbell to investigate, sue health centers that cut off gender care for minors",
-      "link": "https://www.boston.com/news/local-news/2026/08/18/activists-urge-campbell-to-investigate-sue-health-centers-that-cut-off-gender-care-for-minors/",
-      "pubDate": "Tue, 18 Aug 2026 17:08:51 +0000",
-      "description": "<p>Attorney General Andrea Campbell says she is standing up for the transgender community in the face of attacks from the Trump administration. Some want her to be much more aggressive.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/18/activists-urge-campbell-to-investigate-sue-health-centers-that-cut-off-gender-care-for-minors/\">Activists urge Campbell to investigate, sue health centers that cut off gender care for minors</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e74479ce7105357add158b5b3ce239c0",
-      "summary": [
-        "Update: Activists urge Campbell to investigate, sue health",
-        "Details: <p>Attorney General Andrea Campbell says she is st",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "A longtime Medford breakfast favorite is closing",
-      "link": "https://www.boston.com/food/local-news/2026/08/18/a-longtime-medford-breakfast-favorite-is-closing/",
-      "pubDate": "Tue, 18 Aug 2026 16:28:22 +0000",
-      "description": "<p>The Paul Revere Restaurant will serve its final customers on Aug. 30, after more than 20 years in business. </p>\n<p>The post <a href=\"https://www.boston.com/food/local-news/2026/08/18/a-longtime-medford-breakfast-favorite-is-closing/\">A longtime Medford breakfast favorite is closing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "913bd7c75c1c2f880393ad049f00182d",
-      "summary": [
-        "Update: A longtime Medford breakfast favorite is closing",
-        "Details: <p>The Paul Revere Restaurant will serve its final",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Boston travelers can get to NYC for $19 on this new bus route",
-      "link": "https://www.boston.com/travel/local-news/2026/08/18/boston-travelers-can-get-to-nyc-for-19-on-this-new-bus-route/",
-      "pubDate": "Tue, 18 Aug 2026 16:14:46 +0000",
-      "description": "<p>OurBus just launched a new route from South Station to New York City.</p>\n<p>The post <a href=\"https://www.boston.com/travel/local-news/2026/08/18/boston-travelers-can-get-to-nyc-for-19-on-this-new-bus-route/\">Boston travelers can get to NYC for $19 on this new bus route</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fd7b484abb83b745a1698e069430a9ef",
-      "summary": [
-        "Update: Boston travelers can get to NYC for $19 on this ne",
-        "Details: <p>OurBus just launched a new route from South Sta",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
