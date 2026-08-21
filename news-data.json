@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-08-21T20:28:51.227959+00:00",
+  "lastUpdated": "2026-08-21T22:27:44.295764+00:00",
   "articles": [
     {
-      "title": "Dave Portnoy has been busy eating pizza in Mass. Here\u2019s how his latest reviews ranked.",
-      "link": "https://www.boston.com/food/food-news/2026/08/21/dave-portnoy-pizza-reviews-massachusetts-summer-2026-so-far/",
-      "pubDate": "Fri, 21 Aug 2026 20:08:59 +0000",
-      "description": "<p>The \u201cOne Bite\u201d host has visited nine Massachusetts pizza spots so far this summer. Here\u2019s how he scored them, from lowest to highest.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/08/21/dave-portnoy-pizza-reviews-massachusetts-summer-2026-so-far/\">Dave Portnoy has been busy eating pizza in Mass. Here\u2019s how his latest reviews ranked.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1ec89b40aa99aa17ab99c4640c748a0e",
+      "title": "Ex-Red Sox Rafael Devers focused on the present with Giants in his return to Fenway Park",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/21/rafael-devers-red-sox-giants/",
+      "pubDate": "Fri, 21 Aug 2026 22:06:17 +0000",
+      "description": "<p>\u201cI don\u2019t want to think about the past, I don\u2019t want to talk about the past. \u2026 But at the same time, you make mistakes and we have to move on and mature.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/21/rafael-devers-red-sox-giants/\">Ex-Red Sox Rafael Devers focused on the present with Giants in his return to Fenway Park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e312ddf94c73a4c0d2a18a948223da64",
       "summary": [
-        "Update: Dave Portnoy has been busy eating pizza in Mass. H",
-        "Details: <p>The \u201cOne Bite\u201d host has visited nine Massachuse",
+        "Update: Ex-Red Sox Rafael Devers focused on the present wi",
+        "Details: <p>\u201cI don\u2019t want to think about the past, I don\u2019t ",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Police investigate man for reported kidnapping after chase to Milton",
-      "link": "https://www.boston.com/news/crime/2026/08/21/police-investigate-man-for-reported-kidnapping-after-chase-to-milton/",
-      "pubDate": "Fri, 21 Aug 2026 19:43:43 +0000",
-      "description": "<p>The 24-year-old man was arrested and charged with multiple motor vehicle offenses, police said.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/21/police-investigate-man-for-reported-kidnapping-after-chase-to-milton/\">Police investigate man for reported kidnapping after chase to Milton</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "4f32a853e81464157d12d41bd0753942",
+      "title": "These Mass. beaches are closed as a cool, rainy weekend approaches",
+      "link": "https://www.boston.com/news/local-news/2026/08/21/these-mass-beaches-are-closed-as-a-cool-rainy-weekend-approaches/",
+      "pubDate": "Fri, 21 Aug 2026 22:03:14 +0000",
+      "description": "<p>Bacteria and harmful algae have shuttered swimming spots across the state, though wet weather may keep many beachgoers away this weekend.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/21/these-mass-beaches-are-closed-as-a-cool-rainy-weekend-approaches/\">These Mass. beaches are closed as a cool, rainy weekend approaches</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "83abe6d49152171cfda1e29721c4811a",
       "summary": [
-        "Update: Police investigate man for reported kidnapping aft",
-        "Details: <p>The 24-year-old man was arrested and charged wi",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018Arthur\u2019 creator Marc Brown sells Martha\u2019s Vineyard home for $6.4 million. Take a look inside.",
-      "link": "https://www.boston.com/real-estate/local-news/2026/08/21/arthur-creator-marc-brown-sells-marthas-vineyard-home-for-6-4-million-take-a-look-inside/",
-      "pubDate": "Fri, 21 Aug 2026 19:37:56 +0000",
-      "description": "<p>Author-illustrator Marc Brown drew plenty of inspiration from his Martha\u2019s Vineyard home. The creator of the best-selling \u201cArthur\u201d children\u2019s books, he completed about half the series there. After the adventures of the beloved aardvark ended, Brown brought the stone bridge leading to the entrance of the compound to life as the home of a troll [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/local-news/2026/08/21/arthur-creator-marc-brown-sells-marthas-vineyard-home-for-6-4-million-take-a-look-inside/\">\u2018Arthur\u2019 creator Marc Brown sells Martha\u2019s Vineyard home for $6.4 million. Take a look inside.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "76cf89d6ddcfd19ca93a38dd599ac2f4",
-      "summary": [
-        "Update: \u2018Arthur\u2019 creator Marc Brown sells Martha\u2019s Vineyar",
-        "Details: <p>Author-illustrator Marc Brown drew plenty of in",
+        "Update: These Mass. beaches are closed as a cool, rainy we",
+        "Details: <p>Bacteria and harmful algae have shuttered swimm",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-21T20:28:51.227979+00:00"
+    "timestamp": "2026-08-21T22:27:44.295787+00:00"
   }
 }
