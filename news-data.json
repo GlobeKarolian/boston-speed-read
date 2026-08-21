@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-21T10:33:22.637186+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-21T12:53:42.609572+00:00",
+  "articles": [
+    {
+      "title": "Olivia Wilde on her Boston-area roots, her love of Diane Keaton, and the discomfort of \u2018The Invite\u2019",
+      "link": "https://www.boston.com/culture/celebs/2026/08/21/olivia-wilde-the-invite-interview/",
+      "pubDate": "Fri, 21 Aug 2026 11:00:00 +0000",
+      "description": "<p>Actress Olivia Wilde, who got her start putting on shows at Phillips Academy in Andover, explains why it's so fun to play a character struggling to \"keep their s*** together\" in \"The Invite.\"</p>\n<p>The post <a href=\"https://www.boston.com/culture/celebs/2026/08/21/olivia-wilde-the-invite-interview/\">Olivia Wilde on her Boston-area roots, her love of Diane Keaton, and the discomfort of &#8216;The Invite&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1310e21cb45bb3b6c31a7ca10b866549",
+      "summary": [
+        "Update: Olivia Wilde on her Boston-area roots, her love of",
+        "Details: <p>Actress Olivia Wilde, who got her start putting",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-21T10:33:22.637196+00:00"
+    "timestamp": "2026-08-21T12:53:42.609597+00:00"
   }
 }
