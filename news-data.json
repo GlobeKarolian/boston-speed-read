@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-08-22T10:26:47.740724+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-22T12:44:41.928710+00:00",
+  "articles": [
+    {
+      "title": "AI slop has infected our streaming services",
+      "link": "https://www.boston.com/things-to-do/the-queue/2026/08/22/culture-streaming-ai-slop-content/",
+      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0000",
+      "description": "<p>\"Fairground AI Creator TV\" operates like a regular television network, but only airs 100% AI content.</p>\n<p>The post <a href=\"https://www.boston.com/things-to-do/the-queue/2026/08/22/culture-streaming-ai-slop-content/\">AI slop has infected our streaming services</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3e73ec13f517a0cc650259aff05f3044",
+      "summary": [
+        "Update: AI slop has infected our streaming services",
+        "Details: <p>\"Fairground AI Creator TV\" operates like a regu",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Iran says the world has accepted it has defeated the US",
+      "link": "https://www.boston.com/news/world-news/2026/08/22/iran-says-the-world-has-accepted-it-has-defeated-the-us/",
+      "pubDate": "Sat, 22 Aug 2026 11:51:13 +0000",
+      "description": "<p>\u201cThe entire world approved our victory and the U.S. is hated,\u201d President Masoud Pezeshkian said, according to IRNA news agency.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/08/22/iran-says-the-world-has-accepted-it-has-defeated-the-us/\">Iran says the world has accepted it has defeated the US</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8e27a087af7e2db958c343ada7b09e0d",
+      "summary": [
+        "Update: Iran says the world has accepted it has defeated t",
+        "Details: <p>\u201cThe entire world approved our victory and the ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "This classic New England seafood dish is the antidote to $30 lobster rolls",
+      "link": "https://www.boston.com/food/restaurants/2026/08/22/stuffed-quahogs-stuffies-new-england-cape-cod-clams/",
+      "pubDate": "Sat, 22 Aug 2026 11:00:00 +0000",
+      "description": "<p>A hyperlocal dish, the stuffed quahog, or \u201cstuffie,\u201d is especially suited to home cooking, and delightfully in reach.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/08/22/stuffed-quahogs-stuffies-new-england-cape-cod-clams/\">This classic New England seafood dish is the antidote to $30 lobster rolls</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7c078bba3b374750c96f169906dfad8b",
+      "summary": [
+        "Update: This classic New England seafood dish is the antid",
+        "Details: <p>A hyperlocal dish, the stuffed quahog, or \u201cstuf",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-08-22T10:26:47.740731+00:00"
+    "timestamp": "2026-08-22T12:44:41.928731+00:00"
   }
 }
