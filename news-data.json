@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-22T20:25:48.232969+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-22T22:25:06.125766+00:00",
+  "articles": [
+    {
+      "title": "Former Red Sox Marcelo Mayer faces another injury setback with Giants",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/22/marcelo-mayer-injury-red-sox-giants/",
+      "pubDate": "Sat, 22 Aug 2026 21:59:32 +0000",
+      "description": "<p>Mayer is experiencing foot soreness right after recovering from forearm soreness.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/22/marcelo-mayer-injury-red-sox-giants/\">Former Red Sox Marcelo Mayer faces another injury setback with Giants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "17018b3dcfae4158606f957614346b16",
+      "summary": [
+        "Update: Former Red Sox Marcelo Mayer faces another injury ",
+        "Details: <p>Mayer is experiencing foot soreness right after",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-22T20:25:48.232977+00:00"
+    "timestamp": "2026-08-22T22:25:06.125786+00:00"
   }
 }
