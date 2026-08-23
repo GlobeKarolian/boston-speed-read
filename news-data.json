@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-23T18:33:23.684438+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-23T20:26:28.214902+00:00",
+  "articles": [
+    {
+      "title": "Arrest warrant issued for woman sought in Worcester police officer\u2019s death",
+      "link": "https://www.boston.com/news/crime/2026/08/23/arrest-warrant-issued-for-solomon-massachusetts-woman-sought-in-officers-death/",
+      "pubDate": "Sun, 23 Aug 2026 20:19:01 +0000",
+      "description": "<p>Karen Solomon, 58, was last spotted in a doorbell camera video, walking down a street in a T-shirt, shorts and flip-flops early Tuesday morning.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/23/arrest-warrant-issued-for-solomon-massachusetts-woman-sought-in-officers-death/\">Arrest warrant issued for woman sought in Worcester police officer&#8217;s death</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e00b1d65cc7718c4b945d135bdef671d",
+      "summary": [
+        "Update: Arrest warrant issued for woman sought in Worceste",
+        "Details: <p>Karen Solomon, 58, was last spotted in a doorbe",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Boston Symphony Orchestra and musicians extend contract for 48 hours, delaying possible first strike",
+      "link": "https://www.boston.com/culture/music/2026/08/23/boston-symphony-orchestra-and-musicians-extend-contract-for-48-hours-delaying-possible-first-strike/",
+      "pubDate": "Sun, 23 Aug 2026 20:06:22 +0000",
+      "description": "<p>The Boston Musicians\u2019 Association said Saturday it had authorized a strike ahead of the expiration of the union\u2019s three-year contract at 11:59 p.m. Sunday. The BSO said Sunday the contract had been extended to 11:59 p.m. Tuesday.</p>\n<p>The post <a href=\"https://www.boston.com/culture/music/2026/08/23/boston-symphony-orchestra-and-musicians-extend-contract-for-48-hours-delaying-possible-first-strike/\">Boston Symphony Orchestra and musicians extend contract for 48 hours, delaying possible first strike</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f4e87868437d9915b7e92ecc9c6321f1",
+      "summary": [
+        "Update: Boston Symphony Orchestra and musicians extend con",
+        "Details: <p>The Boston Musicians\u2019 Association said Saturday",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-23T18:33:23.684447+00:00"
+    "timestamp": "2026-08-23T20:26:28.214926+00:00"
   }
 }
