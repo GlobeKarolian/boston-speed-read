@@ -1,23 +1,36 @@
 {
-  "lastUpdated": "2026-08-22T22:25:06.125766+00:00",
+  "lastUpdated": "2026-08-23T01:36:10.958062+00:00",
   "articles": [
     {
-      "title": "Former Red Sox Marcelo Mayer faces another injury setback with Giants",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/22/marcelo-mayer-injury-red-sox-giants/",
-      "pubDate": "Sat, 22 Aug 2026 21:59:32 +0000",
-      "description": "<p>Mayer is experiencing foot soreness right after recovering from forearm soreness.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/22/marcelo-mayer-injury-red-sox-giants/\">Former Red Sox Marcelo Mayer faces another injury setback with Giants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "17018b3dcfae4158606f957614346b16",
+      "title": "\u2018The Dynasty: UConn Huskies\u2019 goes too heavy on crediting Geno Auriemma, at expense of some of his stars",
+      "link": "https://www.boston.com/sports/media/2026/08/22/the-dynasty-uconn-huskies-docuseries-geno-auriemma/",
+      "pubDate": "Sat, 22 Aug 2026 22:41:10 +0000",
+      "description": "<p>Apple TV released the three-part series, which runs just over two hours.</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/08/22/the-dynasty-uconn-huskies-docuseries-geno-auriemma/\">\u2018The Dynasty: UConn Huskies\u2019 goes too heavy on crediting Geno Auriemma, at expense of some of his stars</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "6c8b7e6b5c3fef418be48705c754a3b5",
       "summary": [
-        "Update: Former Red Sox Marcelo Mayer faces another injury ",
-        "Details: <p>Mayer is experiencing foot soreness right after",
+        "Update: \u2018The Dynasty: UConn Huskies\u2019 goes too heavy on cre",
+        "Details: <p>Apple TV released the three-part series, which ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Live updates: Patriots host Eagles in preseason clash at Gillette Stadium",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/08/22/patriots-eagles-preseason-live-updates/",
+      "pubDate": "Sat, 22 Aug 2026 22:30:12 +0000",
+      "description": "<p>After tying the Colts in Week 1, the Patriots will look to make a better showing against the Eagles. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/08/22/patriots-eagles-preseason-live-updates/\">Live updates: Patriots host Eagles in preseason clash at Gillette Stadium</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9e6b088178f7ef72080ed478137e4c68",
+      "summary": [
+        "Update: Live updates: Patriots host Eagles in preseason cl",
+        "Details: <p>After tying the Colts in Week 1, the Patriots w",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-22T22:25:06.125786+00:00"
+    "timestamp": "2026-08-23T01:36:10.958082+00:00"
   }
 }
