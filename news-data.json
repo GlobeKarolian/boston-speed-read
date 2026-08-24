@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-08-24T12:55:37.239272+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-24T14:45:17.904346+00:00",
+  "articles": [
+    {
+      "title": "HBO plans true-crime series based on British nanny Louise Woodward\u2019s 1997 shaken-baby trial",
+      "link": "https://www.boston.com/news/the-boston-globe/2026/08/24/hbo-plans-true-crime-series-based-on-british-nanny-louise-woodwards-1997-shaken-baby-trial/",
+      "pubDate": "Mon, 24 Aug 2026 14:02:40 +0000",
+      "description": "<p>Because tragedy sometimes makes compelling television, HBO has ordered a true-crime series based on the shocking case of Louise Woodward, the British nanny who was accused in 1997 of shaking 8-month-old Matthew Eappen of Newton so violently that the child died. Called \u201cThe Trial of Louise Woodward,\u201d the five-episode series will be written and executive [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/news/the-boston-globe/2026/08/24/hbo-plans-true-crime-series-based-on-british-nanny-louise-woodwards-1997-shaken-baby-trial/\">HBO plans true-crime series based on British nanny Louise Woodward\u2019s 1997 shaken-baby trial</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3ece0293aaa16128cb9b8163fc6fc397",
+      "summary": [
+        "Update: HBO plans true-crime series based on British nanny",
+        "Details: <p>Because tragedy sometimes makes compelling tele",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Tiny Cape cottage offers 294 square feet of living space in Eastham community",
+      "link": "https://www.boston.com/real-estate/on-the-market/2026/08/24/eastham-cape-cod-cranberry-cottages-unit-9/",
+      "pubDate": "Mon, 24 Aug 2026 13:08:35 +0000",
+      "description": "<p>The house is part of the Cranberry Cottages condo complex. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/on-the-market/2026/08/24/eastham-cape-cod-cranberry-cottages-unit-9/\">Tiny Cape cottage offers 294 square feet of living space in Eastham community</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d34b92e1999317b056d5aa012753de58",
+      "summary": [
+        "Update: Tiny Cape cottage offers 294 square feet of living",
+        "Details: <p>The house is part of the Cranberry Cottages con",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Livestream: Lindsay Clancy murder trial continues with prosecution rebuttal expert on the stand",
+      "link": "https://www.boston.com/news/crime/2026/08/24/lindsay-clancy-murder-trial-livestream-video-monday-august-24/",
+      "pubDate": "Mon, 24 Aug 2026 13:07:18 +0000",
+      "description": "<p>The defense rested its case Friday after calling several witnesses and psychiatric experts who testified about Clancy\u2019s mental state before and after she killed her children.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/08/24/lindsay-clancy-murder-trial-livestream-video-monday-august-24/\">Livestream: Lindsay Clancy murder trial continues with prosecution rebuttal expert on the stand</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "226a0540bf1a22a52b2909b582b84308",
+      "summary": [
+        "Update: Livestream: Lindsay Clancy murder trial continues ",
+        "Details: <p>The defense rested its case Friday after callin",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-08-24T12:55:37.239281+00:00"
+    "timestamp": "2026-08-24T14:45:17.904367+00:00"
   }
 }
