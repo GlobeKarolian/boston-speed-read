@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-25T10:35:38.628379+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-25T12:52:13.889962+00:00",
+  "articles": [
+    {
+      "title": "Home of the Week: In Roxbury\u2019s Fort Hill neighborhood, a 3-bedroom in a \u2018twin home\u2019 Colonial for $650,000",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/08/25/roxbury-fort-hill-twin-home/",
+      "pubDate": "Tue, 25 Aug 2026 11:00:00 +0000",
+      "description": "<p>The neighboring unit is also for sale  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/08/25/roxbury-fort-hill-twin-home/\">Home of the Week: In Roxbury\u2019s Fort Hill neighborhood, a 3-bedroom in a \u2018twin home\u2019 Colonial for $650,000</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "785f2db50688ae1186b3f3c39ddc234d",
+      "summary": [
+        "Update: Home of the Week: In Roxbury\u2019s Fort Hill neighborh",
+        "Details: <p>The neighboring unit is also for sale  </p>\n<p>",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A \u2018Robots\u2019 road sign in Lexington is apparently connected to a bizarre imagined future Massachusetts",
+      "link": "https://www.boston.com/news/off-beat/2026/08/25/a-robots-road-sign-in-lexington-is-apparently-connected-to-a-bizarre-imagined-future-massachusetts/",
+      "pubDate": "Tue, 25 Aug 2026 10:49:33 +0000",
+      "description": "<p>On the back of the sign, a sticker reads \u201cLexford Department of Robotic Affairs.\u201d </p>\n<p>The post <a href=\"https://www.boston.com/news/off-beat/2026/08/25/a-robots-road-sign-in-lexington-is-apparently-connected-to-a-bizarre-imagined-future-massachusetts/\">A &#8216;Robots&#8217; road sign in Lexington is apparently connected to a bizarre imagined future Massachusetts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "d21d8e6f116f6d40168d418e9ded3863",
+      "summary": [
+        "Update: A \u2018Robots\u2019 road sign in Lexington is apparently co",
+        "Details: <p>On the back of the sign, a sticker reads \u201cLexfo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-25T10:35:38.628389+00:00"
+    "timestamp": "2026-08-25T12:52:13.889986+00:00"
   }
 }
