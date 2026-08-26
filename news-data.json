@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-08-26T03:07:56.048725+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-26T04:42:16.079108+00:00",
+  "articles": [
+    {
+      "title": "Jarren Duran hits grand slam in 11th inning and Red Sox sink Marlins 7-3",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/25/jarren-duran-hits-grand-slam-in-11th-inning-and-red-sox-sink-marlins-7-3/",
+      "pubDate": "Wed, 26 Aug 2026 03:23:14 +0000",
+      "description": "<p>The surging Red Sox won their fifth in a row and ninth in 12 games. They have won their past three series and 14 of their last 20.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/25/jarren-duran-hits-grand-slam-in-11th-inning-and-red-sox-sink-marlins-7-3/\">Jarren Duran hits grand slam in 11th inning and Red Sox sink Marlins 7-3</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "ca16b9baff82e92703a535adcb1e2c2a",
+      "summary": [
+        "Update: Jarren Duran hits grand slam in 11th inning and Re",
+        "Details: <p>The surging Red Sox won their fifth in a row an",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Mass. bridges glow pink to honor Dolly Parton",
+      "link": "https://www.boston.com/news/music/2026/08/25/mass-bridges-glow-pink-to-honor-dolly-parton/",
+      "pubDate": "Wed, 26 Aug 2026 03:12:42 +0000",
+      "description": "<p>\"We will always love you, Dolly,\" Gov. Maura Healey wrote.</p>\n<p>The post <a href=\"https://www.boston.com/news/music/2026/08/25/mass-bridges-glow-pink-to-honor-dolly-parton/\">Mass. bridges glow pink to honor Dolly Parton</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "59216cb01e2003e9cd2dec94cd252493",
+      "summary": [
+        "Update: Mass. bridges glow pink to honor Dolly Parton",
+        "Details: <p>\"We will always love you, Dolly,\" Gov. Maura He",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-08-26T03:07:56.048736+00:00"
+    "timestamp": "2026-08-26T04:42:16.079125+00:00"
   }
 }
