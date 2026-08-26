@@ -1,9 +1,23 @@
 {
-  "lastUpdated": "2026-08-26T08:48:09.528643+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-26T10:37:51.328831+00:00",
+  "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Aug. 26)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/08/26/recent-homes-sales-in-greater-boston-aug-26/",
+      "pubDate": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 890 Bedford St. Two-family two family, built in 1870, 1,734 square feet, 8 rooms, 3 bedrooms, 2 baths, on 30,473-square-foot lot. $755,000 17 Melvern Road. One-family Cape Cod, built in 1955, 1,182 square feet, 5 rooms, 3 bedrooms, 2 baths, on 9,121-square-foot lot. $595,000 55 Clapp St. One-family ranch, built in 1952, 824 square [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/08/26/recent-homes-sales-in-greater-boston-aug-26/\">Recent homes sales in Greater Boston (Aug. 26)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "91d2293a3bcf50e747077d9735dcdac1",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Aug. 26)",
+        "Details: <p>ABINGTON 890 Bedford St. Two-family two family,",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-08-26T08:48:09.528650+00:00"
+    "timestamp": "2026-08-26T10:37:51.328853+00:00"
   }
 }
