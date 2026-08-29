@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-08-29T20:40:14.190824+00:00",
-  "articles": [],
+  "lastUpdated": "2026-08-29T23:57:32.140260+00:00",
+  "articles": [
+    {
+      "title": "Al Michaels, Kirk Herbstreit gave Deshaun Watson far more benefit of the doubt than he deserves",
+      "link": "https://www.boston.com/sports/media/2026/08/29/al-michaels-kirk-herbstreit-deshaun-watson-amazon/",
+      "pubDate": "Sat, 29 Aug 2026 22:08:56 +0000",
+      "description": "<p>Chad Finn was disappointed and surprised to hear Michaels and Herbstreit hint that Watson might turn out to be a story of redemption.</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/08/29/al-michaels-kirk-herbstreit-deshaun-watson-amazon/\">Al Michaels, Kirk Herbstreit gave Deshaun Watson far more benefit of the doubt than he deserves</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "66a6be029ea37ff55c0e9a442569c299",
+      "summary": [
+        "Update: Al Michaels, Kirk Herbstreit gave Deshaun Watson f",
+        "Details: <p>Chad Finn was disappointed and surprised to hea",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ceddanne Rafaela starts pivotal relay throw a day after baserunning mishap as Red Sox beat Yankees 6-0",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/29/red-sox-yankees-ceddanne-rafaela/",
+      "pubDate": "Sat, 29 Aug 2026 21:58:59 +0000",
+      "description": "<p>Rafaela made up for his Friday night miscues on the bases on Saturday afternoon.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/29/red-sox-yankees-ceddanne-rafaela/\">Ceddanne Rafaela starts pivotal relay throw a day after baserunning mishap as Red Sox beat Yankees 6-0</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "298aa9b74a20b7512a33629289fddbed",
+      "summary": [
+        "Update: Ceddanne Rafaela starts pivotal relay throw a day ",
+        "Details: <p>Rafaela made up for his Friday night miscues on",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Wilyer Abreu achieves career-high home run total with blast vs. Yankees",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/29/wilyer-abreu-red-sox-home-run/",
+      "pubDate": "Sat, 29 Aug 2026 21:43:15 +0000",
+      "description": "<p>Abreu clubbed his 23rd homer of the year on Saturday at Yankee Stadium.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/29/wilyer-abreu-red-sox-home-run/\">Wilyer Abreu achieves career-high home run total with blast vs. Yankees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "58ae9e6c21408abaf319e41ef6cdace4",
+      "summary": [
+        "Update: Wilyer Abreu achieves career-high home run total w",
+        "Details: <p>Abreu clubbed his 23rd homer of the year on Sat",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "UNC opens Bill Belichick\u2019s second season with 15-10 win over TCU in Ireland",
+      "link": "https://www.boston.com/sports/college-sports/2026/08/29/bill-belichick-unc-north-carolina/",
+      "pubDate": "Sat, 29 Aug 2026 21:10:18 +0000",
+      "description": "<p>Belichick was 4-8 in his college debut with the Tar Heels last year.</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/08/29/bill-belichick-unc-north-carolina/\">UNC opens Bill Belichick&#8217;s second season with 15-10 win over TCU in Ireland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1398b0e8f59cb30d83f6070f4899576a",
+      "summary": [
+        "Update: UNC opens Bill Belichick\u2019s second season with 15-1",
+        "Details: <p>Belichick was 4-8 in his college debut with the",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-08-29T20:40:14.190831+00:00"
+    "timestamp": "2026-08-29T23:57:32.140280+00:00"
   }
 }
