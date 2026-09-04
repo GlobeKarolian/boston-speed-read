@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-09-04T08:38:50.865151+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-04T14:05:04.044745+00:00",
+  "articles": [
+    {
+      "title": "Here are the Mass. beaches closed going into Labor Day weekend",
+      "link": "https://www.boston.com/news/local-news/2026/09/04/here-are-the-mass-beaches-closed-going-into-labor-day-weekend/",
+      "pubDate": "Fri, 04 Sep 2026 13:45:35 +0000",
+      "description": "<p>About 45 beaches were closed around the Bay State on Friday, according to the state\u2019s water quality dashboard.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/04/here-are-the-mass-beaches-closed-going-into-labor-day-weekend/\">Here are the Mass. beaches closed going into Labor Day weekend</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "46270e89d363d9b1384da362151d3433",
+      "summary": [
+        "Update: Here are the Mass. beaches closed going into Labor",
+        "Details: <p>About 45 beaches were closed around the Bay Sta",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Livestream: Jurors in Lindsay Clancy trial deliberating after judge declines to take further action regarding holdout juror",
+      "link": "https://www.boston.com/news/crime/2026/09/04/lindsay-clancy-trial-verdict-watch-friday-september-4/",
+      "pubDate": "Fri, 04 Sep 2026 12:57:02 +0000",
+      "description": "<p>Kevin Reddington, Lindsay Clancy\u2019s defense attorney, also filed an emergency motion Friday morning asking that all matters in her trial be handled in open court, rather than at private sidebars.  </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/09/04/lindsay-clancy-trial-verdict-watch-friday-september-4/\">Livestream: Jurors in Lindsay Clancy trial deliberating after judge declines to take further action regarding holdout juror</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c2ebe5eff03651a322142b9c73a398ba",
+      "summary": [
+        "Update: Livestream: Jurors in Lindsay Clancy trial deliber",
+        "Details: <p>Kevin Reddington, Lindsay Clancy\u2019s defense atto",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Ask the remodeler: Creative storage ideas for back-to-school season and beyond",
+      "link": "https://www.boston.com/real-estate/home-improvement/2026/09/04/remodel-renovation-storage-soutions/",
+      "pubDate": "Fri, 04 Sep 2026 11:00:00 +0000",
+      "description": "<p>Labor Day weekend is here, and that means switching over to school clothes. Where to put all those clothes that are out of season can be a real struggle. In an urban home, space can be tight, and in older homes, basements can be a challenge. And what about school gear, books, and backpacks? Every [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/09/04/remodel-renovation-storage-soutions/\">Ask the remodeler: Creative storage ideas for back-to-school season and beyond</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "11e6564943eb1d9da4981bb54a7cb64a",
+      "summary": [
+        "Update: Ask the remodeler: Creative storage ideas for back",
+        "Details: <p>Labor Day weekend is here, and that means switc",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "UMass ends its 16-game losing streak with a 37-21 win over Rutgers",
+      "link": "https://www.boston.com/sports/college-sports/2026/09/04/umass-ends-its-16-game-losing-streak-with-a-37-21-win-over-rutgers/",
+      "pubDate": "Fri, 04 Sep 2026 04:28:28 +0000",
+      "description": "<p>It ended the longest current losing streak in the FBS. The Minutemen's last win against an FBS school was against Army in 2023.</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/09/04/umass-ends-its-16-game-losing-streak-with-a-37-21-win-over-rutgers/\">UMass ends its 16-game losing streak with a 37-21 win over Rutgers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "689f9fa83ec46d466861764e1d03326c",
+      "summary": [
+        "Update: UMass ends its 16-game losing streak with a 37-21 ",
+        "Details: <p>It ended the longest current losing streak in t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-09-04T08:38:50.865160+00:00"
+    "timestamp": "2026-09-04T14:05:04.044758+00:00"
   }
 }
