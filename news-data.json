@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-09-05T13:18:23.138781+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-05T16:38:49.428957+00:00",
+  "articles": [
+    {
+      "title": "New Hampshire\u2019s GOP primary features two familiar names from the past, and voters are fine with that",
+      "link": "https://www.boston.com/news/politics/2026/09/05/new-hampshires-gop-primary-features-two-familiar-names-from-the-past-and-voters-are-fine-with-that/",
+      "pubDate": "Sat, 05 Sep 2026 11:22:58 +0000",
+      "description": "<p>New Hampshire\u2019s Republican primary for an open U.S. Senate seat is a blast from the past, featuring two former senators.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/09/05/new-hampshires-gop-primary-features-two-familiar-names-from-the-past-and-voters-are-fine-with-that/\">New Hampshire&#8217;s GOP primary features two familiar names from the past, and voters are fine with that</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c9acafaf107b88df4b857a61ee8fa98",
+      "summary": [
+        "Update: New Hampshire\u2019s GOP primary features two familiar ",
+        "Details: <p>New Hampshire\u2019s Republican primary for an open ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Rhode Island Gov. Dan McKee faces rematch with Helena Foulkes amid turmoil over Washington Bridge",
+      "link": "https://www.boston.com/news/politics/2026/09/05/rhode-island-gov-dan-mckee-faces-rematch-with-helena-foulkes-amid-turmoil-over-washington-bridge/",
+      "pubDate": "Sat, 05 Sep 2026 10:00:15 +0000",
+      "description": "<p>Rhode Island Governor Dan McKee faces a tough primary rematch against Helena Foulkes, a former CVS executive.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/09/05/rhode-island-gov-dan-mckee-faces-rematch-with-helena-foulkes-amid-turmoil-over-washington-bridge/\">Rhode Island Gov. Dan McKee faces rematch with Helena Foulkes amid turmoil over Washington Bridge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a44a598f99ff4922bfad7c16648a2bc6",
+      "summary": [
+        "Update: Rhode Island Gov. Dan McKee faces rematch with Hel",
+        "Details: <p>Rhode Island Governor Dan McKee faces a tough p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-09-05T13:18:23.138789+00:00"
+    "timestamp": "2026-09-05T16:38:49.428969+00:00"
   }
 }
