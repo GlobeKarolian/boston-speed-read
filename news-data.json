@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-09-06T13:28:01.456470+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-06T16:46:17.893678+00:00",
+  "articles": [
+    {
+      "title": "Trump officials draft plan to pay at-home parents, using funds for working ones",
+      "link": "https://www.boston.com/news/politics/2026/09/06/trump-officials-draft-plan-to-pay-at-home-parents-using-funds-for-working-ones/",
+      "pubDate": "Sun, 06 Sep 2026 15:07:23 +0000",
+      "description": "<p>The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.            </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/09/06/trump-officials-draft-plan-to-pay-at-home-parents-using-funds-for-working-ones/\">Trump officials draft plan to pay at-home parents, using funds for working ones</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f7a8bdb41dce50df196794da24d95cc2",
+      "summary": [
+        "Update: Trump officials draft plan to pay at-home parents,",
+        "Details: <p>The proposed benefit, a top policy priority for",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Cape Cod learns to live with sharks",
+      "link": "https://www.boston.com/travel/cape-cod-travel/2026/09/06/cape-cod-learns-to-live-with-sharks/",
+      "pubDate": "Sun, 06 Sep 2026 15:03:35 +0000",
+      "description": "<p>As great white sharks have moved into Massachusetts waters, the Cape has changed to make room for them.            </p>\n<p>The post <a href=\"https://www.boston.com/travel/cape-cod-travel/2026/09/06/cape-cod-learns-to-live-with-sharks/\">Cape Cod learns to live with sharks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4657d5e3cd303f59d04ad04980a9c64b",
+      "summary": [
+        "Update: Cape Cod learns to live with sharks",
+        "Details: <p>As great white sharks have moved into Massachus",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
+      "link": "https://www.boston.com/news/politics/2026/09/06/a-whiplash-election-year-enters-its-final-stretch-as-trump-holds-wild-cards/",
+      "pubDate": "Sun, 06 Sep 2026 11:23:03 +0000",
+      "description": "<p>The political landscape in the U.S. is volatile as the final midterm of President Donald Trump's presidency approaches</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/09/06/a-whiplash-election-year-enters-its-final-stretch-as-trump-holds-wild-cards/\">A whiplash election year enters its final stretch as Trump holds wild cards</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "349aa7408599162f31b02b374e6bec27",
+      "summary": [
+        "Update: A whiplash election year enters its final stretch ",
+        "Details: <p>The political landscape in the U.S. is volatile",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-09-06T13:28:01.456479+00:00"
+    "timestamp": "2026-09-06T16:46:17.893697+00:00"
   }
 }
