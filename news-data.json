@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-09-07T09:06:21.310854+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-07T15:36:41.547962+00:00",
+  "articles": [
+    {
+      "title": "Lindsay Clancy faces years of confinement, no matter what comes next",
+      "link": "https://www.boston.com/news/crime/2026/09/07/what-happens-to-lindsay-clancy/",
+      "pubDate": "Mon, 07 Sep 2026 13:09:38 +0000",
+      "description": "<p>Even as a jury failed to reach a verdict in Lindsay Clancy\u2019s murder trial, her future is unlikely to include freedom, at least for a long time. But Americans have been divided over the goal of her confinement.            </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/09/07/what-happens-to-lindsay-clancy/\">Lindsay Clancy faces years of confinement, no matter what comes next</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "44075ac7ce63f994c596c316bf6bd307",
+      "summary": [
+        "Update: Lindsay Clancy faces years of confinement, no matt",
+        "Details: <p>Even as a jury failed to reach a verdict in Lin",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A Big Dig titan planted his family in North Reading. Their estate is for sale.",
+      "link": "https://www.boston.com/real-estate/local-news/2026/09/07/les-marino-north-reading-estate-for-sale/",
+      "pubDate": "Mon, 07 Sep 2026 11:00:00 +0000",
+      "description": "<p>The daughter of Les Marino, founder of Modern Continental, is selling her longtime family home.  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/local-news/2026/09/07/les-marino-north-reading-estate-for-sale/\">A Big Dig titan planted his family in North Reading. Their estate is for sale.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "e3c6183f79e781a32edd6684cab1b07c",
+      "summary": [
+        "Update: A Big Dig titan planted his family in North Readin",
+        "Details: <p>The daughter of Les Marino, founder of Modern C",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-09-07T09:06:21.310862+00:00"
+    "timestamp": "2026-09-07T15:36:41.547983+00:00"
   }
 }
