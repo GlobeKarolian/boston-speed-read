@@ -1,9 +1,75 @@
 {
-  "lastUpdated": "2026-09-09T08:49:27.078440+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-09T14:15:07.985790+00:00",
+  "articles": [
+    {
+      "title": "Emergency workers help tranquilized bear down from a tree in NH",
+      "link": "https://www.boston.com/news/off-beat/2026/09/09/emergency-workers-help-tranquilized-bear-down-from-a-tree-in-nh/",
+      "pubDate": "Wed, 09 Sep 2026 14:08:28 +0000",
+      "description": "<p>Animal control officers responded to find an estimated 1-year-old, 100-pound bear in the tree, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/off-beat/2026/09/09/emergency-workers-help-tranquilized-bear-down-from-a-tree-in-nh/\">Emergency workers help tranquilized bear down from a tree in NH</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "df089cd7678bc753ea3e1179316abb03",
+      "summary": [
+        "Update: Emergency workers help tranquilized bear down from",
+        "Details: <p>Animal control officers responded to find an es",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "5 things to know about Patriots running back Corey Kiner",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/09/09/5-things-to-know-about-patriots-running-back-corey-kiner/",
+      "pubDate": "Wed, 09 Sep 2026 13:03:50 +0000",
+      "description": "<p>Former Patriots running back Kevin Faulk recruited Kiner to LSU. Now, the Ohio native is getting a chance to prove himself in Foxborough. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/09/09/5-things-to-know-about-patriots-running-back-corey-kiner/\">5 things to know about Patriots running back Corey Kiner</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "133ac871baf4af7585511a2ea435c572",
+      "summary": [
+        "Update: 5 things to know about Patriots running back Corey",
+        "Details: <p>Former Patriots running back Kevin Faulk recrui",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Home of the Week: In Marblehead, a charming 3-bedroom antique for $759k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/09/09/marblehead-antique-house-for-sale/",
+      "pubDate": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "description": "<p>Framed by New England classics \u2014 broadleaf and yellow cap hydrangeas \u2014 sits this New England antique, circa 1850 </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/09/09/marblehead-antique-house-for-sale/\">Home of the Week: In Marblehead, a charming 3-bedroom antique for $759k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "9965e03508dde884a7049a1c1a17c563",
+      "summary": [
+        "Update: Home of the Week: In Marblehead, a charming 3-bedr",
+        "Details: <p>Framed by New England classics \u2014 broadleaf and ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Recent homes sales in Greater Boston (Sept. 9)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/09/09/recent-homes-sales-in-greater-boston-sept-9/",
+      "pubDate": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "description": "<p>ABINGTON 26 Crabtree Lane. One-family Colonial, built in 1999, 2,160 square feet, 6 rooms, 3 bedrooms, 2 baths, on 20,019-square-foot lot. $1,030,000 1907 Thayer St. #1907 Condo/Apt, built in 2000, 1,318 square feet, 5 rooms, 2 bedrooms, 2 baths. $503,000 ACTON 39 Adams St. One-family contemporary, built in 2004, 3,095 square feet, 8 rooms, 3 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/09/09/recent-homes-sales-in-greater-boston-sept-9/\">Recent homes sales in Greater Boston (Sept. 9)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "eaa8440031c75581005fc396d6f82d8e",
+      "summary": [
+        "Update: Recent homes sales in Greater Boston (Sept. 9)",
+        "Details: <p>ABINGTON 26 Crabtree Lane. One-family Colonial,",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Jurors in the Lindsay Clancy trial are starting to break their silence. Here\u2019s what they\u2019re saying.",
+      "link": "https://www.boston.com/news/crime/2026/09/08/lindsay-clancy-trial-jurors/",
+      "pubDate": "Wed, 09 Sep 2026 01:13:45 +0000",
+      "description": "<p>\"He admitted he had reasonable doubt. I started filling out the forms, I was so excited.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/09/08/lindsay-clancy-trial-jurors/\">Jurors in the Lindsay Clancy trial are starting to break their silence. Here&#8217;s what they&#8217;re saying.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "58e823d4cc40c9ee855c3e9b8de5a1a6",
+      "summary": [
+        "Update: Jurors in the Lindsay Clancy trial are starting to",
+        "Details: <p>\"He admitted he had reasonable doubt. I started",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 5,
     "feedSize": 10,
-    "timestamp": "2026-09-09T08:49:27.078449+00:00"
+    "timestamp": "2026-09-09T14:15:07.985807+00:00"
   }
 }
