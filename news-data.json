@@ -1,49 +1,36 @@
 {
-  "lastUpdated": "2026-09-13T14:11:22.301202+00:00",
+  "lastUpdated": "2026-09-13T18:37:39.489246+00:00",
   "articles": [
     {
-      "title": "Wis. congressman swims to safety after plane makes emergency landing in a lake",
-      "link": "https://www.boston.com/news/national-news/2026/09/13/wis-congressman-swims-to-safety-after-plane-makes-emergency-landing-in-a-lake/",
-      "pubDate": "Sun, 13 Sep 2026 13:49:05 +0000",
-      "description": "<p>Emergency responders got both Tiffany and the pilot to a nearby hospital, where they were treated for minor injuries.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/09/13/wis-congressman-swims-to-safety-after-plane-makes-emergency-landing-in-a-lake/\">Wis. congressman swims to safety after plane makes emergency landing in a lake</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "a98e48161dd36c7b683ee8abb7234d4b",
+      "title": "These 3 Mass. colleges have the \u2018highest payoff,\u2019 according to Forbes",
+      "link": "https://www.boston.com/news/education/2026/09/13/these-3-mass-colleges-have-the-highest-payoff-according-to-forbes/",
+      "pubDate": "Sun, 13 Sep 2026 15:20:41 +0000",
+      "description": "<p>All three colleges on the list also ranked within the top 20 on Forbes\u2019 overall list of the 500 top colleges nationwide.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2026/09/13/these-3-mass-colleges-have-the-highest-payoff-according-to-forbes/\">These 3 Mass. colleges have the &#8216;highest payoff,&#8217; according to Forbes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "99914bd91ca16c8f37995b2bb25ef42a",
       "summary": [
-        "Update: Wis. congressman swims to safety after plane makes",
-        "Details: <p>Emergency responders got both Tiffany and the p",
+        "Update: These 3 Mass. colleges have the \u2018highest payoff,\u2019 ",
+        "Details: <p>All three colleges on the list also ranked with",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     },
     {
-      "title": "Brazil is in fashion, as Brazilians like to say. Here\u2019s why.",
-      "link": "https://www.boston.com/culture/entertainment/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/",
-      "pubDate": "Sun, 13 Sep 2026 12:44:50 +0000",
-      "description": "<p>Many trace the current popularity of the phase to 2023, when Brazilcore, a fashion trend featuring the colors of the Brazilian flag and inspired by Brazilian culture, gained widespread global traction.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/\">Brazil is in fashion, as Brazilians like to say. Here&rsquo;s why.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b0f6bbecc7347b3212abcc4607a1ee2e",
+      "title": "BMC nurses vote to authorize three-day strike over wages, staffing",
+      "link": "https://www.boston.com/news/health/2026/09/13/boston-medical-center-nurses-strike/",
+      "pubDate": "Sun, 13 Sep 2026 14:40:36 +0000",
+      "description": "<p>The decision to authorize the strike received overwhelming support, with more than 90 percent of nurses in the union voting in favor.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2026/09/13/boston-medical-center-nurses-strike/\">BMC nurses vote to authorize three-day strike over wages, staffing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b830be775ad294d938c49a76afdaea66",
       "summary": [
-        "Update: Brazil is in fashion, as Brazilians like to say. H",
-        "Details: <p>Many trace the current popularity of the phase ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Pope commemorates 9/11 attacks with prayers for peace and those who died",
-      "link": "https://www.boston.com/news/world-news/2026/09/13/pope-commemorates-9-11-attacks-with-prayers-for-peace-and-those-who-died/",
-      "pubDate": "Sun, 13 Sep 2026 11:59:44 +0000",
-      "description": "<p>\u201cAt a time when conflict and violence afflict so many of our brothers and sisters, I invite everyone to pray that the Lord will bestow his gift of peace upon the world.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/09/13/pope-commemorates-9-11-attacks-with-prayers-for-peace-and-those-who-died/\">Pope commemorates 9/11 attacks with prayers for peace and those who died</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "1cceeee510aedfb85d1a1dcfa4d99875",
-      "summary": [
-        "Update: Pope commemorates 9/11 attacks with prayers for pe",
-        "Details: <p>\u201cAt a time when conflict and violence afflict s",
+        "Update: BMC nurses vote to authorize three-day strike over",
+        "Details: <p>The decision to authorize the strike received o",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 3,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-09-13T14:11:22.301213+00:00"
+    "timestamp": "2026-09-13T18:37:39.489267+00:00"
   }
 }
