@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-09-13T09:25:21.475900+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-13T14:11:22.301202+00:00",
+  "articles": [
+    {
+      "title": "Wis. congressman swims to safety after plane makes emergency landing in a lake",
+      "link": "https://www.boston.com/news/national-news/2026/09/13/wis-congressman-swims-to-safety-after-plane-makes-emergency-landing-in-a-lake/",
+      "pubDate": "Sun, 13 Sep 2026 13:49:05 +0000",
+      "description": "<p>Emergency responders got both Tiffany and the pilot to a nearby hospital, where they were treated for minor injuries.</p>\n<p>The post <a href=\"https://www.boston.com/news/national-news/2026/09/13/wis-congressman-swims-to-safety-after-plane-makes-emergency-landing-in-a-lake/\">Wis. congressman swims to safety after plane makes emergency landing in a lake</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a98e48161dd36c7b683ee8abb7234d4b",
+      "summary": [
+        "Update: Wis. congressman swims to safety after plane makes",
+        "Details: <p>Emergency responders got both Tiffany and the p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Brazil is in fashion, as Brazilians like to say. Here\u2019s why.",
+      "link": "https://www.boston.com/culture/entertainment/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/",
+      "pubDate": "Sun, 13 Sep 2026 12:44:50 +0000",
+      "description": "<p>Many trace the current popularity of the phase to 2023, when Brazilcore, a fashion trend featuring the colors of the Brazilian flag and inspired by Brazilian culture, gained widespread global traction.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/09/13/brazil-is-in-fashion-as-brazilians-like-to-say-heres-why/\">Brazil is in fashion, as Brazilians like to say. Here&rsquo;s why.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b0f6bbecc7347b3212abcc4607a1ee2e",
+      "summary": [
+        "Update: Brazil is in fashion, as Brazilians like to say. H",
+        "Details: <p>Many trace the current popularity of the phase ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Pope commemorates 9/11 attacks with prayers for peace and those who died",
+      "link": "https://www.boston.com/news/world-news/2026/09/13/pope-commemorates-9-11-attacks-with-prayers-for-peace-and-those-who-died/",
+      "pubDate": "Sun, 13 Sep 2026 11:59:44 +0000",
+      "description": "<p>\u201cAt a time when conflict and violence afflict so many of our brothers and sisters, I invite everyone to pray that the Lord will bestow his gift of peace upon the world.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/09/13/pope-commemorates-9-11-attacks-with-prayers-for-peace-and-those-who-died/\">Pope commemorates 9/11 attacks with prayers for peace and those who died</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "1cceeee510aedfb85d1a1dcfa4d99875",
+      "summary": [
+        "Update: Pope commemorates 9/11 attacks with prayers for pe",
+        "Details: <p>\u201cAt a time when conflict and violence afflict s",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-09-13T09:25:21.475909+00:00"
+    "timestamp": "2026-09-13T14:11:22.301213+00:00"
   }
 }
