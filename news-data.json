@@ -1,114 +1,23 @@
 {
-  "lastUpdated": "2026-09-15T04:04:52.210231+00:00",
+  "lastUpdated": "2026-09-15T11:22:50.774665+00:00",
   "articles": [
     {
-      "title": "Burlington Police lieutenant charged with assaulting family member",
-      "link": "https://www.boston.com/news/crime/2026/09/14/burlington-police-lieutenant-domestic-assault/",
-      "pubDate": "Tue, 15 Sep 2026 03:53:04 +0000",
-      "description": "<p>Lieutenant Peter Abaskharoun was placed on paid administrative leave</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/09/14/burlington-police-lieutenant-domestic-assault/\">Burlington Police lieutenant charged with assaulting family member</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b8fd2d9762a164eb786e4705940f003c",
+      "title": "Near Harvard Square, a sunny 2-bedroom condo is a garden oasis for $900k",
+      "link": "https://www.boston.com/real-estate/home-of-the-week/2026/09/15/cambridge-condo-harvard-square/",
+      "pubDate": "Tue, 15 Sep 2026 11:00:00 +0000",
+      "description": "<p>The Cambridge unit has a private deck and a shared, landscaped backyard  </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-of-the-week/2026/09/15/cambridge-condo-harvard-square/\">Near Harvard Square, a sunny 2-bedroom condo is a garden oasis for $900k</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "7ba0b0ffefee0e094def5b270bb10ddf",
       "summary": [
-        "Update: Burlington Police lieutenant charged with assaulti",
-        "Details: <p>Lieutenant Peter Abaskharoun was placed on paid",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Charlie McAvoy says there\u2019s no \u2018friction\u2019 with David Pastrnak over Bruins captaincy",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/09/14/david-pastrnak-charlie-mcavoy-boston-bruins-captain-nhl-hockey/",
-      "pubDate": "Tue, 15 Sep 2026 02:28:46 +0000",
-      "description": "<p>\"Whatever happens, it\u2019s out of my hands, but I don\u2019t think there would be any friction. \u2026 We lean on everybody.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/09/14/david-pastrnak-charlie-mcavoy-boston-bruins-captain-nhl-hockey/\">Charlie McAvoy says there\u2019s no \u2018friction\u2019 with David Pastrnak over Bruins captaincy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "030ab8eaffa28d27bdbc966d4c9df81b",
-      "summary": [
-        "Update: Charlie McAvoy says there\u2019s no \u2018friction\u2019 with Dav",
-        "Details: <p>\"Whatever happens, it\u2019s out of my hands, but I ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Drake Maye shares message after rough play in Seattle: \u2018We\u2019re on to Pittsburgh\u2019",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/09/14/drake-maye-new-england-patriots-nfl-football-weei-seattle-pittsburgh/",
-      "pubDate": "Tue, 15 Sep 2026 02:06:10 +0000",
-      "description": "<p>\"I've got to be better, and I will be better going forward.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/09/14/drake-maye-new-england-patriots-nfl-football-weei-seattle-pittsburgh/\">Drake Maye shares message after rough play in Seattle: \u2018We\u2019re on to Pittsburgh\u2019</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "6e4e5dbd0856a502dfd1d3a83f1eee26",
-      "summary": [
-        "Update: Drake Maye shares message after rough play in Seat",
-        "Details: <p>\"I've got to be better, and I will be better go",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
-      "link": "https://www.boston.com/news/politics/2026/09/14/supreme-court-rejects-trump-mail-ballots-restrictions-ahead-of-midterms/",
-      "pubDate": "Tue, 15 Sep 2026 01:11:20 +0000",
-      "description": "<p>The decision allows states to continue sending out mail ballots under the same processes they\u2019ve used for years and have accounted for nearly a third of votes cast.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/09/14/supreme-court-rejects-trump-mail-ballots-restrictions-ahead-of-midterms/\">Supreme Court rejects Trump mail ballot restrictions ahead of midterms</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b1aa87717b4cbe1dc4c7e0a267cd5163",
-      "summary": [
-        "Update: Supreme Court rejects Trump mail ballot restrictio",
-        "Details: <p>The decision allows states to continue sending ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Celtics reportedly sign former Providence College standout to tryout contract",
-      "link": "https://www.boston.com/sports/boston-celtics/2026/09/14/celtics-reportedly-sign-former-providence-college-standout-to-tryout-contract/",
-      "pubDate": "Tue, 15 Sep 2026 00:55:41 +0000",
-      "description": "<p>Devin Carter is a former Big East Player of the Year during his time at Providence College. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/09/14/celtics-reportedly-sign-former-providence-college-standout-to-tryout-contract/\">Celtics reportedly sign former Providence College standout to tryout contract</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "e4e236f7e6f63e0588cabc09f3a419d6",
-      "summary": [
-        "Update: Celtics reportedly sign former Providence College ",
-        "Details: <p>Devin Carter is a former Big East Player of the",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Fatal Christmas Eve fire in Needham ruled an accident, fire officials say",
-      "link": "https://www.boston.com/news/local-news/2026/09/14/needham-christmas-eve-fire-kayla-corrigan/",
-      "pubDate": "Tue, 15 Sep 2026 00:26:16 +0000",
-      "description": "<p>The fire killed 21-year-old Kayla Renee Corrigan </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/14/needham-christmas-eve-fire-kayla-corrigan/\">Fatal Christmas Eve fire in Needham ruled an accident, fire officials say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "5a904e854fad7999c2448c295f5d1ce3",
-      "summary": [
-        "Update: Fatal Christmas Eve fire in Needham ruled an accid",
-        "Details: <p>The fire killed 21-year-old Kayla Renee Corriga",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Patriots get good news on TreVeyon Henderson\u2019s health after Week 1",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/09/14/new-england-patriots-treveyon-henderson-practice-nfl-football/",
-      "pubDate": "Mon, 14 Sep 2026 23:45:14 +0000",
-      "description": "<p>New England averaged just 3.5 yards per carry last week in its loss to Seattle. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/09/14/new-england-patriots-treveyon-henderson-practice-nfl-football/\">Patriots get good news on TreVeyon Henderson\u2019s health after Week 1</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "b6dc89703aaadc1dbad86c26492f79d9",
-      "summary": [
-        "Update: Patriots get good news on TreVeyon Henderson\u2019s hea",
-        "Details: <p>New England averaged just 3.5 yards per carry l",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Macklemore blames Robert Kraft after being dropped from Ed Sheeran tour over pro-Palestinian remarks",
-      "link": "https://www.boston.com/news/local-news/2026/09/14/macklemore-blames-robert-kraft-after-being-dropped-from-ed-sheeran-tour-over-pro-palestinian-remarks/",
-      "pubDate": "Mon, 14 Sep 2026 23:24:07 +0000",
-      "description": "<p>Macklemore said that last week, as controversy spread over his statements, Sheeran told him that Kraft had said Macklemore \u201cwould not be able to perform in his stadium.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/14/macklemore-blames-robert-kraft-after-being-dropped-from-ed-sheeran-tour-over-pro-palestinian-remarks/\">Macklemore blames Robert Kraft after being dropped from Ed Sheeran tour over pro-Palestinian remarks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "9ecff59ceb5260d8adc127e410c28b2e",
-      "summary": [
-        "Update: Macklemore blames Robert Kraft after being dropped",
-        "Details: <p>Macklemore said that last week, as controversy ",
+        "Update: Near Harvard Square, a sunny 2-bedroom condo is a ",
+        "Details: <p>The Cambridge unit has a private deck and a sha",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 8,
+    "totalProcessed": 1,
     "feedSize": 10,
-    "timestamp": "2026-09-15T04:04:52.210254+00:00"
+    "timestamp": "2026-09-15T11:22:50.774684+00:00"
   }
 }
