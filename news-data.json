@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-09-19T18:29:28.124022+00:00",
-  "articles": [],
+  "lastUpdated": "2026-09-19T22:14:18.564840+00:00",
+  "articles": [
+    {
+      "title": "Patriots CB Carlton Davis ruled out of home opener vs. Steelers",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/09/19/nfl-patriots-injury-update-carlton-davis-out/",
+      "pubDate": "Sat, 19 Sep 2026 22:08:20 +0000",
+      "description": "<p>Davis was listed as questionable on Friday with a neck injury, and downgraded on Saturday. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/09/19/nfl-patriots-injury-update-carlton-davis-out/\">Patriots CB Carlton Davis ruled out of home opener vs. Steelers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "b28976d6d647d78b3f5717743fce385c",
+      "summary": [
+        "Update: Patriots CB Carlton Davis ruled out of home opener",
+        "Details: <p>Davis was listed as questionable on Friday with",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "\u201cWhat Chaos!\u201d podcast\u2019s move to The Ringer network a well deserved reward for Bay State pair",
+      "link": "https://www.boston.com/sports/media/2026/09/19/what-chaos-podcast-the-ringer/",
+      "pubDate": "Sat, 19 Sep 2026 21:36:48 +0000",
+      "description": "<p>\u201cWhat Chaos!\u201d will be The Ringer\u2019s first NHL-focused podcast.</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/09/19/what-chaos-podcast-the-ringer/\">\u201cWhat Chaos!\u201d podcast\u2019s move to The Ringer network a well deserved reward for Bay State pair</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "45a916581ee26baa4104f50c83858e13",
+      "summary": [
+        "Update: \u201cWhat Chaos!\u201d podcast\u2019s move to The Ringer network",
+        "Details: <p>\u201cWhat Chaos!\u201d will be The Ringer\u2019s first NHL-fo",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Rain \u2018increasingly likely\u2019 during Patriots-Steelers game Sunday",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/09/19/patriots-steelers-rain-weather-forecast/",
+      "pubDate": "Sat, 19 Sep 2026 21:33:33 +0000",
+      "description": "<p>\u201cRain is looking increasingly likely tomorrow, especially in the afternoon.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/09/19/patriots-steelers-rain-weather-forecast/\">Rain \u2018increasingly likely\u2019 during Patriots-Steelers game Sunday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "4776ec19be81cf1c2aa5832bf89420de",
+      "summary": [
+        "Update: Rain \u2018increasingly likely\u2019 during Patriots-Steeler",
+        "Details: <p>\u201cRain is looking increasingly likely tomorrow, ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Holy Cross mourns the death of Amanda Mack, a junior volleyball recruit",
+      "link": "https://www.boston.com/news/local-news/2026/09/19/holy-cross-mourns-the-death-of-amanda-mack-a-junior-volleyball-recruit/",
+      "pubDate": "Sat, 19 Sep 2026 20:09:27 +0000",
+      "description": "<p>\u201cForever loved. Forever missed. Forever held in our hearts.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/19/holy-cross-mourns-the-death-of-amanda-mack-a-junior-volleyball-recruit/\">Holy Cross mourns the death of Amanda Mack, a junior volleyball recruit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "fcac1d7508ed1cf96a72a296a57cf3df",
+      "summary": [
+        "Update: Holy Cross mourns the death of Amanda Mack, a juni",
+        "Details: <p>\u201cForever loved. Forever missed. Forever held in",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-09-19T18:29:28.124034+00:00"
+    "timestamp": "2026-09-19T22:14:18.564860+00:00"
   }
 }
