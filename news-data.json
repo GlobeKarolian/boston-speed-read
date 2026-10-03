@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-10-03T19:09:29.973241+00:00",
-  "articles": [],
+  "lastUpdated": "2026-10-03T22:45:31.781134+00:00",
+  "articles": [
+    {
+      "title": "Patriots elevate two DBs from practice squad ahead of AFC East clash with Bills",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/10/03/nfl-patriots-injury-update-practice-squad-elevations/",
+      "pubDate": "Sat, 03 Oct 2026 22:39:20 +0000",
+      "description": "<p>Mike Brown and Kindle Vildor will be available on Sunday if New England elects to use them.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/10/03/nfl-patriots-injury-update-practice-squad-elevations/\">Patriots elevate two DBs from practice squad ahead of AFC East clash with Bills</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8033798c07642e6feffe1f1cef82c996",
+      "summary": [
+        "Update: Patriots elevate two DBs from practice squad ahead",
+        "Details: <p>Mike Brown and Kindle Vildor will be available ",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Even before his arrest, Tony Romo\u2019s charm had waned at CBS. So it\u2019s no surprise he is not returning.",
+      "link": "https://www.boston.com/sports/media/2026/10/03/tony-romo-cbs-nfl/",
+      "pubDate": "Sat, 03 Oct 2026 21:45:03 +0000",
+      "description": "<p>\"Had CBS truly wanted him back, he would be.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/media/2026/10/03/tony-romo-cbs-nfl/\">Even before his arrest, Tony Romo\u2019s charm had waned at CBS. So it\u2019s no surprise he is not returning.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3317e686bd221de3228d5556185ec10f",
+      "summary": [
+        "Update: Even before his arrest, Tony Romo\u2019s charm had wane",
+        "Details: <p>\"Had CBS truly wanted him back, he would be.\"</",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Patriots WR Mack Hollins fined nearly $35K for pair of Week 3 penalties",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/10/03/mack-hollins-patriots-taunting-fine/",
+      "pubDate": "Sat, 03 Oct 2026 21:25:44 +0000",
+      "description": "<p>Hollins was called for taunting when New England was down by 25 points in the fourth quarter.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/10/03/mack-hollins-patriots-taunting-fine/\">Patriots WR Mack Hollins fined nearly $35K for pair of Week 3 penalties</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "5a7f967531e4ed86b05d28251726cb56",
+      "summary": [
+        "Update: Patriots WR Mack Hollins fined nearly $35K for pai",
+        "Details: <p>Hollins was called for taunting when New Englan",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-10-03T19:09:29.973253+00:00"
+    "timestamp": "2026-10-03T22:45:31.781155+00:00"
   }
 }
