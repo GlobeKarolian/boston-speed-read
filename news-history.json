@@ -1,6 +1,71 @@
 {
-  "lastUpdated": "2026-10-02T23:37:19.454288+00:00",
+  "lastUpdated": "2026-10-03T04:30:55.723397+00:00",
   "articles": [
+    {
+      "title": "JJ Peterka scores in OT to lift the Bruins past the Jets, 4-3",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/10/02/jj-peterka-scores-in-ot-to-lift-the-bruins-past-the-jets-4-3/",
+      "pubDate": "Sat, 03 Oct 2026 03:58:30 +0000",
+      "description": "<p>James Hagens also scored his first NHL goal.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/10/02/jj-peterka-scores-in-ot-to-lift-the-bruins-past-the-jets-4-3/\">JJ Peterka scores in OT to lift the Bruins past the Jets, 4-3</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f6a07c05afb299a100d7b4799194ac84",
+      "summary": [
+        "Update: JJ Peterka scores in OT to lift the Bruins past th",
+        "Details: <p>James Hagens also scored his first NHL goal.</p",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox leadership issues were \u2018masked\u2019 during winning streaks, Anthony Rizzo says",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-anthony-rizzo-david-ross/",
+      "pubDate": "Sat, 03 Oct 2026 03:30:55 +0000",
+      "description": "<p>\u201cI just feel like there\u2019s so much kind of [expletive] that happened in Boston this year.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-anthony-rizzo-david-ross/\">Red Sox leadership issues were \u2018masked\u2019 during winning streaks, Anthony Rizzo says</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "44c64a015a244b2eb45a481d9b940893",
+      "summary": [
+        "Update: Red Sox leadership issues were \u2018masked\u2019 during win",
+        "Details: <p>\u201cI just feel like there\u2019s so much kind of [expl",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Red Sox DH Mickey Gasper undergoes surgery to repair torn bicep",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-mickey-gasper-undergoes-surgery-to-repair-torn-bicep/",
+      "pubDate": "Sat, 03 Oct 2026 03:00:50 +0000",
+      "description": "<p>Gasper got the procedure done shortly after Boston was eliminated from the playoffs.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-mickey-gasper-undergoes-surgery-to-repair-torn-bicep/\">Red Sox DH Mickey Gasper undergoes surgery to repair torn bicep</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "0c0552f88ba94d321f4f1e9d6b5c2e17",
+      "summary": [
+        "Update: Red Sox DH Mickey Gasper undergoes surgery to repa",
+        "Details: <p>Gasper got the procedure done shortly after Bos",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Players felt Red Sox \u2018disrespected\u2019 Sonny Gray with early hook, per report",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-sonny-gray-game-2-report/",
+      "pubDate": "Fri, 02 Oct 2026 23:55:36 +0000",
+      "description": "<p>\u201cNot only had their season ended, but many in the room believed Gray had been disrespected.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-sonny-gray-game-2-report/\">Players felt Red Sox &#8216;disrespected&#8217; Sonny Gray with early hook, per report</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3ec8c4f130840f4114d44c8e26bf93c6",
+      "summary": [
+        "Update: Players felt Red Sox \u2018disrespected\u2019 Sonny Gray wit",
+        "Details: <p>\u201cNot only had their season ended, but many in t",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Crews to repair damage from water main break near South Station",
+      "link": "https://www.boston.com/news/local-news/2026/10/02/crews-to-repair-damage-from-water-main-break-near-south-station/",
+      "pubDate": "Fri, 02 Oct 2026 23:38:33 +0000",
+      "description": "<p>Thousands of gallons of water rushed into the roadways early Friday, requiring repairs that will continue into Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/10/02/crews-to-repair-damage-from-water-main-break-near-south-station/\">Crews to repair damage from water main break near South Station</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "c2da7dbf299f03f066b8684e0b9a33ac",
+      "summary": [
+        "Update: Crews to repair damage from water main break near ",
+        "Details: <p>Thousands of gallons of water rushed into the r",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
     {
       "title": "5 must-watch movies & TV shows streaming right now",
       "link": "https://www.boston.com/culture/streaming/2026/10/02/5-must-watch-movies-tv-shows-streaming-right-now-october-2-2026/",
@@ -582,71 +647,6 @@
       "summary": [
         "Update: Red Sox pitcher Sonny Gray was not happy with Chad",
         "Details: <p>\"I would have liked [for Tracy] to live or die ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "\u2018Don\u2019t call it a basement\u2019: For $700k, a Brookline Victorian\u2019s lower level became a $4,500-a-month rental unit",
-      "link": "https://www.boston.com/real-estate/home-improvement/2026/10/01/brookline-victorian-basement-remodel/",
-      "pubDate": "Thu, 01 Oct 2026 11:00:00 +0000",
-      "description": "<p>Basement renovations carry a special advantage. They allow historical homes to be preserved while also expanding the housing supply. </p>\n<p>The post <a href=\"https://www.boston.com/real-estate/home-improvement/2026/10/01/brookline-victorian-basement-remodel/\">\u2018Don\u2019t call it a basement\u2019: For $700k, a Brookline Victorian\u2019s lower level became a $4,500-a-month rental unit</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "423f64d728e24c60b1047d002a31f8e1",
-      "summary": [
-        "Update: \u2018Don\u2019t call it a basement\u2019: For $700k, a Brookline",
-        "Details: <p>Basement renovations carry a special advantage.",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Nearly 950 children victimized by Catholic clergy in dioceses across the state, AG report finds",
-      "link": "https://www.boston.com/news/local-news/2026/09/30/attorney-general-catholic-church-sex-abuse/",
-      "pubDate": "Thu, 01 Oct 2026 03:58:11 +0000",
-      "description": "<p>Attorney General Andrea Campbell is calling for an end to statute of limitations for civil child sex abuse claims.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/30/attorney-general-catholic-church-sex-abuse/\">Nearly 950 children victimized by Catholic clergy in dioceses across the state, AG report finds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "380c693cb52e02c3432eeacd353e42c1",
-      "summary": [
-        "Update: Nearly 950 children victimized by Catholic clergy ",
-        "Details: <p>Attorney General Andrea Campbell is calling for",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "5 takeaways as Red Sox fall flat in season-ending loss to Yankees",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/09/30/red-sox-yankees-takeaways-wild-card-series-sonny-gray-max-fried/",
-      "pubDate": "Thu, 01 Oct 2026 03:30:28 +0000",
-      "description": "<p>New York outscored Boston, 18-2, in the series and left no doubt.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/09/30/red-sox-yankees-takeaways-wild-card-series-sonny-gray-max-fried/\">5 takeaways as Red Sox fall flat in season-ending loss to Yankees</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "65e9d0e425713e9c83f68ba12f7846e4",
-      "summary": [
-        "Update: 5 takeaways as Red Sox fall flat in season-ending ",
-        "Details: <p>New York outscored Boston, 18-2, in the series ",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "The Bruins are reportedly looking to trade one of their defensemen",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/09/30/boston-bruins-nhl-hockey-trade-rumors-henri-jokiharju-defenseman/",
-      "pubDate": "Thu, 01 Oct 2026 02:44:52 +0000",
-      "description": "<p>Henri Jokiharju only appeared in 41 out of possible 82 games last season. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/09/30/boston-bruins-nhl-hockey-trade-rumors-henri-jokiharju-defenseman/\">The Bruins are reportedly looking to trade one of their defensemen</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "62036101b0835242357f0c0f705af32d",
-      "summary": [
-        "Update: The Bruins are reportedly looking to trade one of ",
-        "Details: <p>Henri Jokiharju only appeared in 41 out of poss",
-        "Visit Boston.com for complete coverage"
-      ],
-      "hookType": "NEWS_UPDATE"
-    },
-    {
-      "title": "Woman hit by bicycle near BU still critical, but expected to live, authorities say",
-      "link": "https://www.boston.com/news/local-news/2026/09/30/woman-hit-by-bicycle-near-bu-still-critical-but-expected-to-live/",
-      "pubDate": "Thu, 01 Oct 2026 01:58:28 +0000",
-      "description": "<p>The cyclist sustained non-life threatening injuries.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/30/woman-hit-by-bicycle-near-bu-still-critical-but-expected-to-live/\">Woman hit by bicycle near BU still critical, but expected to live, authorities say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "fc4f191dbf628d224645519f7862b4b5",
-      "summary": [
-        "Update: Woman hit by bicycle near BU still critical, but e",
-        "Details: <p>The cyclist sustained non-life threatening inju",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
