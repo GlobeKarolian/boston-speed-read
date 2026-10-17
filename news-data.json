@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-10-17T20:19:10.663137+00:00",
-  "articles": [],
+  "lastUpdated": "2026-10-17T23:51:20.641728+00:00",
+  "articles": [
+    {
+      "title": "Brian Scalabrine will be \u2018On the Bench\u2019 with the Celtics for the season opener \u2014 as an NBC analyst",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/10/17/brian-scalabrine-nbc-broadcast-celtics-season-opener/",
+      "pubDate": "Sat, 17 Oct 2026 23:31:15 +0000",
+      "description": "<p>Scalabrine has an increasing national profile.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/10/17/brian-scalabrine-nbc-broadcast-celtics-season-opener/\">Brian Scalabrine will be \u2018On the Bench\u2019 with the Celtics for the season opener \u2014 as an NBC analyst</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "09b37e5bc4aebd670e8e3a3a61ee537b",
+      "summary": [
+        "Update: Brian Scalabrine will be \u2018On the Bench\u2019 with the C",
+        "Details: <p>Scalabrine has an increasing national profile.<",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Boston College hangs on to beat Pittsburgh for first ACC win of the season",
+      "link": "https://www.boston.com/sports/college-sports/2026/10/17/boston-college-pittsburgh-acc-football-score/",
+      "pubDate": "Sat, 17 Oct 2026 23:20:16 +0000",
+      "description": "<p>BC got huge contributions from quarterback Mason McKenzie, who completed 17 of 28 for 295 yards.</p>\n<p>The post <a href=\"https://www.boston.com/sports/college-sports/2026/10/17/boston-college-pittsburgh-acc-football-score/\">Boston College hangs on to beat Pittsburgh for first ACC win of the season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "826456610a7c90ce464a708ed6968d87",
+      "summary": [
+        "Update: Boston College hangs on to beat Pittsburgh for fir",
+        "Details: <p>BC got huge contributions from quarterback Maso",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Celtics reportedly converting this former Providence College standout to two-way contract",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/10/17/celtics-devin-carter-two-way-contract-report/",
+      "pubDate": "Sat, 17 Oct 2026 22:56:34 +0000",
+      "description": "<p>Devin Carter played in just one preseason game, but Boston liked what it saw.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/10/17/celtics-devin-carter-two-way-contract-report/\">Celtics reportedly converting this former Providence College standout to two-way contract</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "8dab11552d0639486c5f1f38deb594e7",
+      "summary": [
+        "Update: Celtics reportedly converting this former Providen",
+        "Details: <p>Devin Carter played in just one preseason game,",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-10-17T20:19:10.663149+00:00"
+    "timestamp": "2026-10-17T23:51:20.641748+00:00"
   }
 }
