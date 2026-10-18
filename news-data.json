@@ -1,23 +1,49 @@
 {
-  "lastUpdated": "2026-10-18T17:09:16.723190+00:00",
+  "lastUpdated": "2026-10-18T20:18:52.932192+00:00",
   "articles": [
     {
-      "title": "Patriots vs. Jets live coverage: Can Drake Maye, New England keep momentum rolling at home?",
-      "link": "https://www.boston.com/new-england-patriots/live/patriots-vs-jets-live-coverage-can-drake-maye-new-england-keep-momentum-rolling-at-home/",
-      "pubDate": "Sun, 18 Oct 2026 14:51:31 +0000",
-      "description": "<p>The Patriots (3-2) face the Jets (2-3) in an AFC East matchup at Gillette Stadium.</p>\n<p>The post <a href=\"https://www.boston.com/new-england-patriots/live/patriots-vs-jets-live-coverage-can-drake-maye-new-england-keep-momentum-rolling-at-home/\">Patriots vs. Jets live coverage: Can Drake Maye, New England keep momentum rolling at home?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
-      "id": "be18f55973b715d09409b133e2cbe0f4",
+      "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+      "link": "https://www.boston.com/news/world-news/2026/10/18/carney-says-4-service-members-killed-and-dozens-injured-in-fire-at-alberta-military-base/",
+      "pubDate": "Sun, 18 Oct 2026 19:27:08 +0000",
+      "description": "<p>Canadian Prime Minister Mark Carney said the service members killed and injured were participating in military training when the fire broke out Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/10/18/carney-says-4-service-members-killed-and-dozens-injured-in-fire-at-alberta-military-base/\">Carney says 4 service members killed and dozens injured in fire at Alberta military base</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "94f32d9bd33c6804701ae09c8811422b",
       "summary": [
-        "Update: Patriots vs. Jets live coverage: Can Drake Maye, N",
-        "Details: <p>The Patriots (3-2) face the Jets (2-3) in an AF",
+        "Update: Carney says 4 service members killed and dozens in",
+        "Details: <p>Canadian Prime Minister Mark Carney said the se",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Troy Jackson doesn\u2019t regret telling Susan Collins to \u2018shut up\u2019 after protester interrupted Maine Senate debate",
+      "link": "https://www.boston.com/news/politics/2026/10/18/troy-jackson-doesnt-regret-telling-susan-collins-to-shut-up-after-protester-interrupted-maine-senate-debate/",
+      "pubDate": "Sun, 18 Oct 2026 18:42:23 +0000",
+      "description": "<p>\"She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,\u201d said Jackson.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/10/18/troy-jackson-doesnt-regret-telling-susan-collins-to-shut-up-after-protester-interrupted-maine-senate-debate/\">Troy Jackson doesn&#8217;t regret telling Susan Collins to &#8216;shut up&#8217; after protester interrupted Maine Senate debate</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f1aceefba341efd02b76b2eea4d96b3f",
+      "summary": [
+        "Update: Troy Jackson doesn\u2019t regret telling Susan Collins ",
+        "Details: <p>\"She said that it was a Troy supporter. She acc",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "France\u2019s Macron vows to hold accountable those who \u2018sought to bring down the Republic\u2019",
+      "link": "https://www.boston.com/news/world-news/2026/10/18/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic/",
+      "pubDate": "Sun, 18 Oct 2026 18:28:33 +0000",
+      "description": "<p>Macron blamed \u201cunrestrained violence\u201d on \u201cinsurrectionist elements from radical far-left groups, joined by numerous criminals.\u201d</p>\n<p>The post <a href=\"https://www.boston.com/news/world-news/2026/10/18/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic/\">France&#8217;s Macron vows to hold accountable those who &#8216;sought to bring down the Republic&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f69e3e28a2bd3b8683a641bc05a3b6fe",
+      "summary": [
+        "Update: France\u2019s Macron vows to hold accountable those who",
+        "Details: <p>Macron blamed \u201cunrestrained violence\u201d on \u201cinsur",
         "Visit Boston.com for complete coverage"
       ],
       "hookType": "NEWS_UPDATE"
     }
   ],
   "stats": {
-    "totalProcessed": 1,
+    "totalProcessed": 3,
     "feedSize": 10,
-    "timestamp": "2026-10-18T17:09:16.723208+00:00"
+    "timestamp": "2026-10-18T20:18:52.932211+00:00"
   }
 }
