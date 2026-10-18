@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-10-18T08:42:00.331589+00:00",
-  "articles": [],
+  "lastUpdated": "2026-10-18T13:49:58.464491+00:00",
+  "articles": [
+    {
+      "title": "Boston\u2019s dating pool needed a Netflix intervention",
+      "link": "https://www.boston.com/culture/streaming/2026/10/18/bostons-dating-pool-needed-a-netflix-intervention/",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "description": "<p>Five episodes in, we\u2019re weighing the cast\u2019s local credentials, untangling love triangles, and ranking the couples\u2019 chances at the altar.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/10/18/bostons-dating-pool-needed-a-netflix-intervention/\">Boston\u2019s dating pool needed a Netflix intervention</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "203daacfc937b6b72891679196192c3d",
+      "summary": [
+        "Update: Boston\u2019s dating pool needed a Netflix intervention",
+        "Details: <p>Five episodes in, we\u2019re weighing the cast\u2019s loc",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Apple picking reaches new heights in Connecticut",
+      "link": "https://www.boston.com/community/off-beat/2026/10/18/apple-picking-reaches-new-heights-in-connecticut/",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "description": "<p>This week: A hot air balloon apple caper, a Scout troop\u2019s firewood fiasco, and a Hull home that\u2019s pretty in pink.</p>\n<p>The post <a href=\"https://www.boston.com/community/off-beat/2026/10/18/apple-picking-reaches-new-heights-in-connecticut/\">Apple picking reaches new heights in Connecticut</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3c52ec5fb3fafcb77ff8c920156785c4",
+      "summary": [
+        "Update: Apple picking reaches new heights in Connecticut",
+        "Details: <p>This week: A hot air balloon apple caper, a Sco",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 2,
     "feedSize": 10,
-    "timestamp": "2026-10-18T08:42:00.331601+00:00"
+    "timestamp": "2026-10-18T13:49:58.464510+00:00"
   }
 }
