@@ -1,9 +1,62 @@
 {
-  "lastUpdated": "2026-10-22T09:16:02.808273+00:00",
-  "articles": [],
+  "lastUpdated": "2026-10-22T14:56:34.834666+00:00",
+  "articles": [
+    {
+      "title": "Lindsay Clancy judge denies defense bid for evidentiary hearing on holdout juror",
+      "link": "https://www.boston.com/news/crime/2026/10/22/lindsay-clancy-judge-denies-evidentiary-hearing-holdout-juror/",
+      "pubDate": "Thu, 22 Oct 2026 14:22:21 +0000",
+      "description": "<p>Clancy\u2019s defense wants to probe the lone holdout\u2019s domestic violence record and alleged phone use during deliberations as part of their motion to dismiss her murder charges. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/10/22/lindsay-clancy-judge-denies-evidentiary-hearing-holdout-juror/\">Lindsay Clancy judge denies defense bid for evidentiary hearing on holdout juror</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3d336016f7e8ba1073ae7b599e459e2e",
+      "summary": [
+        "Update: Lindsay Clancy judge denies defense bid for eviden",
+        "Details: <p>Clancy\u2019s defense wants to probe the lone holdou",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "A major project planned for Nubian Square is changing. Here\u2019s how.",
+      "link": "https://www.boston.com/news/local-news/2026/10/22/a-major-project-planned-for-nubian-square-is-changing-heres-how/",
+      "pubDate": "Thu, 22 Oct 2026 14:00:44 +0000",
+      "description": "<p>Rising costs and a weaker office market are pushing the developer to replace planned office and lab space with a smaller workforce training and arts facility.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/10/22/a-major-project-planned-for-nubian-square-is-changing-heres-how/\">A major project planned for Nubian Square is changing. Here&#8217;s how.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "3a5ac42bcedb01770f888d89f0ad0ed4",
+      "summary": [
+        "Update: A major project planned for Nubian Square is chang",
+        "Details: <p>Rising costs and a weaker office market are pus",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Matthew Farwell trial: Father of Sandra Birchmore\u2019s unborn baby expected on the stand Thursday",
+      "link": "https://www.boston.com/crime/live/live-updates-matthew-farwell-trial-sandra-birchmore-oct-22-2026/",
+      "pubDate": "Thu, 22 Oct 2026 13:08:15 +0000",
+      "description": "<p>Jason Pickard, the army recruiter who officials say was the father of Birchmore\u2019s unborn baby, is expected to testify later in the day.\u00a0</p>\n<p>The post <a href=\"https://www.boston.com/crime/live/live-updates-matthew-farwell-trial-sandra-birchmore-oct-22-2026/\">Matthew Farwell trial: Father of Sandra Birchmore&#8217;s unborn baby expected on the stand Thursday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "a99050e4990dee51a6e75fd273a80d40",
+      "summary": [
+        "Update: Matthew Farwell trial: Father of Sandra Birchmore\u2019",
+        "Details: <p>Jason Pickard, the army recruiter who officials",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    },
+    {
+      "title": "Paul George, Randy Moss and the greatest debuts in Boston sports history",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/10/22/paul-george-boston-sports-debuts-ranking-celtics-red-sox-bruins-patriots/",
+      "pubDate": "Thu, 22 Oct 2026 11:18:21 +0000",
+      "description": "<p>Paul George's 38 points on Tuesday in Detroit marked the most points scored by a Celtics player in his first game with the team. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/10/22/paul-george-boston-sports-debuts-ranking-celtics-red-sox-bruins-patriots/\">Paul George, Randy Moss and the greatest debuts in Boston sports history</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>",
+      "id": "f90710630a471069e2902f70a3830a50",
+      "summary": [
+        "Update: Paul George, Randy Moss and the greatest debuts in",
+        "Details: <p>Paul George's 38 points on Tuesday in Detroit m",
+        "Visit Boston.com for complete coverage"
+      ],
+      "hookType": "NEWS_UPDATE"
+    }
+  ],
   "stats": {
-    "totalProcessed": 0,
+    "totalProcessed": 4,
     "feedSize": 10,
-    "timestamp": "2026-10-22T09:16:02.808285+00:00"
+    "timestamp": "2026-10-22T14:56:34.834684+00:00"
   }
 }
